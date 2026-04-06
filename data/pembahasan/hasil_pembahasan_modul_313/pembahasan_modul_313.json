@@ -1,0 +1,442 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nLEMAK : PANAS = ... : ...",
+        "pilihan": [
+            "Api : merah",
+            "Air : dingin",
+            "Sabun : wangi",
+            "CO2 : knalpot",
+            "Gelas : wadah"
+        ],
+        "jawaban_benar": "Air : dingin",
+        "pembahasan": "Lemak memiliki sifat panas di dalam tubuh. Kata yang analog dengan pernyataan tersebut adalah air memiliki sifat dingin di dalam tubuh."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nJERUK : VITAMIN C = ... : ...",
+        "pilihan": [
+            "Kasur : Tidur",
+            "Pensil : Menulis",
+            "Api : Membakar",
+            "Telur : Protein",
+            "Kasti : Bola"
+        ],
+        "jawaban_benar": "Telur : Protein",
+        "pembahasan": "Jeruk banyak mengandung vitamin C. Kata yang analog dengan pernyataan tersebut adalah telur banyak mengandung protein."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nSEHAT : SAKIT = ... : ...",
+        "pilihan": [
+            "Kelok : Lurus",
+            "Segitiga : Segiempat",
+            "Maju : Mundur",
+            "Truk : Bus",
+            "Truk : Kapal"
+        ],
+        "jawaban_benar": "Maju : Mundur",
+        "pembahasan": "Lawan kata Sehat yaitu Sakit. Lawan kata Maju yaitu Mundur."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nPAUS : LAUT = ... : ...",
+        "pilihan": [
+            "Burung : Udara",
+            "Sapi : Kandang",
+            "Bandeng : Tambak",
+            "Kijang : Lapangan",
+            "Virus : Air"
+        ],
+        "jawaban_benar": "Burung : Udara",
+        "pembahasan": "Paus hidup di laut. Burung hidup di udara."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nK, L, O, G, H, K, Q, adalah suatu seri huruf ....",
+        "pilihan": [
+            "U, P",
+            "G, H",
+            "T, Y",
+            "R, U",
+            "E, R"
+        ],
+        "jawaban_benar": "R, U",
+        "pembahasan": "K, L, O, G, H, K, Q, ....\n(K, L, O) (G, H, K) (Q, R, U) hurufnya +1 +3"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nF, I, L, O ....",
+        "pilihan": [
+            "R"
+        ],
+        "jawaban_benar": "R",
+        "pembahasan": "F, I, L, O ...\nPerhatikan polanya\nBisa dibuatkan seperti ini : F (gh) I (jk) L (mn) O (pq) R\nJadi, huruf selanjutnya adalah R."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nX = 1/17 dan Y = 0,17, maka hubungan X dan Y?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "X = 2Y",
+            "Hubungan antara X dan Y tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "X = 1/ 17 = 0, 0588\nY = 0,17\nMaka, X < Y"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nPeluang dadu yang muncul berjumlah 11 jika 2 buah dadu dilempar secara bersama-sama adalah....",
+        "pilihan": [
+            "0,125",
+            "0,25",
+            "0,056",
+            "0,625",
+            "0,75"
+        ],
+        "jawaban_benar": "0,056",
+        "pembahasan": "2/36 = 1/18 = 0,056"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nBanyaknya himpunan x yang ada pada 10 < x< 78 yang habis dibagi 5 adalah....",
+        "pilihan": [
+            "13"
+        ],
+        "jawaban_benar": "13",
+        "pembahasan": "x = {15, 20, 25, ..., 75}\nUn = a + (n-1)b ? 75\n= 15 + (n-1)5 ---> 75\n= 15 + 5n – 5\n65 = 5n\n13 = n"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nBanyaknya bilangan yang habis dibagi 7 dari himpunan bilangan asli kurang dari 77 adalah...",
+        "pilihan": [
+            "10"
+        ],
+        "jawaban_benar": "10",
+        "pembahasan": "x = {7, 14, 21, ..., 70}\nUn = a + (n-1)b ? 70\n= 7 + (n- 1)7\n70 = 7 + 7n – 7\n70 = 7n\n10 = n"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nPada sebuah peta jarak 1 sentimeter mewakili 240 kilometer. Berarti jarak 3,75 sentimeter pada peta mewakili ...",
+        "pilihan": [
+            "900",
+            "850",
+            "800",
+            "750",
+            "700"
+        ],
+        "jawaban_benar": "900",
+        "pembahasan": "1 : 240 = 3,75 : A\nA = 240 x 3,75 : 1\nA = 900"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nDua buah bilangan apabila dijumlahkan maka jumlahnya 155. Selisih kedua bilangan tersebut adalah 13. Bilangan pertama lebih besar daripada bilangan kedua. Berapa nilai bilangan kedua ?",
+        "pilihan": [
+            "71"
+        ],
+        "jawaban_benar": "71",
+        "pembahasan": "A + B = 155\nA – B = 13 (+)\n2A = 168\nA = 84\nB = A – 13\nB = 84 -13\nB = 71"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\n40% dari penduduk Indonesia adalah laki-laki. Jika ada 30% yang sudah menikah maka jumlah laki-laki yang belum menikah adalah...",
+        "pilihan": [
+            "20%",
+            "28%",
+            "35%",
+            "45%",
+            "60%"
+        ],
+        "jawaban_benar": "28%",
+        "pembahasan": "Laki-laki sudah menikah:\n40% x 30 % = 12%\nLaki- laki belum menikah:\n40% - 12% = 28%"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nSeorang pedagang menjual sebuah barang dengan harga Rp50.000. Dari hasil penjualannya ia memperoleh untung 25%. Jika ia ingin memperoleh untung menjadi 30% berapakah harga baru barang tersebut?",
+        "pilihan": [
+            "Rp. 52.000,-",
+            "Rp. 54.000,-",
+            "Rp. 55.000,-",
+            "Rp. 60.000,-",
+            "Rp. 62.000,-"
+        ],
+        "jawaban_benar": "Rp. 52.000,-",
+        "pembahasan": "Harga jual = 130%/125% x Rp 50.000 = Rp52.000"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nJarak kota Surabaya dengan Jakarta di peta adalah 9 cm. Jika jarak sesungguhnya adalah 900 km. Berapa skala peta tersebut ?",
+        "pilihan": [
+            "1 : 100",
+            "1 : 1.000",
+            "1 : 10.000",
+            "1 : 1.000.000",
+            "1 : 10.000.000"
+        ],
+        "jawaban_benar": "1 : 10.000.000",
+        "pembahasan": "9 cm : 900 km\n1 cm : 100 km\n1 cm : 10.000.000 cm"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSeorang siswa mengikuti kuis dan tidak dapat menjawab 45 soal. Jika siswa tersebut memperoleh skor 71,875%, maka berapa jumlah semua soal ?",
+        "pilihan": [
+            "100",
+            "115",
+            "120",
+            "160"
+        ],
+        "jawaban_benar": "160",
+        "pembahasan": "45 soal salah/tidak diisi = 100% - 71,875% = 28,125%\nMaka, 100% jumlah soal :\n45 x 100% : 28,125% = 160 soal"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nSeseorang mengendarai motor dari titik x ke titik y. berangkat dari titik x menuju ke timur sepanjang 20 km, lalu belok ke utara 20 km, lalu belok ke timur 10 km, lalu belok ke utara 10 km, dan terakhir belok ke timur 10 km sampai titik y. berapa km jauh dari titik x ke titik y?",
+        "pilihan": [
+            "50"
+        ],
+        "jawaban_benar": "50",
+        "pembahasan": "Timur = 20 + 10 + 10 = 40\nUtara = 20 + 10 = 30\nIngat Phytagoras = 50 km"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nCarilah huruf selanjutnya dari A, B, C, B, C, D, C, D, E, D, E, F, ...., ...., ....",
+        "pilihan": [
+            "D, E, F",
+            "D, G, H",
+            "E, F, G",
+            "F, G, H",
+            "E, G, F"
+        ],
+        "jawaban_benar": "E, F, G",
+        "pembahasan": "A, B, C, B, C, D, C, D, E, D, E, F, ...., ...., ....\nPolanya bisa dibuatkan seperti ini (A, B, C), (B, C, D), (C, D, E), (D, E, F), ....\nMaka, huruf selanjutnya adalah E, F, G"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nBacaan untuk soal 49-63\nDalam sebuah keluarga A, B, C, D, E, F, G, secara acak adalah ayah, ibu, istri, adik perempuan, adik laki-laki, anak laki-laki, dan anak perempuan dari X. Beberapa hal mengenai mereka adalah sebagai berikut :\n- X seumuran dengan istrinya\n- C adalah laki-laki\n- A adalah perempuan\n- E dan D lebih muda dari F\n- B dan G lebih muda dari A\n- B adalah laki-laki\nJika F adalah ibu, maka pernyataan yang benar adalah",
+        "pilihan": [
+            "C adalah ayah",
+            "A adalah anak perempuan",
+            "G adalah istri",
+            "B adalah adik perempuan",
+            "A dan D benar"
+        ],
+        "jawaban_benar": "C adalah ayah",
+        "pembahasan": "Kalau A tidak mungkin jadi anak perempuan, karena nanti posisi B dan G tidak bisa ditempatkan sesuai aturan.\nB tidak bisa jadi adik perempuan karena dia Laki-laki.\nKalau G istri, maka posisi A sebagai perempuan tidak akan bisa memenuhi ketentuan."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nJika D dan B adalah adik, maka pernyataan yang salah adalah….",
+        "pilihan": [
+            "C adalah anak laki-laki",
+            "F adalah istri",
+            "E adalah anak laki-laki",
+            "A adalah istri",
+            "Tidak ada pernyataan yang salah"
+        ],
+        "jawaban_benar": "Tidak ada pernyataan yang salah",
+        "pembahasan": "Semua pilihan sudah sesuai dengan syarat. Maka tidak ada pernyataan yang salah."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika E dan G adalah wanita, maka pernyataan yang benar adalah….",
+        "pilihan": [
+            "A adalah adik perempuan X",
+            "B adalah ayah X",
+            "F adalah ibu",
+            "D adalah anak perempuan",
+            "A dan D benar"
+        ],
+        "jawaban_benar": "A dan D benar",
+        "pembahasan": "A sebagai adik perempuan memenuhi ketentuan dan begitu pula D sebagai anak perempuan."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nBila B adalah adik, maka yang salah adalah…",
+        "pilihan": [
+            "A adalah istri",
+            "G adalah ibu",
+            "C adalah anak laki-laki",
+            "F adalah istri",
+            "Tidak ada jawaban yang benar"
+        ],
+        "jawaban_benar": "G adalah ibu",
+        "pembahasan": "G adalah Ibu"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nJika D adalah istri dan C adalah ayah, maka yang benar adalah adalah…",
+        "pilihan": [
+            "A adalah adik perempuan",
+            "E adalah adik perempuan",
+            "F adalah adik perempuan",
+            "G adalah adik perempuan",
+            "B dan C benar"
+        ],
+        "jawaban_benar": "A adalah adik perempuan",
+        "pembahasan": "A adalah adik perempuan"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n1/4 (1/4) ½\n1/3 (1/6) ½\n1/8 (5/8) ¼\n1/3 (……) 1/3",
+        "pilihan": [
+            "1/3",
+            "2/3",
+            "1/4",
+            "1/2"
+        ],
+        "jawaban_benar": "1/3",
+        "pembahasan": "Memiliki pola : 1 dikurangi (bilangan pertama ditambah bilangan kedua) Contoh : 1 – (1/4 + 1/2) = ¼\nSehingga : 1 – (1/3 + 1/3) = 1/3"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n3 (94) 8\n5 (26) 1\n7 (68) 5\n6 (….) 2",
+        "pilihan": [
+            "37"
+        ],
+        "jawaban_benar": "37",
+        "pembahasan": "Memiliki pola : bilangan kedua ditambah 1 dan bilangan pertama ditambah 1\n8+1 = 9 3+1 = 4\n1+1 = 2 5+1 = 6\n5+1 = 6 7+1 = 8\n2+1= 3 6+1 = 7"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nSeri huruf C E G E K E O selanjutnya adalah …",
+        "pilihan": [
+            "N O",
+            "O P",
+            "O G",
+            "E S",
+            "S E"
+        ],
+        "jawaban_benar": "E S",
+        "pembahasan": "Polanya yaitu untuk suku ganjil +4 dan suku genap angkanya tetap yaitu 5. C E G E K E O --> 3, 5, (3+4) 7, 5, (7+4) 11, 5, (11+4) 15, 5, (15+4) 19. Angka 5 dan 19 diubah menjadi huruf yaitu huruf E dan S."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nSeri huruf F J N R selanjutnya adalah …",
+        "pilihan": [
+            "V"
+        ],
+        "jawaban_benar": "V",
+        "pembahasan": "Polanya yaitu tiap suku +4. F J N R --> Diubah menjadi angka maka 6, (+4) 10, (+4) 14, (+4) 18, (+4) 22. Angka 22 diubah jadi huruf yaitu huruf V."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nPengurus panti asuhan seharusnya berjiwa sosial. Sebagian caleg pernah menjadi pengurus panti asuhan.",
+        "pilihan": [
+            "Caleg itu selalu berjiwa social",
+            "Semua orang yang pernah menjadi caleg adalah pengurus panti asuhan",
+            "Sebagian pengurus panti asuhan ingin menjadi caleg",
+            "Sebagian caleg seharusnya berjiwa social",
+            "Semua pengurus panti asuhan berjiwa sosial"
+        ],
+        "jawaban_benar": "Sebagian caleg seharusnya berjiwa social",
+        "pembahasan": "Karena pengurus panti asuhan seharusnya berjiwa sosial dan sebagian caleg pernah menjadi pengurus panti asuhan maka sebagian caleg seharusnya berjiwa sosial."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nSemua kertas HVS sangat berguna. Sebagian kertas yang sangat berguna harganya murah.",
+        "pilihan": [
+            "Semua kertas HVS harganya murah",
+            "Semua kertas yang harganya murah adalah kertas HVS",
+            "Sebagian kertas harganya murah-murah",
+            "Kertas yang murah sangat berguna",
+            "Semua kertas yang sangat berharga adalah kertas HVS"
+        ],
+        "jawaban_benar": "Sebagian kertas harganya murah-murah",
+        "pembahasan": "Semua kertas HVS sangat berguna. Sebagian kertas yang sangat berguna harganya murah. Kertas HVS termasuk dari sebagian kertas yang berguna tersebut maka sebagian kertas harganya murah."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nSebuah belah ketupat memiliki 2 diagonal. Jika diagonal pertama diperbesar sebesar 6 kali dan diagonal kedua diperbesar sebesar 8 kali. Berapa perbandingan luas belah ketupat sebelum diperbesar dan setelah diperbesar?",
+        "pilihan": [
+            "1:14",
+            "1:30",
+            "1:36",
+            "1:48",
+            "1:50"
+        ],
+        "jawaban_benar": "1:48",
+        "pembahasan": "Luas Belah Ketupat 1 : Luas Belah Ketupat 2\n= 1/2 x d1 x d2 : 1/2 x (6d1) x (8d2)\n= 1 : 48"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_313\\gambar\\soal_31_pemb_img1.png]"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Gambar (1) diputar 180 derajat menjadi gambar (2). Pada gambar (2), terdapat penambahan bentuk diamond yang mirip objek di gambar (1), dengan arah yang sama seperti pada gambar (2) tetapi warna berlawanan. Ini berarti, syarat perubahan gambar (1) menjadi gambar (2) harus berlaku juga untuk perubahan gambar (3) menjadi gambar (4). Gambar (3) diputar 180 derajat dan ada penambahan bentuk objek baru yang mirip objek pada gambar (3), yaitu segitiga yang mengarah ke bawah dan berwarna putih. Jadi, gambar yang tepat adalah pilihan B."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "\"Perubahan yang terjadi dari gambar (1) menjadi gambar (2) salah satunya dapat dilihat dari perubahan objek terbesar pada kedua gambar ini. Gambar terbesar yang ada pada gambar (1) mengalami perubahan warna dari hitam menjadi putih pada gambar (2). Dari posisi objek lingkaran kecil pada gambar (1), dapat diketahui bahwa gambar (2) merupakan pencerminan gambar (1), namun terdapat perubahan objek belah ketupat di gambar (1) menjadi segilima di gambar (2), yang juga dapat dilihat sebagai adanya penambahan jumlah sudut pada objek.\nIni berarti, untuk gambar (3) menjadi gambar (4) harus memenuhi syarat perubahan gambar (1) menjadi gambar (2). Objek terbesar yang ada pada kotak (4) akan berubah warna. Pada gambar (4) nantinya objek terbesar ini berwarna hitam, kemudian gambar tangan pada gambar (4) merupakan pencerminan gambar (3), yang mana gambar tangan akan terbalik. Sementara itu, objek bintang dengan 3 sudut pada gambar (3) akan berubah menjadi bintang dengan empat sudut pada gambar (4). Jadi, gambar yang tepat adalah pilihan B.\""
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "\"Perhatikan bahwa dari gambar (1) ke gambar (2), bangun di tengah (bangun seperti tanda +) dan bangun di atas yang berbentuk persegi panjang hilang. Kemudian warna bangun dari gambar (1) ke gambar (2) tidak mengalami perubahan.\nSehingga, hasil dari gambar (4) yaitu bangun di tengah (lingkaran kecil) dan bangun di atas yang berbentuk persegi panjang pada gambar (3) akan hilang. Sehingga, jawabannya yaitu sesuai opsi B. \""
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "\"Perubahan gambar (1) menjadi gambar (2) diperoleh dari hasil pencerminan. Artinya, gambar (2) merupakan pencerminan gambar (1).\nHal ini berarti, untuk gambar (4) juga berlaku syarat yang sama yaitu pencerminan. Jadi, gambar yang paling tepat untuk gambar (4) sebagai hasil pencerminan dari gambar (3) adalah E. \""
+    }
+]

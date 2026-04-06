@@ -2,6 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 const BASE_URL = 'https://apikuy.kuydinas.id/api/admin';
 
 async function login() {
@@ -51,9 +53,9 @@ async function run() {
   console.log('Logged in successfully!');
 
   const modulesToProcess = [
-    { id: 1053, category: 'TWK' },
-    { id: 1055, category: 'TIU' },
-    { id: 1056, category: 'TKP' }
+    { id: 324, category: 'TWK' },
+    { id: 325, category: 'TIU' },
+    { id: 326, category: 'TKP' }
   ];
 
   for (const mod of modulesToProcess) {
@@ -112,7 +114,9 @@ async function run() {
         status: 'aktif'
       };
 
+      console.log(`Processing Soal #${item.nomor}...`);
       await addSoal(token, payload);
+      await sleep(500); // 500ms delay to ensure server-side ordering
     }
   }
 

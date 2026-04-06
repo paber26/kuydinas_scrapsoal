@@ -1,0 +1,430 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nSUSU : SAPI= .... : ....",
+        "pilihan": [
+            "Jeruk : Vitamin C",
+            "Wol : Domba",
+            "Mangga : Dikotil",
+            "Nangka : Gudeg",
+            "Anak : Orang Tua"
+        ],
+        "jawaban_benar": "Wol : Domba",
+        "pembahasan": "Susu dihasilkan oleh sapi. Kata yang analog dengan pernyataan tersebut adalah wol dihasilkan oleh domba."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nAYAM : BERTELUR = .... : ....",
+        "pilihan": [
+            "Merambat : Cacing",
+            "Herbivora : Kambing",
+            "Domba :  Beranak",
+            "Bergelantungan : Kelelawar",
+            "Bertunas : Bambu"
+        ],
+        "jawaban_benar": "Domba :  Beranak",
+        "pembahasan": "Ayam berkembangbiak dengan cara bertelur. Kata yang analog dengan pernyatakan tersebut adalah domba berkembangbiak dengan beranak."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nTOPI : KEPALA = ... : ...",
+        "pilihan": [
+            "Sarung tangan : Jari",
+            "Perban : Perut",
+            "Atap : Panas",
+            "Pakaian : Badan",
+            "Tas : Pensil"
+        ],
+        "jawaban_benar": "Pakaian : Badan",
+        "pembahasan": "Topi digunakan di kepala. Pakaian digunakan di badan."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\n1 – 1/2 – 1/20 – 1/200 – 1/2000 – 1/20000 = …",
+        "pilihan": [
+            "0,44444",
+            "0,44445",
+            "0,33335",
+            "0,34445",
+            "0,35555"
+        ],
+        "jawaban_benar": "0,44445",
+        "pembahasan": "20000/20000 – 10000/20000 – 1000/20000 – 100/20000 – 10/20000 – 1/20000 =8889/20000 = 0,44445"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nSeorang marketing boy akan menerima komisi 25 % dari penjualan sebesar Rp. 3.000.000. Apabila ia telah menerima komisi sebesar Rp. 250.000, berapa bagiankah yang masih harus diterimanya?",
+        "pilihan": [
+            "4/3",
+            "3/5",
+            "1/3",
+            "2/3"
+        ],
+        "jawaban_benar": "2/3",
+        "pembahasan": "25% x 3.000.000 = 750.000\nBagian yang kurang= 750.000 – 250.000 = 500.000\nJadi yang kurang = 500.000/750.000 = 2/3"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\n﻿\n45% dari X adalah 90 dan 7/9 dari Y adalah 35. Nilai X + Y adalah …",
+        "pilihan": [
+            "130",
+            "245",
+            "150"
+        ],
+        "jawaban_benar": "245",
+        "pembahasan": "X = 100/45 x 90 = 200\nY = 9/7 x 35 = 45\nX+Y = 200 + 45 = 245"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nDalam sebuah ruangan terdapat 7 orang untuk mengikuti rapat. Berapa banyak cara untuk mengatur posisi duduk mereka...",
+        "pilihan": [
+            "210",
+            "420",
+            "720"
+        ],
+        "jawaban_benar": "720",
+        "pembahasan": "(7-1)! = 6x5x4x3x2x1 = 720"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\n﻿\nDari kota X ke kota Y dilayani oleh 4 bus dan dari Y ke Z oleh 3 bus. Seseorang berangkat dari kota X ke kota Z melalui Y kemudian kembali lagi ke X juga melalui Y. Jika saat kembali dari Z ke X, ia tidak mau menggunakan bus yang sama, maka banyak cara perjalanan orang tersebut adalah ….",
+        "pilihan": [
+            "72"
+        ],
+        "jawaban_benar": "72",
+        "pembahasan": "A - - - -> B - - - ->C\n2 3\nBanyaknya rute = 4 x 3 x 2 x 3 = 72"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nBanyaknya bilangan antara 2000 dan 6000 yang dapat disusun dari angka 0,1,2,3,4,5,6,7, dan tidak ada angka yang sama adalah …",
+        "pilihan": [
+            "1.680",
+            "1.840",
+            "720",
+            "360",
+            "840"
+        ],
+        "jawaban_benar": "840",
+        "pembahasan": "Soal ini diselesaikan menggunakan kaidah perkalian:\nKarena yang diminta adalah bilangan ribuan, maka terdapat 4 tempat yang bisa diisi yaitu kolom ribuan, ratusan, puluhan dan satuan\nDari 8 angka yang tersedia yaitu 0,1,2,3,4,5,6, dan 7, maka:\n- Pada tempat ribuan ada 4 angka yg bisa dipilih yaitu 2,3,4,5\n- Pada tempat ratusan ada 7 angka yg bisa dipilih ( karena ada 8 angka sedangkan 1 angka telah dipakai pada tempat ribuan maka sisa angka yang terpakai ada 7 )\n- Pada tempat puluhan ada 6 angka yg bisa dipilih\n- Pada tempat satuan ada 5 angka yg bisa dipilih\nMaka kalikan angka 4 x 7 x 6 x5 = 840."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\n10 orang finalis suatu lomba Abang DKI akan dipilih secara acak 3 yang terbaik. Banyak cara pemilihan tersebut ada … cara",
+        "pilihan": [
+            "120",
+            "240"
+        ],
+        "jawaban_benar": "120",
+        "pembahasan": "Ini adalah soal kombinasi : dimana nCr = n!/(n-r)!r!\n10P3 = 10!/(10-3)!3! = 10.9.8.7! / 7!.3! = 10.9.8 / 3.2.1 = 120"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nPeluang munculnya kartu brigde yang mempunyai tulisan “huruf” di sudut kartunya adalah...",
+        "pilihan": [
+            "4/13",
+            "7/26",
+            "15/52",
+            "1/8"
+        ],
+        "jawaban_benar": "4/13",
+        "pembahasan": "﻿\nPeluang munculnya kartu brigde yang mempunyai tulisan \"huruf'' di sudut kartunya adalah?\nkartu brigde terdiri dari 52 kartu, yang terdiri dari 4 seri,\ntiap seri terdiri darti 13 lembar, yaitu As, 2, 3, 4, 5, 6, 7, 8, 9, 10, j, q, k\nperhatikan seri kartu diatas, yg terdiri huruf ada 4, dan yg tertulis angka 9\nn(A) = 4\nn(S) = 13\np(A) = n(A)/n(S)\n= ⁴/₁₃"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nDiambil sebuah bola dari dalam kotak yang berisi 10 bola yang masing-masing memiliki warna yang berbeda, lalu diambil 1 buah bola. Berapa peluang warna bola hitam yang terambil?",
+        "pilihan": [
+            "1/8",
+            "1/10",
+            "0"
+        ],
+        "jawaban_benar": "0",
+        "pembahasan": "Tidak diketahui warna bola dalam kotak tersebut"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nDari sebuah rapat ditentukan 8 kandidat (2 pria dan 6 wanita) yang akan menduduki posisi sebagai ketua, bendahara, dan sekretaris. Apabila yang wajib menjadi ketua adalah pria, berapa kemungkinan formasi yang dapat dibentuk?",
+        "pilihan": [
+            "336",
+            "240",
+            "84"
+        ],
+        "jawaban_benar": "84",
+        "pembahasan": "1P2 x 2P7\n1P2 = 2!/1! = 2\n2P7 = 7!/5! = 7.6.5!/5! = 42 = 2 x 42 = 84"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nJika jarak dari X ke Y adalah 3 km, dan jarak dari Y ke Z adalah 2 km, maka...",
+        "pilihan": [
+            "Jarak X ke Z > jarak X ke Y",
+            "Jarak X ke Z < jarak X ke Y",
+            "Jarak X ke Z = jarak X ke Y",
+            "Jarak X ke Y = jarak X ke Z",
+            "Tidak dapat ditentukan hubungannya"
+        ],
+        "jawaban_benar": "Jarak X ke Z > jarak X ke Y",
+        "pembahasan": "X ------> Y ----> Z\n3km 2 km\nJarak X ke Z > Jarak X ke Y\nKarena jarak X ke Z = 3 + 2 = 5 km\nJarak X ke Y = 3 km"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nBanyaknya gram gula harus ditambah agar 120 gram larutan 15% menjadi kadar 20% gula?",
+        "pilihan": [
+            "2,5",
+            "5,5",
+            "7,5"
+        ],
+        "jawaban_benar": "7,5",
+        "pembahasan": "(18 + x) = 0,2 (120 + x)\n0,8x = 6\nx = 7,5 gram"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSebuah bak penampung air bervolume 20 liter akan diisi dengan sebuah kran dengan debit 1 liter/menit. Tanpa disadari bak tersebut bocor 10/3 cm³/detik. Berapa lama bak tersebut akan terisi penuh?",
+        "pilihan": [
+            "15 Menit",
+            "20 Menit",
+            "25 Menit",
+            "30 Menit",
+            "35 Menit"
+        ],
+        "jawaban_benar": "25 Menit",
+        "pembahasan": "Bocor = 10/3 cm3 per detik = 0,2 liter per menit\nWaktu = 20/(1-0,2) liter per menit = 25 menit"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nSeorang anak yang tingginya 160 cm difoto dalam ukuran kecil dengan skala 1:40, kemudian foto tersebut diperbesar dengan skala 4:1, maka tinggi anak dalam foto yang terakhir menjadi…",
+        "pilihan": [
+            "14 cm",
+            "16 cm",
+            "18 cm",
+            "20 cm",
+            "25 cm"
+        ],
+        "jawaban_benar": "16 cm",
+        "pembahasan": "Tinggi foto pertama = 160/40 = 4 cm\nTinggi foto kedua = 4 x 4 = 16 cm"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nDua buah bilangan apabila dijumlahkan maka jumlahnya 190. Selisih kedua bilangan tersebut adalah 52. Bilangan pertama lebih besar daripada bilangan kedua. Berapa nilai bilangan kedua ?",
+        "pilihan": [
+            "69"
+        ],
+        "jawaban_benar": "69",
+        "pembahasan": "Persamaan:\na + b = 190\na – b = 52\n------------------ +\n2a = 242\na = 121\nmaka\na + b = 190\nb = 190 -121\nb = 69"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nSebuah percetakan dengan kecepatan konstan dapat menghasilkan 72 eksemplar buku dalam 15 menit. Berapa lama diperlukan untuk memfotokopi 264 lembar ?",
+        "pilihan": [
+            "55"
+        ],
+        "jawaban_benar": "55",
+        "pembahasan": "V = eks / waktu = 72 / 15 = 4,8 eks/menit\nWaktu = eks / V = 264 / 4,8 = 55 menit"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nSeutas kawat dipotong menjadi dua bagian sedemikian rupa sehingga panjang bagian pertama adalah 4 kali panjang bagian ke dua. Jika selisih kedua kawat adalah 48 meter, berapakah panjang tali yang panjang ?",
+        "pilihan": [
+            "64"
+        ],
+        "jawaban_benar": "64",
+        "pembahasan": "a – b = 48\n4b – b = 48\n3b = 48\nb = 16\nmaka:\na = 4b\na = 4 (16) = 64"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSebuah perusahaan penerbangan mengurangi jumlah penerbangan untuk jalur tertentu sebesar 25 pesen menjadi 24 kali sehari. Berapa jumlah penerbangan setiap hari sebelum ada pengurangan ?",
+        "pilihan": [
+            "32"
+        ],
+        "jawaban_benar": "32",
+        "pembahasan": "75% = 24 kali penerbangan\nMaka: 100/75 x 24 = 32 kali penerbangan"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nBacaan untuk soal 52-54\nPembangunan Jembatan Trans Sunda akan dilakukan oleh pemerintah. Joint Operation antara PT RIO dengan PT EFRIS akan menjadi penanggung jawab dalam proyek konstruksi tersebut. Pekerjaan pembangunan jembatan akan dibagi menjadi 6 jenis pekerjaan, yakni K, L, M, N, O dan P. Enam jenis pekerjaan harus dilakukan dengan ketentuan sebagai berikut:\n- N dikerjakan sebelum O\n- M dikerjakan pada urutan ketiga\n- P tidak akan dikerjakan sebelum pekerjaan K dilakukan.\nJika setelah mengerjakan O karyawan mengerjakan P, maka urutan yang benar dari yang pertama dikerjakan adalah ...",
+        "pilihan": [
+            "K, N, M, O, L, P",
+            "P, N, O, K, L, M",
+            "P, N, M, K, O, L",
+            "K, P, N, O, L, M",
+            "K, L, O, N, P, M"
+        ],
+        "jawaban_benar": "K, N, M, O, L, P",
+        "pembahasan": "… … M … … …\nEliminasi kemungkinan yang salah,\nB, D, dan E tidak memenuhi ketentuan pernyataan 2\nC tidak memenuhi ketentuan pernyataan 3"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nJika yang pertama kali dikerjakan adalah L, maka yang mungkin dikerjakan pada urutan kedua adalah ...",
+        "pilihan": [
+            "N atau K"
+        ],
+        "jawaban_benar": "N atau K",
+        "pembahasan": "… … M … … …\nM, O, P tidak mungkin ada di urutan kedua, karena tidak sesuai dengan pernyataan yang ada\nSehingga, yang mungkin ada di urutan kedua yaitu N atau K."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nJika L dikerjakan pada urutan terakhir dan N dikerjakan pada urutan kedua, maka yang pertama dikerjakan adalah ...",
+        "pilihan": [
+            "K",
+            "K atau P"
+        ],
+        "jawaban_benar": "K",
+        "pembahasan": "M, O, dan P tidak memenuhi ketentuan untuk di posisi pertama"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nSeri huruf W A B W C D selanjutnya adalah …",
+        "pilihan": [
+            "W E",
+            "X F",
+            "W F",
+            "Y Z",
+            "X E"
+        ],
+        "jawaban_benar": "W E",
+        "pembahasan": "Bila digantikan dengan urutan angka maka jadinya W, A, B, W, C, D ---> 23, 1, 2, 23, 3, 4, …, ....\nPolanya yaitu angka 23 tetap dan dua suku selanjutnya berurutan dari angka 1 dst. Sehingga menjadi 23, (1,2), 23 (3,4), 23, 5. Angka tersebut diubah ke huruf menjadi huruf W dan E."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nSeri huruf A Z B Y C X selanjutnya adalah..",
+        "pilihan": [
+            "E V",
+            "F V",
+            "D V",
+            "E W",
+            "D W"
+        ],
+        "jawaban_benar": "D W",
+        "pembahasan": "Suku ganjil mengikuti urutan abjad dari huruf A dan suku genap kebalikannya yaitu urut abjad dari Z. Maka selanjutnya yaitu huruf D dan W."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nSeri huruf A B D C E F H selanjutnya adalah...",
+        "pilihan": [
+            "I J",
+            "G I",
+            "J K",
+            "K L",
+            "J L"
+        ],
+        "jawaban_benar": "G I",
+        "pembahasan": "Polanya yaitu dua huruf mengikuti susunan abjad dan dua huruf selanjutnya dibalik. Maka selanjutnya yaitu huruf G dan I."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\n“ Jika semua warga Bandung membuang sampah pada tempatnya, maka musibah banjir dapat di dicegah sedini mungkin ”. Pernyayaan tersebut mempunyai negasi yang logis, yakni . . .",
+        "pilihan": [
+            "Semua warga Bandung membuang sampah pada tempatnya tetapi musibah banjir tidak dapat di dicegah sedini mungkin",
+            "Semua warga Bandung membuang sampah pada tempatnya dan musibah banjir dapat di dicegah sedini mungkin",
+            "Ada warga Bandung tidak membuang sampah pada tempatnya dan musibah banjir dapat di dicegah sedini mungkin",
+            "Ada warga Bandung membuang sampah pada tempatnya tetapi musibah banjir dapat di dicegah sedini mungkin",
+            "Bila ada warga Bandung tidak membuang sampah pada tempatnya maka musibah banjir tidak dapat di dicegah sedini mungkin"
+        ],
+        "jawaban_benar": "Semua warga Bandung membuang sampah pada tempatnya tetapi musibah banjir tidak dapat di dicegah sedini mungkin",
+        "pembahasan": "“ Jika semua warga Bandung membuang sampah pada tempatnya, maka musibah banjir dapat di dicegah sedini mungkin ”. Negasi yang logis yaitu semua warga Bandung membuang sampah pada tempatnya tetapi musibah banjir tidak dapat di dicegah sedini mungkin."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nBeberapa dosen bergabung dalam forum dosen. Forum dosen tidak ada yang menjadi pemain futsal.",
+        "pilihan": [
+            "Ada berapa dosen yang menjadi pemain futsal",
+            "Beberapa dosen bukan pemain futsal",
+            "Tidak ada dosen yang menjadi pemain futsal",
+            "Beberapa pemain futsal bukanlah merupakan anggota forum dosen",
+            "Forum dosen hanya cocok menjadi dosen"
+        ],
+        "jawaban_benar": "Beberapa dosen bukan pemain futsal",
+        "pembahasan": "Beberapa dosen bergabung dalam forum dosen. Forum dosen tidak ada yang menjadi pemain futsal. Maka beberapa dosen tidak ada yang menjadi pemain futsal."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nSemua wanita adalah perasa. Ada wanita yang sensitif. Jadi, ....",
+        "pilihan": [
+            "Semua wanita yang perasa pasti sensitif",
+            "Wanita dikodratkan menjadi manusia perasa dan sensitif",
+            "Wanita yang sensitif biasanya sedang menstruasi",
+            "Tidak ada jawaban yang benar",
+            "Ada wanita yang perasa tapi sensitif"
+        ],
+        "jawaban_benar": "Ada wanita yang perasa tapi sensitif",
+        "pembahasan": "Semua wanita adalah perasa.\nAda wanita yang senditif\nJadi, ada wanita yang perasa tetapi sensitif"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "\"Dari gambar (1) ke gambar (2) kita dapat peroleh informasi perubahan gambar sebagai berikut:\n1. Bangun segitiga berubah menjadi bangun segi empat, yang artinya jumlah sisi bertambah 1. Warna bangun tidak berubah.\n2. Bangun bintang yang berada di dalam segitiga digantikan dengan lingkaran hitam yang ada di luar. Posisi bangun bintang berpindah persis di samping kanan bangun segiempat pada gambar (4) tanpa mengalami perubahan warna.\nSehingga, gambar (4) akan berubah sesuai aturan perubahan gambar (1) menjadi gambar (3) sebagai berikut:\n1. Bangun belah ketupat akan bertambah 1 sisi menjadi bangun segilima, warna bangun segilima tetap berwarna hitam.\n2. Bangun segilima putih pada gambar (3) akan digantikan posisinya dengan bangun segiempat kecil berwarna putih. Bangun segilima putih kecil pada gambar (3) akan berpindah posisinya menjadi tepat di sebelah kanan bangun segilima hitam pada gambar (4).\nSehingga, gambar (4) yaitu sesuai pada opsi C, yaitu segilima hitam yang di dalamnya terdapat segiempat putih, dan tepat di sebelah kanan segilima hitam terdapat segilima putih kecil. \""
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "\"Pola perubahan gambar (1) menjadi gambar (2) dapat diketahui sebagai berikut.\n> Objek yang terdapat pada gambar (1) adalah lingkaran hitam, segilima, belah ketupat di dalam lingkaran hitam, , dan anak panah ke arah atas.\n> Objek gambar (2) adalah lingkaran putih, segienam, anak panah ke arah bawah di dalam segienam, dan segitiga.\n> Segilima di gambar (1) berganti menjadi segienam (dengan selisih jumlah satu sisi dan satu sudut), anak panah berlawanan arah dari gambar (1), dan berada di dalam segienam pada gambar (2).\n> Lingkaran hitam pada gambar (1) berubah warna menjadi putih pada gambar (2) dan belah ketupat yang ada di dalam lingkaran hitam pada gambar (1) berubah bentuk menjadi segitiga.\nIni berarti, untuk perubahan gambar (3) dan (4) dapat digunakan syarat seperti perubahan gambar (1) dan (2). Namun, ingat bahwa perubahan yang harus diperhatikan adalah dari perubahan gambar (2) ke gambar (1) karena soal menanyakan perubahan dari gambar (4) ke gambar (3).\n> Objek gambar (4) adalah segiempat, bintang dengan enam sudut, anak panah berbelok ke arah kiri, dan gambar awan.\n> Untuk gambar (3) dapat diduga dengan bintang segienam dari gambar (4) berganti menjadi bintang segilima (jumlah sudut dan sisi berkurang), anak panah berbelok ke arah kiri pada gambar (4) berubah menjadi anak panah berbelok ke arah kanan dan berubah warna menjadi putih.\n> Kemudian, dapat diduga pula bahwa segiempat pada gambar (4) menjadi segilima dan berada di dalam awan pada gambar (3). Objek awan pada gambar (3) juga berubah warna menjadi hitam.\nBerdasarkan prediksi di atas, gambar yang tepat untuk nomor (3) adalah A.\""
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "\"Untuk mengetahui gambar yang tepat untuk kotak nomor (2), maka perlu dipahami perubahan gambar (3) menjadi gambar (4) terlebih dahulu. Di bawah ini merupakan perubahan gambar (3) menjadi (4).\n> Objek yang ada pada gambar (3) dan (4) adalah segitiga putih, lingkaran putih, persegipanjang putih, objek terbesar yang berwarna hitam, serta segilima di dalam objek inti hitam pada gambar (3) dan segiempat pada gambar (4).\n> Objek yang saling berhadapan, yaitu segitiga dan persegipanjang putih saling bertukar posisi.\n> Objek yang berada di dalam gambar inti yang berwarna hitam berubah bentuk dari segilima menjadi segiempat, artinya objek berkurang jumlah sisinya.\n> Objek lingkaran dengan posisi tetap tidak mengalami perubahan apapun.\nIni berarti, perubahan gambar (1) menjadi (2) dapat menggunakan syarat yang sama seperti perubahan gambar (3) dan (4). > Objek yang ada pada gambar (1) dan (2) adalah lingkaran putih, persegipanjang putih, panah putih, objek inti berwarna hitam, serta segienam di dalam objek inti gambar (1).\n> Objek yang saling berhadapan yaitu anak panah dan lingkaran saling bertukar posisi.\n> Objek yang berada di dalam objek inti berwarna hitam berubah bentuk dari segienam menjadi objek dengan sisi yang jumlahnya berkurang satu dari gambar (1) yaitu segilima.\n> Objek persegipanjang tidak mengalami perubahan apapun.\nBerdasarkan uraian di atas, gambar yang tepat sesuai untuk nomor (2) adalah pilihan A.\""
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "\"Perubahan gambar (1) menjadi gambar (2) ditunjukkan pada perubahan posisi objek lingkaran yang berputar 90 derajat searah jarum jam dan objek persegipanjang yang berisikan bentuk love yang berputar 180 derajat.\nUntuk perubahan gambar (3) menjadi gambar (4) juga berlaku syarat yang sama, yaitu arah panah yang berputar 90 derajat searah jarum jam dan objek menyerupai bulan sabit berputar 180 derajat. Jadi, gambar yang tepat adalah pilihan D.\""
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "\"Perubahan gambar (1) menjadi gambar (2) terdapat pada posisi objek seperti motor yang diputar sebesar 45 derajat searah jarum jam. Perhatikan pula bahwa pada gambar (2) terjadi perubahan warna pada bagian atas objek. Pada gambar (2) bagian atas objek ini berwarna hitam, sedangkan pada gambar (1) bagian atasnya berwarna putih. Selain itu, pada bagian depan objek motor yang polos pada gambar (1) ditambahkan objek bintang berwarna hitam.\nPerubahan seperti ini juga terjadi pada perubahan gambar (4) menjadi gambar (3). Pada gambar (3) dapat diketahui bahwa objek seperti pesawat pada gambar (4) diputar 45 derajat menjadi melawan arah jarum jam. Kemudian, warna hitam pada bagian badan objek pesawat di gambar (4) juga sama berwarna hitam di gambar (3). Bagian atas objek pesawat yang berwarna putih pada gambar (4), berubah menjadi berwarna hitam di gambar (3), karena berkebalikan warna seperti pada gambar (1) menjadi gambar (2). Terakhir, objek tambahan seperti belah ketupat berwarna putih di badan objek pesawat untuk gambar (4), pada awalnya tidak ada di gambar (3). Berdasarkan hal – hal ini, dapat diketahui bahwa gambar yang cocok untuk nomor (3) adalah pilihan A.\""
+    }
+]

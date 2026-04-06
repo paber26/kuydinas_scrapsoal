@@ -1,0 +1,439 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nHUTAN : POHON = ... : ...",
+        "pilihan": [
+            "Mawar : Duri",
+            "Kamera : Film",
+            "Buaya : Rawa",
+            "Pohon : Papan",
+            "Armada : Kapal"
+        ],
+        "jawaban_benar": "Armada : Kapal",
+        "pembahasan": "Hutan berhubungan dengan pohon,sedangkan armada berhubungan dengan kapal. Jadi, padanan hubungan kata (analogi) dari Hutan:  Pohon adalah Armada: Kapal."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nKONTRAKTOR : BETON = ... : ...",
+        "pilihan": [
+            "Tukang : Kayu",
+            "Pengacara : Hukum",
+            "Sopir : Kendaraan",
+            "Guru : Murid",
+            "Pesawat : Landasan"
+        ],
+        "jawaban_benar": "Tukang : Kayu",
+        "pembahasan": "Kontraktor membutuhkan bahan beton, sedangkan tukang membutuhkan bahan kayu. Jadi, padanan hubungan kata (analogi) dari Kontraktor : Beton adalah Tukang : Kayu."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nLOGAM : KERAS = ... : ....",
+        "pilihan": [
+            "Tanah : Liat",
+            "Pisau : Mengiris",
+            "Karpet : Merah",
+            "Air : Es",
+            "Selai : Pisang"
+        ],
+        "jawaban_benar": "Air : Es",
+        "pembahasan": "Logam memiliki sifat keras saat suhu rendah. Kata yang analog dengan pernyataan tersebut adalah air memiliki sifat menjadi es jika suhu rendah."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nJANUARI: 31= ... : ...",
+        "pilihan": [
+            "Februari : 29",
+            "Ayam : 30",
+            "Manusia : 9 bulan",
+            "hari Minggu : 24 am",
+            "1 jam : 60 menit"
+        ],
+        "jawaban_benar": "hari Minggu : 24 am",
+        "pembahasan": "Pada bulan Januari jumlah harinya adalah 31. Kata yang analog dengan pernyataan tersebut adalah hari minggu jumlah jamnya adalah 24."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nPelukis : Kuas = ... : ...",
+        "pilihan": [
+            "Burung : Sangkar",
+            "Penyair : Pena",
+            "Bensin : Mobil",
+            "Lapar : Makan",
+            "Lampu : Gelap"
+        ],
+        "jawaban_benar": "Penyair : Pena",
+        "pembahasan": "Pelukis melukis menggunakan kuas. Penyair menuliskan syair dengan pena."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nDosen : Mahasiswa = ... : ...",
+        "pilihan": [
+            "Karate : Guru",
+            "Polisi : Maling",
+            "Bos : Atasan",
+            "Dokter : Pasien",
+            "Jaksa : Terdakwa"
+        ],
+        "jawaban_benar": "Dokter : Pasien",
+        "pembahasan": "Soal ini mengacu pada hubungan keterkaitan subjek kedua membutuhkan subjek pertama. Mahasiswa butuh dosen, mahasiswa bisa menjadi sarjana karena dosen. Jadi jawaban yang tepat adalah C pasien membutuhkan dokter, pasien bisa sembuh karena dokter."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nBilangan mana yang terbesar?",
+        "pilihan": [
+            "1/4 dari 236",
+            "1/16 dari 1028",
+            "1/13 dari 741",
+            "1/2 dari 60",
+            "1/3 dari 10"
+        ],
+        "jawaban_benar": "1/16 dari 1028",
+        "pembahasan": "1/4 dari 236 = 59.\n1/16 dari 1028 = 64,25.\n1/13 dari 741 = 57.\n1/2 dari 60 = 30."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nYang manakah yang benar?",
+        "pilihan": [
+            "9/4 + 17/5 > 4",
+            "4/5 + 2/2 > 4",
+            "6/5 + 2/8 > 4",
+            "6/4 + 1/5 > 4",
+            "Semua salah"
+        ],
+        "jawaban_benar": "9/4 + 17/5 > 4",
+        "pembahasan": "9/4 + 17/5 = (45 + 68)/20 = 113/20 = 5,65\n4/5 + 2/2 = 1 4 /5 = 9/5 = 1,8\n6/5 + 2/8 = (48+10)/40 = 58/40 = 1,45\n6/4 + 1/5 = (30+4)/20 = 34/20 = 1,7"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "128",
+            "64"
+        ],
+        "jawaban_benar": "64",
+        "pembahasan": "√4³ x √4096 x 2 ³= 2 ³x √4096 x 2 ?³ = ?4096 = 64"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "128",
+            "256",
+            "300"
+        ],
+        "jawaban_benar": "256",
+        "pembahasan": "√√√a = 2 ---> a=(2^2)^(2^2 )=256"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nBerapakah 2/7 dari 87,5% ?",
+        "pilihan": [
+            "0,25",
+            "2,5",
+            "2,5 %",
+            "0,25%",
+            "6,25"
+        ],
+        "jawaban_benar": "0,25",
+        "pembahasan": "2/7 X 0,875 = 2/7 X 7/8 = 2/8 =1/4 = 0,25"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nEdi biasa bekerja 6 jam sehari. Ia bekerja dari jam 08.00 pagi. Hari ini ia bekerja sampai jam 15.15. Berapa menit lebih lamakah ia bekerja hari ini?",
+        "pilihan": [
+            "75"
+        ],
+        "jawaban_benar": "75",
+        "pembahasan": "(08.00 + 06.00) = 14.00.\n15.15 - 14.00 = 01.15 = 75 menit"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\n5 lustrum - 1 windu + 3 catur wulan = … semester",
+        "pilihan": [
+            "36"
+        ],
+        "jawaban_benar": "36",
+        "pembahasan": "5 lustrum – 1 Windu + 3 catur wulan = (5X5) - (1X8) + (3 X 1/3) tahun = 18 tahun = 36 semester"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nJika hari ini hari minggu, 4.000.000 hari yang akan datang adalah hari…",
+        "pilihan": [
+            "Senin",
+            "Selasa",
+            "Rabu",
+            "Kamis",
+            "Jumat"
+        ],
+        "jawaban_benar": "Kamis",
+        "pembahasan": "Hari akan berputar kembali dalam waktu 7 hari.\n4.000.000/7 = 571.428,571 sisa 4 hari. Berarti, 4.000.000 hari lagi adalah hari minggu + 4 hari = hari Kamis"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nAtlit sepak bola diharuskan melakukan pemanasan dengan melakukan lari kecil mengelilingi sebuah lapangan berukuran 100 meter x 200 meter sebanyak 4 kali. Berapa meter sebenarnya para atlit tersebut berlari ?",
+        "pilihan": [
+            "1,8 km",
+            "1,5 km",
+            "1,2 km",
+            "2,4 km",
+            "2,2 km"
+        ],
+        "jawaban_benar": "2,4 km",
+        "pembahasan": "Panjang lintasan = 4 x keliling lapangan = 4 x 2 x (100+200) = 2400 meter = 2,4km"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSebuah kolam berbentuk persegi dengan keliling 60 meter. Jika seperlima dari kolam tersebut akan digunakan sebagai tempat pembibitan, luas tempat pembibitan adalah…m²",
+        "pilihan": [
+            "45"
+        ],
+        "jawaban_benar": "45",
+        "pembahasan": "Keliling persegi = 60 meter\nSisi persegi = 60/4 = 15 meter.\nLuas kolam untuk pembibitan = 1/5 x 15 x 15 = 45m²"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nC, F, A, I, L, A, O, R, .....",
+        "pilihan": [
+            "V, Y",
+            "U, Y",
+            "U, X",
+            "A, U",
+            "A, V"
+        ],
+        "jawaban_benar": "A, U",
+        "pembahasan": "C, F, A, I, L, A, O, R, A, U"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nAndi ingin membuat topi kerucut untuk merayakan tahun baru. Jika diameter kepala andi adalah 20 cm, dan andi ingin memiliki topi kerucut setinggi 24 cm, berapakah bahan karton yang harus ia siapkan?",
+        "pilihan": [
+            "785, 6 cm²",
+            "816,4cm²",
+            "842,5cm²",
+            "874,2cm²",
+            "900cm²"
+        ],
+        "jawaban_benar": "816,4cm²",
+        "pembahasan": "Topi kerucut dibuat tanpa alas, sehingga bahan yang dibutuhkan hanya luas selimut kerucut saja. Jari-jari kerucut = 10 cm.\nGaris pelukis kerucut = ?24² + 10² = 26 cm.\nLuas selimut kerucut = ?rs = 3,14 X 10 X 26 = 816,4 cm²"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nTentukan jumlah bilangan-bilangan bulat antara 250 dan 1000 yang habis dibagi 7 …",
+        "pilihan": [
+            "66,661",
+            "350",
+            "56,661",
+            "351"
+        ],
+        "jawaban_benar": "66,661",
+        "pembahasan": "252,259,266,…,994.\n994 = 252 +(n-1).7 atau n = 107\nS107 = 107/2 (252+994) = 66,661."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nJumlah n bilangan positif genap yang pertama adalah 306. tentukan jumlah 5 bilangan terakhir …",
+        "pilihan": [
+            "154",
+            "144",
+            "160",
+            "140",
+            "150"
+        ],
+        "jawaban_benar": "150",
+        "pembahasan": "2+4+6+…+2n = 306\n306 = n/2(2+2n) ---> (n+18)(n-17) = 0\nn = -18 tidak mungkin\nn = 17\nS12 = 12/2 (2 + 2 x 12) = 156\nJadi Jumlah 5 bilangan terakhir = 306 - 156 = 150"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika a + 2, a - 1, a - 7 membentuk barisan geometri, maka tentukan rasionya …",
+        "pilihan": [
+            "2"
+        ],
+        "jawaban_benar": "2",
+        "pembahasan": "a - 1 / a + 2 = a - 7 / a - 1\na = -5\nr = a - 1 / a + 2 = -5 - 1 / -5 + 2 = 2"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nBacaan untuk soal 52-54\nSally, Sherly, Laura, Tomi dan Sandy masing-masing mengambil permen dari sebuah mangkok. Pertama, empat anak mengambil permen rasa susu. Kemudian Sherly dan Tomi tidak mengambil permen rasa coklat seperti yang dilakukan oleh anak lainnya. Sherly hanya mengambil satu permen, yaitu permen rasa anggur. Setelah itu, selain Sherly, hanya Sally dan Sandy yang tidak mengambil permen rasa kopi.\nSiapakah yang mengambil satu buah permen rasa kopi dan satu buah permen rasa susu?",
+        "pilihan": [
+            "Tomi",
+            "Sally",
+            "Sherly",
+            "Laura",
+            "Semua jawaban salah"
+        ],
+        "jawaban_benar": "Tomi",
+        "pembahasan": "Sally = Permen Susu, Coklat.\nSherly = Permen Anggur\nLaura = Permen Susu, Coklat, Kopi.\nTomi = Permen Susu, Kopi.\nSandy = Permen Susu, Coklat."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSiapa yang mengambil tiga permen?",
+        "pilihan": [
+            "Sandy",
+            "Sally",
+            "Sherly",
+            "Laura",
+            "Semua jawaban salah"
+        ],
+        "jawaban_benar": "Laura",
+        "pembahasan": "Sally = Permen Susu, Coklat.\nSherly = Permen Anggur\nLaura = Permen Susu, Coklat, Kopi.\nTomi = Permen Susu, Kopi.\nSandy = Permen Susu, Coklat."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nSiapa dua orang yang mengambil permen dengan jumlah dan rasa yang sama?",
+        "pilihan": [
+            "Tomi dan Sandy",
+            "Sally dan Laura",
+            "Sandy dan Sally",
+            "Laura dan Tomi",
+            "Semua jawaban salah"
+        ],
+        "jawaban_benar": "Sandy dan Sally",
+        "pembahasan": "Sally = Permen Susu, Coklat.\nSherly = Permen Anggur\nLaura = Permen Susu, Coklat, Kopi.\nTomi = Permen Susu, Kopi.\nSandy = Permen Susu, Coklat."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nArif orang kaya. Arif kerja hari senin sampai jumat. Sekarang hari sabtu.",
+        "pilihan": [
+            "Arif tidak kaya lagi",
+            "Arif bekerja tambahan",
+            "Arif mengambil cuti",
+            "Arif tidak bekerja",
+            "Semua jawaban salah"
+        ],
+        "jawaban_benar": "Arif tidak bekerja",
+        "pembahasan": "Arif hanya bekerja di hari Senin-Jumat. Karena sekarang hari Sabtu maka Arif tidak bekerja."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nBeberapa pelajar tidak menegerjakan tugas. Anton adalah pelajar.",
+        "pilihan": [
+            "Semua pelajar termasuk Anton mengerjakan tugas",
+            "Anton mungkin tidak mengerjakan tugas",
+            "Anton pasti mengerjakan tugas",
+            "Anton pelajar yang pintar",
+            "Semua jawaban salah"
+        ],
+        "jawaban_benar": "Anton mungkin tidak mengerjakan tugas",
+        "pembahasan": "Karena Anton adalah pelajar mungkin saja Anton termasuk yang tidak mengerjakan tugas."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nSuatu seri angka terdiri dari 40, 39, 37, 40, 36, 31. Angka selanjutnya adalah …",
+        "pilihan": [
+            "37"
+        ],
+        "jawaban_benar": "37",
+        "pembahasan": "Polanya tiga angka tiga angka. (40, 39, 37) (40, 36, 31). Tiga suku pertama selisihnya -1, -2. Tiga suku berikutnya -4, -5. Antar tiga suku pertama ke berikutnya dengan menambahkan angka pada selisih sebelumnya. (40, (-1) 39, (-2) 37) ((+3) 40, (-4) 36, (-5) 31) ((+6) 37). Jadi setelah angka 31 yaitu ditambah 6 maka 31 + 6 = 37."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSuatu seri huruf Z, V, R huruf selanjutnya adalah …",
+        "pilihan": [
+            "N"
+        ],
+        "jawaban_benar": "N",
+        "pembahasan": "Tiap suku selisihnya -4. Z, V, R --> 26, (-4) 22, (-4) 18, (-4) 14. Angka 14 diubah menjadi huruf yaitu huruf N."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nDalam sebuah restoran, diketahui 29 pelanggan suka dengan bebek bakar, tetapi tidak suka dengan kepiting rebus. Sedangkan 35 pelanggan suka kepiting rebus. Jika jumlah pelanggan yang suka kepiting rebus tetapi tidak suka bebek bakar sama dengan 9 pelanggan. Berapakah jumlah pelanggan yang suka bebek bakar?",
+        "pilihan": [
+            "55",
+            "Semua jawaban salah"
+        ],
+        "jawaban_benar": "55",
+        "pembahasan": "Suka bebek bakar tapi tidak suka kepiting rebus = 29\nHanya suka kepiting rebus = 35.\nSuka kepiting rebus tidak suka bebek bakar = 9\nHanya suka bebek bakar = (35 - 9) + 29 = 26 + 29 = 55."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nSuatu kotak berisi 7 kelereng merah dan 3 kelereng putih. Dua kelereng diambil satu persatu di mana kelereng pertama yang diambil tidak dikembalikan lagi dalam kotak. Peluang terambilnya kelereng pertama dan kedua berwarna merah adalah …",
+        "pilihan": [
+            "45/90",
+            "3/5",
+            "5/10",
+            "3/4",
+            "15/50"
+        ],
+        "jawaban_benar": "3/5",
+        "pembahasan": "Karena setelah pengambilan yang pertama tidak dikembalikan lagi dalam kotak. Maka, P(AUB)=P(A) x P(B)\n= 7/10 x 6/9 =54/90 = 3/5"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nTentukan gambar yang paling berbeda dibanding gambar lainnya!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "hanya opsi C yang posisi panah hitam berada di kiri atas panah putih. Opsi lainnya menunjukkan posisi panah hitam berada di kanan atas panah putih."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nTentukan gambar yang paling berbeda dibanding gambar lainnya!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "hanya opsi E yang gambarnya paling berbeda, di mana gambar segilima yang ada di depan dan belakang punya ukuran yang sama. Opsi A-D sama-sama menunjukkan di mana gambar yang di belakang lebih kecil dibanding gambar yang di depan."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nTentukan gambar yang paling berbeda dibanding gambar lainnya!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Opsi B - E sama-sama menunjukkan jumlah sisi pada bangun datar luar sama dengan jumlah sisi pada bangun datar dalam. Hanya opsi A yang berbeda, di mana jumlah sisi bangun datar luar berbeda dengan bangun datar dalam."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nTentukan gambar yang paling berbeda dibanding gambar lainnya!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Jawaban yang paling tepat adalah Opsi B"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nTentukan gambar yang paling berbeda dibanding gambar lainnya!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_293\\gambar\\soal_35_pemb_img1.png]"
+    }
+]

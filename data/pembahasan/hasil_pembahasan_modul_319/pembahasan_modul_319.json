@@ -1,0 +1,463 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nCICAK : DINDING = ... : ...",
+        "pilihan": [
+            "Kerbau : Kandang",
+            "Semut : Gula",
+            "Lalat : Kotor",
+            "Bebek : Empang",
+            "Tawon : Udara"
+        ],
+        "jawaban_benar": "Bebek : Empang",
+        "pembahasan": "Cicak merambat di dinding. Kata yang analog dengan pernyataan tersebut adalah bebek berenang di empang."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nPUTIK : BAKAL BUAH = ... : ....",
+        "pilihan": [
+            "Pensil : karbon",
+            "Bolpoin : tinta",
+            "Rahim : Janin",
+            "Penggaris : mistar",
+            "Plastik : ember"
+        ],
+        "jawaban_benar": "Rahim : Janin",
+        "pembahasan": "Putik adalah tempat tumbuhnya bakal buah. Kata yang analog dengan pernyatakan tersebut adalah rahim tempat tumbuhnya janin."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nKUNYIT : KUNING = KESUMBA : ...",
+        "pilihan": [
+            "Jingga",
+            "Biru",
+            "Merah",
+            "Hijau",
+            "Hitam"
+        ],
+        "jawaban_benar": "Merah",
+        "pembahasan": "Kesumba mempunyai arti berbagai tumbuhan yang menghasilkan warna merah."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\n..... : GIGI = IGA : .....",
+        "pilihan": [
+            "Gusi : Tulang",
+            "Mulut : Dada",
+            "Geraham : Tulang",
+            "Liur : Darah",
+            "Putih : Merah"
+        ],
+        "jawaban_benar": "Geraham : Tulang",
+        "pembahasan": "Geraham adalah bagian dari Gigi, sementara Iga adalah bagian dari Tulang."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nBacalah paragraf berikut!\nKeliru apabila muncul pandangan bahwa Indonesia kini anti asing. Pesan kepada perbankan nasional agar berupaya keras supaya bank asing tidak sampai mendominasi perbankan di Indonesia, semata demi daya dorong sektor riil perekonomian nasional. Sektor riil penting berkaitan penciptaan lapangan kerja dan pasokan produk domestik. Kehadiran pihak asing terutama investor asing tidak bisa dinisbikan. Investor asing termasuk yang datang dengan modal segar ke sektor perbankan, manufaktur, infrastruktur, jelas diperlukan apabila kemampuan itu tidak dimiliki di dalam negeri\nIde pokok dari paragraf di atas adalah...",
+        "pilihan": [
+            "Indonesia tidak anti asing",
+            "Indonesia sangat bergantung pihak asing",
+            "Dana asing menggerakkan sektor riil",
+            "Perbankan nasional membutuhkan dana segar dari pihak asing",
+            "Indonesia butuh banyak investor dalam negeri"
+        ],
+        "jawaban_benar": "Indonesia tidak anti asing",
+        "pembahasan": "Lihat kalimat pertama awal paragraf, \"Keliru apabila muncul pandangan bahwa Indonesia kini antiasing.\""
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\n(0,4% x 0,5%) /  (0,1% x 0,2% x 0,3%)",
+        "pilihan": [
+            "3,333333",
+            "33,33333",
+            "333,3333",
+            "3333,333",
+            "33333,33"
+        ],
+        "jawaban_benar": "3333,333",
+        "pembahasan": "(0,4% x 0,5%) / (0,1% x 0,2% x 0,3%)\n= (0,2) / (0,20,02 x 0,3%)\n= 20 / (2 x 0,3%)\n= 10 / 0,3%\n= 10 x 100/0,3\n= 10000/3\n=3333,3"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nJika 1/a - 1/b = 7 dan 1/a + 1/b = 3, maka nilai 1/a2 - 1/b2 = .....",
+        "pilihan": [
+            "21"
+        ],
+        "jawaban_benar": "21",
+        "pembahasan": "1/a^2 ? 1b^2 = (1/a?1/b)( 1/a+1/b) = 7 x 3 = 21"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\n7.    Nilai dari\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_319\\gambar\\soal_8_img1.png]\n= ...",
+        "pilihan": [
+            "1/3",
+            "1/2",
+            "-1/6"
+        ],
+        "jawaban_benar": "-1/6",
+        "pembahasan": "PEMBAHASAN:\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_319\\gambar\\soal_8_pemb_img1.png]\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_319\\gambar\\soal_8_pemb_img2.png]\n= -1/6\nJAWABAN: E"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nDalam suatu instansi, 50 pegawai honorer dapat mengerjakan sebuah pekerjaan selama 4 jam, dan 30 pegawai tetap dapat menyelesaikan pekerjaan tersebut dalam jangka waktu 4 1/2 jam. Berapa bagiankah pekerjaan yang dapat diselesaikan oleh 10 orang pegawai magang, dan 15 orang pegawai tetap selama 1 jam?",
+        "pilihan": [
+            "1/9 bagian",
+            "29/180 bagian",
+            "26/143 bagian",
+            "1/5 bagian",
+            "39/121 bagian"
+        ],
+        "jawaban_benar": "29/180 bagian",
+        "pembahasan": "* 50 pegawai honorer = 4 jam = A\n* 10 pegawai honorer = 4 jam = A/5\n* 10 pegawai honorer = 1 jam = A/20\n* 30 pegawai tetap = 4 1/2 jam = A\n* 15 pegawai tetap = 4 1/2 jam = A/2\n* 15 pegawai tetap = 4 1/2jam = A/9\nJadi pekerjaan yang dapat diselesaikan oleh mereka berdua =A/20 + A/9 = 29/180 bagian."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nC, F, I, L, O, ...., ....",
+        "pilihan": [
+            "T dan V",
+            "R dan S",
+            "R dan U",
+            "Q dan T",
+            "P dan S"
+        ],
+        "jawaban_benar": "R dan U",
+        "pembahasan": "C, F, I, L, O, ...., ....\nPolanya bisa dibuatkan seperti ini : C (de) F (gh) I (jk) L (mn) O (pq) R (st) U\nJadi, huruf selanjutnya R dan U."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nNauvan Candra melakukan perjalanan dari kota X ke kota Y untuk menghadiri sebuah acara pernikahan temannya. Apabila Nauvan Candra memacu mobilnya dengan kecepatan 80 Km/Jam, maka ia akan terlambat 1 jam; tetapi jika ia memacu mobilnya menggunakan laju 120 Km/Jam ia akan datang lebih awal 1 jam. Berapakah jarak antara kota X dan Y?",
+        "pilihan": [
+            "Tidak dapat ditentukan",
+            "Kurang dari 240 Km",
+            "240 Km – 360 Km",
+            "360 Km – 480 Km",
+            "480 Km"
+        ],
+        "jawaban_benar": "480 Km",
+        "pembahasan": "* Dengan kecepatan 80 Km/Jam ia akan telat 1 jam; dengan kecepatan 120 Km/Jam ia akan lebih awal 1 jam.\n* Kita harus cari tahu terlebih dahulu waktunya\na. Waktu saat telat : T1\nb. Waktu saat lebih awal : T2.\n* Hubungan T1 dan T2 adalah:\nT1 = T2 + 2 (karena terlambat pasti waktunya lebih banyak, maka harus ditambah. Angka 2 muncul karena itu adalah jarak antara terlambat 1 jam dengan lebih awal 1 jam, jadi ada beda 2 jam di situ)\nT1 = S/80; T2 = S/120\n* Diketahui T1 = T2+2, maka:\nT2 + 2 = S/80 -> S = 80 T2 + 160 .... (1)\nT2 = S/120 -> S = 120 T2 ................ (2)\n120 T2 = 80 T2 + 160\n40 T2 = 160 -> T2 = 4,\nMaka S = 120 T2 -> 120 x 4= 480 Km"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nPerhatikan gambar di bawah ini. Persegi tersebut mempunyai panjang sisi: 28 Cm. Tentukan perbandingan luas antara lingkaran dengan persegi!",
+        "pilihan": [
+            "π : 2",
+            "π : 4",
+            "π : 3",
+            "4 : π",
+            "3 : π"
+        ],
+        "jawaban_benar": "π : 4",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_319\\gambar\\soal_12_pemb_img1.png]"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nSeorang pesulap memasukkan sebuah kubus dengan panjang sisi: S ke dalam sebuah bola sepak dengan kondisi semua titik sudut kubus tersebut menyentuh permukaan dalam bola. Berapakah volume bola tersebut?",
+        "pilihan": [
+            "3/2?3 ? S^3",
+            "2/3?3 ? S^3",
+            "4/3?3 ? S^3",
+            "3/4?3 ? S^3",
+            "½ 2?3 ? S^3"
+        ],
+        "jawaban_benar": "½ 2?3 ? S^3",
+        "pembahasan": "Setiap titik sudut kubus menyentuh permukaan bola akan mengakibatkan diameter bola = S?3, yang berarti, r = ½ S?3. Maka,\nVolume bola sepak = 4/3 x ? x ( ½ S?3)^3\n= 4/3 x ? x 1/8 3?3 S^3\n= ½ 2?3 ? S^3."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nSebuah limas segiempat beraturan dengan alas berbentuk persegi, mempunyai volume 486 cm³. Tinggi limas sama dengan dua kali panjang rusuk alas. Tentukan panjang rusuk tegak limas tersebut!",
+        "pilihan": [
+            "17/2√2",
+            "27/2√2",
+            "37/2√2",
+            "27√2",
+            "17√2"
+        ],
+        "jawaban_benar": "27/2√2",
+        "pembahasan": "Volume Limas = 486\n1/3 Luas Alas x t = 486\n1/3 x S2 x 2S = 486\nS= 3^?729 = 9; t= 18\n(Panjang rusuk tegak)2 = (18)2 +( 9/2?2)^2\n= (324 + 162/4)\n= 1458/4 , panjang rusuk tegak = √(1458/4)\nPanjang rusuk tegak = 27/2√2"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\n6, 13, 27, 55, 111, ... , …",
+        "pilihan": [
+            "222, 333",
+            "223, 334",
+            "223, 447",
+            "222, 444",
+            "224, 447"
+        ],
+        "jawaban_benar": "223, 447",
+        "pembahasan": "6, 13, 27, 55, 111\nPola deretnya adalah deret berikutnya selalu 2n + 1 dari bilangan sebelumnya, dimana n= nilai bilangan sebelumnya.\n6, ((2x6)+1) 13, ((2x13)+1) 27, ((2x27)+1) 55, ((2x55)+1) 111, ((2x111)+1) 223, ((2x223)+1) 447."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\n5, 7, 50, 49, 500,343, …",
+        "pilihan": [
+            "5.000",
+            "843",
+            "2.401",
+            "3.500",
+            "1.000"
+        ],
+        "jawaban_benar": "5.000",
+        "pembahasan": "Pola deret tersebut lompat 1, bagian yang dicetak tebal kelipatan sepuluhnya, jadi bilangan yang dicari adalah 5000.\n5, 7, 50, 49, 500, 343, 5000"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nA, B, C, E, H, …, ...",
+        "pilihan": [
+            "N, U",
+            "N, T",
+            "M, U",
+            "M, T",
+            "K, N"
+        ],
+        "jawaban_benar": "M, U",
+        "pembahasan": "A, B, C, E, H --- > 1, 2, 3, 5, 8.\nDeret tersebut merupakan deret fibonacci, yakni deret yang 2 bilangan awal merupakan bilangan inisiasi ke bilangan berikutnya.\nMaka bilangan selanjutnya adalah 1, 2, 3, 5, 8, (8+5) 13, (13+8) 21.\nAngka 13 dan 21 dikonversi ke huruf menjadi huruf M dan huruf U."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nV, D, T, G, R, J, …, ...",
+        "pilihan": [
+            "Q, N",
+            "Q, M",
+            "P, N",
+            "P, M",
+            "O, M"
+        ],
+        "jawaban_benar": "P, M",
+        "pembahasan": "V, D, T, G, R, J, …, … ---> 22, 4, 20, 7, 18, 10, …, …\nSuku ganjil berpola (-2) --> 20, (-2) 20, (-2) 18, (-2) 16\nSuku genap berpola (+3) --> 4, (+3) 7, (+3) 10, (+3) 13\nAngka 16 dan 13 dikonversi ke huruf menjadi huruf P dan M."
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nUntuk soal nomor 49 – 52, gunakan informasi di bawah ini :\nYusta berlari lebih cepat daripada Afid. Halima berlari lebih cepat daripada Lina. Widi berlari lebih lambat daripada Afid. Tidak ada seorangpun yang berlari dengan kecepatan sama.\nJika Halima berlari lebih cepat daripada Yusta, maka ......",
+        "pilihan": [
+            "Lina berlari lebih cepat daripada Afid",
+            "Widi berlari lebih cepat daripada Lina",
+            "Halima berlari lebih cepat daripada Afid",
+            "Afid berlari lebih cepat daripada Yusta",
+            "Yusta berlari paling cepat"
+        ],
+        "jawaban_benar": "Halima berlari lebih cepat daripada Afid",
+        "pembahasan": "Kecepatan lari dari yang tercepat : Yusta > Afid > Widi > Halima > Lina.\nJika posisi Halima menjadi lebih cepat daripada Yusta, maka jawaban yang paling sesuai adalah : Halima berlari lebih cepat daripada Afid. Hal ini karena Yusta saja lebih cepat larinya dari Afid."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nJika Lina berlari tidak lebih lambat dari Afid, maka ......",
+        "pilihan": [
+            "Lina berlari lebih cepat daripada Widi",
+            "Widi berlari tidak lebih lambat daripada Lina",
+            "Lina berlari lebih cepat daripada Yusta",
+            "Yusta berlari lebih cepat daripada Lina",
+            "Afid akan tertinggal jauh di belakang"
+        ],
+        "jawaban_benar": "Lina berlari lebih cepat daripada Widi",
+        "pembahasan": "Kecepatan lari dari yang tercepat : Yusta > Afid > Widi > Halima > Lina.\nDengan posisi Lina berlari lebih cepat dari Afid, maka jawaban yang paling sesuai adalah : Lina berlari lebih cepat daripada Widi."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika Halima berlari lebih lambat daripada Yusta, maka anak yang berlari paling cepat adalah ......",
+        "pilihan": [
+            "Afid",
+            "Yusta",
+            "Lina",
+            "Widi",
+            "Tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "Yusta",
+        "pembahasan": "Kecepatan lari dari yang tercepat : Yusta > Afid > Widi > Halima > Lina.\nJika posisi Halima berlari lebih lambat daripada Yusta, maka otomatis Yusta akan menjadi pelari tercepat."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nJika Widi berlari lebih cepat daripada Halima, maka ......",
+        "pilihan": [
+            "Yusta berlari paling cepat",
+            "Lina berlari lebih cepat daripada Yusta",
+            "Lina berlari paling lambat",
+            "Jawaban A dan C benar",
+            "Hanya Jawaban C saja yang benar"
+        ],
+        "jawaban_benar": "Jawaban A dan C benar",
+        "pembahasan": "Kecepatan lari dari yang tercepat : Yusta > Afid > Widi > Halima > Lina.\nKetika Widi berlari lebih cepat dari Halima, maka otomatis Yusta akan berada pada posisi paling cepat, sementara Lina dia akan berada di posisi yang paling lambat."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSemua siswa pandai bernyanyi. Sebagian siswa pandai bermain gitar. Sebagian anak yang bermain gitar juga memainkan harmonika. Maka, ...",
+        "pilihan": [
+            "Siswa yang pandai bermain gitar tentu pandai bernyanyi",
+            "Semua siswa pandai bernyanyi, bermain gitar, dan meniup harmonika",
+            "Siswa yang pandai meniup harmonika belum tentu pandai bernyanyi",
+            "Siswa yang pandai bernyanyi tentu dapat bermain harmonika",
+            "Semua jawaban salah"
+        ],
+        "jawaban_benar": "Siswa yang pandai bermain gitar tentu pandai bernyanyi",
+        "pembahasan": "Karena semua siswa pandai bernyanyi, maka siswa yang pandai bermain gitar tentu pandai bernyanyi."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nSemua Balita minum susu. Sebagian balita sudah makan nasi. Maka, ....",
+        "pilihan": [
+            "Semua balita minum susu dan sudah makan nasi.",
+            "Balita yang minum susu biasanya sudah makan nasi.",
+            "Sebagian balita minum susu dan sudah makan nasi.",
+            "Balita yang sudah makan nasi harus minum susu.",
+            "Jawaban A dan C benar"
+        ],
+        "jawaban_benar": "Sebagian balita minum susu dan sudah makan nasi.",
+        "pembahasan": "Karena premis minornya adalah sebagian, maka kesimpulannya juga sebagian. Berarti Sebagian balita minum susu dan sudah makan nasi."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nSetiap pagi Ayah makan bubur. Setiap makan bubur, Ayah minum kopi. Maka, ....",
+        "pilihan": [
+            "Ayah sangat suka makan bubur",
+            "Ayah selalu makan bubur dan minum kopi",
+            "Ayah hanya makan bubur dan minum teh",
+            "Ayah minum kopi setiap pagi",
+            "Ayah tidak pernah minum teh"
+        ],
+        "jawaban_benar": "Ayah minum kopi setiap pagi",
+        "pembahasan": "Karena setiap pagi ayah makan bubur selalu minum kopi maka setiap pagi ayah minum kopi."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nDari 60 siswa diketahui bahwa 37 orang diantaranya menyukai buah, 19 orang menyukai sayuran, dan X orang tidak menyukai keduanya. Berapa banyak siswa yang menyukai keduanya?",
+        "pilihan": [
+            "X + 4",
+            "X - 4",
+            "X + 6",
+            "X - 6",
+            "X - 10"
+        ],
+        "jawaban_benar": "X - 4",
+        "pembahasan": "A = suka keduanya, maka:\n37 – A + A + 19 – A + X = 60\nA = X – 4"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nDi dalam suatu pertemuan, terdapat 47 peserta rapat. Berapa banyak jabat tangan yang terjadi dalam pertemuan tersebut jika setiap orang saling bersalaman?",
+        "pilihan": [
+            "1128",
+            "1081",
+            "981",
+            "728",
+            "1249"
+        ],
+        "jawaban_benar": "1081",
+        "pembahasan": "47C2 = 47!/2!(47?2)! = 47.46.45!/2!.45! = 47 x 23 = 1081"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nKeluarga Bapak Kertawidjaya akan melakukan foto bersama di studio foto. Bapak Kertawidjaya mempunyai 2 orang anak. Mereka semua akan berfoto secara berdampingan. Peluang foto Bapak Kertawidjaya dan istri selalu berdampingan adalah ......",
+        "pilihan": [
+            "½",
+            "2/3",
+            "3/4",
+            "4/5"
+        ],
+        "jawaban_benar": "½",
+        "pembahasan": "Peluang suami istri selalu berdampingan\n= 4P2/4! = 4!/2!/4!\n= 4.3/4.3.2.1\n= ½"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nEnam pekerja kantoran masing-masing memiliki sejumlah uang tertentu. Jika uang yang dimiliki oleh setiap dua orang dari mereka dijumlahkan, besarnya adalah (dalam ribuan) 230, 246, 194, 186, 300, 240, 190, 340, 178, 400, 200, 212, 234, 250, 280. Jumlah uang keenam pekerja kantoran tersebut adalah …",
+        "pilihan": [
+            "600",
+            "700",
+            "770",
+            "673",
+            "736"
+        ],
+        "jawaban_benar": "736",
+        "pembahasan": "Ini adalah soal kombinasi : Di mana jika uang yang dimiliki oleh setiap 2 pekerja dijumlahkan, maka uang setiap karyawan akan dijumlahkan sebanyak 5 kali. Sehingga untuk mengetahui jumlah uang mereka, total uang dari penjumlahan 2 pekerja harus dibagi 5. Jadi jumlah uang 6 pekerja kantoran adalah = 3680/5 = 736"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nPada saat awal diaamati, 8 virus jenis tertentu setiap 24 jam membelah diri menjadi 2. Jika setiap 96 jam, seperempat dari seluruh virus dibunuh, berapakah jumlah virus pada hari keenam?",
+        "pilihan": [
+            "128",
+            "192",
+            "212"
+        ],
+        "jawaban_benar": "192",
+        "pembahasan": "Pola ini adalah deret geometri dengan a = 8 dan r = 2 (karena membelah menjadi 2 setiap 24 jam)\nJumlah virus setelah 4 hari (96 jam) atau hari ke-5 :\nUn = ar^(5-1)\nU5 = 8.2^(5-1) = 8.2^4 = 8.16 = 128\nPada hari ke-5 1?4-nya dibunuh, berarti sisanya = 3?4 x 128 = 96\nMaka, pada hari keenam jumlah virus yang ada adalah 96 x 2 = 192"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "\"Pola gambar yang ditunjukkan pada gambar (3) dan (4) adalah adanya jumlah lingkaran hitam dan putih yang sama pada kedua gambar. Di gambar (3) dan (4), lingkaran hitam berjumlah enam dan lingkaran putih berjumlah sembilan. Ini berarti, untuk gambar (1) dan (2) juga akan berlaku syarat yang sama dengan memerhatikan jumlah kotak hitam dan putih yang harus sama.\nNamun, perbedaan antara gambar (3) – (4) dan (1) – (2) di sini adalah jumlah kotak hitam tidak enam, melainkan kotak putih yang jumlahnya harus enam. Sementara itu, kotak berwarna hitam harus berjumlah sembilan. Untuk menemukan jawabannya, maka teliti kembali jumlah kotak hitam dan putih pada setiap opsi jawaban, lalu temukan jumlah yang sama untuk gambar (1) dan (2), kotak hitam berjumlah sembilan dan kotak putih berjumlah enam. Jadi, gambar yang tepat berdasarkan syarat perubahan gambar di atas adalah pilihan C, karena hanya gambar C yang menunjukkan jumlah kotak hitam ada 9, dan jumlah kotak putih ada 6.\""
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "\"Perhatikan 3 gambar paling atas. Jika diperhatikan, setiap gambar kecil pada setiap titik selalu berbeda. Misal gambar kecil di titik atas, dari paling kiri terdiri dari gambar persegi, belah ketupat, dan lingkaran. Di titik kiri, terdiri dari gambar lingkaran, persegi, belah ketupat. Di titik paling kanan, terdiri dari gambar belah ketupat, lingkaran, dan persegi.\nAturan serial di atas berlaku juga untuk gambar pada baris tengah dan baris terakhir.\nSehingga, lanjutan gambar pada soal tersebut yaitu: titik atas berupa belah ketupat, titik kiri berupa persegi, titik kanan berupa lingkaran. Gambar yang sesuai yaitu opsi B.\""
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_319\\gambar\\soal_33_pemb_img1.png]"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Gambar di kolom pertama itu adalah gabungan dari gambar yang ada di kolom 2 dan 3. Aturan ini tidak hanya berlaku di salah satu baris, tapi berlaku untuk tiga-tiganya. Jadi baik barisan gambar yang atas, tengah, maupun yang bawah mengikuti pola ini. Sehingga, serial gambar selanjutnya pada soal tersebut yaitu sesuai pada opsi B."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "\"Perhatikan ciri-ciri, kesamaan, perbedaan dan keanggotaan objek pada soal.\nPelajar, penjaga toko dan atlet memiliki hubungan yang erat, yaitu semuanya merupakan pekerjaan. Jadi gambar himpunan yang tepat adalah A.\""
+    }
+]
