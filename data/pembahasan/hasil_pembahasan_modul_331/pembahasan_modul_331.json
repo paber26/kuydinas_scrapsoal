@@ -1,0 +1,436 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nBELAJAR : PANDAI = ... : ...",
+        "pilihan": [
+            "Potret  : Kamera",
+            "Cetak : Kertas",
+            "Litografi : Batu",
+            "Berpikir : Arif",
+            "Rajin : Bodoh"
+        ],
+        "jawaban_benar": "Berpikir : Arif",
+        "pembahasan": "Apabila belajar maka akan menjadi pandai, sedangkan apabila berpikir maka akan menjadi arif. Jadi, padanan hubungan kata (analogi) dari Belajar : Pandai adalah Berpikir : Arif."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nNELAYAN : PERAHU= ... : ...",
+        "pilihan": [
+            "Fotografer : Kamera",
+            "Penulis : Pena",
+            "Dosen : Kelas",
+            "Koki : Oven",
+            "Petani : Traktor"
+        ],
+        "jawaban_benar": "Petani : Traktor",
+        "pembahasan": "Nelayan bekerja menggunakan perahu, sedangkan petani bekerja menggunakan traktor. Jadi, padanan hubungan kata (analogi) dari Nelayan : Perahu adalah Petani : Traktor."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nHUMOR : KOMEDIAN= ... : ...",
+        "pilihan": [
+            "Sintaksis : Kata",
+            "Heroisme : Epik",
+            "Memori : Amnesia",
+            "Klimaks : Drama",
+            "Perceraian : Pernikahan"
+        ],
+        "jawaban_benar": "Heroisme : Epik",
+        "pembahasan": "Humor berkaitan dengan komedian, sedangkan heroisme berkaitan dengan epik. Jadi, padanan hubungan kata (analogi) dari Humor : Komedian adalah Heroisme : Epik."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nPERSEGI PANJANG : EMPAT = .... : ....",
+        "pilihan": [
+            "Segitiga : Satu",
+            "Persegi : Dua",
+            "Elips : Dua",
+            "Lingkaran : Satu",
+            "Balok : Enam"
+        ],
+        "jawaban_benar": "Lingkaran : Satu",
+        "pembahasan": "Persegi panjang memiliki sisi sebanyak 4. Kata yang analog dengan pernyataan tersebut adalah lingkaran memiliki sisi sebanyak 1."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nPilot : Pesawat",
+        "pilihan": [
+            "Masinis : Kapal",
+            "Kusir : Kereta",
+            "Nelayan : Kapal",
+            "Motor : Truk",
+            "Sopir : Mobil"
+        ],
+        "jawaban_benar": "Sopir : Mobil",
+        "pembahasan": "Pilot : Pesawat >> Pilot mengendalikan Pesawat\nSopir : Mobil >> Sopir mengemudikan Mobil"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nTukang : Gergaji : Palu",
+        "pilihan": [
+            "Guru : Kapur : Topi",
+            "Penari : Topi : Selendang",
+            "Montir : Obeng : Tang",
+            "Penulis : Kuas : Cat",
+            "Tukang : Obat : Stetoskop"
+        ],
+        "jawaban_benar": "Montir : Obeng : Tang",
+        "pembahasan": "Tukang : Gergaji : Palu\nMontir : Obeng : Tang"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nSusilo adalah siswa yang paling pandai di\nkelasnya. Edi kalah pandai disbanding Leonardo.\nTetapi Leonardo sama pandainya dengan Viki.\nSementara Viki lebih pandai dari Natsir.\nMaka …",
+        "pilihan": [
+            "Leonardo tidak lebih pandai dari Edi.",
+            "Edi tidak kalah pandai dari Susilo.",
+            "Viki lebih pandai dari Susilo.",
+            "Viki lebih pandai dari Edi.",
+            "Natsir lebih pandai dari Leonardo."
+        ],
+        "jawaban_benar": "Viki lebih pandai dari Edi.",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_7_pemb_img1.png]"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nFaris adalah seorang anak yang sulit disuruh\nmakan. Faris bersedia makan nasi jika sudah\ndibelikan makanan favoritnya. Jika sudah punya\npermen coklat, Faris bisa melupakan roti keju. Roti\nkeju lebih disukai Faris daripada es krim, sehingga\nFaris bersedia menukar es krim dengan roti keju.\nKesukaan Faris terhadap es krim sama besarnya\ndengan kesukaannya terhadap es jus durian. Dan\nFaris lebih menyukai roti keju daripada manga\narum manis. Makanan paling favorit apakah yang\nbisa dibelikan ibu untuk Faris agar bersedia\nmakan nasi?",
+        "pilihan": [
+            "Roti keju",
+            "Mangga arum manis",
+            "Es krim",
+            "Permen coklat",
+            "Jus durian"
+        ],
+        "jawaban_benar": "Permen coklat",
+        "pembahasan": "Makanan paling favorit untuk Faris adalah permen coklat,\nkarena roti keju pun bisa dilupakan ketika Faris mempunyai\npermen coklat."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nPada saat ujian, ibu guru menentukan deretan\ntempat duduk Anto, Budi, Cici, Didi, Edi, dan Fandi\nsebagai berikut :\n1) Anto tidak bersebelahan dengan Budi dan Cici\n2) Didi bersebelahan dengan Cici\n3) Anto dekat dengan Edi dan Edi dekat dengan\nDidi\n4) Budi di dekat Fandi dan Fandi bersebelahan\ndengan Anto\n5) Cici berada pada urutan terakhir\nJadi urutan tempat duduk ke enam anak adalah …",
+        "pilihan": [
+            "Budi, Anto, Fandi, Didi, Edi, Cici",
+            "Budi, Fandi, Anto, Edi, Didi, Cici",
+            "Anto, Fandi, Edi, Budi, Didi, Cici",
+            "Edi, Budi, Fandi, Anto, Didi, Cici",
+            "Edi, Didi, Anto, Fandi, Budi, Cici"
+        ],
+        "jawaban_benar": "Budi, Fandi, Anto, Edi, Didi, Cici",
+        "pembahasan": "Pernyataan 2) dan 5) menunjukkan bahwa Cici berada pada\nurutan ke-6 dan Didi pada urutan ke-5.\nPernyataan 3) menunjukkan bahwa Edi pada urutan ke-4 dan\nAnto pada urutan ke-3.\nPernyataan 1) dan 4) menunjukkan bahwa Budi berada pada\nurutan pertama dan Fandi ke-2.\nJadi urutan tempat duduknya adalah Budi, Fandi, Anto, Edi, Didi, Cici."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_10_img1.png]",
+        "pilihan": [
+            "20,50",
+            "08,48",
+            "14,09",
+            "34,59",
+            "15,09"
+        ],
+        "jawaban_benar": "20,50",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_10_pemb_img1.png]"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_11_img1.png]",
+        "pilihan": [
+            "√6 -√3",
+            "√6 +√3",
+            "3"
+        ],
+        "jawaban_benar": "3",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_11_pemb_img1.png]"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nAbay mempunyai 250 kelereng, kemudian ia\nmembeli lagi sebanyak 75 kelereng. Berapa\npersen pertambahan kelereng Abay?",
+        "pilihan": [
+            "30%",
+            "35%",
+            "40%",
+            "45%",
+            "50%"
+        ],
+        "jawaban_benar": "30%",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_12_pemb_img1.png]"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\n634 + 8 × 125 − 2.048 : 64 = ...",
+        "pilihan": [
+            "1.602",
+            "1.221,90",
+            "4.890",
+            "9.824",
+            "1.320"
+        ],
+        "jawaban_benar": "1.602",
+        "pembahasan": "634 + (8 × 125) − (2.048 : 64) = 634 + 1.000 − 32 = 1.602"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\n24,054  :  0,06  = ...",
+        "pilihan": [
+            "240",
+            "300",
+            "399,5",
+            "400,9",
+            "420"
+        ],
+        "jawaban_benar": "400,9",
+        "pembahasan": "Hilangkan koma : 2405,4 ; 6 = (sekitar) 400\nJawaban yang paling menedekati adalah 400,9"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nDari data suatu sekolah tercatat 185 orang gemar basket, 220 orang gemar\ntenis meja, dan 140 orang gemar basket dan tenis meja.\nBanyak siswa seluruhnya\nadalah …",
+        "pilihan": [
+            "545 orang",
+            "360 orang",
+            "325 orang",
+            "265 orang",
+            "260 orang"
+        ],
+        "jawaban_benar": "265 orang",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_15_pemb_img1.png]"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nDari sekelompok anak, 22 anak senang membaca\nmajalah, 28 anak senang bermain musik, dan 20\nanak senang membaca majalah dan juga senang\nbermain musik. Banyaknya anak dalam kelompok\ntersebut adalah …",
+        "pilihan": [
+            "30 anak",
+            "40 anak",
+            "50 anak",
+            "70 anak",
+            "80 anak"
+        ],
+        "jawaban_benar": "30 anak",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_16_pemb_img1.png]"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_17_img1.png]",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "x dan y tak dapat ditentukan",
+            "x² > y"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_17_pemb_img1.png]"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nJika q adalah sembarang bilangan, x = 3q² - 5 dan y = 2q² - 8, manakah pernyataan berikut yang\nbenar?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x tidak sama dengan y"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "Oleh karena q sembarang bilangan, maka jika kita misalkan q = 2 \nkemudian kita masukkan ke dalam persamaan, kita akan mendapatkan :\nx = 3q\n²\n+ 5 = 3(2\n²\n) + 5 = 12 + 5 = 17\ny = 2q\n²\n− 8 = 2(2\n²\n) − 8 = 8 − 8 = 0\nBerarti x > y"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nDelapan tahun yang lalu umur A sama dengan 3 kali\numur B. Sekarang umur A menjadi 2 kali umur B.\nBerapakah jumlah umur mereka ?",
+        "pilihan": [
+            "48"
+        ],
+        "jawaban_benar": "48",
+        "pembahasan": "8 tahun lalu : A = 3B\nSekarang : A = 2B\nMaka :\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_19_pemb_img1.png]"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nNilai rata-rata ulangan fisika dari 10 murid adalah 62. Jika digabungkan dengan nilai 5 murid\nyang lain ternyata nilai rata-ratanya menjadi 54. Nilai rata-rata dari 5 murid tersebut sama\ndengan ...",
+        "pilihan": [
+            "38"
+        ],
+        "jawaban_benar": "38",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_20_pemb_img1.png]"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nDiketahui segitiga ABC dengan sudut A sebesar 30°, panjang AB = 2 cm, dan panjang AC = 6 cm. Luas segitiga ABC adalah ... cm²",
+        "pilihan": [
+            "3 √3",
+            "3",
+            "6 √3"
+        ],
+        "jawaban_benar": "3",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_21_pemb_img1.png]"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nBanyaknya kubus pada bangun di bawah ini adalah ...",
+        "pilihan": [
+            "24"
+        ],
+        "jawaban_benar": "24",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_22_pemb_img1.png]"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nPada suatu barisan aritmetika diketahui suku ke-8\nadalah 31 dan suku ke-14 adalah 55. Suku ke-22 dari\nbarisan tersebut adalah …",
+        "pilihan": [
+            "87"
+        ],
+        "jawaban_benar": "87",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_23_pemb_img1.png]"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nKeuntungan seorang pedagang bertambah setiap\nbulan dengan jumlah yang sama. Jika keuntungan\nsampai bulan ke-4 adalah Rp30.000,00 dan sampai\nbulan ke-8 sebesar Rp172.000,00, keuntungan sampai\nbulan ke-18 adalah …",
+        "pilihan": [
+            "Rp 1.017.000,00",
+            "Rp 1.050.000,00",
+            "Rp 1.100.000,00",
+            "Rp 1.120.000,00",
+            "Rp 1.137.000,00"
+        ],
+        "jawaban_benar": "Rp 1.017.000,00",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_24_pemb_img1.png]"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n1 1 1 1 2 1 4 1 …",
+        "pilihan": [
+            "8"
+        ],
+        "jawaban_benar": "8",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_25_pemb_img1.png]"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\n1 3 7 13 …",
+        "pilihan": [
+            "21"
+        ],
+        "jawaban_benar": "21",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nB M N D O P F Q R … … …",
+        "pilihan": [
+            "H, T, S",
+            "H, S, T",
+            "D, R, S",
+            "G, S, T",
+            "S, H, T"
+        ],
+        "jawaban_benar": "H, S, T",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_27_pemb_img1.png]"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nJika 3 lusin baju dibeli dengan harga Rp 990.000,00\nmaka harga 25 baju adalah …",
+        "pilihan": [
+            "Rp 675.000,00",
+            "Rp 687.500,00",
+            "Rp 700.000,00",
+            "Rp 710.000,00",
+            "Rp 718.000,00"
+        ],
+        "jawaban_benar": "Rp 687.500,00",
+        "pembahasan": "Harga 3 lusin baju = Rp 990.000,00\nHarga 1 baju = Rp 27.500,00\nSehingga 25 baju harganya = (25 x 27.500) = 687.500"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nTerdapat 240 kg pakan yang dapat dihabiskan oleh 600\nayam dalam satu hari. Jika ditambahkan ayam\nsebanyak 200 ekor, maka pakan yang harus\nditambahkan dalam satu hari adalah …",
+        "pilihan": [
+            "120 kg",
+            "320 kg",
+            "40 kg",
+            "100 kg",
+            "80 kg"
+        ],
+        "jawaban_benar": "80 kg",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_29_pemb_img1.png]"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nKereta api dari Jakarta ke Semarang ada 4,\nsedangkan dari Semarang ke Madiun ada 3. Jika\nRully ingin pergi ke Madiun dari Jakarta melewati\nSemarang dengan kereta api, ada berapa cara\nyang dapat ia lakukan untuk menggunakan kereta\napi?",
+        "pilihan": [
+            "12"
+        ],
+        "jawaban_benar": "12",
+        "pembahasan": "Gunakan aturan perkalian :\nBanyaknya cara = (Jakarta – Semarang) (Semarang – Madiun)\n4 X 3 = 12"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nUntuk membentuk panitia sebuah acara, ada 2\norang calon ketua, 3 orang calon sekertaris, dan 2\norang calon bendahara, serta tidak satu pun yang\ndicalonkan pada dua jabatan yang berbeda. Jika\npanitia terdiri dari 1 orang ketua, 1 sekertaris, dan 1\nbendahara. Ada berapa cara susunan panitia\ntersebut dapat dibentuk?",
+        "pilihan": [
+            "18 cara",
+            "16 cara",
+            "12 cara",
+            "8 cara",
+            "10 cara"
+        ],
+        "jawaban_benar": "12 cara",
+        "pembahasan": "Karena masing-masing posisi hanya diambil 1 calon dan tidak ada\nseorangpun yang merangkap jabatan, maka banyak cara\npenyusunannya adalah :\n2 x 3 x 2 = 12"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_32_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_32_pemb_img1.png]"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_33_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_33_pemb_img1.png]"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_34_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_34_pemb_img1.png]\nBangun E berbeda posisi pada objek segitiga hitam putih terbalik posisinya"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_35_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_331\\gambar\\soal_35_pemb_img1.png]\nJawaban : B\nPembahasan\n- Terjadi Perubahan Letak pada objek bangun kecil-Terjadi Perubahan Bentuk/Perubahan Jumlah sudut\nbaru pada objek bangun kecil\n- Terjadi Perubahan Letak pada objek\nlingkaran kecil yang berada di garis bangun besar\n- Perubahan gambar berisi/kosong pada objek lingkaran kecil dan objek bangun kecil"
+    }
+]

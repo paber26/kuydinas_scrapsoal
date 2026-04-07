@@ -53,9 +53,7 @@ async function run() {
   console.log('Logged in successfully!');
 
   const modulesToProcess = [
-    { id: 324, category: 'TWK' },
-    { id: 325, category: 'TIU' },
-    { id: 326, category: 'TKP' }
+    { id: 331, category: 'TIU' }
   ];
 
   for (const mod of modulesToProcess) {
@@ -68,7 +66,7 @@ async function run() {
     }
 
     let data = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
-    
+
     // Sort by nomor to ensure they are added in order
     data.sort((a, b) => (a.nomor || 0) - (b.nomor || 0));
 
@@ -99,8 +97,8 @@ async function run() {
               break;
             }
           }
-          if (!correctAnswer) correctAnswer = 'A';
         }
+        if (!correctAnswer) correctAnswer = 'A';
       }
 
       const payload = {
