@@ -1,420 +1,320 @@
 [
-    {
-        "nomor": 1,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nBangsa Indonesia memiliki kedudukan yang sama baik hak maupun kewajiban didalam masyarakat. Bangsa Indonesia tidak boleh memaksakan kehendak dan selalu mengutamakan musyawarah dalam mengambil keputusan serta menghormati dan menjunjung tinggi serta memiliki itikad baik juga tanggung jawab atas hasil kesepakatan dalam musyawarah. Merupakan pengamalan pancasila sila ...",
-        "pilihan": [
-            "Pertama",
-            "Kedua",
-            "Ketiga",
-            "Keempat",
-            "Kelima"
-        ],
-        "jawaban_benar": "Keempat",
-        "pembahasan": "Sila Pertama --> Ketuhanan, kebebasan beragama\nSila Kedua --> Kemanusiaan, hubungan antarbangsa dan negara, HAM, kebudayaan, iptek.\nSila Ketiga --> persatuan, keutuhan bangsa, NKRI harga mati, kebhinnekatunggalikaan\nSila Keempat --> musyawarah, demokrasi, mengutamakan kepentingan bangsa dan negara atas kepentingan pribadi dan golongan\nSila Kelima --> pembangunan bangsa Indonesia, keadilan sosial bagi bangsa Indonesia"
-    },
-    {
-        "nomor": 2,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nBergaya hidup mewah tanpa rasa peduli di Negara berkembang seperti Indonesia sedangkan di sekitar masih banyak rakyat miskin, adalah bertolak belakang dengan pengamalan pancasila sila ...",
-        "pilihan": [
-            "Pertama",
-            "Kedua",
-            "Ketiga",
-            "Keempat",
-            "Kelima"
-        ],
-        "jawaban_benar": "Kelima",
-        "pembahasan": "Sila Pertama --> Ketuhanan, kebebasan beragama\nSila Kedua --> Kemanusiaan, hubungan antarbangsa dan negara, HAM, kebudayaan, iptek.\nSila Ketiga --> persatuan, keutuhan bangsa, NKRI harga mati, kebhinnekatunggalikaan\nSila Keempat --> musyawarah, demokrasi, mengutamakan kepentingan bangsa dan negara atas kepentingan pribadi dan golongan\nSila Kelima --> pembangunan bangsa Indonesia, keadilan sosial bagi bangsa Indonesia"
-    },
-    {
-        "nomor": 3,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nPancasila merupakan sistem nilai ideal yang dicita-citakan memberi arah dan tujuan yang diyakini dan akan diwujudkan dalam kehidupan berbangsa dan bernegara. Hal itu merupakan fungsi Pancasila sebagai ...",
-        "pilihan": [
-            "Pandangan hidup bangsa",
-            "Ideologi nasional",
-            "Dasar Negara",
-            "Falsafah Negara",
-            "Ideologi terbuka"
-        ],
-        "jawaban_benar": "Ideologi nasional",
-        "pembahasan": "dilihat dari proses --> perjanjian luhur\nway of life/memberi petunjuk dan pedoman --> pandangan hidup\nmencapai tujuan dan cita-cita --> ideologi nasional\ndasar untuk mengatur penyelenggaraan negara --> dasar negara\nciri atau karakteristik --> kepribadian"
-    },
-    {
-        "nomor": 4,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nPembangunan ekonomi Indonesia yang berdasarkan Pancasila menganut sistem ekonomi ...",
-        "pilihan": [
-            "Liberal",
-            "Monopoli dan persaingan bebas",
-            "Yang tidak mengakui kepemilikan individu",
-            "Berdasarkan moralitas Ketuhanan dan kemanusiaan",
-            "Yang disertai penindasan dalam mencapai cita-citanya"
-        ],
-        "jawaban_benar": "Berdasarkan moralitas Ketuhanan dan kemanusiaan",
-        "pembahasan": "Pembangunan ekonomi Indonesia yang berdasarkan Pancasila menganut sistem ekonomi berdasarkan moralitas Ketuhanan dan kemanusiaan"
-    },
-    {
-        "nomor": 5,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nPasal 28 A – J UUD 1945. Hakikatnya merupakan penjabaran dari Pancasila sila…..",
-        "pilihan": [
-            "Pertama",
-            "Kedua",
-            "Ketiga",
-            "Keempat",
-            "Kelima"
-        ],
-        "jawaban_benar": "Kedua",
-        "pembahasan": "Pasal 28 A – J adalah pasal-pasal tentang HAM, dengan kata lain merupakan penjabaran sila Kedua"
-    },
-    {
-        "nomor": 6,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nMenurut Undang-Undang Dasar 1945 pasal 22C ayat 2, jumlah seluruh anggota DPD adalah…",
-        "pilihan": [
-            "1/3 dari jumlah anggota DPR",
-            "Tidak kurang dari 1/3 jumlah anggota DPR",
-            "Tidak lebih dari 1/3 jumlah DPR",
-            "Tidak lebih dari 2/3 jumlah anggota DPR",
-            "Tidak kurang dari 2/3 jumlah anggota DPR"
-        ],
-        "jawaban_benar": "Tidak lebih dari 1/3 jumlah DPR",
-        "pembahasan": "Menurut Undang-Undang Dasar 1945 pasal 22C ayat 2, jumlah seluruh anggota DPD adalah tidak lebih dari 1/3 jumlah DPR"
-    },
-    {
-        "nomor": 7,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nPasal manakah yang mengharuskan calon Presiden dan calon Wakil Presiden harus seorang warganegara Indonesia dalam UUD 1945…",
-        "pilihan": [
-            "Pasal 4",
-            "Pasal 5",
-            "Pasal 6",
-            "Pasal 7",
-            "Pasal 8"
-        ],
-        "jawaban_benar": "Pasal 6",
-        "pembahasan": "Berdasarkan Pasal 6 ayat 1 UUD 1945, calon Presiden dan calon Wakil Presiden RI haruslah berkewarganegaraan Indonesia sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain atas kehendaknya sendiri"
-    },
-    {
-        "nomor": 8,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nMenurut UUD, Ketua dan wakil ketua Mahkamah Agung dipilih dari dan oleh…",
-        "pilihan": [
-            "Presiden",
-            "Komisi Yudisial",
-            "Hakim Agung",
-            "Hakim Konstitusi",
-            "DPR"
-        ],
-        "jawaban_benar": "Hakim Agung",
-        "pembahasan": "Berdasarkan Pasal 24A ayat 4 UUD 1945, Ketua dan wakil ketua Mahkamah Agung dipilih dari dan oleh hakim agung."
-    },
-    {
-        "nomor": 9,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nBendera , Bahasa dan lambang negara serta lagu kebangsaan terdapat dalam UUD 1945…",
-        "pilihan": [
-            "BAB XIV",
-            "BAB XV",
-            "BAB XVI",
-            "BAB XVII",
-            "BAB XVIII"
-        ],
-        "jawaban_benar": "BAB XV",
-        "pembahasan": "Bendera, bahasa dan lambang negara serta lagu kebangsaan terdapat dalam UUD 1945 BAB XV"
-    },
-    {
-        "nomor": 10,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nMasyarakat yang tidak pernah memiliki sejarah pemerintahan berbentuk kerajaan adalah masyarakat...",
-        "pilihan": [
-            "Bugis",
-            "Minahasa",
-            "Dawan",
-            "Toraja",
-            "Banjar"
-        ],
-        "jawaban_benar": "Minahasa",
-        "pembahasan": "Masyarakat yang tidak pernah memiliki sejarah pemerintahan berbentuk kerajaan adalah masyarakat Minahasa"
-    },
-    {
-        "nomor": 11,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nUpacara Antar Sotong adalah salah satu kebudayaan dari nelayan masyarakat...",
-        "pilihan": [
-            "Ambon",
-            "Banjar",
-            "Lombok",
-            "Minahasa",
-            "Flores"
-        ],
-        "jawaban_benar": "Ambon",
-        "pembahasan": "Antar Sotong yaitu sebuah adat yang ada di Ambon (Maluku) dimana para nelayan berkumpul menggunakan perahu dan lentera untuk mengundang cumi-cumi dari dasar laut mengikuti cahaya lentera mereka menuju tepi pantai dimana masyarakat sudah menunggu untuk menciduk mereka dari laut"
-    },
-    {
-        "nomor": 12,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nUpacara penyembahan Dewi Lebah (Tawongu) terdapat dalam masyarakat...",
-        "pilihan": [
-            "Badui",
-            "Mentawai",
-            "Flores",
-            "Timor",
-            "Toraja"
-        ],
-        "jawaban_benar": "Timor",
-        "pembahasan": "Tawongu/Dewi Lebah merupakan salah satu dewi yang terdapat di dalam kepercayaan Marapu. Kepercayaan ini banyak dianut oleh masyarakat Sumba dan Timor."
-    },
-    {
-        "nomor": 13,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nPerahu tradisional masyarakat Maluku adalah...",
-        "pilihan": [
-            "Pinisi",
-            "Sandeq",
-            "Jukung",
-            "Sopeyan",
-            "Kole-kole"
-        ],
-        "jawaban_benar": "Kole-kole",
-        "pembahasan": "Kole-kole adalah salah satu jenis perahu khas masyarakat Maluku. Kole-kole juga merupakan salah satu judul lagu dari Maluku."
-    },
-    {
-        "nomor": 14,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nPemilihan umum di Indonesia dilaksanakan berdasarkan asas…",
-        "pilihan": [
-            "Langsung, bersih, bebas, rahasia, jujur, dan adil",
-            "Langsung, umum, demokratis, rahasia, jujur, dan adil",
-            "Langsung, umum, bebas, sabar, jujur, dan adil",
-            "Langsung, umum, bebas, rahasia, ikhlas, dan adil",
-            "Langsung, umum, bebas, rahasia, jujur, dan adil"
-        ],
-        "jawaban_benar": "Langsung, umum, bebas, rahasia, jujur, dan adil",
-        "pembahasan": "Berdasarkan Pasal 22E ayat 1 UUD 1945, pemilihan umum dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali."
-    },
-    {
-        "nomor": 15,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nPemilu bertujuan untuk memilih anggota Dewan Perwakilan Rakyat (DPR), Dewan Perwakilan Daerah (DPD), presiden dan wakil presiden, dan Dewan Perwakilan Rakyat Daerah (DPRD) merupakan terkandung dalam…",
-        "pilihan": [
-            "Pasal 22A Ayat 2",
-            "Pasal 22B Ayat 2",
-            "Pasal 22C Ayat 2",
-            "Pasal 22D Ayat 2",
-            "Pasal 22E Ayat 2"
-        ],
-        "jawaban_benar": "Pasal 22E Ayat 2",
-        "pembahasan": "Berdasarkan Pasal 22E ayat 2 UUD 1945, pemilihan umum diselenggarakan untuk memilih anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Presiden dan Wakil Presiden dan Dewan Perwakilan Rakyat Daerah."
-    },
-    {
-        "nomor": 16,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nWarga negara Indonesia berikut ini yang tidak berhak sebagai pemilih dalam pemilu adalah…",
-        "pilihan": [
-            "Telah berumur 17 tahun",
-            "Cacat jasmani",
-            "Berada di luar negeri",
-            "Gangguan kejiwaan",
-            "Anggota partai politik"
-        ],
-        "jawaban_benar": "Gangguan kejiwaan",
-        "pembahasan": "Syarat pemilih dalam pemilu adalah sebagai berikut:\n1. Termasuk calon pemilih\n2. Warga Negara Indonesia\n3. Telah genap berusia 17 (tujuh belas) tahun atau lebih atau sudah/pernah kawin\n4. Terdaftar sebagai pemilih di daerahnya\n5. Tidak sedang terganggu jiwa/ingatannya\n6. Tidak sedang dicabut hak pilihnya berdasarkan keputusan pengadilan yang telah mempunyai hukum tetap\n7. Hasil pemilih yang telah memenuhi syarat."
-    },
-    {
-        "nomor": 17,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nApabila partai politik melakukan tindak pidana secara terencana. Maka partai politik dapat dibubarkan oleh lembaga…",
-        "pilihan": [
-            "BPK",
-            "MPR",
-            "MK"
-        ],
-        "jawaban_benar": "MK",
-        "pembahasan": "Mahkamah Konstitusi (MK) adalah satu-satunya lembaga tinggi negara yang dapat memutus sengketa pemilu dan membubarkan partai politik."
-    },
-    {
-        "nomor": 18,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nOrganisasi pertama pergerakan nasional di Indonesia yang sekarang hari berdirinya dijadikan Hari Kebangkitan Nasional adalah…",
-        "pilihan": [
-            "Sarekat Dagang Islam",
-            "Budi Utomo",
-            "Indische Partij",
-            "Muhammadiyah",
-            "Perhimpunan Indonesia"
-        ],
-        "jawaban_benar": "Budi Utomo",
-        "pembahasan": "Budi Utomo (ejaan van Ophuijsen: Boedi Oetomo) adalah sebuah organisasi pemuda yang didirikan oleh Dr. Sutomo dan para mahasiswa STOVIA yaitu Goenawan Mangoenkoesoemo dan Soeraji pada tanggal 20 Mei 1908. Tanggal berdirinya Budi Utomo, 20 Mei, diperingati sebagai hari Kebangkitan Nasional."
-    },
-    {
-        "nomor": 19,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nDi antara berikut ini hal yang menjadi faktor kebencian rakyat Indonesia terhadap Jepang, kecuali…",
-        "pilihan": [
-            "Kewajiban sistem tanam paksa atau cuultur stelsel",
-            "Kewajiban “Seikeirei” menyembah istana Tenno di Tokyo yang dianggap merupakan penghinaan terhadap umat Islam",
-            "Kewajiban kerja paksa menjadi Romusha",
-            "Penghinaan kaum wanita dengan membentuk jugun lanfu",
-            "Kewajiban menyerahkan bahan pangan (padi) dan alat-alat kebutuhan lainnya"
-        ],
-        "jawaban_benar": "Kewajiban sistem tanam paksa atau cuultur stelsel",
-        "pembahasan": "Kewajiban tanam paksa merupakan salah satu bentuk penindasan yang dilakukan semasa kolonialisme Belanda."
-    },
-    {
-        "nomor": 20,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nKebijakan pemerintah setelah dekrit Presiden 5 Juli 1959, kecuali…",
-        "pilihan": [
-            "Pembentukan partai politik",
-            "Pembentukan MPRS",
-            "Pembentukan DPAS",
-            "Pembentukan Kabinet Kerja",
-            "Pembentukan front nasional"
-        ],
-        "jawaban_benar": "Pembentukan partai politik",
-        "pembahasan": "Pembentukan partai politik tidak dilakukan oleh Ir. Soekarno setelah Dekrit Presiden 5 Juli 1959."
-    },
-    {
-        "nomor": 21,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nNaiknya Gus Dur menjadi presiden pada pemilihan presiden di dalam sidang MPR merupakan hasil manuver politik dari…",
-        "pilihan": [
-            "Gerakan Rekonsiliasi Nasional",
-            "Fraksi Kebangkitan Bangsa",
-            "Poros tengah",
-            "Koalisi rakyat",
-            "Koalisi nasional"
-        ],
-        "jawaban_benar": "Poros tengah",
-        "pembahasan": "Naiknya Gus Dur menjadi presiden pada pemilihan presiden di dalam sidang MPR merupakan hasil manuver politik dari poros tengah."
-    },
-    {
-        "nomor": 22,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nCEPT (Common Effective Preferential Tarrif) adalah salah satu hasil keputusan penting dalam KTT ASEAN. Isinya adalah…",
-        "pilihan": [
-            "Kawasan damai, bebas, dan netral",
-            "Penetapan tarif bersama",
-            "Kesepakatan penandatanganan Traktat Zona Bebas Senjata Nuklir",
-            "Kawasan bebas di ASEAN",
-            "Kerjasama teroris"
-        ],
-        "jawaban_benar": "Penetapan tarif bersama",
-        "pembahasan": "CEPT (Common Effective Preferential Tarrif) adalah salah satu hasil keputusan penting dalam KTT ASEAN. Isinya adalah penetapan tarif bersama."
-    },
-    {
-        "nomor": 23,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nKerjasama regional Asia Tenggara mempunyai arti yang sangat penting bagi negara-negara anggota maupun bagi negara-negara Asia Tenggara pada umumnya. Arti pentingnya antara lain kerja sama regional itu membuka jalan pikiran baru yaitu…",
-        "pilihan": [
-            "Perpaduan cara berpikir nasional dengan berpikir regional",
-            "Perpaduan cara berpikir lokal dengan berpikir regional",
-            "Perpaduan cara berpikir regional dengan berpikir universal",
-            "Perpaduan cara berpikir universal dengan berpikir nasional",
-            "Perpaduan cara berpikir pragmatis antarnegara"
-        ],
-        "jawaban_benar": "Perpaduan cara berpikir regional dengan berpikir universal",
-        "pembahasan": "Kerjasama regional Asia Tenggara mempunyai arti yang sangat penting bagi negara-negara anggota maupun bagi negara-negara Asia Tenggara pada umumnya. Arti pentingnya antara lain kerja sama regional itu membuka jalan pikiran baru yaitu perpaduan cara berpikir regional dengan berpikir universal."
-    },
-    {
-        "nomor": 24,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nIndonesia sebagai negara anggota PBB mempunyai banyak peran. Salah satu peran Indonesia dalam PBB adalah…",
-        "pilihan": [
-            "Menjadi anggota Dewan tetap PBB",
-            "Ikut menjadi anggota asli yang menandatangani Piagam PBB dalam Konferensi San Fransisco",
-            "Indonesia mengirimkan pasukan perdamaian di bawah bendera PBB",
-            "Menjadi negara utama penyumbang dana PBB",
-            "Memimpin PBB dengan menjadi Sekretaris Jenderal PerserikatanBangsa-Bangsa"
-        ],
-        "jawaban_benar": "Indonesia mengirimkan pasukan perdamaian di bawah bendera PBB",
-        "pembahasan": "Salah satu peran Indonesia dalam PBB yaitu Indonesia mengirimkan pasukan perdamaian di bawah bendera PBB"
-    },
-    {
-        "nomor": 25,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nPeran Indonesia dalam OKI diantaranya…",
-        "pilihan": [
-            "Menjadi percontohan umat Muslim di dunia",
-            "Upaya perdamaian antara Pakistan dan Bangladesh",
-            "Gagasan perlunya membentuk Tata Dunia Baru Islam",
-            "Menyebarkan paham Pan-Islamisme ala Indonesia",
-            "Membentuk badan baru di OKI"
-        ],
-        "jawaban_benar": "Menjadi percontohan umat Muslim di dunia",
-        "pembahasan": "Peran Indonesia dalam OKI diantaranya menjadi percontohan umat muslim di dunia"
-    },
-    {
-        "nomor": 26,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nPerubahan UUD NRI 1945 dilakukan dengan tetap mempertahankan naskah aslinyA.Hal ini dikenal dengan istilah..",
-        "pilihan": [
-            "Adenium",
-            "Adelia",
-            "Adendum",
-            "Adentium",
-            "Referendum"
-        ],
-        "jawaban_benar": "Adendum",
-        "pembahasan": "1. Amandemen adalah perubahan atas isi kontrak/perjanjian yg sudah ada sebelumnya.Sifatnya hanya melakukan perubahan yang bisa dalam bentuk menambah atau mengurangi pada alinea atau paragrap yang sudah ada sebelumnyA.Amendment dilakukan disebabkan adanya kesalahan administratif namun perlu dinyatakan dalam bentuk tertulis dan disepakati oleh para pihak.\n2. Addendum adalah terdapatnya perubahan yang harus dilakukan dengan melakukan penambahan pada alinea, paragrap atau pasal atas suatu pernyataan, peraturan, undang-undang, perjanjian dll. Biasanya addendum dilakukan karena ada hal2 yg belum diatur atau belum diatur pada perjanjian pokoknya"
-    },
-    {
-        "nomor": 27,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nPerhatikan data dibawah ini :\n1.Cinta akan kemajuan dan pembangunan\n2.Pimpinan kerakyatan adalah hikmat kebijaksanaan yang landasi akal sehat.\n3.Keseimbangan antara hak dan kewajiban, serta menghormati orang lain.\n4.Musyawarah untuk mufakat dicapai dalam permusyawaratan wakil-wakil rakyat.\nBerdasarkan data diatas yang merupakan Implementasi dari Nilai Kerakyatan terdapat pada nomor …..",
-        "pilihan": [
-            "1 dan 3",
-            "1 dan 4",
-            "1 dan 2",
-            "2 dan 4",
-            "3 dan 4"
-        ],
-        "jawaban_benar": "2 dan 4",
-        "pembahasan": "Berikut adalah butir-butir Pancasila sila keempat : Sila keempat: Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaran / perwakilan.\n1. Sebagai warga negara dan warga masyarakat, setiap manusia Indonesia mempunyai kedudukan, hak, dan kewajiban yang samA.\n2. Tidak boleh memaksakan kehendak kepada orang lain.\n3. Mengutamakan musyawarah dalam mengambil keputusan untuk kepentingan bersamA.\n4. Musyawarah untuk mencapai mufakat diliputi oleh semangat kekeluargaan.\n5. Menghormati dan menjunjung tinggi setiap keputusan yang dicapai sebagai hasil musyawarah.\n6. Dengan iktikad baik dan rasa tanggung jawab menerima dan melaksanakan hasil keputusan musyawarah.\n7. Di dalam musyawarah diutamakan kepentingan bersama di atas kepentingan pribadi dan golongan.\n8. Musyawarah dilakukan dengan akal sehat dan sesuai dengan hati nurani yang luhur.\n9. Keputusan yang diambil harus dapat dipertanggungjawabkan secara moral kepada Tuhan Yang Maha Esa, menjunjung tinggi harkat dan martabat manusia, nilai-nilai kebenaran dan keadilan mengutamakan persatuan dan kesatuan demi kepentingan bersamA.\n10. Memberikan kepercayaan kepada wakil-wakil yang dipercayai untuk melaksanakan pemusyawaratan. Poin 1 dan 3 adalah implementasi dari butir Pancasila sila kelima"
-    },
-    {
-        "nomor": 28,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nBacalah paragraf berikut dengan saksama!\nDi sebuah bukit yang jauh dari desa, di daerah Kalimantan hiduplah seorang janda miskin dan seorang anak gadisnya. Anak gadis janda itu sangat cantik jelita. Namun sayang, ia mempunyai perilaku yang amat buruk. Gadis itu amat pemalas, tak pernah membantu ibunya melakukan pekerjaan-pekerjaan rumah. Kerjanya hanya bersolek setiap hari. Selain pemalas, anak gadis itu sikapnya manja sekali. Segala permintaannya harus dituruti. Setiap kali ia meminta sesuatu kepada ibunya harus dikabulkan, tanpa mempedulikan keadaan ibunya yang miskin, setiap hari harus membanting tulang mencari sesuap nasi.\nPada suatu hari, anak gadis itu diajak ibunya turun ke desa untuk berbelanja. Letak pasar desa itu amat jauh sehingga mereka harus berjalan kaki yang cukup melelahkan. Anak gadis itu berjalan melenggang dengan memakai pakaian yang bagus dan bersolek agar orang di jalan yang melihatnya nanti akan mengagumi kecantikannya. Sementara ibunya berjalan di belakang sambil membawa keranjang dengan pakaian sangat dekil. Karena mereka hidup di tempat terpencil, tak seorang pun mengetahui bahwa kedua perempuan yang berjalan itu adalah ibu dan anak.\nKetika mereka mulai memasuki desa, orang-orang desa memandangi mereka. Mereka begitu terpesona melihat kecantikan anak gadis itu, terutama para pemuda desa yang tak puas puasnya memandang wajah gadis itu. Namun, ketika melihat orang yang berjalan dibelakang gadis itu, sungguh kontras keadaannya. Hal itu membuat orang bertanya-tanya. Di antara orang yang melihatnya itu, seorang pemuda mendekati dan bertanya kepada gadis itu \"Hai, gadis cantik. Apakah yang berjalan dibelakang itu ibumu?\" Namun, apa jawaban anak gadis itu?\"Bukan,\" katanya dengan angkuh. \"la adalah pembantuku !\"Kedua ibu dan anak itu kemudian meneruskan perjalanan.\nTak seberapa jauh, mendekat lagi seorang pemuda dan bertanya kepada anak gadis itu. \"Hai, manis. Apakah yang berjalan di belakangmu itu ibumu?\"\"Bukan, bukan,\" jawab gadis itu dengan mendongakkan kepalanya. \" la adalah budak!\" Begitulah setiap gadis itu bertemu dengan seseorang di sepanjang jalan yang menanyakan perihal ibunya, selalu jawabannya itu. Ibunya diperlakukan sebagai pembantu atau budaknya.\nPada mulanya mendengar jawaban putrinya yang durhaka jika ditanya orang, si Ibu masih dapat menahan diri. Namun, setelah berulang kali didengarnya jawabannya sama dan yang amat menyakitkan hati, akhirnya si Ibu yang malang itu tak dapat menahan diri. Si Ibu berdoa. \"Ya Tuhan, hamba tak kuat menahan hinaan ini. Anak kandung hamba begitu teganya memperlakukan diri hamba sedemikian rupa. Ya Tuhan, hukumlah anak durhaka ini! Hukumlah dia....\"\nAtas kekuasaan Tuhan Yang Maha Esa, perlahan-lahan tubuh gadis durhaka itu berubah menjadi batu. Perubahan itu dimulai dari kaki. Ketika perubahan itu telah mencapai setengah badan, anak gadis itu menangis memohon ampun kepada ibunya, \"Oh, Ibu. Ibu...ampunilah saya, ampunilah kedurhakaan anakmu selama ini. Ibu...bu..ampunilah anakmu.\nAnak gadis itu terus meratap dan menangis memohon kepada ibunya. Akan tetapi, semuanya telah terlambat. Seluruh tubuh gadis itu akhirnya berubah menjadi batu. Sekalipun menjadi batu, namun orang dapat melihat bahwa kedua matanya masih menitikkan air mata, seperti sedang menangis. Oleh karena itu, batu yang berasal dari gadis yang mendapat kutukan ibunya itu disebut \"Batu Menangis\".\nSecara implisit, tokoh Ibu adalah seorang yang sabar dan kuat. Hal ini terlihat jelas dari ....",
-        "pilihan": [
-            "Ibu membawa keranjang dengan pakaian yang sangat dekil.",
-            "Ibu bekerja membanting tulang mencari sesuap nasi.",
-            "Ibu menjadi janda karena suaminya telah tiada.",
-            "Ibu menahan diri, ketika anak gadis menyebutnya budak.",
-            "Ibu merasa sangat sakit hati terhadap ucapan anaknya."
-        ],
-        "jawaban_benar": "Ibu menahan diri, ketika anak gadis menyebutnya budak.",
-        "pembahasan": "Tokoh Ibu sangat penyabar terlihat dari sikapnya dalam menahan diri ketika anak gadisnya menyebutnya budak."
-    },
-    {
-        "nomor": 29,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nPenulisan tanggal surat yang benar adalah ...",
-        "pilihan": [
-            "Yogyakarta, 28-02-2019",
-            "Yogyakarta, Februari 28, 2019",
-            "Yogyakarta, 28 Februari 2019",
-            "Yogyakarta, 28/02/19",
-            "Yogyakarta, 28 Februari 2019."
-        ],
-        "jawaban_benar": "Yogyakarta, 28 Februari 2019",
-        "pembahasan": "Penulisan tanggal yang benar adalah menuliskan nama tempat (diawali dengan huruf kapital) dan diikuti tanda koma lalu tanggal, bulan (menyebutkan nama lengkap bulan tersebut), dan tahun secara lengkap dan tidak dipisah dengan tanda hubung apapun maupun garis miring."
-    },
-    {
-        "nomor": 30,
-        "sub_modul": "TWK",
-        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nTokoh yang bersama Bung Karno dan Muhammad Yamin ikut melakukan pembicaraan terbatas mengenai Semboyan Bhineka Tunggal Ika pada Sidang-sidang BPUPKI adalah…",
-        "pilihan": [
-            "I Gusti Bagus Sugriwa",
-            "Adam Malik",
-            "Sultan Hamid II",
-            "Ahmad Subarjo",
-            "I Made Bagus"
-        ],
-        "jawaban_benar": "I Gusti Bagus Sugriwa",
-        "pembahasan": "Semboyan Bhinneka Tunggal Ika mulai menjadi pembicaraan terbatas antara Muhammad Yamin, Bung Karno, I Gusti Bagus Sugriwa dalam sidang-sidang BPUPKI sekitar dua setengah bulan sebelum Proklamasi (Kusuma R.M. A.B, 2004). Bahkan Bung Hatta sendiri mengatakan bahwa Bhinneka Tunggal Ika adalah ciptaan Bung Karno setelah Indonesia merdekA.Setelah beberapa tahun kemudian ketika merancang Lambang Negara Republik Indonesia dalam bentuk Garuda Pancasila, semboyan Bhinneka Tunggal Ika dimasukkan ke dalamnya."
-    }
+  {
+    "nomor": 1,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 1\nTidak dijawab\nBangsa Indonesia memiliki kedudukan yang sama baik hak maupun kewajiban didalam masyarakat. Bangsa Indonesia tidak boleh memaksakan kehendak dan selalu mengutamakan musyawarah dalam mengambil keputusan serta menghormati dan menjunjung tinggi serta memiliki itikad baik juga tanggung jawab atas hasil kesepakatan dalam musyawarah. Merupakan pengamalan pancasila sila ...",
+    "pilihan": ["Pertama", "Kedua", "Ketiga", "Keempat", "Kelima"],
+    "jawaban_benar": "Keempat",
+    "pembahasan": "Sila Pertama --> Ketuhanan, kebebasan beragama\nSila Kedua --> Kemanusiaan, hubungan antarbangsa dan negara, HAM, kebudayaan, iptek.\nSila Ketiga --> persatuan, keutuhan bangsa, NKRI harga mati, kebhinnekatunggalikaan\nSila Keempat --> musyawarah, demokrasi, mengutamakan kepentingan bangsa dan negara atas kepentingan pribadi dan golongan\nSila Kelima --> pembangunan bangsa Indonesia, keadilan sosial bagi bangsa Indonesia"
+  },
+  {
+    "nomor": 2,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 2\nTidak dijawab\nBergaya hidup mewah tanpa rasa peduli di Negara berkembang seperti Indonesia sedangkan di sekitar masih banyak rakyat miskin, adalah bertolak belakang dengan pengamalan pancasila sila ...",
+    "pilihan": ["Pertama", "Kedua", "Ketiga", "Keempat", "Kelima"],
+    "jawaban_benar": "Kelima",
+    "pembahasan": "Sila Pertama --> Ketuhanan, kebebasan beragama\nSila Kedua --> Kemanusiaan, hubungan antarbangsa dan negara, HAM, kebudayaan, iptek.\nSila Ketiga --> persatuan, keutuhan bangsa, NKRI harga mati, kebhinnekatunggalikaan\nSila Keempat --> musyawarah, demokrasi, mengutamakan kepentingan bangsa dan negara atas kepentingan pribadi dan golongan\nSila Kelima --> pembangunan bangsa Indonesia, keadilan sosial bagi bangsa Indonesia"
+  },
+  {
+    "nomor": 3,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 3\nTidak dijawab\nPancasila merupakan sistem nilai ideal yang dicita-citakan memberi arah dan tujuan yang diyakini dan akan diwujudkan dalam kehidupan berbangsa dan bernegara. Hal itu merupakan fungsi Pancasila sebagai ...",
+    "pilihan": ["Pandangan hidup bangsa", "Ideologi nasional", "Dasar Negara", "Falsafah Negara", "Ideologi terbuka"],
+    "jawaban_benar": "Ideologi nasional",
+    "pembahasan": "dilihat dari proses --> perjanjian luhur\nway of life/memberi petunjuk dan pedoman --> pandangan hidup\nmencapai tujuan dan cita-cita --> ideologi nasional\ndasar untuk mengatur penyelenggaraan negara --> dasar negara\nciri atau karakteristik --> kepribadian"
+  },
+  {
+    "nomor": 4,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 4\nTidak dijawab\nPembangunan ekonomi Indonesia yang berdasarkan Pancasila menganut sistem ekonomi ...",
+    "pilihan": [
+      "Liberal",
+      "Monopoli dan persaingan bebas",
+      "Yang tidak mengakui kepemilikan individu",
+      "Berdasarkan moralitas Ketuhanan dan kemanusiaan",
+      "Yang disertai penindasan dalam mencapai cita-citanya"
+    ],
+    "jawaban_benar": "Berdasarkan moralitas Ketuhanan dan kemanusiaan",
+    "pembahasan": "Pembangunan ekonomi Indonesia yang berdasarkan Pancasila menganut sistem ekonomi berdasarkan moralitas Ketuhanan dan kemanusiaan"
+  },
+  {
+    "nomor": 5,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 5\nTidak dijawab\nPasal 28 A – J UUD 1945. Hakikatnya merupakan penjabaran dari Pancasila sila…..",
+    "pilihan": ["Pertama", "Kedua", "Ketiga", "Keempat", "Kelima"],
+    "jawaban_benar": "Kedua",
+    "pembahasan": "Pasal 28 A – J adalah pasal-pasal tentang HAM, dengan kata lain merupakan penjabaran sila Kedua"
+  },
+  {
+    "nomor": 6,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 6\nTidak dijawab\nMenurut Undang-Undang Dasar 1945 pasal 22C ayat 2, jumlah seluruh anggota DPD adalah…",
+    "pilihan": [
+      "1/3 dari jumlah anggota DPR",
+      "Tidak kurang dari 1/3 jumlah anggota DPR",
+      "Tidak lebih dari 1/3 jumlah DPR",
+      "Tidak lebih dari 2/3 jumlah anggota DPR",
+      "Tidak kurang dari 2/3 jumlah anggota DPR"
+    ],
+    "jawaban_benar": "Tidak lebih dari 1/3 jumlah DPR",
+    "pembahasan": "Menurut Undang-Undang Dasar 1945 pasal 22C ayat 2, jumlah seluruh anggota DPD adalah tidak lebih dari 1/3 jumlah DPR"
+  },
+  {
+    "nomor": 7,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 7\nTidak dijawab\nPasal manakah yang mengharuskan calon Presiden dan calon Wakil Presiden harus seorang warganegara Indonesia dalam UUD 1945…",
+    "pilihan": ["Pasal 4", "Pasal 5", "Pasal 6", "Pasal 7", "Pasal 8"],
+    "jawaban_benar": "Pasal 6",
+    "pembahasan": "Berdasarkan Pasal 6 ayat 1 UUD 1945, calon Presiden dan calon Wakil Presiden RI haruslah berkewarganegaraan Indonesia sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain atas kehendaknya sendiri"
+  },
+  {
+    "nomor": 8,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 8\nTidak dijawab\nMenurut UUD, Ketua dan wakil ketua Mahkamah Agung dipilih dari dan oleh…",
+    "pilihan": ["Presiden", "Komisi Yudisial", "Hakim Agung", "Hakim Konstitusi", "DPR"],
+    "jawaban_benar": "Hakim Agung",
+    "pembahasan": "Berdasarkan Pasal 24A ayat 4 UUD 1945, Ketua dan wakil ketua Mahkamah Agung dipilih dari dan oleh hakim agung."
+  },
+  {
+    "nomor": 9,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 9\nTidak dijawab\nBendera , Bahasa dan lambang negara serta lagu kebangsaan terdapat dalam UUD 1945…",
+    "pilihan": ["BAB XIV", "BAB XV", "BAB XVI", "BAB XVII", "BAB XVIII"],
+    "jawaban_benar": "BAB XV",
+    "pembahasan": "Bendera, bahasa dan lambang negara serta lagu kebangsaan terdapat dalam UUD 1945 BAB XV"
+  },
+  {
+    "nomor": 10,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 10\nTidak dijawab\nMasyarakat yang tidak pernah memiliki sejarah pemerintahan berbentuk kerajaan adalah masyarakat...",
+    "pilihan": ["Bugis", "Minahasa", "Dawan", "Toraja", "Banjar"],
+    "jawaban_benar": "Minahasa",
+    "pembahasan": "Masyarakat yang tidak pernah memiliki sejarah pemerintahan berbentuk kerajaan adalah masyarakat Minahasa"
+  },
+  {
+    "nomor": 11,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 11\nTidak dijawab\nUpacara Antar Sotong adalah salah satu kebudayaan dari nelayan masyarakat...",
+    "pilihan": ["Ambon", "Banjar", "Lombok", "Minahasa", "Flores"],
+    "jawaban_benar": "Ambon",
+    "pembahasan": "Antar Sotong yaitu sebuah adat yang ada di Ambon (Maluku) dimana para nelayan berkumpul menggunakan perahu dan lentera untuk mengundang cumi-cumi dari dasar laut mengikuti cahaya lentera mereka menuju tepi pantai dimana masyarakat sudah menunggu untuk menciduk mereka dari laut"
+  },
+  {
+    "nomor": 12,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 12\nTidak dijawab\nUpacara penyembahan Dewi Lebah (Tawongu) terdapat dalam masyarakat...",
+    "pilihan": ["Badui", "Mentawai", "Flores", "Timor", "Toraja"],
+    "jawaban_benar": "Timor",
+    "pembahasan": "Tawongu/Dewi Lebah merupakan salah satu dewi yang terdapat di dalam kepercayaan Marapu. Kepercayaan ini banyak dianut oleh masyarakat Sumba dan Timor."
+  },
+  {
+    "nomor": 13,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 13\nTidak dijawab\nPerahu tradisional masyarakat Maluku adalah...",
+    "pilihan": ["Pinisi", "Sandeq", "Jukung", "Sopeyan", "Kole-kole"],
+    "jawaban_benar": "Kole-kole",
+    "pembahasan": "Kole-kole adalah salah satu jenis perahu khas masyarakat Maluku. Kole-kole juga merupakan salah satu judul lagu dari Maluku."
+  },
+  {
+    "nomor": 14,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 14\nTidak dijawab\nPemilihan umum di Indonesia dilaksanakan berdasarkan asas…",
+    "pilihan": [
+      "Langsung, bersih, bebas, rahasia, jujur, dan adil",
+      "Langsung, umum, demokratis, rahasia, jujur, dan adil",
+      "Langsung, umum, bebas, sabar, jujur, dan adil",
+      "Langsung, umum, bebas, rahasia, ikhlas, dan adil",
+      "Langsung, umum, bebas, rahasia, jujur, dan adil"
+    ],
+    "jawaban_benar": "Langsung, umum, bebas, rahasia, jujur, dan adil",
+    "pembahasan": "Berdasarkan Pasal 22E ayat 1 UUD 1945, pemilihan umum dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali."
+  },
+  {
+    "nomor": 15,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 15\nTidak dijawab\nPemilu bertujuan untuk memilih anggota Dewan Perwakilan Rakyat (DPR), Dewan Perwakilan Daerah (DPD), presiden dan wakil presiden, dan Dewan Perwakilan Rakyat Daerah (DPRD) merupakan terkandung dalam…",
+    "pilihan": ["Pasal 22A Ayat 2", "Pasal 22B Ayat 2", "Pasal 22C Ayat 2", "Pasal 22D Ayat 2", "Pasal 22E Ayat 2"],
+    "jawaban_benar": "Pasal 22E Ayat 2",
+    "pembahasan": "Berdasarkan Pasal 22E ayat 2 UUD 1945, pemilihan umum diselenggarakan untuk memilih anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Presiden dan Wakil Presiden dan Dewan Perwakilan Rakyat Daerah."
+  },
+  {
+    "nomor": 16,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 16\nTidak dijawab\nWarga negara Indonesia berikut ini yang tidak berhak sebagai pemilih dalam pemilu adalah…",
+    "pilihan": [
+      "Telah berumur 17 tahun",
+      "Cacat jasmani",
+      "Berada di luar negeri",
+      "Gangguan kejiwaan",
+      "Anggota partai politik"
+    ],
+    "jawaban_benar": "Gangguan kejiwaan",
+    "pembahasan": "Syarat pemilih dalam pemilu adalah sebagai berikut:\n1. Termasuk calon pemilih\n2. Warga Negara Indonesia\n3. Telah genap berusia 17 (tujuh belas) tahun atau lebih atau sudah/pernah kawin\n4. Terdaftar sebagai pemilih di daerahnya\n5. Tidak sedang terganggu jiwa/ingatannya\n6. Tidak sedang dicabut hak pilihnya berdasarkan keputusan pengadilan yang telah mempunyai hukum tetap\n7. Hasil pemilih yang telah memenuhi syarat."
+  },
+  {
+    "nomor": 17,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 17\nTidak dijawab\nApabila partai politik melakukan tindak pidana secara terencana. Maka partai politik dapat dibubarkan oleh lembaga…",
+    "pilihan": ["BPK", "MPR", "MK"],
+    "jawaban_benar": "MK",
+    "pembahasan": "Mahkamah Konstitusi (MK) adalah satu-satunya lembaga tinggi negara yang dapat memutus sengketa pemilu dan membubarkan partai politik."
+  },
+  {
+    "nomor": 18,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 18\nTidak dijawab\nOrganisasi pertama pergerakan nasional di Indonesia yang sekarang hari berdirinya dijadikan Hari Kebangkitan Nasional adalah…",
+    "pilihan": ["Sarekat Dagang Islam", "Budi Utomo", "Indische Partij", "Muhammadiyah", "Perhimpunan Indonesia"],
+    "jawaban_benar": "Budi Utomo",
+    "pembahasan": "Budi Utomo (ejaan van Ophuijsen: Boedi Oetomo) adalah sebuah organisasi pemuda yang didirikan oleh Dr. Sutomo dan para mahasiswa STOVIA yaitu Goenawan Mangoenkoesoemo dan Soeraji pada tanggal 20 Mei 1908. Tanggal berdirinya Budi Utomo, 20 Mei, diperingati sebagai hari Kebangkitan Nasional."
+  },
+  {
+    "nomor": 19,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 19\nTidak dijawab\nDi antara berikut ini hal yang menjadi faktor kebencian rakyat Indonesia terhadap Jepang, kecuali…",
+    "pilihan": [
+      "Kewajiban sistem tanam paksa atau cuultur stelsel",
+      "Kewajiban “Seikeirei” menyembah istana Tenno di Tokyo yang dianggap merupakan penghinaan terhadap umat Islam",
+      "Kewajiban kerja paksa menjadi Romusha",
+      "Penghinaan kaum wanita dengan membentuk jugun lanfu",
+      "Kewajiban menyerahkan bahan pangan (padi) dan alat-alat kebutuhan lainnya"
+    ],
+    "jawaban_benar": "Kewajiban sistem tanam paksa atau cuultur stelsel",
+    "pembahasan": "Kewajiban tanam paksa merupakan salah satu bentuk penindasan yang dilakukan semasa kolonialisme Belanda."
+  },
+  {
+    "nomor": 20,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 20\nTidak dijawab\nKebijakan pemerintah setelah dekrit Presiden 5 Juli 1959, kecuali…",
+    "pilihan": [
+      "Pembentukan partai politik",
+      "Pembentukan MPRS",
+      "Pembentukan DPAS",
+      "Pembentukan Kabinet Kerja",
+      "Pembentukan front nasional"
+    ],
+    "jawaban_benar": "Pembentukan partai politik",
+    "pembahasan": "Pembentukan partai politik tidak dilakukan oleh Ir. Soekarno setelah Dekrit Presiden 5 Juli 1959."
+  },
+  {
+    "nomor": 21,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 21\nTidak dijawab\nNaiknya Gus Dur menjadi presiden pada pemilihan presiden di dalam sidang MPR merupakan hasil manuver politik dari…",
+    "pilihan": [
+      "Gerakan Rekonsiliasi Nasional",
+      "Fraksi Kebangkitan Bangsa",
+      "Poros tengah",
+      "Koalisi rakyat",
+      "Koalisi nasional"
+    ],
+    "jawaban_benar": "Poros tengah",
+    "pembahasan": "Naiknya Gus Dur menjadi presiden pada pemilihan presiden di dalam sidang MPR merupakan hasil manuver politik dari poros tengah."
+  },
+  {
+    "nomor": 22,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 22\nTidak dijawab\nCEPT (Common Effective Preferential Tarrif) adalah salah satu hasil keputusan penting dalam KTT ASEAN. Isinya adalah…",
+    "pilihan": [
+      "Kawasan damai, bebas, dan netral",
+      "Penetapan tarif bersama",
+      "Kesepakatan penandatanganan Traktat Zona Bebas Senjata Nuklir",
+      "Kawasan bebas di ASEAN",
+      "Kerjasama teroris"
+    ],
+    "jawaban_benar": "Penetapan tarif bersama",
+    "pembahasan": "CEPT (Common Effective Preferential Tarrif) adalah salah satu hasil keputusan penting dalam KTT ASEAN. Isinya adalah penetapan tarif bersama."
+  },
+  {
+    "nomor": 23,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 23\nTidak dijawab\nKerjasama regional Asia Tenggara mempunyai arti yang sangat penting bagi negara-negara anggota maupun bagi negara-negara Asia Tenggara pada umumnya. Arti pentingnya antara lain kerja sama regional itu membuka jalan pikiran baru yaitu…",
+    "pilihan": [
+      "Perpaduan cara berpikir nasional dengan berpikir regional",
+      "Perpaduan cara berpikir lokal dengan berpikir regional",
+      "Perpaduan cara berpikir regional dengan berpikir universal",
+      "Perpaduan cara berpikir universal dengan berpikir nasional",
+      "Perpaduan cara berpikir pragmatis antarnegara"
+    ],
+    "jawaban_benar": "Perpaduan cara berpikir regional dengan berpikir universal",
+    "pembahasan": "Kerjasama regional Asia Tenggara mempunyai arti yang sangat penting bagi negara-negara anggota maupun bagi negara-negara Asia Tenggara pada umumnya. Arti pentingnya antara lain kerja sama regional itu membuka jalan pikiran baru yaitu perpaduan cara berpikir regional dengan berpikir universal."
+  },
+  {
+    "nomor": 24,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 24\nTidak dijawab\nIndonesia sebagai negara anggota PBB mempunyai banyak peran. Salah satu peran Indonesia dalam PBB adalah…",
+    "pilihan": [
+      "Menjadi anggota Dewan tetap PBB",
+      "Ikut menjadi anggota asli yang menandatangani Piagam PBB dalam Konferensi San Fransisco",
+      "Indonesia mengirimkan pasukan perdamaian di bawah bendera PBB",
+      "Menjadi negara utama penyumbang dana PBB",
+      "Memimpin PBB dengan menjadi Sekretaris Jenderal PerserikatanBangsa-Bangsa"
+    ],
+    "jawaban_benar": "Indonesia mengirimkan pasukan perdamaian di bawah bendera PBB",
+    "pembahasan": "Salah satu peran Indonesia dalam PBB yaitu Indonesia mengirimkan pasukan perdamaian di bawah bendera PBB"
+  },
+  {
+    "nomor": 25,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 25\nTidak dijawab\nPeran Indonesia dalam OKI diantaranya…",
+    "pilihan": [
+      "Menjadi percontohan umat Muslim di dunia",
+      "Upaya perdamaian antara Pakistan dan Bangladesh",
+      "Gagasan perlunya membentuk Tata Dunia Baru Islam",
+      "Menyebarkan paham Pan-Islamisme ala Indonesia",
+      "Membentuk badan baru di OKI"
+    ],
+    "jawaban_benar": "Menjadi percontohan umat Muslim di dunia",
+    "pembahasan": "Peran Indonesia dalam OKI diantaranya menjadi percontohan umat muslim di dunia"
+  },
+  {
+    "nomor": 26,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 26\nTidak dijawab\nPerubahan UUD NRI 1945 dilakukan dengan tetap mempertahankan naskah aslinyA.Hal ini dikenal dengan istilah..",
+    "pilihan": ["Adenium", "Adelia", "Adendum", "Adentium", "Referendum"],
+    "jawaban_benar": "Adendum",
+    "pembahasan": "1. Amandemen adalah perubahan atas isi kontrak/perjanjian yg sudah ada sebelumnya.Sifatnya hanya melakukan perubahan yang bisa dalam bentuk menambah atau mengurangi pada alinea atau paragrap yang sudah ada sebelumnyA.Amendment dilakukan disebabkan adanya kesalahan administratif namun perlu dinyatakan dalam bentuk tertulis dan disepakati oleh para pihak.\n2. Addendum adalah terdapatnya perubahan yang harus dilakukan dengan melakukan penambahan pada alinea, paragrap atau pasal atas suatu pernyataan, peraturan, undang-undang, perjanjian dll. Biasanya addendum dilakukan karena ada hal2 yg belum diatur atau belum diatur pada perjanjian pokoknya"
+  },
+  {
+    "nomor": 27,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 27\nTidak dijawab\nPerhatikan data dibawah ini :\n1.Cinta akan kemajuan dan pembangunan\n2.Pimpinan kerakyatan adalah hikmat kebijaksanaan yang landasi akal sehat.\n3.Keseimbangan antara hak dan kewajiban, serta menghormati orang lain.\n4.Musyawarah untuk mufakat dicapai dalam permusyawaratan wakil-wakil rakyat.\nBerdasarkan data diatas yang merupakan Implementasi dari Nilai Kerakyatan terdapat pada nomor …..",
+    "pilihan": ["1 dan 3", "1 dan 4", "1 dan 2", "2 dan 4", "3 dan 4"],
+    "jawaban_benar": "2 dan 4",
+    "pembahasan": "Berikut adalah butir-butir Pancasila sila keempat : Sila keempat: Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaran / perwakilan.\n1. Sebagai warga negara dan warga masyarakat, setiap manusia Indonesia mempunyai kedudukan, hak, dan kewajiban yang samA.\n2. Tidak boleh memaksakan kehendak kepada orang lain.\n3. Mengutamakan musyawarah dalam mengambil keputusan untuk kepentingan bersamA.\n4. Musyawarah untuk mencapai mufakat diliputi oleh semangat kekeluargaan.\n5. Menghormati dan menjunjung tinggi setiap keputusan yang dicapai sebagai hasil musyawarah.\n6. Dengan iktikad baik dan rasa tanggung jawab menerima dan melaksanakan hasil keputusan musyawarah.\n7. Di dalam musyawarah diutamakan kepentingan bersama di atas kepentingan pribadi dan golongan.\n8. Musyawarah dilakukan dengan akal sehat dan sesuai dengan hati nurani yang luhur.\n9. Keputusan yang diambil harus dapat dipertanggungjawabkan secara moral kepada Tuhan Yang Maha Esa, menjunjung tinggi harkat dan martabat manusia, nilai-nilai kebenaran dan keadilan mengutamakan persatuan dan kesatuan demi kepentingan bersamA.\n10. Memberikan kepercayaan kepada wakil-wakil yang dipercayai untuk melaksanakan pemusyawaratan. Poin 1 dan 3 adalah implementasi dari butir Pancasila sila kelima"
+  },
+  {
+    "nomor": 28,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 28\nTidak dijawab\nBacalah paragraf berikut dengan saksama!\nDi sebuah bukit yang jauh dari desa, di daerah Kalimantan hiduplah seorang janda miskin dan seorang anak gadisnya. Anak gadis janda itu sangat cantik jelita. Namun sayang, ia mempunyai perilaku yang amat buruk. Gadis itu amat pemalas, tak pernah membantu ibunya melakukan pekerjaan-pekerjaan rumah. Kerjanya hanya bersolek setiap hari. Selain pemalas, anak gadis itu sikapnya manja sekali. Segala permintaannya harus dituruti. Setiap kali ia meminta sesuatu kepada ibunya harus dikabulkan, tanpa mempedulikan keadaan ibunya yang miskin, setiap hari harus membanting tulang mencari sesuap nasi.\nPada suatu hari, anak gadis itu diajak ibunya turun ke desa untuk berbelanja. Letak pasar desa itu amat jauh sehingga mereka harus berjalan kaki yang cukup melelahkan. Anak gadis itu berjalan melenggang dengan memakai pakaian yang bagus dan bersolek agar orang di jalan yang melihatnya nanti akan mengagumi kecantikannya. Sementara ibunya berjalan di belakang sambil membawa keranjang dengan pakaian sangat dekil. Karena mereka hidup di tempat terpencil, tak seorang pun mengetahui bahwa kedua perempuan yang berjalan itu adalah ibu dan anak.\nKetika mereka mulai memasuki desa, orang-orang desa memandangi mereka. Mereka begitu terpesona melihat kecantikan anak gadis itu, terutama para pemuda desa yang tak puas puasnya memandang wajah gadis itu. Namun, ketika melihat orang yang berjalan dibelakang gadis itu, sungguh kontras keadaannya. Hal itu membuat orang bertanya-tanya. Di antara orang yang melihatnya itu, seorang pemuda mendekati dan bertanya kepada gadis itu \"Hai, gadis cantik. Apakah yang berjalan dibelakang itu ibumu?\" Namun, apa jawaban anak gadis itu?\"Bukan,\" katanya dengan angkuh. \"la adalah pembantuku !\"Kedua ibu dan anak itu kemudian meneruskan perjalanan.\nTak seberapa jauh, mendekat lagi seorang pemuda dan bertanya kepada anak gadis itu. \"Hai, manis. Apakah yang berjalan di belakangmu itu ibumu?\"\"Bukan, bukan,\" jawab gadis itu dengan mendongakkan kepalanya. \" la adalah budak!\" Begitulah setiap gadis itu bertemu dengan seseorang di sepanjang jalan yang menanyakan perihal ibunya, selalu jawabannya itu. Ibunya diperlakukan sebagai pembantu atau budaknya.\nPada mulanya mendengar jawaban putrinya yang durhaka jika ditanya orang, si Ibu masih dapat menahan diri. Namun, setelah berulang kali didengarnya jawabannya sama dan yang amat menyakitkan hati, akhirnya si Ibu yang malang itu tak dapat menahan diri. Si Ibu berdoa. \"Ya Tuhan, hamba tak kuat menahan hinaan ini. Anak kandung hamba begitu teganya memperlakukan diri hamba sedemikian rupa. Ya Tuhan, hukumlah anak durhaka ini! Hukumlah dia....\"\nAtas kekuasaan Tuhan Yang Maha Esa, perlahan-lahan tubuh gadis durhaka itu berubah menjadi batu. Perubahan itu dimulai dari kaki. Ketika perubahan itu telah mencapai setengah badan, anak gadis itu menangis memohon ampun kepada ibunya, \"Oh, Ibu. Ibu...ampunilah saya, ampunilah kedurhakaan anakmu selama ini. Ibu...bu..ampunilah anakmu.\nAnak gadis itu terus meratap dan menangis memohon kepada ibunya. Akan tetapi, semuanya telah terlambat. Seluruh tubuh gadis itu akhirnya berubah menjadi batu. Sekalipun menjadi batu, namun orang dapat melihat bahwa kedua matanya masih menitikkan air mata, seperti sedang menangis. Oleh karena itu, batu yang berasal dari gadis yang mendapat kutukan ibunya itu disebut \"Batu Menangis\".\nSecara implisit, tokoh Ibu adalah seorang yang sabar dan kuat. Hal ini terlihat jelas dari ....",
+    "pilihan": [
+      "Ibu membawa keranjang dengan pakaian yang sangat dekil.",
+      "Ibu bekerja membanting tulang mencari sesuap nasi.",
+      "Ibu menjadi janda karena suaminya telah tiada.",
+      "Ibu menahan diri, ketika anak gadis menyebutnya budak.",
+      "Ibu merasa sangat sakit hati terhadap ucapan anaknya."
+    ],
+    "jawaban_benar": "Ibu menahan diri, ketika anak gadis menyebutnya budak.",
+    "pembahasan": "Tokoh Ibu sangat penyabar terlihat dari sikapnya dalam menahan diri ketika anak gadisnya menyebutnya budak."
+  },
+  {
+    "nomor": 29,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 29\nTidak dijawab\nPenulisan tanggal surat yang benar adalah ...",
+    "pilihan": [
+      "Yogyakarta, 28-02-2019",
+      "Yogyakarta, Februari 28, 2019",
+      "Yogyakarta, 28 Februari 2019",
+      "Yogyakarta, 28/02/19",
+      "Yogyakarta, 28 Februari 2019."
+    ],
+    "jawaban_benar": "Yogyakarta, 28 Februari 2019",
+    "pembahasan": "Penulisan tanggal yang benar adalah menuliskan nama tempat (diawali dengan huruf kapital) dan diikuti tanda koma lalu tanggal, bulan (menyebutkan nama lengkap bulan tersebut), dan tahun secara lengkap dan tidak dipisah dengan tanda hubung apapun maupun garis miring."
+  },
+  {
+    "nomor": 30,
+    "sub_modul": "TWK",
+    "pertanyaan": "Pertanyaan 30\nTidak dijawab\nTokoh yang bersama Bung Karno dan Muhammad Yamin ikut melakukan pembicaraan terbatas mengenai Semboyan Bhineka Tunggal Ika pada Sidang-sidang BPUPKI adalah…",
+    "pilihan": ["I Gusti Bagus Sugriwa", "Adam Malik", "Sultan Hamid II", "Ahmad Subarjo", "I Made Bagus"],
+    "jawaban_benar": "I Gusti Bagus Sugriwa",
+    "pembahasan": "Semboyan Bhinneka Tunggal Ika mulai menjadi pembicaraan terbatas antara Muhammad Yamin, Bung Karno, I Gusti Bagus Sugriwa dalam sidang-sidang BPUPKI sekitar dua setengah bulan sebelum Proklamasi (Kusuma R.M. A.B, 2004). Bahkan Bung Hatta sendiri mengatakan bahwa Bhinneka Tunggal Ika adalah ciptaan Bung Karno setelah Indonesia merdekA.Setelah beberapa tahun kemudian ketika merancang Lambang Negara Republik Indonesia dalam bentuk Garuda Pancasila, semboyan Bhinneka Tunggal Ika dimasukkan ke dalamnya."
+  }
 ]
