@@ -1,0 +1,399 @@
+Soal 1:
+FILM : SKENARIO = ... : ...
+A. Sandiwara : Plot
+B. Teater : Acara
+C. Resital : Tinjauan
+D. Drama : Panggung
+E. Pameran : Pengunjung
+
+==================================================
+
+Soal 2:
+KEPAK : SAYAP = ... : ...
+A. Sandar : kepala
+B. Tarik : tali
+C. Tarik : tali
+D. Hentak : kaki
+E. Hirup : oksigen
+
+==================================================
+
+Soal 3:
+DAUN : DURI = TERATAI : ...
+A. Kamboja
+B. Air
+C. Ranting
+D. Kapur
+E. Kaktus
+
+==================================================
+
+Soal 4:
+IKAN MAS : IKAN PAUS = INSANG : ...
+A. Anjing
+B. Air Tawar
+C. Ikan
+D. Paru - paru
+E. Rusa
+
+==================================================
+
+Soal 5:
+MAKAN : LAPAR = LAMPU : ...
+A. Padang
+B. Terang
+C. Pijar
+D. Gelap
+E. Sinar
+
+==================================================
+
+Soal 6:
+DERAJAT : TEMPERATUR = ... : ...
+A. Ons : Bobot
+B. Cahaya : Terang
+C. Servis : Tenis
+D. Massa : Energi
+E. Air : Dingin
+
+==================================================
+
+Soal 7:
+82, 84, 87, 92, 99, 110, ...
+A. 108
+B. 117
+C. 122
+D. 123
+E. 125
+
+==================================================
+
+Soal 8:
+C, F, H, K, M, P, R ...
+A. V
+B. U
+C. X
+D. Y
+E. W
+
+==================================================
+
+Soal 9:
+G, F, J, H, M, J, P, ...
+A. S, U
+B. L, S
+C. R, S
+D. S, L
+E. L, R
+
+==================================================
+
+Soal 10:
+B, S, E, Q, I, O, ...
+A. O, L
+B. O, M
+C. N, M
+D. N, O
+E. O, P
+
+==================================================
+
+Soal 11:
+Suatu mobil menempuh jarak 7 km dalam 15 menit. Berapakah rata - rata
+jarak tempuh mobil dalam 1 jam?
+A. 27 km
+B. 28 km
+C. 20 km
+D. 26 km
+E. 22 km
+
+==================================================
+
+Soal 12:
+Tiga katup, jika dibuka sendiri - sendiri, masing - masing secara berturut -
+turut dapat menguras air dari sebuah tangki dalam 3, 4, dan 5 menit.
+Berapakah bagian terbesar dari tangki tersebut yang dapat dikuras dalam
+satu menit dengan membuka hanya dua katup?
+A. 1/8
+B. 3/20
+C. 7/12
+D. 1/5
+E. 2/3
+
+==================================================
+
+Soal 13:
+G H I M N J K L M N ...
+A. N – M
+B. M – N
+C. N – O
+D. O – P
+E. P – O
+
+==================================================
+
+Soal 14:
+Jika x = 1/16 dan y = 16%, manakah pernyataan berikut yang benar?
+A. x > y
+B. x = y
+C. x tidak sama dengan y
+D. x < y
+E. hubungan x dan y tak dapat ditentukan
+
+==================================================
+
+Soal 15:
+Semua gunung berbatu dan menjulang.
+Anda berada di tempat yang tidak berbatu dan tidak menjulang.
+A. Anda bukan berada di gunung.
+B. Anda berada di gunung yang tidak menjulang.
+C. Anda berada di gunung yang tidak berbatu.
+D. Anda berada di gunung yang tidak berbatu dan tidak menjulang.
+E. Anda berada di gunung berbatu.
+
+==================================================
+
+Soal 16:
+Dari kota X ke kota Y dilayani oleh 3 bus dan Y ke Z oleh 4 bus. Ali
+berangkat dari kota X ke kota Z melalui Y, kemudian kembali lagi ke X juga
+melalui Y. Jika saat kembali dari Z ke X, ia tidak mau menggunakan bus
+yang sama, maka banyaknya cara perjalanan yang dapat ditempuh oleh Ali
+adalah ... cara.
+A. 72
+B. 12
+C. 23
+D. 96
+E. 36
+
+==================================================
+
+Soal 17:
+Berat dari empat buah paket masing - masing 20, 60, 80, dan 140 kg.
+Manakah dari total berat berikut (dalam kg) yang bukan merupakan berat
+dari kombinasi yang dapat dibuat dari empat buah paket tersebut?
+A. 260
+B. 280
+C. 220
+D. 200
+E. 240
+
+==================================================
+
+Soal 18:
+Di rumah sakit semua dokter berbaju putih dan membawa stetoskop.
+Anton ada di rumah sakit, ia tidak berbaju putih dan tidak membawa
+stetoskop.
+A. Anton bukan seorang dokter
+B. Anton bukan seorang dokter yang berbaju putih
+C. Anton seorang dokter yang tidak membawa stetoskop dan tidak berbaju putih
+D. Anton seorang dokter yang tidak membawa stetoskop
+E. Anton seorang dokter yang tidak berbaju putih
+
+==================================================
+
+Soal 19:
+Iwan lebih tinggi daripada Amir. Amir lebih tinggi daripada Yudi dan
+Bandi. Joko lebih tinggi daripada Amir dan Ridwan. Tidak ada yang
+tingginya sama.
+Jika Iwan tidak lebih tinggi daripada Joko, maka yang tertinggi adalah ...
+A. Bandi
+B. Ridwan
+C. Joko
+D. Yudi
+E. Amir
+
+==================================================
+
+Soal 20:
+Suatu desa terdiri atas 238 keluarga dengan rata-rata jumlah anggota setiap
+keluarga adalah 4 orang dan jumlah orang dewasa seluruhnya 580 orang.
+Suatu saat, sebuah wabah virus menyerang 1/2 dari jumlah anak-anak.
+Berapa orang anak yang diperkirakan akan tertular virus itu?
+A. 380
+B. 261
+C. 290
+D. 186
+E. 372
+
+==================================================
+
+Soal 21:
+Jika perbandingan 2x – y terhadap x + y adalah 2/3, maka perbandingan x
+terhadap y adalah ...
+A. 5 : 1
+B. 1 : 5
+C. 4 : 5
+D. 1 : 4
+E. 5 : 4
+
+==================================================
+
+Soal 22:
+Penduduk dusun A berjumlah 50.000 orang. Setiap tahun penduduk dusun
+itu bertambah 3.000 orang.
+Penduduk dusun B berjumlah 160.500 orang dan setiap tahunnya berkurang
+3.500 orang.
+Berapa tahun lagi kedua dusun itu mempunyai jumlah penduduk yang sama?
+A. 16 tahun
+B. 20 tahun
+C. 19 tahun
+D. 15 tahun
+E. 17 tahun
+
+==================================================
+
+Soal 23:
+Kecepatan Heri berlari adalah tiga kali kecepatan Zainal berjalan. Zainal
+menyelesaikan ujian pukul 11.30 WIB dan kemudian berjalan pulang. Jika
+Heri menyelesaikan ujian pukul 11.36 WIB dan kemudian berlari mengejar
+Zainal, pukul berapa Heri tepat menyusul Zainal?
+A. 11.49 WIB
+B. 11.39 WIB
+C. 11.45 WIB
+D. 11.42 WIB
+E. 11.52 WIB
+
+==================================================
+
+Soal 24:
+Orang mengantuk disorongkan bantal.
+Makna peribahasa di atas adalah ...
+A. Mendapatkan bantuan tak disangka - sangka
+B. Mendapatkan sesuatu yang sudah direncanakan
+C. Mendapatkan keuntungan besar
+D. Mendapatkan musibah yang besar
+E. Mendapatkan sesuatu yang sangat idam - idamkan
+
+==================================================
+
+Soal 25:
+Bagai aur dengan tebing.
+Makna peribahasa di atas adalah ...
+A. Sangat rukun dan selalu saling membantu
+B. Bagai minyak dan air
+C. Selalu bertolak belakang
+D. Sangat ketergantungan
+E. Saling menguntungkan
+
+==================================================
+
+Soal 26:
+Bertemu ruas dengan buku.
+Makna peribahasa di atas adalah ...
+A. Dua hal sudah direncanakan
+B. Dua hal yang berlawanan
+C. Dua hal yang sudah sesuai benar
+D. Dua hal yang sudah pasti
+E. Dua hal yang tidak sesuai
+
+==================================================
+
+Soal 27:
+Bacaan untuk soal 27-28
+Pada suatu lokasi ujian seleksi siswa akselerasi, ada enam siswa yang
+mengikuti ujian tersebut.
+Usia dan skor keenam siswa tersebut dicatat sebagai berikut :
+=> Arief lebih tua dari Fran, skornya lebih rendah dari Lukman
+=> Lukman lebih muda dari Fran, skornya lebih tinggi dari Edwin
+=> Edwin lebih muda dari Arief, skornya lebih tinggi dari Arief
+=> Yudha lebih tua dari suci, skornya lebih rendah dari Fran
+=> Suci lebih tua dari Arief, skornya lebih tinggi dari Lukman
+=> Fran lebih muda dari Edwin, skornya lebih rendah dari Arief
+Siapa yang lebih muda dari Arief dan juga skornya lebih rendah dari Arief?
+A. Suci
+B. Tidak ada kesimpulan yang benar
+C. Yudha
+D. Fran
+E. Lukman
+
+==================================================
+
+Soal 28:
+Siapa yang lebih tua dari Edwin dan yang skornya lebih tinggi dari Edwin?
+A. Arief
+B. Lukman
+C. Tidak ada kesimpulan yang benar
+D. Suci
+E. Yudha
+
+==================================================
+
+Soal 29:
+Bacaan untuk soal 29-31
+4 orang gadis dari daerah yang berbeda akan mengikuti pemilihan putri
+Indonesia 2012. Mereka adalah Ira, Jovana, Indria, dan Wina.
+=> Ira paling tinggi di antara Jovana, Indria, dan Wina; berkulit lebih gelap
+dari indria tetapi
+=> Tidak lebih gelap dari jovana dan Wina; berambut paling Panjang dan
+paling tidak gemukJovana berkulit paling gelap; lebih tinggi dan berambut
+lebih Panjang dari indria dan wina; tetapi lebih kurus dari wina
+=> Indria paling gemuk; berkulit paling putih dan lebih tinggi dari wina
+Manakah yang benar mengenai wina?
+A. Lebih tinggi dari indria
+B. Tidak ada kesimpulan yang benar
+C. Berambut lebih pendek dari Jovana
+D. Bertubuh lebih kurus dari Indria
+E. Berkulit lebih gelap dari jovana
+
+==================================================
+
+Soal 30:
+Siapakah yang memiliki tubuh paling pendek?
+A. Indria
+B. Ira
+C. Tidak ada kesimpulan yang benar
+D. Wina
+E. Jovana
+
+==================================================
+
+Soal 31:
+Manakah yang tidak benar mengenai indria?
+A. Bertubuh lebih gemuk dari wina
+B. Tidak ada kesimpulan yang benar
+C. Berkulit lebih putih dari Ira
+D. Lebih tinggi dari wina
+E. Berambut lebih Panjang dari Jovana
+
+==================================================
+
+Soal 32:
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_170/soal_32_img1.png)
+A. D
+B. A
+C. E
+D. C
+E. B
+
+==================================================
+
+Soal 33:
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_170/soal_33_img1.png)
+A. A
+B. D
+C. C
+D. E
+E. B
+
+==================================================
+
+Soal 34:
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_170/soal_34_img1.png)
+A. C
+B. A
+C. E
+D. D
+E. B
+
+==================================================
+
+Soal 35:
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_170/soal_35_img1.png)
+A. A
+B. B
+C. D
+D. E
+E. C
+
+==================================================
+

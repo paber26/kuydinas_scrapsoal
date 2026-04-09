@@ -1,0 +1,451 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nPENNISILIN : FLEMMING = BAROMETER : ...",
+        "pilihan": [
+            "Lavoiser",
+            "Marconi",
+            "Archimedes",
+            "Toricelli",
+            "Machiaveli"
+        ],
+        "jawaban_benar": "Toricelli",
+        "pembahasan": "Pennisilin ditemukan oleh Flemming. Barometer ditemukan oleh Toricelli."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nKONSTITUSI : PREAMBULE = ... : ...",
+        "pilihan": [
+            "Opera : Intermeso",
+            "Legislatif : Pendahuluan",
+            "Drama : Epilog",
+            "Buku : Kata Pengantar",
+            "Rumah : Halaman"
+        ],
+        "jawaban_benar": "Buku : Kata Pengantar",
+        "pembahasan": "Konstitusi diawali dengan preambul. Buku diawali dengan kata pengantar."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nSINGA : RUSA = ANTISEPTIK : ...",
+        "pilihan": [
+            "Obat",
+            "Hama",
+            "Penyakit",
+            "Kuman",
+            "Kotoran"
+        ],
+        "jawaban_benar": "Kuman",
+        "pembahasan": "Singa membunuh rusa. Antiseptik membunuh kuman."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nPANGGUNG : AKTOR = ... : ...",
+        "pilihan": [
+            "Perpustakaan : Dosen",
+            "Keamanan : Polisi",
+            "Ring : Petinju",
+            "Musik : Konduktor",
+            "Uang : Mesin"
+        ],
+        "jawaban_benar": "Ring : Petinju",
+        "pembahasan": "Panggung tempat beraksi aktor. Ring tempat beraksi petinju."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nA, W, E, V, I, U ...",
+        "pilihan": [
+            "M"
+        ],
+        "jawaban_benar": "M",
+        "pembahasan": "A, ... , E, ..., I , ..., ? = pola + 4: I J K L M\n..., W, ..., V, ..., U"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nE, D, G, E, K, H, ...",
+        "pilihan": [
+            "M, Q",
+            "L, Q",
+            "P, M",
+            "P, L",
+            "Q, M"
+        ],
+        "jawaban_benar": "Q, M",
+        "pembahasan": "E, ..., G, ..., K, ..., ?, ... = pola genap (+2, +4, +6), K L M N O P Q\n..., D, ..., E, ..., H, ..., ? = pola ganjil (+1, +3, +5), H I J K L M"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\n2, 3, 5, 9, 17, 33, 65, ...",
+        "pilihan": [
+            "129",
+            "135"
+        ],
+        "jawaban_benar": "129",
+        "pembahasan": "2, 3, 5, 9, 17, 33, 65, ... = pola x2\n(+1, +2, +4, +8, +16, +32, +64) = 65 + 64 = 129"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\n141, 140, 136, 127, 111, 86, ...",
+        "pilihan": [
+            "50"
+        ],
+        "jawaban_benar": "50",
+        "pembahasan": "141, 140, 136, 127, 111, 86, ... = pola pengurangan bilangan ganjil (-3, -5, -7, -9, -\n11)\n(-1, -4, -9, -16, -25, -36) = 86 - 36 = 50"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nSeorang pekerja dibayar Rp 800 per jam. Ia bekerja dari pukul 08.00 –\n16.00. ia akan mendapat tambahan sebesar 50% per jam jika bekerja\nmelampaui pukul 16.00. Jika ia memperoleh Rp. 8. 000 pada hari itu, pukul\nberapa ia pulang?",
+        "pilihan": [
+            "16.20",
+            "16.40",
+            "17.00",
+            "17.20",
+            "17.40"
+        ],
+        "jawaban_benar": "17.20",
+        "pembahasan": "Dari pukul 8.00 – pukul 16.00, pekerja ini bekerja selama 8 jam.\nUpah 1 hari = 8 jam × Rp 800 = Rp 6.400\nUpah tambahan lembur adalah 50 %\nUpah 1 jam = 50% × Rp 800 = Rp 400.\nJadi, upah lemburnya = Rp 800 + Rp 400 = Rp 1.200\nUpah lembur yang didapat hari itu = Rp 8.000 – Rp 6.400 = Rp 1.600\nJadi, hari itu ia bekerja lembur selama = Rp 1.600 : Rp 1.200 = 1 jam 20 menit.\nDia akan pulang pada pukul 16.00 + 1 jam 20 menit = 17.20.\nJawaban yang paling tepat adalah Opsi D yaitu 17.20"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nJika {x = 0,178 + 6,017 + 5,278925} dan {y = 12}, manakah pernyataan yang\nbenar?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x tidak sama dengan y"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "x = 0,178 + 6,017 + 5,278925 = 11,473925\ny = 12\nJadi, x < y."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nJika 2x = 64 dan 3y= 81, manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x tidak sama dengan y"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "2x = 64\n2x = 26\nx = 6\n3y = 81\n3y = 34\ny = 4\nJadi, x > y."
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nMoko berlari empat kali lebih cepat dari kecepatan Koko berjalan kaki.\nKoko lebih cerdas dari Moko. Pada suatu ujian, Koko berhasil\nmenyelesaikan semua soal ujiannya pada pukul 13.00 WIB dan mulai\nberjalan pulang. Moko berhasil menyelesaikan semua soal ujiannya pada\npukul 13.12 WIB dan berlari mengejar Koko. Pada pukul berapakah Moko\ntepat akan menyusul Koko?",
+        "pilihan": [
+            "13.16 WIB",
+            "13.24 WIB",
+            "13.28 WIB",
+            "13.30 WIB",
+            "13.34 WIB"
+        ],
+        "jawaban_benar": "13.16 WIB",
+        "pembahasan": "Koko = 13.00\nMoko = 13.12\nSM = SK\n4 kj.t = kj.t + kj. 12\n(4kjt – 1kjt) = 12 kj\n3 kjt = 12 kj\nt = 12/3\nt = 12/3\nt = 4\nT = 13.12 + 00.04 = 13.16\nJadi, Moko dapat menyusul Koko tepat pada pukul 13.16."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nTuan kaya membeli 50 ekor sapi senilai Rp 600.000 per ekor, dan 2 bulan\nkemudian membeli 25 ekor sapi seharga Rp 560.000 per ekor. Jika tuan kaya\nmenghendaki harga rata - rata sapinya Rp 580.000 per ekor, berapakah\nharga per ekor yang harus dibayar untuk membeli 25 ekor sapi tambahan?",
+        "pilihan": [
+            "Rp530.000",
+            "Rp540.000",
+            "Rp550.000",
+            "Rp560.000",
+            "Rp520.000"
+        ],
+        "jawaban_benar": "Rp560.000",
+        "pembahasan": "[(50 x 600.000) + (25 x 560.000) + (25 x S)] : 580.000\n= 50 + 25 + 25\n44.000.000 + 25S = 58.000.000\n25S = 14.000.000\nS = 560.000."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nSuatu kelompok belajar mempunyai anggota 7 orang. Jika setiap belajar\nsemua anggota kelompok duduk dengan posisi melingkar, banyaknya cara\nuntuk mengatur posisi duduk anggota kelompok tersebut adalah ...",
+        "pilihan": [
+            "720",
+            "1440",
+            "2520",
+            "5040",
+            "5420"
+        ],
+        "jawaban_benar": "720",
+        "pembahasan": "Permutasi siklis = (7 - 1)! = 6!\n= 6.5.4.3.2.1\n= 30 . 24\n= 720."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nSeorang petani dengan cara manual dapat menggarap sawah seluas 600 m2\nselama 6 jam dan jika menggunakan traktor, waktu yang dibutuhkan hanya\n3 jam saja. Pada suatu saat, setelah menggunakan traktor selama 1 jam 30\nmenit, traktor tersebut rusak dan petani tersebut harus menyelesaikan\nsecara manual dengan menggunakan cangkul. Berapa lama waktu yang\ndiperlukan untuk menyelesaikan pekerjaan tersebut?",
+        "pilihan": [
+            "3 jam 0 menit",
+            "1 jam 30 menit",
+            "2 jam 30 menit",
+            "6 jam 0 menit",
+            "4 jam 30 menit"
+        ],
+        "jawaban_benar": "3 jam 0 menit",
+        "pembahasan": "Setelah dikerjakan dengan traktor selama 1.30, maka lahan yang tinggal 300m2.\nWaktu yang diperlukan untuk menyelesaikannya adalah 300m2 /100 = 3 jam."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nJatuh berkait.\nMakna peribahasa di atas adalah ...",
+        "pilihan": [
+            "Sesuatu yang diperoleh karena orang lain",
+            "Sesuatu yang harapkan",
+            "Sesuatu yang didapatkan karena meminta",
+            "Sesuatu yang diidam-idamkan",
+            "Mendapatkan keuntungan besar"
+        ],
+        "jawaban_benar": "Sesuatu yang didapatkan karena meminta",
+        "pembahasan": "Buah yang jatuh berkait dikiaskan dengan barang sesuatu yang didapat karena\ndiminta, bukan karena pemberian secara sukarela dari orang yang memberi.\nBarang yang didapat sebagai pemberian orang tanpa diminta dikatakan “barang\nyang jatuh tak berkait”."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nSeorang memiliki rumah yang harganya Rp 9.000.000,00. Dalam penilaian\npajak, rumah itu dinilai dua pertiga (2/3) dari harga tersebut.Pajaknya 12,50\ntiap Rp 1.000,00. Berapakah pajak yang harus dia bayar?",
+        "pilihan": [
+            "Rp750.000",
+            "Rp95.000",
+            "Rp75.000",
+            "Rp85.000",
+            "Rp1.125.000"
+        ],
+        "jawaban_benar": "Rp75.000",
+        "pembahasan": "Seorang memiliki rumah yang harganya Rp 9.000.000,00. Dalam penilaian pajak\nrumah itu dinilai dua pertiga (2/3) dari harga tersebut diatas.\nBerarti, harga yang kena pajak\n= 2/3 × 9.000.000 = 6.000.000\nPajaknya 12,50 tiap Rp 1.000,00 Diperoleh\nPajak = (6.000.000 : 1.000) x 12,5 = 75.000\nJadi, besarnya pajak adalah Rp 75.000,00."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSebuah jam setiap hari terlambat 15 menit. Berapa hari yang diperlukan\noleh jam tersebut untuk sampai/ kembali pada titik ketika jam tersebut\nmenunjukkan waktu yang benar?",
+        "pilihan": [
+            "96"
+        ],
+        "jawaban_benar": "96",
+        "pembahasan": "Tiap hari terlambat 15 menit\n1 hari = 24 jam × 60 menit = 1440 menit\nWaktu yang diperlukan untuk kembali menunjukkan waktu yang benar:\n= 1440 menit : 15 menit = 96 hari."
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nKecil teranja-anja, besar terbawa-bawa.\nMakna peribahasa di atas adalah …",
+        "pilihan": [
+            "Kebiasaan buruk yang merugikan orang lain",
+            "Kebiasaan waktu kecil harus ditinggalkan ketika besar",
+            "Waktu kecil dimanja, besar diterlantarkan",
+            "Waktu kecil dimanja hingga besar",
+            "Kebiasaan waktu kecil akan terbawa - bawa hingga kita besar"
+        ],
+        "jawaban_benar": "Kebiasaan waktu kecil akan terbawa - bawa hingga kita besar",
+        "pembahasan": "Arti kiasan peribahasa di atas sangat dekat dengan arti sebenarnya. Dalam\nmendidik anak, orang tua hendaknya tidak memanjakan anak secara berlebih -\nlebihan. Anak yang sejak kecil sangat dimanjakan dengan memperturutkan semua\nkeinginannya, selalu menolong anak itu melakukan semua pekerjaan tanpa\nmemberikan kesempatan kepadanya mengerjakan sendiri. Sifat manja itu akan\nterbawa olehnya sampai ia besar dan tentu saja bukan hanya akan menyusahkan\norang lain, melainkan diri sendiri juga.\nDengan singkat dapat dikatakan, kelakuan buruk yang sudah dibisakan sejak kecil\nakan sukar dihilangkan setelah besar: atau buruk sejak kecil akan terbawa hingga\nbesar."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nSebuah kereta berangkat dari stasiun R menuju stasiun S dengan kecepatan\n72 km/jam dan kembali dari stasiun S ke stasiun R dengan kecepatan 108\nkm/jam. Kecepatan rata - rata kereta tersebut adalah ... km/jam.",
+        "pilihan": [
+            "86,4",
+            "94,6"
+        ],
+        "jawaban_benar": "86,4",
+        "pembahasan": "KPK dari 72 dan 108 = 216\nWaktu dari stasiun R ke S = 216 km : 72 km/jam = 3 jam.\nWaktu dari stasiun S ke R = 216 km : 108 km/jam = 2 jam.\nTotal waktu perjalanan = 5 jam.\nJarak yang ditempuh = 2 × 216 km = 432 km.\nKecepatan rata - rata = 432 km/5 jam = 86,4 km/jam."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSeorang anak yang tingginya 150 cm difoto dalam ukuran kecil dengan skala\n1 : 30. Foto tersebut kemudian ukurannya diperbesar dengan skala 4 : 1.\nTinggi anak dalam foto yang terakhir adalah ...",
+        "pilihan": [
+            "30 cm",
+            "20 cm",
+            "40 cm",
+            "50 cm",
+            "60 cm"
+        ],
+        "jawaban_benar": "20 cm",
+        "pembahasan": "Tinggi sebenarnya = 150 cm, skala 1:30, maka tinggi difoto = 150 cm/30 = 5 cm.\nDiperbesar dengan skala 4 : 1, sehingga: 4 × 5 cm = 20 cm."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nDiketahui 2x = 64 dan 3y = 81. Manakah pernyataan di bawah ini yang\nbenar?",
+        "pilihan": [
+            "x = y",
+            "x < y",
+            "x > y",
+            "x = 0",
+            "y = 0"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "2x = 64\n2x = 2^6\nx = 6\n3y = 81\n3y = 3^4\ny = 4\nJadi, x > y"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSemua pohon bercabang dan berakar.\nTanaman A berakar, tetapi tidak bercabang.\nKesimpulan yang tepat adalah ...",
+        "pilihan": [
+            "Tanaman A adalah pohon yang berakar.",
+            "Tanaman A adalah pohon yang tidak bercabang.",
+            "Tanaman A adalah pohon yang berakar dan tidak bercabang.",
+            "Tanaman A adalah bukan pohon bercabang.",
+            "Tanaman A adalah bukan pohon."
+        ],
+        "jawaban_benar": "Tanaman A adalah bukan pohon.",
+        "pembahasan": "Syarat sebuah pohon ada 2 (dua), yaitu bercabang dan berakar. Jika salah satu\nsyarat saja tidak dipenuhi, maka tanaman tersebut bukanlah pohon."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nJika {x² – 4 = 0} dan {y = 2}, manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x tidak sama dengan y"
+        ],
+        "jawaban_benar": "hubungan x dan y tidak dapat ditentukan",
+        "pembahasan": "x2 – 4 = 0\n(x + 2) (x - 2) = 0\nx = - 2 dan x = 2\ny = 2\nkarena x = ± 2 berarti harga x dan y tak dapat ditentukan."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nA, C, C, E, ..., ... , G, I, I, K",
+        "pilihan": [
+            "E dan G",
+            "G dan H",
+            "H dan I",
+            "G dan J",
+            "E dan J"
+        ],
+        "jawaban_benar": "E dan G",
+        "pembahasan": "A – C – C – E – E – G – G – I – I – K\nPola: huruf ke-2 dihilangkan, huruf selanjutnya diulang."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nSeorang siswa memperoleh nilai 91, 88, 86, dan 78 untuk 4 mata pelajaran.\nBerapa nilai yang harus diperoleh untuk mata pelajaran kelima agar dia\nmemperoleh nilai rata-rata 85?",
+        "pilihan": [
+            "82"
+        ],
+        "jawaban_benar": "82",
+        "pembahasan": "85 × 5 = 425\n425 - (91 + 88 + 86 + 78) = 82."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nBacaan untuk soal 57-59\nAngela ,Lilian, Mary, dan Cindy adalah 4 orang petenis professional yang\nbertanding di STAN Open. Mereka bertanding satu sama lain sehingga\nterdapat 6 pertandingan untuk menentukan pemenang. Setiap kali\nmemenangkan 1 pertandingan, tiap peserta memperoleh 100 poin. Cindi\ndikalahkan oleh Angela. Lilian mengalahkan angela dan Cindy. Mary\nmengalahan Lilian, Angela dan Cindy.\nBerapa pertandingan yang dimenangkan Lilian?",
+        "pilihan": [
+            "2",
+            "Tidak ada kesimpulan yang benar"
+        ],
+        "jawaban_benar": "2",
+        "pembahasan": "Cindy >< Angela (100)\nLilian (100) >< Angela\nLilian (100) >< Cincy\nMary (100) >< Lilian\nMary (100) >< Angela\nMary (100) >< Cindy\nLilian 3 kali bertanding, 2 kali menang"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSiapa yang selalu kalah?",
+        "pilihan": [
+            "Mary",
+            "Lilian",
+            "Cindy",
+            "Angela",
+            "Tidak ada kesimpulan yang benar"
+        ],
+        "jawaban_benar": "Cindy",
+        "pembahasan": "Cindy >< Angela (100)\nLilian (100) >< Angela\nLilian (100) >< Cincy\nMary (100) >< Lilian\nMary (100) >< Angela\nMary (100) >< Cindy\nPerolehan poin :\n=> Angela 100\n=> Lilian 200\n=> Mary 300\n=> Cindy 0\nJadi, yang selalu kalah yaitu cindy"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nSiapakah yang mendapat 200 poin?",
+        "pilihan": [
+            "Lilian",
+            "Mary",
+            "Angela",
+            "Cindy",
+            "Tidak ada kesimpulan yang benar"
+        ],
+        "jawaban_benar": "Lilian",
+        "pembahasan": "Cindy >< Angela (100)\nLilian (100) >< Angela\nLilian (100) >< Cincy\nMary (100) >< Lilian\nMary (100) >< Angela\nMary (100) >< Cindy\nPerolehan poin :\nAngela 100\nLilian 200\nMary 300\nCindy 0"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nBacaan untuk soal 60-61\nAuriga hendak menyusun novel-novel miliknya di laci penyimpanan agar\nmudah diambil saat ia ingin membacanya. Dia memiliki lima novel yaitu\nRoman Picisan, Risalah hati, Lagu Cinta, Sayap-sayap Patah, dan Separuh\nNafas. Dia menyusun novel-novel itu menurut urutan berikut:\n> Sayap-sayap Patah tidak pernah di tumpukan teratas\n> Lagu Cinta ada di tumpukan ke-3 dari atas maupun dari bawah\n> Risalah Hati selalu ada di atas Separuh Nafas\nKetika Sayap-sayap Patah ada di tumpukan ke-4 dari bawah, kemungkinan\nyang terjadi adalah . . .",
+        "pilihan": [
+            "Risalah Hati ada di tumpukan teratas",
+            "Risalah Hati tepat berada di bawah Roman Picisan",
+            "Lagu Cinta tepat di atas Sayap-sayap Patah",
+            "Risalah Hati mungkin di tumpukan terbawah",
+            "Roman Picisan di tumpukan teratas"
+        ],
+        "jawaban_benar": "Risalah Hati ada di tumpukan teratas",
+        "pembahasan": "Risalah Hati ada di tumpukan teratas"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nKetika Roman Picisan di urutan ke-2 dari atas, posisi Sayap-sayap Patah\nadalah . . .",
+        "pilihan": [
+            "Tumpukan terakhir dari bawah",
+            "Tumpukan ke-3 dari atas",
+            "Tumpukan ke-2 dari atas",
+            "Tumpukan ke-2 dari bawah",
+            "Tumpukan teratas"
+        ],
+        "jawaban_benar": "Tumpukan ke-2 dari bawah",
+        "pembahasan": "Urutan buku dari atas ke bawah : Risalah Hati – Roman Picisan – Lagu Cinta –\nSeparuh Nafas / Sayap-sayap Patah – Separuh Nafas / Sayah-sayap Patah\nDapat menggunakan metode eliminasi :\nA : salah, tumpukan terakhir dari bawah berarti ditumpukan paling atas, tidak\nsesuai dengan syarat no 1\nB : salah, tidak sesuai dengan syarat no 2\nC : salah, tidak sesuai dengan pertanyaan pada soal\nD : benar, karena ada 2 kemungkinan yaitu berada di urutan no 1 atau 2 dari bawah\nE : salah, tidak sesuai dengan syarat no 1"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Jumlah titik bertambah dan letaknya diagonal"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Jumlah titik bertambah dan posisinya adalah searah jarum jam"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Poin perhatian adalah pada jumlah sisi yang selalu menurun.Yakni 6,5,4 lalu 3\nsisi."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Penambahan titik yang benar adalah (B)"
+    }
+]

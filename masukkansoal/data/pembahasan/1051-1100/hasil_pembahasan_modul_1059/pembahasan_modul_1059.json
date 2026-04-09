@@ -1,0 +1,632 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nAnda mengetahui bahwa prosedur kerja yang digunakan tim Anda sudah usang dan tidak efisien. Bagaimana sebaiknya Anda menindaklanjuti hal ini?",
+        "pilihan": [
+            "Mengusulkan pembaruan prosedur kepada atasan sesuai kompetensi Anda\n(Nilai 5)",
+            "Membahas masalah ini dengan rekan kerja tanpa tindakan lanjut\n(Nilai 4)",
+            "Mengubah prosedur sendiri tanpa berkonsultasi dengan tim atau atasan\n(Nilai 3)",
+            "Mengikuti prosedur tersebut tanpa mempertanyakan keefektifannya\n(Nilai 2)",
+            "Membiarkan prosedur tersebut karena sudah menjadi kebiasaan tim\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 1 karena membiarkan prosedur usang tidak sesuai dengan prinsip bekerja sesuai kompetensi dan kode etik profesi yang mengharuskan perbaikan berkelanjutan. Ini tidak mencerminkan nilai Kompeten.\nPilihan diberi bobot 2 karena mengikuti prosedur tanpa mempertanyakan menunjukkan kurangnya inisiatif dan adaptasi, meskipun sesuai kode etik profesi dalam kepatuhan. Ini kurang mencerminkan nilai Adaptif.\nPilihan diberi bobot 3 karena mengubah prosedur sendiri menunjukkan inisiatif dan bekerja sesuai kompetensi, namun melanggar kode etik profesi dalam hal prosedur formal. Ini mencerminkan nilai Kompeten, tetapi kurang Akuntabel.\nPilihan diberi bobot 4 karena membahas dengan rekan menunjukkan Kolaboratif, namun tanpa tindakan lanjut kurang efektif. Ini mencerminkan nilai Harmonis, tetapi perlu Akuntabilitas.\nPilihan diberi bobot 5 karena mengusulkan pembaruan sesuai bekerja sesuai kompetensi dan kode etik profesi. Ini mencerminkan nilai Kompeten, Adaptif, Akuntabel, dan Kolaboratif."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nDalam penyusunan program bantuan sosial, Anda menyadari bahwa kriteria yang digunakan tidak sesuai dengan kondisi masyarakat adat setempat. Apa tindakan Anda?",
+        "pilihan": [
+            "Mengadaptasi kriteria program agar relevan dengan masyarakat adat\n(Nilai 5)",
+            "Meminta atasan merevisi program sesuai kondisi lokal\n(Nilai 4)",
+            "Membuat catatan khusus tanpa mengubah kriteria program\n(Nilai 3)",
+            "Mengusulkan penambahan alokasi bantuan untuk daerah lain\n(Nilai 2)",
+            "Mengikuti kriteria yang ada untuk menjaga standar program\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengadaptasi kriteria program mencerminkan Keadilan Sosial, Penyesuaian Kultural, Penghargaan terhadap Keanekaragaman, dan Pengambilan Keputusan yang Sensitif Kultural. Ini sesuai dengan nilai Akuntabel, Adaptif, Kompeten, dan Berorientasi Pelayanan.\nPilihan diberi bobot 4 karena meminta atasan merevisi program menunjukkan Loyalitas dan Akuntabilitas, namun kurang inisiatif.\nPilihan diberi bobot 3 karena membuat catatan menunjukkan Akuntabilitas, namun kurang ada Tindakan nyata.\nPilihan diberi bobot 2 karena mengalihkan bantuan tidak menyelesaikan masalah dan menunjukkan kurangnya Pengambilan Keputusan yang Sensitif Kultural.\nPilihan diberi bobot 1 karena mengikuti kriteria tanpa mempertimbangkan kondisi lokal, menunjukkan kurangnya Keadilan Sosial dan Penyesuaian Kultural."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nProf. Hairul di Universitas Gold sering menghambat kegiatan mahasiswa dengan alasan prosedural yang tidak jelas. Sebagai mahasiswa apa yang Anda lakukan?",
+        "pilihan": [
+            "Berdialog dengan Prof. Hairul untuk transparansi dan solusi bersama.\n(Nilai 5)",
+            "Mengajukan protes resmi untuk menegakkan hak dan keadilan mahasiswa\n(Nilai 4)",
+            "Melaporkan tindakan tersebut ke pihak rektorat untuk akuntabilitas.\n(Nilai 3)",
+            "Mengabaikan hambatan dan mencari cara lain untuk melaksanakan kegiatan\n(Nilai 2)",
+            "Menyebarkan petisi agar prosedur diubah demi partisipasi dan keadilan.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena berdialog mencerminkan asas transparansi, partisipasi, profesionalisme, dan mencari solusi bersama.\nPilihan diberi bobot 4 karena mengajukan protes resmi mencakup asas keadilan dan akuntabilitas, namun bisa menciptakan konflik tanpa solusi langsung.\nPilihan diberi bobot 3 karena melaporkan ke rektorat menunjukkan akuntabilitas, tetapi mungkin melewati kesempatan untuk penyelesaian langsung dan partisipatif.\nPilihan diberi bobot 2 karena mencari cara lain menunjukkan inisiatif, tetapi mengabaikan masalah utama dan tidak memenuhi asas transparansi.\nPilihan diberi bobot 1 karena menyebarkan petisi bisa menimbulkan ketegangan dan tidak sesuai dengan asas profesionalisme dan komunikasi efektif."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nAnda diminta memberikan pelatihan kepada masyarakat dengan tingkat literasi rendah dan budaya lisan kuat. Bagaimana cara Anda menyampaikan materi?",
+        "pilihan": [
+            "Menggunakan cerita dan visual yang sesuai dengan budaya lokal.\n(Nilai 5)",
+            "Meminta bantuan rekan untuk memberikan pelatihan menggantikan Anda.\n(Nilai 4)",
+            "Mengurangi detail materi agar lebih mudah dipahami.\n(Nilai 3)",
+            "Membagikan materi tertulis agar mereka dapat mempelajarinya sendiri.\n(Nilai 2)",
+            "Menggunakan metode presentasi standar dengan slide dan teks.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menggunakan cerita dan visual sesuai budaya lokal mencerminkan Komunikasi Antarbudaya yang Efektif, Penyesuaian Kultural, Empati Kultural, dan Penghargaan terhadap Keanekaragaman. Ini sesuai dengan nilai Adaptif, Kompeten, Berorientasi Pelayanan, dan Kolaboratif.\nPilihan diberi bobot 4 karena meminta bantuan rekan menunjukkan Kolaboratif dan Akuntabilitas, namun kurang Kompeten dalam menghadapi tantangan sendiri.\nPilihan diberi bobot 3 karena mengurangi detail materi menunjukkan Keterbukaan, namun mungkin tidak memenuhi kebutuhan informasi masyarakat.\nPilihan diberi bobot 2 karena membagikan materi tertulis kurang efektif bagi masyarakat dengan literasi rendah, menunjukkan kurangnya Empati Kultural.\nPilihan diberi bobot 1 karena metode standar yang dipakai tidak efektif, menunjukkan kurangnya Penyesuaian Kultural dan Komunikasi Antarbudaya yang Efektif."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nDalam proyek pengembangan sistem\ne-government\n, Anda menyadari teknologi yang digunakan sudah usang dan tidak efisien. Apa tindakan terbaik yang dapat Anda ambil?",
+        "pilihan": [
+            "Mengusulkan perubahan teknologi dengan analisis manfaat dan risiko ke manajemen\n(Nilai 5)",
+            "Menyampaikan kekhawatiran secara informal kepada rekan kerja\n(Nilai 4)",
+            "Mengajukan protes keras kepada manajemen tentang teknologi tersebut\n(Nilai 3)",
+            "Melanjutkan proyek sesuai rencana untuk menghindari keterlambatan.\n(Nilai 2)",
+            "Mencari solusi sendiri tanpa melibatkan tim demi efisiensi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengusulkan perubahan dengan analisis manfaat dan risiko mencerminkan asas profesionalisme, akuntabilitas, inovasi, dan kerja sama. Tindakan ini proaktif dan berpotensi meningkatkan efisiensi proyek.\nPilihan diberi bobot 4 karena menyampaikan kekhawatiran secara informal menunjukkan partisipasi dan kerja sama, namun mungkin kurang efektif tanpa tindakan formal.\nPilihan diberi bobot 3 karena mengajukan protes keras menunjukkan kepedulian, namun cara penyampaian kurang mencerminkan profesionalisme dan bisa menimbulkan konflik.\nPilihan diberi bobot 2 karena melanjutkan proyek tanpa memperbaiki teknologi menunjukkan kepatuhan tetapi mengabaikan asas inovasi dan profesionalisme, berpotensi merugikan kualitas layanan.\nPilihan diberi bobot 1 karena bekerja sendiri tanpa tim melanggar asas kerja sama dan transparansi, serta solusi mungkin tidak terintegrasi dengan baik."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nAnda menerima undangan untuk menghadiri seminar yang diduga menyebarkan ideologi radikal. Apa tindakan terbaik yang harus Anda ambil?",
+        "pilihan": [
+            "Melaporkan undangan tersebut kepada pihak berwenang di instansi Anda\n(Nilai 5)",
+            "Mencari informasi lebih lanjut sebelum memutuskan untuk hadir\n(Nilai 4)",
+            "Menolak undangan tanpa memberikan alasan apapun\n(Nilai 3)",
+            "Menghadiri seminar untuk mengetahui isi materi yang disampaikan\n(Nilai 2)",
+            "Mengajak rekan kerja untuk turut serta agar tidak sendiri\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan undangan mencerminkan Loyal, Akuntabel, Kompeten, dan Berorientasi Pelayanan. Tindakan ini membantu pihak berwenang untuk mengambil langkah pencegahan.\nPilihan diberi bobot 4 karena mencari informasi lebih lanjut menunjukkan Kompeten dan Adaptif, tetapi tindakan ini bisa menunda respons yang diperlukan.\nPilihan diberi bobot 3 karena menolak undangan menunjukkan Loyal dan Akuntabel, tetapi tidak membantu mencegah penyebaran ideologi tersebut.\nPilihan diberi bobot 2 karena menghadiri seminar berisiko terpapar ideologi radikal, menunjukkan kurangnya Loyal dan Akuntabel.\nPilihan diberi bobot 1 karena mengajak rekan kerja berpotensi memperluas dampak negatif, melanggar Loyal dan Akuntabel."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nSelama rapat, Anda mendengar rekan kerja menyampaikan pendapat yang mengarah pada diskriminasi terhadap kelompok tertentu. Bagaimana sebaiknya Anda menanggapi situasi ini?",
+        "pilihan": [
+            "Mengingatkan rekan secara sopan tentang pentingnya menghormati perbedaan\n(Nilai 5)",
+            "Melaporkan kejadian ini kepada atasan setelah rapat selesai\n(Nilai 4)",
+            "Membahas isu tersebut dengan tim untuk mencari pemahaman bersama\n(Nilai 3)",
+            "Mendukung pendapatnya untuk menjaga hubungan baik\n(Nilai 2)",
+            "Mengabaikan pendapat tersebut agar tidak menimbulkan konflik\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengingatkan secara sopan mencerminkan Harmonis, Loyal, Akuntabel, dan Kompeten. Tindakan ini menjaga kerukunan dan mengedukasi rekan kerja tentang pentingnya menghargai perbedaan.\nPilihan diberi bobot 4 karena melaporkan kepada atasan menunjukkan Akuntabel dan Loyal, namun bisa menimbulkan konflik jika tidak ditangani dengan bijak.\nPilihan diberi bobot 3 karena membahas dengan tim menunjukkan Kolaboratif dan Harmonis, tetapi perlu pendekatan yang tepat agar tidak memperbesar masalah.\nPilihan diberi bobot 2 karena mendukung pendapat diskriminatif melanggar Loyal dan Harmonis, serta tidak sesuai dengan nilai Anti Radikalisme.\nPilihan diberi bobot 1 karena mengabaikan menunjukkan kurangnya Akuntabel dan tidak mendukung Harmonis dalam lingkungan kerja."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nSebagai pegawai Badan Kepegawaian Negara, Anda mengetahui bahwa aplikasi layanan kepegawaian memiliki celah keamanan yang dapat disalahgunakan pihak tak bertanggung jawab. Apa tindakan terbaik yang harus Anda lakukan dalam situasi ini?",
+        "pilihan": [
+            "Melaporkan celah keamanan kepada atasan dan tim terkait untuk penanganan profesional segera\n(Nilai 5)",
+            "Memperbaiki celah keamanan secara mandiri tanpa melibatkan pihak lain untuk efisiensi\n(Nilai 4)",
+            "Memberitahu rekan kerja secara informal untuk bersama-sama mencari solusi sementara\n(Nilai 3)",
+            "Menunggu instruksi atasan sebelum mengambil langkah terkait masalah keamanan tersebut\n(Nilai 2)",
+            "Mengabaikan celah keamanan karena belum ada laporan penyalahgunaan data\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan kepada atasan dan tim terkait mencerminkan Akuntabel, Loyal, Kompeten, dan Kolaboratif. Tindakan ini sesuai prosedur, menunjukkan tanggung jawab, dedikasi, dan kerja sama dalam menjaga keamanan informasi.\nPilihan diberi bobot 4 karena memperbaiki secara mandiri menunjukkan Kompeten dan Adaptif, tetapi kurang Kolaboratif dan Akuntabel karena tidak melibatkan tim terkait dan bisa melanggar prosedur instansi.\nPilihan diberi bobot 3 karena memberitahu rekan kerja secara informal mencerminkan Kolaboratif dan Harmonis, namun kurang Akuntabel dan Kompeten karena tidak melalui prosedur resmi dan mungkin tidak efektif dalam menangani masalah serius.\nPilihan diberi bobot 2 karena menunggu instruksi atasan menunjukkan Loyal dan Harmonis, tetapi kurang Akuntabel dan Adaptif karena tidak segera menangani masalah yang berpotensi merugikan instansi dan publik.\nPilihan diberi bobot 1 karena mengabaikan celah keamanan menunjukkan kurangnya Akuntabel dan Berorientasi Pelayanan, serta mengabaikan potensi risiko yang dapat merugikan instansi dan masyarakat."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nAnda mengetahui bahwa rekan kerja menyebarkan informasi yang mengandung paham radikal melalui media sosial. Apa yang seharusnya Anda lakukan dalam situasi ini?",
+        "pilihan": [
+            "Melaporkan perilaku tersebut kepada atasan sesuai prosedur yang berlaku\n(Nilai 5)",
+            "Menyebarkan informasi tandingan untuk melawan paham radikal tersebut\n(Nilai 4)",
+            "Menegur rekan kerja secara langsung agar menghentikan penyebaran tersebut\n(Nilai 3)",
+            "Membahas masalah ini dengan rekan lain untuk mencari solusi bersama\n(Nilai 2)",
+            "Mengabaikan tindakan rekan kerja karena itu adalah hak pribadinya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan sesuai prosedur mencerminkan Loyal, Akuntabel, Kompeten, dan Berorientasi Pelayanan. Tindakan ini tepat untuk mencegah penyebaran paham radikal dan menjaga integritas instansi.\nPilihan diberi bobot 4 karena menyebarkan informasi tandingan menunjukkan Loyal dan Adaptif, tetapi kurang Akuntabel karena tidak menangani akar masalah.\nPilihan diberi bobot 3 karena menegur langsung menunjukkan Harmonis dan Loyal, namun mungkin kurang efektif dan bisa menimbulkan konflik.\nPilihan diberi bobot 2 karena membahas dengan rekan lain menunjukkan Kolaboratif, tetapi masalah sensitif seperti ini sebaiknya ditangani sesuai prosedur resmi.\nPilihan diberi bobot 1 karena mengabaikan tindakan yang berpotensi merusak keutuhan NKRI menunjukkan kurangnya Loyal dan Akuntabel."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nAnda diminta menyusun laporan keuangan instansi, namun Anda menemukan transaksi yang mencurigakan. Apa yang seharusnya Anda lakukan untuk menanggapi temuan tersebut?",
+        "pilihan": [
+            "Melaporkan temuan tersebut kepada atasan sesuai kode etik profesi\n(Nilai 5)",
+            "Mencari tahu sendiri asal-usul transaksi tanpa memberitahu pihak lain\n(Nilai 4)",
+            "Membahas transaksi tersebut dengan rekan kerja tanpa melaporkannya\n(Nilai 3)",
+            "Mengabaikan transaksi tersebut agar laporan selesai tepat waktu\n(Nilai 2)",
+            "Menyusun laporan tanpa memasukkan transaksi yang mencurigakan.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan temuan sesuai kode etik profesi dan menunjukkan bekerja sesuai kompetensi dalam menangani laporan keuangan. Ini mencerminkan nilai Akuntabel, Kompeten, Loyal, dan Berorientasi Pelayanan.\nPilihan diberi bobot 4 karena mencari tahu sendiri menunjukkan inisiatif dan bekerja sesuai kompetensi, namun seharusnya melibatkan atasan sesuai kode etik profesi. Ini mencerminkan nilai Kompeten dan Adaptif.\nPilihan diberi bobot 3 karena membahas dengan rekan kerja menunjukkan inisiatif, namun kurang tepat jika tidak melibatkan atasan atau pihak berwenang. Ini mencerminkan nilai Kolaboratif, tetapi kurang Akuntabel.\nPilihan diberi bobot 2 karena mengabaikan transaksi mencurigakan tidak sesuai dengan kode etik profesi dan integritas dalam bekerja. Ini tidak mencerminkan nilai Akuntabel dan Kompeten.\nPilihan diberi bobot 1 karena menyusun laporan tanpa memasukkan transaksi mencurigakan melanggar kode etik profesi dan prinsip bekerja sesuai kompetensi. Ini bertentangan dengan nilai Akuntabel."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nSeorang rekan kerja membuat komentar yang stereotip tentang kelompok budaya tertentu di kantor. Bagaimana Anda menanggapi situasi ini?",
+        "pilihan": [
+            "Mengingatkan rekan secara sopan tentang pentingnya menghormati perbedaan\n(Nilai 5)",
+            "Melaporkan perilakunya kepada atasan untuk tindakan lebih lanjut\n(Nilai 4)",
+            "Membahas isu tersebut dalam rapat tim untuk edukasi bersama\n(Nilai 3)",
+            "Mendukung komentarnya untuk menjaga hubungan baik\n(Nilai 2)",
+            "Mengabaikan komentar tersebut agar tidak memperbesar masalah\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengingatkan rekan secara sopan mencerminkan Empati Kultural, Penghindaran Stereotip dan Bias, Harmonis, dan Keterbukaan. Ini sesuai dengan nilai Harmonis, Berorientasi Pelayanan, Akuntabel, dan Kompeten.\nPilihan diberi bobot 4 karena melaporkan kepada atasan menunjukkan Akuntabilitas dan Loyal, namun bisa menimbulkan konflik dan kurang Harmonis.\nPilihan diberi bobot 3 karena membahas dalam rapat tim menunjukkan Kolaboratif dan Pendidikan dan Kesadaran Budaya, namun mungkin tidak efektif jika tidak ditangani secara pribadi terlebih dahulu.\nPilihan diberi bobot 2 karena mendukung komentar stereotip melanggar Kesetaraan dan Non-Diskriminasi serta nilai Harmonis.\nPilihan diberi bobot 1 karena mengabaikan menunjukkan kurangnya Penghindaran Stereotip dan Bias dan Akuntabilitas."
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nPak Abe seorang petani di Kabupaten Tunggal, mendapati subsidi pupuknya dicabut padahal ia sangat membutuhkannya untuk produksi tani. Apa yang Anda lakukan sebagai pegawai di dinas yang menangani masalah tersebut?",
+        "pilihan": [
+            "Membantu Pak Abe mengajukan permohonan ulang sesuai prosedur untuk keadilan dan akuntabilitas\n(Nilai 5)",
+            "Mengajak komunitas petani berdiskusi untuk solusi partisipatif\n(Nilai 4)",
+            "Memberikan pupuk secara pribadi untuk membantu segera\n(Nilai 3)",
+            "Menyarankan Pak Abe mencari pupuk alternatif tanpa subsidi demi kemandirian\n(Nilai 2)",
+            "Mengabaikan keluhan Pak Abe karena mengikuti peraturan yang ada\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena membantu mengajukan permohonan ulang sesuai prosedur, mencakup asas keadilan, akuntabilitas, transparansi, dan profesionalisme.\nPilihan diberi bobot 4 karena mengajak diskusi komunitas mencerminkan asas partisipatif dan edukasi, namun mungkin tidak segera menyelesaikan masalah Pak Abe secara individu.\nPilihan diberi bobot 3 karena memberikan pupuk secara pribadi menunjukkan kepedulian, tetapi tidak melalui prosedur resmi dan bisa menimbulkan masalah akuntabilitas.\nPilihan diberi bobot 2 karena menyarankan kemandirian tetapi tidak membantu menyelesaikan masalah subsidi yang menjadi hak Pak Abe, kurang memenuhi asas keadilan.\nPilihan mendapat bobot 1 karena mengabaikan keluhan, melanggar asas akuntabilitas dan pelayanan prima."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nAnda ditugaskan bekerja di daerah terpencil dengan budaya yang berbeda jauh dari tempat asal Anda. Bagaimana Anda menyesuaikan diri?",
+        "pilihan": [
+            "Belajar dan menghormati adat istiadat setempat dalam berinteraksi\n(Nilai 5)",
+            "Mengusulkan pindah tugas ke daerah yang lebih familiar\n(Nilai 4)",
+            "Mengandalkan informasi dari rekan kerja tanpa interaksi langsung\n(Nilai 3)",
+            "Mengharapkan penduduk lokal menyesuaikan diri dengan cara Anda\n(Nilai 2)",
+            "Menjaga jarak dengan penduduk lokal untuk menghindari konflik budaya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena belajar dan menghormati adat setempat mencerminkan penyesuaian kultural, empati kultural, penghargaan terhadap keanekaragaman, serta keterbukaan dan fleksibilitas. Ini sesuai dengan nilai adaptif, harmonis, kompeten, dan berorientasi pelayanan.\nPilihan diberi bobot 4 karena mengusulkan pindah tugas menunjukkan keterbukaan, namun kurang adaptif dan akuntabilitas dalam menjalankan tugas.\nPilihan diberi bobot 3 karena mengandalkan informasi tanpa interaksi langsung menunjukkan kesadaran budaya, namun kurang penghargaan terhadap keanekaragaman.\nPilihan diberi bobot 2 karena mengharapkan penduduk menyesuaikan diri menunjukkan kurangnya empati kultural dan keterbukaan.\nPilihan diberi bobot 1 karena menjaga jarak menunjukkan kurangnya penyesuaian kultural dan pengembangan hubungan antarbudaya."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nAnda ditawari proyek sampingan yang menjanjikan keuntungan besar, namun waktu kerjanya berbenturan dengan jam kerja di instansi Anda. Apa yang harus Anda lakukan?",
+        "pilihan": [
+            "Menolak tawaran tersebut sesuai kode etik profesi dan fokus pada tugas utama\n(Nilai 5)",
+            "Mengambil cuti tahunan untuk mengerjakan proyek tersebut\n(Nilai 4)",
+            "Menolak tawaran tersebut tanpa memberi tahu atasan\n(Nilai 3)",
+            "Menerima tawaran tersebut dan mengatur waktu seefisien mungkin\n(Nilai 2)",
+            "Mengerjakan proyek tersebut di luar jam kerja tanpa mempengaruhi tugas\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menolak tawaran sesuai kode etik profesi dan fokus pada tugas utama, menunjukkan bekerja sesuai kompetensi. Ini mencerminkan nilai loyal, akuntabel, kompeten, dan berorientasi pelayanan.\nPilihan diberi bobot 4 karena mengambil cuti menunjukkan usaha untuk bekerja sesuai kompetensi dan menghindari konflik waktu, namun masih perlu pertimbangan kode etik profesi terkait pekerjaan sampingan. Ini mencerminkan nilai akuntabel dan adaptif.\nPilihan diberi bobot 3 karena menolak tanpa memberi tahu atasan menunjukkan kepatuhan, namun kurang transparansi. Ini mencerminkan nilai loyal, tetapi kurang akuntabel.\nPilihan diberi bobot 2 karena menerima tawaran meski berbenturan waktu tidak sesuai dengan kode etik profesi dan bisa mempengaruhi kinerja. Ini tidak mencerminkan nilai loyal dan akuntabel.\nPilihan diberi bobot 1 karena mengerjakan di luar jam kerja tanpa mempertimbangkan kode etik profesi bisa menimbulkan konflik kepentingan. Ini tidak sesuai dengan nilai loyal."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nAnda ditugaskan mengelola sistem informasi baru yang diluncurkan, namun menemukan celah keamanan yang dapat dimanfaatkan pihak tidak bertanggung jawab. Apa yang seharusnya Anda lakukan?",
+        "pilihan": [
+            "Segera melaporkan celah tersebut dan bekerja sama dengan tim untuk perbaikan\n(Nilai 5)",
+            "Menunggu hingga ada masalah nyata sebelum mengambil tindakan\n(Nilai 4)",
+            "Menyimpan informasi tersebut untuk digunakan di kemudian hari\n(Nilai 3)",
+            "Mengumumkan celah tersebut ke publik agar mereka waspada\n(Nilai 2)",
+            "Mengabaikan karena bukan tanggung jawab Anda sepenuhnya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan dan memperbaiki celah keamanan segera mencerminkan asas akuntabilitas, profesionalisme, integritas, dan kerja sama. Tindakan ini proaktif dan mencegah potensi ancaman keamanan.\nPilihan diberi bobot 4 karena meskipun merasa bukan tanggung jawab penuh, mengabaikan celah keamanan menunjukkan kurangnya akuntabilitas dan profesionalisme.\nPilihan diberi bobot 3 karena mengumumkan ke publik mencerminkan transparansi, namun tanpa koordinasi dengan tim bisa menimbulkan kepanikan dan melanggar prosedur komunikasi resmi.\nPilihan mendapat bobot 2 karena menunggu masalah muncul menunjukkan kurangnya responsivitas dan profesionalisme, serta berisiko tinggi bagi keamanan sistem.\nPilihan diberi bobot 1 karena menyimpan informasi untuk kepentingan pribadi melanggar asas integritas dan akuntabilitas, serta dapat digunakan untuk tindakan yang tidak etis."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSebagai administrator media sosial instansi pemerintah, Anda menemukan komentar kritik konstruktif dari masyarakat yang menyoroti kekurangan layanan. Apa langkah yang sebaiknya Anda ambil?",
+        "pilihan": [
+            "Menanggapi secara profesional dan menyampaikan masukan ke tim terkait\n(Nilai 5)",
+            "Memblokir pengguna tersebut agar tidak memberikan komentar lagi\n(Nilai 4)",
+            "Mengabaikan komentar dan fokus pada konten positif lainnya\n(Nilai 3)",
+            "Membalas komentar dengan pernyataan defensif dan informal yang tegas\n(Nilai 2)",
+            "Menghapus komentar tersebut untuk menjaga citra positif instansi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menanggapi secara profesional dan menyampaikan masukan ke tim terkait mencerminkan asas akuntabilitas, transparansi, profesionalisme, dan partisipasi. Tindakan ini menunjukkan instansi terbuka terhadap kritik untuk perbaikan layanan.\nPilihan diberi bobot 4 karena memblokir pengguna mencegah komentar negatif lebih lanjut, namun melanggar asas transparansi dan partisipasi, serta dapat dianggap tidak menghargai masukan publik.\nPilihan diberi bobot 3 karena mengabaikan komentar menunjukkan kurangnya responsivitas, namun fokus pada konten positif mencerminkan upaya menjaga citra.\nPilihan mendapat bobot 2 karena membalas secara defensif tidak mencerminkan asas profesionalisme dan dapat memperburuk citra instansi, meskipun ada upaya respons.\nPilihan diberi bobot 1 karena menghapus komentar kritik konstruktif melanggar asas transparansi dan partisipasi, serta dapat menurunkan kepercayaan publik terhadap instansi."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nAnda mengetahui bahwa tradisi lokal melarang aktivitas tertentu pada hari-hari tertentu, namun jadwal proyek Anda bertabrakan dengan hal tersebut. Apa yang sebaiknya Anda lakukan?",
+        "pilihan": [
+            "Menyesuaikan jadwal proyek dengan mempertimbangkan tradisi lokal\n(Nilai 5)",
+            "Mengalihkan proyek ke daerah lain yang tidak memiliki tradisi tersebut\n(Nilai 4)",
+            "Meminta izin khusus kepada tokoh adat untuk melanjutkan proyek\n(Nilai 3)",
+            "Mengabaikan tradisi lokal karena proyek lebih penting\n(Nilai 2)",
+            "Tetap melaksanakan proyek sesuai jadwal untuk memenuhi target\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menyesuaikan jadwal dengan tradisi lokal mencerminkan penyesuaian kultural, penghargaan terhadap keanekaragaman, keterbukaan dan fleksibilitas, serta kepekaan terhadap konflik budaya. Ini sesuai dengan nilai adaptif, harmonis, berorientasi pelayanan, dan akuntabel.\nPilihan diberi bobot 4 karena mengalihkan proyek menunjukkan keterbukaan dan penyesuaian kultural, namun tidak menyelesaikan masalah dan bisa dianggap mengabaikan komunitas lokal.\nPilihan diberi bobot 3 karena meminta izin khusus menunjukkan kolaborasi dengan pemimpin komunitas dan keterbukaan, namun mungkin tidak menghargai keberpihakan terhadap kepentingan bersama.\nPilihan diberi bobot 2 karena mengabaikan tradisi menunjukkan kurangnya empati kultural dan keadilan sosial.\nPilihan diberi bobot 1 karena mengabaikan tradisi lokal menunjukkan kurangnya penyesuaian kultural dan penghormatan terhadap identitas budaya, melanggar nilai harmonis dan berorientasi pelayanan."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nPak Soleh merupakan seorang nelayan di Kabupaten Walayan, ditangkap Polisi Laut karena menggunakan pukat terlarang, tetapi ia berdalih tidak mengetahui aturan tersebut. Sebagai Polisi Laut apa yang Anda lakukan?",
+        "pilihan": [
+            "Menjelaskan aturan dan melanjutkan proses hukum sesuai akuntabilitas dan profesionalisme\n(Nilai 5)",
+            "Memberikan pelatihan tentang peraturan laut untuk edukasi dan partisipasi\n(Nilai 4)",
+            "Mengabaikan pelanggaran karena alasan ketidaktahuan hukum\n(Nilai 3)",
+            "Membebaskan Bu Indri dengan peringatan demi asas kemanusiaan dan keadilan\n(Nilai 2)",
+            "Menyita alat tangkapnya tanpa proses hukum untuk ketertiban umum\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menjelaskan aturan dan melanjutkan proses hukum mencakup asas akuntabilitas, profesionalisme, transparansi, dan edukasi. Tindakan ini sesuai dengan prosedur dan mendidik masyarakat.\nPilihan diberi bobot 4 karena memberikan pelatihan mencerminkan asas edukasi dan partisipasi, namun tidak segera menegakkan hukum atas pelanggaran yang terjadi.\nPilihan diberi bobot 3 karena mengabaikan pelanggaran tidak sesuai dengan asas akuntabilitas, meskipun mempertimbangkan ketidaktahuan Bu Indri.\nPilihan diberi bobot 2 karena meskipun mempertimbangkan kemanusiaan dan keadilan, membebaskan tanpa tindakan lanjut tidak memenuhi asas akuntabilitas dan ketegasan hukum.\nPilihan diberi bobot 1 karena menyita tanpa proses hukum melanggar asas keadilan dan transparansi, serta dapat dianggap sewenang-wenang."
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nAnda menyadari bahwa materi sosialisasi program pemerintah kurang dipahami oleh masyarakat karena menggunakan bahasa resmi yang sulit. Apa tindakan Anda?",
+        "pilihan": [
+            "Mengadaptasi materi sosialisasi ke dalam bahasa lokal yang mudah dipahami\n(Nilai 5)",
+            "Meminta atasan untuk mengganti materi sosialisasi dengan yang lebih sederhana\n(Nilai 4)",
+            "Menyediakan kamus istilah untuk membantu pemahaman masyarakat\n(Nilai 3)",
+            "Mengurangi jumlah informasi dalam materi agar lebih ringkas\n(Nilai 2)",
+            "Melanjutkan sosialisasi dengan materi yang ada karena sudah standar\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengadaptasi materi ke bahasa lokal mencerminkan komunikasi antarbudaya yang efektif, penyesuaian kultural, penghargaan terhadap keanekaragaman, dan penggunaan bahasa yang sensitif kultural. Ini sesuai dengan nilai adaptif, kompeten, berorientasi pelayanan, dan kolaboratif.\nPilihan diberi bobot 4 karena meminta atasan mengganti materi menunjukkan loyal dan akuntabilitas, tetapi kurang inisiatif pribadi dan adaptif.\nPilihan diberi bobot 3 karena menyediakan kamus istilah menunjukkan keterbukaan dan fleksibilitas, namun kurang efektif dibanding adaptasi bahasa.\nPilihan diberi bobot 2 karena mengurangi informasi mungkin mengurangi pemahaman, menunjukkan kurangnya komunikasi antarbudaya yang efektif.\nPilihan diberi bobot 1 karena tidak menyesuaikan materi menunjukkan kurangnya komunikasi antarbudaya yang efektif dan penyesuaian kultural, tidak sesuai dengan nilai berorientasi pelayanan."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nDalam rapat koordinasi, Anda melihat bahwa komunikasi antar instansi kurang efektif, menyebabkan miskomunikasi. Apa tindakan Anda?",
+        "pilihan": [
+            "Mengusulkan peningkatan saluran komunikasi untuk memfasilitasi pertukaran informasi\n(Nilai 5)",
+            "Mengirim email klarifikasi setelah rapat kepada semua peserta\n(Nilai 4)",
+            "Meminta pimpinan rapat untuk menjelaskan kembali informasi\n(Nilai 3)",
+            "Fokus pada tugas instansi Anda tanpa mempedulikan instansi lain\n(Nilai 2)",
+            "Membiarkan situasi karena bukan tanggung jawab Anda\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengusulkan peningkatan saluran komunikasi mencerminkan komunikasi yang efektif, kolaborasi, pendekatan terpadu, dan akuntabilitas.\nPilihan diberi bobot 4 karena mengirim email klarifikasi menunjukkan komunikasi yang efektif dan inisiatif, tetapi kurang dalam kolaborasi sistemik.\nPilihan diberi bobot 3 karena meminta pimpinan menjelaskan kembali menunjukkan loyalitas, tetapi kurang inisiatif.\nPilihan diberi bobot 2 karena fokus hanya pada tugas sendiri menunjukkan kurangnya kolaborasi dan akuntabilitas.\nPilihan diberi bobot 1 karena membiarkan situasi menunjukkan kurangnya akuntabilitas dan kolaborasi."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nDalam pelaksanaan program nasional, Anda melihat bahwa instansi Anda memiliki data penting yang dibutuhkan oleh instansi lain, namun belum ada mekanisme berbagi data. Apa tindakan terbaik yang harus Anda ambil?",
+        "pilihan": [
+            "Mengusulkan sistem berbagi data antar instansi untuk meningkatkan efisiensi kerja.\n(Nilai 5)",
+            "Menunggu permintaan resmi dari instansi lain sebelum membagikan data.\n(Nilai 4)",
+            "Mengirim data secara informal kepada pegawai di instansi lain.\n(Nilai 3)",
+            "Menyimpan data tersebut untuk kepentingan instansi Anda saja.\n(Nilai 2)",
+            "Mengabaikan kebutuhan instansi lain karena bukan tanggung jawab Anda.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengusulkan sistem berbagi data mencerminkan kolaborasi dan kerjasama lintas sektor, penggunaan data dan informasi yang efektif, pendekatan terpadu, dan komunikasi yang efektif. Ini sesuai dengan nilai kolaboratif, kompeten, adaptif, dan akuntabel.\nPilihan diberi bobot 4 karena menunggu permintaan resmi menunjukkan akuntabilitas dan kepemimpinan yang kuat, tetapi kurang proaktif dalam kolaborasi.\nPilihan diberi bobot 3 karena mengirim data secara informal kurang mencerminkan akuntabilitas dan dapat menimbulkan masalah keamanan data.\nPilihan diberi bobot 2 karena menyimpan data untuk kepentingan sendiri menunjukkan kurangnya kolaborasi dan tujuan bersama, tidak sesuai dengan nilai loyal dan berorientasi pelayanan.\nPilihan diberi bobot 1 karena mengabaikan kebutuhan instansi lain menunjukkan kurangnya kolaborasi dan akuntabilitas."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nAnda menemukan kesalahan data dalam laporan yang akan disampaikan kepada pimpinan, padahal tenggat waktu sudah dekat. Apa yang harus Anda lakukan untuk menangani situasi ini?",
+        "pilihan": [
+            "Segera memperbaiki kesalahan dan memberitahu pimpinan tentang revisi laporan.\n(Nilai 5)",
+            "Mengajukan permintaan penundaan penyampaian laporan tanpa menyebutkan alasan\n(Nilai 4)",
+            "Membiarkan kesalahan tersebut karena waktu tidak memungkinkan untuk revisi.\n(Nilai 3)",
+            "Menyalahkan rekan kerja yang bertanggung jawab atas data tersebut\n(Nilai 2)",
+            "Mengirim laporan seperti apa adanya dan berharap kesalahan tidak terdeteksi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena memperbaiki kesalahan dan memberitahu pimpinan menunjukkan integritas, akuntabilitas, kompetensi profesional, dan transparansi. Ini sesuai dengan nilai akuntabel, kompeten, berorientasi pelayanan, dan loyal.\nPilihan diberi bobot 4 karena meminta penundaan menunjukkan akuntabilitas dan transparansi, tetapi kurang efisiensi dan bisa menunda proses kerja.\nPilihan diberi bobot 3 karena membiarkan kesalahan menunjukkan kurangnya akuntabilitas dan etika kerja yang tinggi, namun mungkin dianggap adaptif dalam situasi darurat.\nPilihan diberi bobot 2 karena menyalahkan rekan kerja menunjukkan kurangnya integritas dan kolaborasi, tidak sejalan dengan nilai harmonis dan kolaboratif.\nPilihan diberi bobot 1 karena mengirim laporan dengan kesalahan menunjukkan kurangnya akuntabilitas dan kompetensi profesional, serta melanggar integritas."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSelama rapat, Anda menyadari bahwa kebijakan baru yang akan diterapkan kurang mempertimbangkan kebutuhan komunitas adat setempat. Apa langkah yang sebaiknya Anda ambil?",
+        "pilihan": [
+            "Mengusulkan revisi kebijakan dengan mempertimbangkan masukan komunitas adat\n(Nilai 5)",
+            "Menyampaikan kekhawatiran Anda secara pribadi kepada atasan setelah rapat\n(Nilai 4)",
+            "Mengusulkan penundaan kebijakan hingga komunitas adat siap menerimanya\n(Nilai 3)",
+            "Mengabaikan hal tersebut karena bukan wewenang Anda untuk mengubah kebijakan\n(Nilai 2)",
+            "Mendukung kebijakan karena sudah sesuai prosedur dan aturan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengusulkan revisi kebijakan dengan masukan komunitas adat mencerminkan pengambilan keputusan yang sensitif kultural, keadilan sosial, pelibatan komunitas yang inklusif, dan kolaborasi dengan pemimpin komunitas. Ini sesuai dengan nilai akuntabel, harmonis, adaptif, dan kolaboratif.\nPilihan  diberi bobot 4 karena menyampaikan kekhawatiran kepada atasan menunjukkan loyalitas dan akuntabilitas, namun kurang kolaboratif dan tidak langsung melibatkan komunitas adat.\nPilihan  diberi bobot 3 karena mengusulkan penundaan menunjukkan empati kultural dan kesadaran budaya, tetapi kurang inovasi sosial dengan pendekatan multikultural.\nPilihan  diberi bobot 2 karena mengabaikan menunjukkan kurangnya akuntabilitas dan penghargaan terhadap keanekaragaman.\nPilihan diberi bobot 1 karena mendukung kebijakan tanpa mempertimbangkan komunitas adat menunjukkan kurangnya pengambilan keputusan yang sensitif kultural dan keadilan sosial, tidak sesuai dengan nilai akuntabel dan berorientasi pelayanan."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nSebagai pimpinan tim, Anda mengetahui bahwa salah satu anggota tim Anda menerima hadiah mahal dari rekanan proyek. Bagaimana Anda menyikapi hal ini?",
+        "pilihan": [
+            "Menegur anggota tim dan melaporkan sesuai prosedur anti-gratifikasi yang berlaku.\n(Nilai 5)",
+            "Melaporkan kejadian ini ke unit kepatuhan tanpa memberitahu anggota tim.\n(Nilai 4)",
+            "Mengingatkan secara informal agar lebih berhati-hati di masa depan.\n(Nilai 3)",
+            "Meminta anggota tim untuk berbagi hadiah dengan rekan lainnya.\n(Nilai 2)",
+            "Membiarkan karena hadiah tersebut dapat meningkatkan motivasi kerja.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menegur dan melaporkan sesuai prosedur mencerminkan integritas, akuntabilitas, etika kerja yang tinggi, dan kepemimpinan yang berintegritas. Ini sejalan dengan nilai akuntabel, loyal, kompeten, dan berorientasi pelayanan.\nPilihan diberi bobot 4 karena melaporkan tanpa memberitahu anggota tim menunjukkan akuntabilitas dan transparansi, namun kurang harmonis karena tidak memberikan kesempatan anggota tim untuk memperbaiki diri.\nPilihan diberi bobot 3 karena mengingatkan secara informal menunjukkan kepemimpinan yang berintegritas dan kolaborasi, tetapi kurang akuntabilitas dan mungkin tidak cukup tegas.\nPilihan diberi bobot 2 karena meminta berbagi hadiah tetap melanggar netralitas dan integritas, meskipun ada unsur kolaborasi.\nPilihan diberi bobot 1 karena membiarkan penerimaan hadiah melanggar integritas dan etika kerja yang tinggi, tidak sesuai dengan nilai akuntabel dan berorientasi pelayanan."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nAnda adalah seorang pegawai negeri sipil yang terlibat dalam proyek pemerintah yang melibatkan beberapa instansi. Anda menyadari bahwa kurangnya koordinasi antar instansi menyebabkan proyek berjalan tidak efisien. Apa yang sebaiknya Anda lakukan untuk mengatasi hal ini?",
+        "pilihan": [
+            "Menginisiasi pertemuan lintas instansi untuk meningkatkan kolaborasi dan komunikasi.\n(Nilai 5)",
+            "Mengusulkan pembagian tugas yang jelas kepada atasan untuk setiap instansi\n(Nilai 4)",
+            "Mengandalkan informasi dari instansi lain tanpa upaya koordinasi lebih lanjut\n(Nilai 3)",
+            "Menunggu instruksi atasan sebelum mengambil tindakan terkait koordinasi proyek.\n(Nilai 2)",
+            "Fokus pada tugas instansi Anda tanpa terlibat dengan instansi lain untuk efisiensi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menginisiasi pertemuan lintas instansi mencerminkan kolaborasi dan kerjasama lintas sektor, komunikasi yang efektif, pendekatan terpadu, dan kepemimpinan yang inklusif. Ini sesuai dengan nilai kolaboratif, adaptif, kompeten, dan akuntabel.\nPilihan diberi bobot 4 karena mengusulkan pembagian tugas yang jelas mencerminkan kesatuan visi dan misi serta pendekatan terpadu. Ini sesuai dengan nilai akuntabel dan kompeten, namun masih kurang dalam kolaborasi aktif.\nPilihan diberi bobot 3 karena mengandalkan informasi tanpa upaya koordinasi lebih lanjut menunjukkan penggunaan data dan informasi yang efektif, namun kurang kolaborasi dan komunikasi yang efektif. Ini mencerminkan nilai kompeten tetapi kurang kolaboratif.\nPilihan diberi bobot 2 karena menunggu instruksi atasan menunjukkan loyal tetapi kurang inisiatif dan adaptabilitas. Tindakan ini kurang mencerminkan nilai kompeten dan adaptif.\nPilihan diberi bobot 1 karena fokus hanya pada tugas instansi sendiri tanpa berusaha berkoordinasi menunjukkan kurangnya kolaborasi dan kerjasama lintas sektor serta komunikasi yang efektif. Sikap ini tidak sesuai dengan nilai kolaboratif dan berorientasi pelayanan dalam BerAKHLAK."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nDinas Pendidikan Kabupaten Wayang, Pak Abu dipekerjakan sebagai honorer tetapi tidak pernah masuk kerja namun tetap menerima gaji. Sebagai Kepala Dinas apa yang Anda lakukan?",
+        "pilihan": [
+            "Melaporkan ke atasan tentang ketidakhadiran Bu Dodik untuk akuntabilitas dan integritas\n(Nilai 5)",
+            "Menunggu pihak manajemen mengambil tindakan sesuai prosedur\n(Nilai 4)",
+            "Menyarankan Bu Dodik untuk mulai masuk kerja demi profesionalisme\n(Nilai 3)",
+            "Membicarakan hal ini dengan rekan kerja untuk solusi partisipatif\n(Nilai 2)",
+            "Mengabaikan situasi karena bukan tanggung jawab Anda langsung\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan ke atasan mencerminkan asas akuntabilitas, integritas, transparansi, dan profesionalisme. Tindakan ini memastikan masalah diselesaikan sesuai prosedur dan menjaga kepercayaan publik.\nPilihan diberi bobot 4 karena menunggu manajemen mengambil tindakan sesuai prosedur menunjukkan kepatuhan dan profesionalisme, tetapi kurang proaktif dalam menjaga akuntabilitas dan integritas.\nPilihan diberi bobot 3 karena menyarankan Bu Dodik untuk mulai masuk kerja menunjukkan profesionalisme dan integritas, namun mungkin kurang efektif tanpa pelaporan resmi.\nPilihan diberi bobot 2 karena membahas dengan rekan kerja mencakup asas partisipatif, tetapi tidak langsung menyelesaikan masalah dan bisa menimbulkan gosip atau konflik internal.\nPilihan diberi bobot 1 karena mengabaikan masalah melanggar asas akuntabilitas dan profesionalisme. Setiap pegawai memiliki tanggung jawab untuk menjaga integritas pelayanan publik."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nAnda bekerja dalam tim lintas sektor yang mengalami kesulitan mencapai kesepakatan karena perbedaan prioritas antar instansi. Apa tindakan terbaik yang harus Anda ambil?",
+        "pilihan": [
+            "Mencari titik temu untuk menetapkan tujuan bersama\n(Nilai 5)",
+            "Menyerahkan keputusan kepada pimpinan tertinggi\n(Nilai 4)",
+            "Mengabaikan perbedaan dan fokus pada tugas Anda\n(Nilai 3)",
+            "Memaksakan prioritas instansi Anda dalam tim.\n(Nilai 2)",
+            "Membubarkan tim karena sulit mencapai kesepakatan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mencari titik temu mencerminkan tujuan bersama, kolaborasi, komunikasi yang efektif, dan kepemimpinan inklusif.\nPilihan diberi bobot 4 karena menyerahkan keputusan menunjukkan loyalitas, tetapi kurang inisiatif.\nPilihan diberi bobot 3 karena mengabaikan perbedaan menunjukkan kurangnya kolaborasi.\nPilihan diberi bobot 2 karena memaksakan prioritas tidak mencerminkan kolaborasi dan kepemimpinan inklusif.\nPilihan diberi bobot 1 karena membubarkan tim menunjukkan kurangnya akuntabilitas dan kompetensi."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSebagai staf IT di sebuah kementerian, Anda menemukan ancaman serius terhadap keamanan data akibat serangan siber yang belum teridentifikasi. Apa yang sebaiknya Anda lakukan dalam situasi ini?",
+        "pilihan": [
+            "Segera melaporkan ancaman ke atasan dan tim terkait untuk tindakan cepat.\n(Nilai 5)",
+            "Menginformasikan rekan kerja secara informal tanpa prosedur resmi.\n(Nilai 4)",
+            "Mencoba mengatasi sendiri tanpa melibatkan pihak lain demi efisiensi.\n(Nilai 3)",
+            "Menunggu instruksi dari atasan sebelum mengambil tindakan lebih lanjut\n(Nilai 2)",
+            "Mengabaikan ancaman karena belum ada kerusakan nyata yang terjadi.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan mendapat bobot 5 karena segera melaporkan ancaman kepada atasan dan tim terkait mencerminkan asas akuntabilitas, responsivitas, profesionalisme, dan kerja sama. Tindakan ini memungkinkan penanganan cepat untuk mencegah dampak negatif lebih lanjut.\nPilihan diberi bobot 4 karena menginformasikan rekan kerja secara informal menunjukkan asas kerja sama dan partisipasi, tetapi tanpa prosedur resmi, hal ini bisa melanggar asas akuntabilitas dan transparansi yang penting dalam penanganan ancaman keamanan.\nPilihan diberi bobot 3 karena mencoba mengatasi sendiri menunjukkan inisiatif dan asas profesionalisme serta tanggung jawab. Namun, kurangnya koordinasi dapat melanggar asas kerja sama dan transparansi, berpotensi membuat solusi kurang efektif.\nPilihan mendapat bobot 2 karena menunggu instruksi atasan menunjukkan kepatuhan, namun kurang responsif dan proaktif, melanggar asas responsivitas dan profesionalisme yang dibutuhkan dalam situasi darurat.\nPilihan diberi bobot 1 karena mengabaikan ancaman keamanan siber menunjukkan kelalaian terhadap asas akuntabilitas dan profesionalisme. Tindakan ini berisiko tinggi bagi integritas data kementerian dan dapat menimbulkan kerugian besar."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nAnda menyadari bahwa program yang dijalankan instansi Anda tumpang tindih dengan program instansi lain. Apa yang sebaiknya Anda lakukan untuk mengatasi hal ini?",
+        "pilihan": [
+            "Mengusulkan integrasi program dengan instansi terkait untuk efisiensi\n(Nilai 5)",
+            "Menjalankan program dengan modifikasi kecil tanpa koordinasi\n(Nilai 4)",
+            "Membiarkan instansi lain menyesuaikan program mereka\n(Nilai 3)",
+            "Melanjutkan program karena sudah direncanakan sebelumnya\n(Nilai 2)",
+            "Menghentikan program instansi Anda agar tidak tumpang tindih\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengusulkan integrasi program mencerminkan pendekatan terpadu, kolaborasi, pengelolaan sumber daya yang efisien, dan akuntabilitas.\nPilihan diberi bobot 4 karena modifikasi kecil menunjukkan inisiatif, namun tanpa koordinasi kurang kolaboratif.\nPilihan diberi bobot 3 karena membiarkan instansi lain menyesuaikan menunjukkan fleksibilitas, tetapi kurang kolaboratif.\nPilihan diberi bobot 2 karena melanjutkan program tanpa mempertimbangkan tumpang tindih menunjukkan kurangnya pendekatan terpadu.\nPilihan diberi bobot 1 karena menghentikan program tanpa solusi tidak menunjukkan akuntabilitas."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nAnda ditugaskan memimpin proyek di daerah dengan konflik antar kelompok etnis. Bagaimana Anda memastikan proyek berjalan lancar dan konflik tidak meningkat?",
+        "pilihan": [
+            "Menyerahkan kepemimpinan proyek kepada orang lokal yang netral\n(Nilai 5)",
+            "Melibatkan semua kelompok etnis dalam tim dan kegiatan proyek\n(Nilai 4)",
+            "Menghindari interaksi dengan komunitas lokal untuk mengurangi risiko\n(Nilai 3)",
+            "Fokus pada target proyek tanpa mempedulikan konflik yang ada.\n(Nilai 2)",
+            "Memilih anggota tim dari satu etnis untuk menghindari konflik internal\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menyerahkan kepemimpinan kepada orang lokal yang netral menunjukkan kepekaan terhadap konflik budaya, keterampilan negosiasi antarbudaya, kolaborasi dengan pemimpin komunitas, dan penyesuaian kultural. Ini sesuai dengan nilai harmonis, adaptif, kolaboratif, dan kompeten.\nPilihan diberi bobot 4 karena melibatkan semua kelompok etnis mencerminkan toleransi dan inklusi serta pengembangan hubungan antarbudaya, tetapi mungkin memerlukan mediasi.\nPilihan diberi bobot 3 karena menghindari interaksi menunjukkan penyesuaian kultural yang rendah dan kurang kolaborasi.\nPilihan diberi bobot 2 karena mengabaikan konflik menunjukkan kurangnya kepekaan terhadap konflik budaya dan empati kultural.\nPilihan diberi bobot 1 karena memilih tim dari satu etnis menunjukkan diskriminasi dan tidak menghargai keanekaragaman, melanggar nilai harmonis dan akuntabel."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nAnda ditugaskan mengelola proyek yang memerlukan data dari berbagai instansi, namun beberapa instansi enggan berbagi data. Apa langkah yang paling efektif untuk Anda lakukan?",
+        "pilihan": [
+            "Membangun kerjasama formal dengan instansi terkait untuk berbagi data\n(Nilai 5)",
+            "Memberi insentif kepada instansi lain agar mau berbagi data\n(Nilai 4)",
+            "Meminta atasan untuk memerintahkan instansi lain agar berbagi data\n(Nilai 3)",
+            "Menggunakan data yang tersedia meski kurang lengkap untuk mempercepat pekerjaan\n(Nilai 2)",
+            "Mengumpulkan data sendiri tanpa melibatkan instansi lain\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena membangun kerjasama formal mencerminkan kolaborasi dan kerjasama lintas sektor, komunikasi yang efektif, akuntabilitas, dan penggunaan data yang efektif.\nPilihan diberi bobot 4 karena memberi insentif menunjukkan pendekatan terpadu dan pengelolaan sumber daya yang efisien, namun mungkin tidak sesuai dengan prosedur.\nPilihan diberi bobot 3 karena meminta atasan memerintahkan instansi lain menunjukkan loyalitas, namun kurang kolaboratif dan dapat menimbulkan resistensi.\nPilihan diberi bobot 2 karena menggunakan data yang kurang lengkap menunjukkan fleksibilitas, namun kurang akuntabilitas dan dapat mempengaruhi kualitas proyek.\nPilihan diberi bobot 1 karena mengumpulkan data sendiri tanpa melibatkan instansi lain menunjukkan kurangnya kolaborasi dan penggunaan sumber daya yang efisien."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nSebagai auditor di Dinas Pendidikan Kabupaten , Anda menemukan bahwa Bu Ani, bendahara kantor, menggunakan dana kantor untuk membayar hutang menteri tanpa prosedur yang jelas. Apa yang Anda lakukan sebagai auditor?",
+        "pilihan": [
+            "Melaporkan sesuai prosedur resmi untuk memastikan akuntabilitas dan transparansi pelayanan\n(Nilai 5)",
+            "Menyarankan Bu Ani mengembalikan dana dan membuat laporan untuk transparansi\n(Nilai 4)",
+            "Melaporkan temuan ini secara tertutup kepada atasan demi menjaga integritas dan kerahasiaan\n(Nilai 3)",
+            "Membahas masalah ini dengan tim untuk solusi partisipatif dan profesional\n(Nilai 2)",
+            "Mengabaikan temuan tersebut untuk menghindari konflik dan mempertahankan hubungan kerja\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan mendapat bobot tertinggi 5 karena melaporkan sesuai prosedur resmi mencakup asas akuntabilitas, transparansi, integritas, dan profesionalisme. Tindakan ini memastikan masalah ditangani secara tepat dan sesuai regulasi.\nPilihan diberi bobot 4 karena menyarankan Bu Ani untuk mengembalikan dana dan membuat laporan. Tindakan ini mencakup asas transparansi, akuntabilitas, dan integritas. Namun, tidak melalui prosedur resmi sehingga kurang memenuhi aspek profesionalisme.\nPilihan diberi bobot 3 karena melibatkan integritas dan kerahasiaan, dua asas pelayanan publik. Namun, pelaporan secara tertutup mungkin tidak sepenuhnya memenuhi asas akuntabilitas dan transparansi yang diperlukan dalam situasi ini.\nPilihan diberi bobot 2 karena membahas dengan tim menunjukkan asas partisipatif dan profesionalisme. Namun, ini mungkin menunda tindakan yang diperlukan dan tidak memenuhi asas akuntabilitas dan ketepatan waktu dalam penanganan masalah serius.\nPilihan mendapat bobot 1 karena mengabaikan temuan jelas melanggar asas akuntabilitas dan integritas. Menghindari konflik bukan alasan untuk tidak menjalankan tugas dengan profesionalisme dan tanggung jawab."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nAnda menyadari bahwa rekan kerja Anda sering menggunakan fasilitas kantor untuk kepentingan pribadi. Bagaimana Anda menanggapi hal ini?",
+        "pilihan": [
+            "Melaporkan kepada atasan sesuai prosedur yang berlaku\n(Nilai 5)",
+            "Menegur rekan secara langsung agar lebih bijak menggunakan fasilitas\n(Nilai 4)",
+            "Mengurangi penggunaan fasilitas kantor untuk menutupi pemakaian rekan\n(Nilai 3)",
+            "Mengikuti jejak rekan tersebut untuk keperluan pribadi Anda\n(Nilai 2)",
+            "Membiarkan karena semua orang juga melakukannya.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan sesuai prosedur mencerminkan Akuntabilitas, Integritas, Etika Kerja yang Tinggi, dan Transparansi. Ini sesuai dengan nilai Akuntabel, Loyal, Kompeten, dan Berorientasi Pelayanan.\nPilihan diberi bobot 4 karena menegur rekan menunjukkan Kepemimpinan yang Berintegritas dan Kolaborasi, tetapi mungkin kurang efektif jika tidak ada perubahan.\nPilihan diberi bobot 3 karena mengurangi penggunaan fasilitas sendiri menunjukkan Etika Kerja dan Integritas, tetapi tidak menyelesaikan masalah rekan.\nPilihan diberi bobot 2 karena mengikuti perilaku salah melanggar Etika Kerja dan Integritas, meskipun ada Solidaritas.\nPilihan diberi bobot 1 karena membiarkan menunjukkan kurangnya Akuntabilitas dan Integritas, serta tidak sesuai dengan Etika Kerja yang Tinggi."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nAnda mengetahui bahwa kebijakan baru pemerintah akan berdampak pada beberapa instansi, namun belum ada koordinasi untuk implementasinya. Apa yang sebaiknya Anda lakukan?",
+        "pilihan": [
+            "Mengundang instansi terkait untuk merumuskan rencana implementasi bersama\n(Nilai 5)",
+            "Mengirim memo kepada instansi terkait mengenai kebijakan baru\n(Nilai 4)",
+            "Menunggu arahan lebih lanjut dari pimpinan sebelum bertindak\n(Nilai 3)",
+            "Fokus pada implementasi di instansi Anda tanpa melibatkan instansi lain\n(Nilai 2)",
+            "Mengabaikan kebijakan baru karena belum ada petunjuk teknis\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengundang instansi terkait untuk merumuskan rencana bersama mencerminkan Kolaborasi, Kesatuan Visi dan Misi, Pendekatan Terpadu, dan Kepemimpinan yang Inklusif.\nPilihan diberi bobot 4 karena mengirim memo menunjukkan Komunikasi yang Efektif dan inisiatif, tetapi kurang dalam Kolaborasi Aktif.\nPilihan diberi bobot 3 karena menunggu arahan menunjukkan Loyalitas tetapi kurang proaktif dan Adaptif.\nPilihan diberi bobot 2 karena bekerja sendiri tanpa melibatkan instansi lain menunjukkan kurangnya Kolaborasi dan Pendekatan Terpadu.\nPilihan diberi bobot 1 karena mengabaikan kebijakan baru menunjukkan kurangnya Akuntabilitas dan Kompetensi."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nAnda diminta atasan untuk memanipulasi data laporan agar kinerja instansi terlihat lebih baik. Apa yang sebaiknya Anda lakukan?",
+        "pilihan": [
+            "Menolak dan menjelaskan kepada atasan bahwa tindakan tersebut melanggar etika dan peraturan\n(Nilai 5)",
+            "Menolak secara halus tanpa memberikan alasan apapun\n(Nilai 4)",
+            "Mengubah data sedikit saja agar tidak terlalu mencolok\n(Nilai 3)",
+            "Mengikuti perintah atasan demi menjaga hubungan kerja yang baik\n(Nilai 2)",
+            "Meminta rekan lain untuk mengerjakan tugas tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menjelaskan kepada atasan menunjukkan Integritas, Akuntabilitas, Kompetensi Profesional, dan Komunikasi Efektif. Ini sesuai dengan nilai Akuntabel, Kompeten, Loyal, dan Berorientasi Pelayanan.\nPilihan diberi bobot 4 karena menolak menunjukkan Integritas dan Akuntabilitas, tetapi kurang Komunikasi Efektif yang dapat memperbaiki situasi.\nPilihan diberi bobot 3 karena mengubah data sedikit tetap melanggar Integritas dan Transparansi, meskipun mencoba mengurangi dampak negatif.\nPilihan diberi bobot 2 karena mengikuti perintah atasan meski salah menunjukkan kurangnya Integritas dan Akuntabilitas, meskipun ada unsur Loyalitas.\nPilihan diberi bobot 1 karena meminta rekan lain melanggar Integritas dan Etika Kerja, serta melibatkan orang lain dalam tindakan tidak etis."
+    },
+    {
+        "nomor": 36,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 36\nTidak dijawab\nSebagai ASN di daerah dengan keragaman budaya tinggi, Anda menyadari bahwa program layanan publik yang Anda kelola tidak menjangkau kelompok minoritas karena kendala bahasa. Apa yang seharusnya Anda lakukan untuk memastikan inklusivitas?",
+        "pilihan": [
+            "Menyesuaikan program dengan menambahkan materi multibahasa dan melibatkan komunitas minoritas\n(Nilai 5)",
+            "Mengadakan pertemuan hanya dengan perwakilan mayoritas untuk membahas peningkatan program\n(Nilai 4)",
+            "Menyerahkan masalah ini kepada rekan yang memahami bahasa minoritas\n(Nilai 3)",
+            "Memprioritaskan kebutuhan mayoritas dan mempertimbangkan minoritas di program berikutnya\n(Nilai 2)",
+            "Melanjutkan program seperti biasa karena sudah efektif bagi mayoritas\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menyesuaikan program dengan materi multibahasa dan melibatkan komunitas minoritas mencerminkan Penyesuaian Kultural, Komunikasi Antarbudaya yang Efektif, Toleransi dan Inklusi, serta Pengembangan Hubungan Antarbudaya. Ini sesuai dengan nilai Berorientasi Pelayanan, Adaptif, Kolaboratif, dan Kompeten.\nPilihan diberi bobot 4 karena mengadakan pertemuan dengan mayoritas menunjukkan Keterbukaan dan Fleksibilitas serta Pengambilan Keputusan yang Sensitif Kultural, namun mengabaikan partisipasi minoritas, sehingga kurang Toleransi dan Inklusi.\nPilihan diberi bobot 3 karena delegasi kepada rekan menunjukkan Kolaborasi dengan Pemimpin Komunitas dan Keterbukaan, tetapi kurang Akuntabilitas pribadi dan Empati Kultural.\nPilihan diberi bobot 2 karena menunda perhatian terhadap minoritas menunjukkan sedikit Keterbukaan dan Fleksibilitas, namun kurang Empati Kultural dan Toleransi dan Inklusi. Ini kurang mencerminkan nilai Adaptif dan Kolaboratif.\nPilihan diberi bobot 1 karena mengabaikan kebutuhan minoritas menunjukkan kurangnya Penghargaan terhadap Keanekaragaman dan Kesetaraan serta Non-Diskriminasi. Sikap ini tidak sesuai dengan nilai Berorientasi Pelayanan dan Akuntabel dalam BerAKHLAK."
+    },
+    {
+        "nomor": 37,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 37\nTidak dijawab\nSebagai seorang ASN di sebuah kementerian, Anda ditugaskan menangani proyek penting dengan tenggat waktu ketat. Rekan satu tim Anda sering datang terlambat dan kurang berkontribusi. Apa tindakan terbaik yang harus Anda ambil untuk memastikan keberhasilan proyek?",
+        "pilihan": [
+            "Mengajak rekan berdiskusi untuk meningkatkan kinerja dan menawarkan bantuan jika diperlukan\n(Nilai 5)",
+            "Mengambil alih tugas rekan tersebut untuk memastikan proyek selesai tepat waktu\n(Nilai 4)",
+            "Melaporkan rekan tersebut kepada atasan agar diberikan sanksi sesuai aturan\n(Nilai 3)",
+            "Mengabaikan perilaku rekan dan fokus menyelesaikan tugas Anda sendiri dengan maksimal\n(Nilai 2)",
+            "Membiarkan tim bekerja sesuai kemampuan masing-masing tanpa intervensi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengajak rekan berdiskusi mencerminkan Kolaborasi dan Kerjasama Tim, Kompetensi Profesional, Integritas, dan Pelayanan Prima. Tindakan ini sesuai dengan nilai Harmonis, Kolaboratif, Kompeten, dan Berorientasi Pelayanan dalam BerAKHLAK.\nPilihan diberi bobot 4 karena mengambil alih tugas rekan menunjukkan Kompetensi Profesional dan Pelayanan Prima, tetapi kurang mendorong Pengembangan Diri dan Pembelajaran Berkelanjutan pada rekan, serta bisa menyebabkan overworking.\nPilihan diberi bobot 3 karena melaporkan rekan kepada atasan menunjukkan Akuntabilitas dan Etika Kerja yang Tinggi. Namun, tindakan ini kurang mencerminkan Kolaborasi dan Kerjasama Tim, serta dapat merusak Harmonis dalam BerAKHLAK.\nPilihan diberi bobot 2 karena mengabaikan rekan dan fokus pada tugas sendiri menunjukkan kurangnya Kolaborasi dan Akuntabilitas. Ini tidak sejalan dengan nilai Kolaboratif dan Akuntabel.\nPilihan diberi bobot 1 karena membiarkan tim tanpa intervensi menunjukkan kurangnya Kepemimpinan yang Berintegritas dan Akuntabilitas, tidak sesuai dengan nilai Akuntabel dan Loyal."
+    },
+    {
+        "nomor": 38,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 38\nTidak dijawab\nAnda adalah seorang ASN yang baru dipindahkan ke departemen yang menangani teknologi informasi. Anda diminta mengerjakan tugas yang membutuhkan keahlian khusus di bidang pemrograman yang belum Anda kuasai sepenuhnya. Apa langkah terbaik yang harus Anda ambil?",
+        "pilihan": [
+            "Mengikuti pelatihan tambahan untuk meningkatkan kompetensi sesuai kebutuhan tugas\n(Nilai 5)",
+            "Meminta atasan untuk memberikan tugas lain yang lebih sesuai\n(Nilai 4)",
+            "Mengalihkan tugas tersebut kepada rekan yang lebih kompeten di bidang pemrograman\n(Nilai 3)",
+            "Menolak tugas tersebut karena tidak sesuai dengan kompetensi Anda saat ini\n(Nilai 2)",
+            "Mengerjakan tugas sebisa mungkin tanpa berusaha meningkatkan kompetensi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengikuti pelatihan tambahan menunjukkan komitmen untuk bekerja sesuai kompetensi dan kode etik profesi dengan meningkatkan keterampilan. Tindakan ini mencerminkan nilai Kompeten, Adaptif, Akuntabel, dan Berorientasi Pelayanan.\nPilihan diberi bobot 4 karena meminta tugas lain menunjukkan kesadaran akan kompetensi, namun sebaiknya diimbangi dengan usaha meningkatkan diri. Ini mencerminkan nilai Loyal dan Akuntabel, tetapi kurang Adaptif.\nPilihan diberi bobot 3 karena mengalihkan tugas menunjukkan inisiatif untuk memastikan tugas ditangani oleh yang kompeten, namun kurang berusaha meningkatkan kompetensi pribadi. Ini mencerminkan nilai Kolaboratif, tetapi kurang Pengembangan Diri.\nPilihan diberi bobot 2 karena menolak tugas menunjukkan kesadaran akan keterbatasan kompetensi, namun kurang menunjukkan usaha untuk bekerja sesuai kode etik profesi yang mengharuskan peningkatan diri. Sikap ini tidak sepenuhnya mencerminkan nilai Kompeten dan Adaptif dalam BerAKHLAK.\nPilihan diberi bobot 1 karena mengerjakan tugas tanpa berusaha meningkatkan kompetensi berpotensi menghasilkan pekerjaan yang tidak optimal, melanggar prinsip bekerja sesuai kompetensi dan kode etik profesi. Ini tidak sesuai dengan nilai Kompeten dan Akuntabel."
+    },
+    {
+        "nomor": 39,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 39\nTidak dijawab\nAnda menemukan materi berisi konten radikal di komputer kantor yang digunakan bersama. Apa tindakan yang harus Anda lakukan untuk menangani situasi ini?",
+        "pilihan": [
+            "Melaporkan temuan tersebut kepada atasan dan tim keamanan informasi\n(Nilai 5)",
+            "Membahas temuan ini dengan seluruh tim untuk kewaspadaan bersama\n(Nilai 4)",
+            "Menghapus materi tersebut agar tidak tersebar lebih luas\n(Nilai 3)",
+            "Menyelidiki sendiri siapa yang menyimpan materi tersebut\n(Nilai 2)",
+            "Mengabaikan karena bukan tanggung jawab Anda langsung\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan kepada atasan dan tim keamanan mencerminkan Akuntabel, Loyal, Kompeten, dan Kolaboratif. Tindakan ini sesuai prosedur dan membantu penanganan lebih lanjut.\nPilihan diberi bobot 4 karena membahas dengan tim menunjukkan Kolaboratif dan Harmonis, tetapi perlu tindakan formal melalui prosedur yang berlaku.\nPilihan diberi bobot 3 karena menghapus materi menunjukkan Kompeten dan Loyal, tetapi tidak membantu mengidentifikasi sumber dan mencegah kejadian serupa.\nPilihan diberi bobot 2 karena menyelidiki sendiri bisa melanggar prosedur dan kurang Kolaboratif, meskipun menunjukkan Kompeten.\nPilihan diberi bobot 1 karena mengabaikan menunjukkan kurangnya Akuntabel dan Loyal, serta membiarkan potensi bahaya tetap ada."
+    },
+    {
+        "nomor": 40,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 40\nTidak dijawab\nSeorang rekan kerja mengajak Anda bergabung dalam grup diskusi tertutup yang membahas ideologi yang bertentangan dengan Pancasila. Apa yang sebaiknya Anda lakukan?",
+        "pilihan": [
+            "Melaporkan ajakan tersebut kepada atasan sesuai prosedur instansi\n(Nilai 5)",
+            "Membicarakan hal ini dengan rekan lain untuk mendapatkan saran\n(Nilai 4)",
+            "Menolak ajakan secara halus tanpa menyinggung perasaannya\n(Nilai 3)",
+            "Mengabaikan ajakan tersebut dan tidak menanggapinya\n(Nilai 2)",
+            "Bergabung untuk memahami sudut pandang mereka lebih dalam\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena melaporkan sesuai prosedur mencerminkan Loyal, Akuntabel, Kompeten, dan Berorientasi Pelayanan. Tindakan ini membantu instansi untuk mengambil langkah pencegahan.\nPilihan diberi bobot 4 karena membicarakan dengan rekan lain menunjukkan Kolaboratif dan Kompeten, tetapi bisa menimbulkan gosip dan kurang efektif.\nPilihan diberi bobot 3 karena menolak secara halus menunjukkan Harmonis dan Loyal, namun tidak membantu mencegah penyebaran ideologi.\nPilihan diberi bobot 2 karena mengabaikan ajakan kurang Akuntabel dan tidak proaktif dalam menangani masalah.\nPilihan diberi bobot 1 karena bergabung menunjukkan kurangnya Loyal dan Akuntabel, serta berpotensi terpapar ideologi radikal."
+    },
+    {
+        "nomor": 41,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 41\nTidak dijawab\nAnda ditugaskan mengembangkan aplikasi pelayanan publik, namun atasan meminta Anda memasukkan fitur pengumpulan data pribadi tanpa persetujuan pengguna. Apa tindakan terbaik yang harus Anda ambil?",
+        "pilihan": [
+            "Menolak permintaan atasan dan menjelaskan risiko hukum serta etika\n(Nilai 5)",
+            "Mengajukan keberatan secara tertulis melalui jalur formal yang ada\n(Nilai 4)",
+            "Membuat fitur tersebut dengan meningkatkan keamanan data pengguna\n(Nilai 3)",
+            "Mengikuti instruksi atasan demi loyalitas dan kepentingan karier\n(Nilai 2)",
+            "Mengabaikan permintaan dan melanjutkan pengembangan aplikasi biasa\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menolak permintaan yang melanggar etika dan hukum mencerminkan asas integritas, akuntabilitas, profesionalisme, dan transparansi. Menjelaskan risiko hukum juga menunjukkan tanggung jawab dan kepedulian terhadap kepentingan publik.\nPilihan mendapat bobot 4 karena mengajukan keberatan secara tertulis mencerminkan asas profesionalisme, akuntabilitas, transparansi, dan tanggung jawab. Tindakan ini formal dan sesuai prosedur, namun mungkin memerlukan waktu lebih lama untuk penyelesaian.\nPilihan diberi bobot 3 karena berusaha menyeimbangkan permintaan atasan dengan peningkatan keamanan data menunjukkan asas profesionalisme dan tanggung jawab. Namun, tetap mengumpulkan data tanpa persetujuan melanggar asas transparansi dan integritas.\nPilihan mendapat bobot 2 karena meskipun menunjukkan loyalitas, mengikuti instruksi yang melanggar hukum melanggar asas integritas dan akuntabilitas, serta berpotensi merugikan instansi dan publik.\nPilihan diberi bobot 1 karena mengabaikan permintaan tanpa tindakan lanjut menunjukkan kurangnya akuntabilitas dan profesionalisme, serta tidak menyelesaikan masalah etika yang ada."
+    },
+    {
+        "nomor": 42,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 42\nTidak dijawab\nAnda mengetahui bahwa instansi Anda dan instansi lain memiliki visi yang berbeda dalam proyek bersama. Apa yang sebaiknya Anda lakukan?",
+        "pilihan": [
+            "Mengajak instansi lain untuk menyelaraskan visi dan misi demi tujuan bersama\n(Nilai 5)",
+            "Menyerahkan penyelesaian masalah ini kepada pimpinan\n(Nilai 4)",
+            "Mempertahankan visi instansi Anda dan mengabaikan perbedaan\n(Nilai 3)",
+            "Membiarkan instansi lain menjalankan visinya sendiri\n(Nilai 2)",
+            "Menghentikan kerjasama karena perbedaan visi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena mengajak menyelaraskan visi mencerminkan Kesatuan Visi dan Misi, Kolaborasi, Komunikasi yang Efektif, dan Kepemimpinan Inklusif.\nPilihan diberi bobot 4 karena menyerahkan kepada pimpinan menunjukkan Loyalitas, tetapi kurang Inisiatif.\nPilihan diberi bobot 3 karena mempertahankan visi sendiri menunjukkan kurangnya Kolaborasi.\nPilihan diberi bobot 2 karena membiarkan instansi lain menunjukkan kurangnya Pendekatan Terpadu.\nPilihan diberi bobot 1 karena menghentikan kerjasama tidak mencerminkan Akuntabilitas dan Kolaborasi."
+    },
+    {
+        "nomor": 43,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 43\nTidak dijawab\nAnda menemukan bahwa instansi lain telah mengembangkan solusi serupa dengan yang sedang Anda kerjakan. Apa yang sebaiknya Anda lakukan?",
+        "pilihan": [
+            "Menghubungi mereka untuk menjajaki kemungkinan kolaborasi\n(Nilai 5)",
+            "Menginformasikan atasan tentang situasi ini untuk arahan lebih lanjut\n(Nilai 4)",
+            "Mengubah arah proyek Anda agar berbeda dari mereka\n(Nilai 3)",
+            "Mengkritik instansi tersebut karena menduplikasi pekerjaan Anda\n(Nilai 2)",
+            "Mengabaikan dan melanjutkan proyek Anda sendiri\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menghubungi mereka untuk kolaborasi mencerminkan Kolaborasi, Pendekatan Terpadu, Pengelolaan Sumber Daya yang Efisien, dan Komunikasi yang Efektif.\nPilihan diberi bobot 4 karena menginformasikan atasan menunjukkan Akuntabilitas dan Loyalitas, tetapi kurang Inisiatif.\nPilihan diberi bobot 3 karena mengubah arah proyek menunjukkan Fleksibilitas, tetapi mungkin tidak efisien.\nPilihan diberi bobot 2 karena mengkritik tidak mencerminkan Komunikasi yang Efektif dan Kolaborasi.\nPilihan diberi bobot 1 karena mengabaikan potensi kolaborasi menunjukkan kurangnya Kolaborasi dan Pengelolaan Sumber Daya yang Efisien."
+    },
+    {
+        "nomor": 44,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 44\nTidak dijawab\nAnda bekerja di instansi pemerintah yang baru merekrut pegawai dari berbagai daerah dengan latar belakang budaya berbeda. Beberapa pegawai merasa terisolasi dan kesulitan beradaptasi. Apa yang sebaiknya Anda lakukan untuk membantu mereka?",
+        "pilihan": [
+            "Menginisiasi program orientasi budaya dan kegiatan kebersamaan untuk seluruh pegawai.\n(Nilai 5)",
+            "Mengajak mereka bergabung dalam kelompok Anda agar lebih mudah beradaptasi\n(Nilai 4)",
+            "Meminta atasan untuk menangani masalah adaptasi pegawai baru tersebut\n(Nilai 3)",
+            "Menyarankan mereka untuk mengikuti pelatihan adaptasi budaya secara mandiri.\n(Nilai 2)",
+            "Mengabaikan mereka karena adaptasi adalah tanggung jawab pribadi masing-masing\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menginisiasi program orientasi dan kegiatan kebersamaan mencerminkan Penghargaan terhadap Keanekaragaman, Empati Kultural, Penyesuaian Kultural, dan Keterbukaan dan Fleksibilitas. Ini sesuai dengan nilai Harmonis, Adaptif, Kompeten, dan Kolaboratif.\nPilihan diberi bobot 4 karena mengajak mereka bergabung dalam kelompok Anda menunjukkan Pengembangan Hubungan Antarbudaya dan Empati Kultural, tetapi skalanya terbatas dan kurang mencakup seluruh pegawai, sehingga nilai Kolaboratif belum optimal.\nPilihan diberi bobot 3 karena meminta atasan menangani masalah menunjukkan Loyal dan sedikit Akuntabilitas, namun kurang inisiatif pribadi dan Kolaborasi.\nPilihan diberi bobot 2 karena menyarankan pelatihan mandiri menunjukkan Kesadaran Budaya, namun kurang Pengembangan Hubungan Antarbudaya dan tidak mencerminkan Kolaboratif.\nPilihan diberi bobot 1 karena mengabaikan kesulitan rekan kerja menunjukkan kurangnya Empati Kultural dan Toleransi dan Inklusi, tidak sesuai dengan nilai Harmonis dan Kolaboratif dalam BerAKHLAK."
+    },
+    {
+        "nomor": 45,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 45\nTidak dijawab\nProyek Anda memerlukan keterlibatan instansi lain, namun mereka sibuk dengan agenda masing-masing. Bagaimana Anda mengatasinya?",
+        "pilihan": [
+            "Menyesuaikan jadwal dan mencari cara agar mereka tertarik berkolaborasi\n(Nilai 5)",
+            "Mengadukan masalah ini kepada atasan mereka\n(Nilai 4)",
+            "Mengirim permintaan resmi agar mereka ikut serta\n(Nilai 3)",
+            "Menunggu hingga mereka memiliki waktu luang\n(Nilai 2)",
+            "Menjalankan proyek tanpa melibatkan mereka untuk efisiensi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Pilihan diberi bobot 5 karena menyesuaikan jadwal dan mencari cara menarik mereka mencerminkan Fleksibilitas, Kolaborasi, Komunikasi yang Efektif, dan Kepemimpinan Inklusif.\nPilihan diberi bobot 4 karena mengadukan masalah menunjukkan Akuntabilitas, tetapi dapat menimbulkan ketegangan.\nPilihan diberi bobot 3 karena mengirim permintaan resmi menunjukkan Komunikasi yang Efektif, tetapi kurang Kreativitas.\nPilihan diberi bobot 2 karena menunggu menunjukkan kurangnya Inisiatif dan Adaptabilitas.\nPilihan diberi bobot 1 karena menjalankan proyek tanpa melibatkan instansi lain menunjukkan kurangnya Kolaborasi."
+    }
+]

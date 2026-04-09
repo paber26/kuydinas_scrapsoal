@@ -1,0 +1,422 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nPancasila dilaksanakan secara objektif, artinya ...",
+        "pilihan": [
+            "Pancasila digunakan sebagai pedoman perilaku sehari-hari",
+            "Pancasila digunakan sebagai asas tunggal",
+            "Pancasila digunakan sebagai sumber hukum negara Indonesia",
+            "Pancasila digunakan sebagai dasar hukum penyelenggaraan negara",
+            "Pancasila digunakan sebagai filter masuknya budaya global"
+        ],
+        "jawaban_benar": "Pancasila digunakan sebagai pedoman perilaku sehari-hari",
+        "pembahasan": "Pancasila yang dilaksanakan secara objektif artinya Pancasila digunakan sebagai pedoman perilaku sehari-hari"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nPancasila merupakan sebuah ideologi terbuka, disatu pihak kita harus mempertajam kesadaraan akan nilai-nilai yang bersifat abadi. Nilai-nilai yang bersifat abadi itu terdapat pada ...",
+        "pilihan": [
+            "Pembukaan UUD 1945",
+            "Batang tubuh UUD 1945",
+            "Penjelasan UUD 1945",
+            "Setiap pasal dalam batang tubuh UUD 1945",
+            "Ketetapan MPR"
+        ],
+        "jawaban_benar": "Pembukaan UUD 1945",
+        "pembahasan": "Nilai-nilai yang abadi adalah Pembukaan UUD 1945 karena merupakan pokok kaidah negara yang fundamental serta memiliki hakikat dan kedudukan hukum yang tetap dan tidak dapat diubah"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nLambang negara ialah garuda Pancasila dengan semboyan Bhineka Tunggal Ika adalah isi dari UUD 1945 Pasal 36 A yang merupakan hasil amandemen ...",
+        "pilihan": [
+            "Pertama",
+            "Kedua",
+            "Ketiga",
+            "Keempat",
+            "Kelima"
+        ],
+        "jawaban_benar": "Kedua",
+        "pembahasan": "Lambang negara ialah garuda Pancasila dengan semboyan Bhineka Tunggal Ika adalah isi dari UUD 1945 Pasal 36 A yang merupakan hasil amandemen kedua tahun 2000"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nKomponen utama dalam sistem pertahanan Negara Kesatuan Republik Indonesia adalah ...",
+        "pilihan": [
+            "Rakyat",
+            "Pemerintah",
+            "TNI",
+            "POLRI",
+            "UUD 1945"
+        ],
+        "jawaban_benar": "TNI",
+        "pembahasan": "Komponen utama dalam sistem pertahanan Negara Kesatuan Republik Indonesia adalah TNentara Nasional Indonesia yang bertugas untuk menjaga keutuhan dan kedaulatan negara dari ancaman luar"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nUpaya yang dilakukan pemerintah setelah peristiwa proklamasi 17 Agustus 1945 adalah menata stabilitas nasional dengan berdasarkan sistem pemerintahan ...",
+        "pilihan": [
+            "Sistem Parlementer",
+            "Sistem Presidensil",
+            "Sistem Republik",
+            "Sistem Uni Indonesia-Belanda",
+            "Sistem Negara Serikat (RIS)"
+        ],
+        "jawaban_benar": "Sistem Presidensil",
+        "pembahasan": "Pada saat kemerdekaan Indonesia menggunakan sistem pemerintahan presidensil pada periode 18 Agustus 1945 hingga 27 Desember 1949"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nHartono adalah seorang penari tradisional Bali yang sudah terkenal sejak tahun 1990. Meskipun sebagai seorang laki-laki, ia begitu mencintai seni tari dan ingin terus melestarikan kebudayaan asli Indonesia ini hingga bertahan ke generasi berikutnya. Perilaku Hartono adalah bentuk pengamalan nyata dari sila Pancasila yang dilambangkan oleh ...",
+        "pilihan": [
+            "Bintang",
+            "Rantai",
+            "Pohon Beringin",
+            "Kepala Banteng",
+            "Padi dan Kapas"
+        ],
+        "jawaban_benar": "Pohon Beringin",
+        "pembahasan": "rasa cinta dan bangga terhadap tanah air dengan melestarikan kebudayan lokal adalah bentuk pengamalan sila ketiga Pancasila yang dilambangkan oleh pohon beringin"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nTata urutan perundang-undangan menurut TAP MPR No. II/MPR/2000 adalah ...",
+        "pilihan": [
+            "UUD 1945, TAP MPR, Undang-Undang, Perpu, Peraturan Pemerintah, Keputusan Presiden , Peraturan Mentri",
+            "UUD 1945, TAP MPR, Undang-Undang, Perpu, Peraturan Pemerintah, Keputusan Presiden, Peraturan daerah",
+            "UUD 1945, TAP MPR, Peraturan Pemerintah, Undang-Undang, Keputusan Presiden, Perpu, Peraturan Daerah",
+            "UUD 1945, TAP MPR, Perpu, Undang-Undang, Peraturan Pemerintah, Keputusan Presiden, Peraturan Daerah",
+            "UUD 1945, TAP MPR, Undang-Undang, Peraturan Pemerintah, Perpu, Keputusan Presiden, Peraturan daerah"
+        ],
+        "jawaban_benar": "UUD 1945, TAP MPR, Undang-Undang, Perpu, Peraturan Pemerintah, Keputusan Presiden, Peraturan daerah",
+        "pembahasan": "Tata urutan perundang-undangan menurut TAP MPR No. II/MPR/2000 adalah UUD 1945, TAP MPR, Undang-Undang, Perpu, Peraturan Pemerintah, Keputusan Presiden, Peraturan daerah"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nSikap dan perilaku yang sesuai dengan pedoman penghayatan dan pengamalan Pancasila sila yang dilambangkan oleh kepala banteng adalah ...",
+        "pilihan": [
+            "Mengikuti Pilkada 2020 dimasa pandemi",
+            "Membantu korban banjir di Kalimantan Selatan",
+            "Ikut bekerja bakti dilingkungan tempat tinggal bersama warga",
+            "Menjalankan profesi dengan sebaik-baiknya demi kemajuan bersama",
+            "Tidak menyebarkan berita bohong disosial media"
+        ],
+        "jawaban_benar": "Mengikuti Pilkada 2020 dimasa pandemi",
+        "pembahasan": "Sila keempat yang dilambangkan oleh kepala banteng dapat diterapkan dengan cara mengikuti pilkada dimasa pandemi 2020 sebagai bentuk penyaluran aspirasi dan suara masyarakat dalam demokrasi"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nKebudayaan adalah hal yang harus di jaga dan dilestarikan hingga akhir hayat agar anak cucu kita bisa menikmati karakter dan keunikan khas Indonesia salah satunya adalah tari-tarian. Tari Dero adalah tari taradisional yang berasal dari ...",
+        "pilihan": [
+            "Sumatera Utara",
+            "NTT",
+            "Maluku Utara",
+            "Sulawesi Tengah",
+            "Kalimantan Selatan"
+        ],
+        "jawaban_benar": "Sulawesi Tengah",
+        "pembahasan": "Tari Dero adalah tari tradisional Suku Pamona yang berada di Sulawesi Tengah"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nYang bukan fungsi dan kedudukan Pancasila bagi bangsa Indonesia adalah ...",
+        "pilihan": [
+            "Dasar negara",
+            "Kepribadian bangsa",
+            "Pandangan hidup (way of life)",
+            "Dasar hukum",
+            "Perjanjian luhur"
+        ],
+        "jawaban_benar": "Dasar hukum",
+        "pembahasan": "Fungsi dan kedudukan Pancasila bagi bangsa Indonesia adalah dasar negara, kepribadian bangsa, pandangan hidup, cita-cita dan tujuan, serta perjanjian luhur\nJadi jawaban yang paling tepat adalah pilihan D karena dasar hukum Indonesia adalah UUD 1945"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nDalam artian putusan peradilan, yurisprudensi dibedakan menjadi dua, yaitu ...",
+        "pilihan": [
+            "Putusan perdamaian dan pengadilan",
+            "Yurisprudensi biasa dan tetap",
+            "Yurisprudensi tetap dan vaste jurisprudentie",
+            "Yurisprudensi dan putusan pengadilan",
+            "Yurisprudensi umum dan khusus"
+        ],
+        "jawaban_benar": "Yurisprudensi biasa dan tetap",
+        "pembahasan": "Dalam artian putusan peradilan, yurisprudensi dibedakan menjadi dua, yaitu yurisprudensi biasa dan tetap. Yurisprudensi biasa terdiri dari putusan perdamaian, putusan pengadilan negeri yang tidak dibanding putusan pengadilan tinggi tidak dikasasi, dan seluruh putusan Mahkamah Agung"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nPada 14 April 1949 - 7 Mei 1949, terjadi Perjanjian Roem-Roijen yang menyepakati beberapa hal, kecuali ...",
+        "pilihan": [
+            "Pemerintah Indonesia menghadiri Konferensi Meja Bundar",
+            "Pemerintah Indonesia dikembalikan ke Yogyakarta",
+            "Angkatan bersenjata Belanda menghentikan semua operasi militer dan melepaskan semua tawanan perang",
+            "Belanda hanya mengakui Jawa Tengah, Yogyakarta, dan Sumatera sebagai wilayah Indonesia",
+            "Angkatan bersenjata Indonesia akan menghentikan semua aktivitas gerilya"
+        ],
+        "jawaban_benar": "Belanda hanya mengakui Jawa Tengah, Yogyakarta, dan Sumatera sebagai wilayah Indonesia",
+        "pembahasan": "Pada 14 April 1949 - 7 Mei 1949, terjadi Perjanjian Roem-Roijen yang menyepakati beberapa hal:\nAngkatan bersenjata Indonesia\nmenghentikan segala aktivitas gerilya\nPemerintah Indonesia menghadiri Konferensi Meja Bundar\nPemerintah Indonesia Dikembalikan ke Yogyakarta\nAngkatan bersenjata Belanda menghentikan semua operasi militer dan melepaskan semua tawanan perang"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nOrganisasi internasional yang bertujuan untuk mengukuhkan pertumbuhan ekonomi dan mempererat hubungan negara-negara di Asia-Pasifik adalah ....",
+        "pilihan": [
+            "APEC",
+            "OPEC",
+            "ASEAN",
+            "AFF",
+            "Perbara"
+        ],
+        "jawaban_benar": "APEC",
+        "pembahasan": "APEC adalah organisasi internasional yang bertujuan untuk mengukuhkan pertumbuhan ekonomi dan mempererat hubungan negara-negara di Asia Pasifik"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nHukum pidana termasuk hukum publik. Itu artinya ...",
+        "pilihan": [
+            "Hukum pidana berlaku bagi semua orang",
+            "Hukum pidana mengatur hubungan antara para individu dengan masyarakat dan hanya diterapkan jika masyarakat itu benar-benar membutuhkannya",
+            "Hukum pidana mengatur hubungan antara para individu dengan negaranya",
+            "Hukum yang mengatur hubungan antara sesama manusia, antar satu orang dengan orang yang lain dengan menitikberatkan pada kepentingan perorangan",
+            "Hukum pidana hanya diterapkan jika masyarakat memintanya"
+        ],
+        "jawaban_benar": "Hukum pidana mengatur hubungan antara para individu dengan masyarakat dan hanya diterapkan jika masyarakat itu benar-benar membutuhkannya",
+        "pembahasan": "Hukum pidana termasuk hukum publik. Itu artinya hukum pidana\nmengatur hubungan antara para\nindividu dengan masyarakat dan\nhanya diterapkan jika masyarakat itu benar-benar membutuhkannya"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nPeraturan yang dianggap sebagai suara hati manusia. Aturan hidup tentang perilaku baik dan buruk berdasarkan kebenaran dan keadilan, disebut ...",
+        "pilihan": [
+            "Norma Agama",
+            "Norma Kesusilaan",
+            "Norma Kesopanan",
+            "Norma Keadilan",
+            "Norma Hukum"
+        ],
+        "jawaban_benar": "Norma Kesusilaan",
+        "pembahasan": "Norma Kesusilaan yaitu norma atau peraturan yang dianggap sebagai suara hati manusia. Aturan hidup tentang perilaku baik dan buruk berdasarkan kebenaran dan keadilan"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSuka memberi pertolongan kepada orang lain agar dapat berdiri sendiri, merupakan nilai yang terkandung dalam Pancasila sila ...",
+        "pilihan": [
+            "Pertama",
+            "Kedua",
+            "Ketiga",
+            "Keempat",
+            "Kelima"
+        ],
+        "jawaban_benar": "Kelima",
+        "pembahasan": "Suka memberi pertolongan kepada orang lain agar dapat berdiri sendiri, merupakan nilai yang terkandung dalam Pancasila sila kelima"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nRancangan lambang negara karya Sultan Hamid II akhirnya disetujui oleh Presiden Soekano pada tanggal 10 Februari 1950 dan diresmikan pemakaiannya dalam ...",
+        "pilihan": [
+            "Sidang PBB",
+            "Konferensi Asia - Afrika",
+            "Sidang Kabinet RIS",
+            "Kraton Kadriyah Pontianak",
+            "Konferensi Meja Bundar"
+        ],
+        "jawaban_benar": "Sidang Kabinet RIS",
+        "pembahasan": "Rancangan lambang negara karya Sultan Hamid II akhirnya disetujui oleh Presiden Soekano pada tanggal 10 Februari 1950 dan diresmikan pemakaiannya dalam Sidang Kabinet RIS pada tanggal 11 Februari 1950"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nRumah adat Tongkonan berasal dari Provinsi ...",
+        "pilihan": [
+            "Sulawesi Selatan",
+            "Sulawesi Utara",
+            "Sulawesi Tengah",
+            "Sulawesi Tenggara",
+            "Maluku"
+        ],
+        "jawaban_benar": "Sulawesi Selatan",
+        "pembahasan": "Rumah adat Sulawesi Selatan (Rumah Tongkonan); Rumah adat Sulawesi Utara (Rumah Mongondow); Rumah adat Sulawesi Tengah (Rumah Saoraja); Rumah adat Sulawesi Tenggara (Rumah Istana Buton); Rumah adat Maluku (Rumah Baileo)"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nPerang Tapanuli di Sumatera Utara dipimpin oleh ...",
+        "pilihan": [
+            "Panglima Polim",
+            "Thomas Matulessi",
+            "Mohammad Shahab",
+            "Sisingamangaraja XII",
+            "Peto Syarif"
+        ],
+        "jawaban_benar": "Sisingamangaraja XII",
+        "pembahasan": "Perang Tapanuli di Sumatera Utara dipimpin oleh Sisingamangaraja XII"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nSistem Kedaulatan rakyat yang digunakan oleh Indonesia terdapat pada ...",
+        "pilihan": [
+            "Pembukaan UUD 1945 alinea 1",
+            "Pembukaan UUD 1945 alinea 3",
+            "UUD 1945 pasal 1 ayat 2",
+            "Pancasila sila ketiga",
+            "UUD 1945 Pasal 1 ayat 1"
+        ],
+        "jawaban_benar": "UUD 1945 pasal 1 ayat 2",
+        "pembahasan": "Pada pasal 1 ayat 2 dijelaskan bahwa kedaulatan berada di tangan rakyat dan dilaksanakan menurut undang-undang dasar"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nCandi Prambanan yang bercorak Hindu dibangun pada masa dinasti ...",
+        "pilihan": [
+            "Syailendra",
+            "Sanjaya",
+            "Nalanda",
+            "Ken Arok",
+            "Tohjaya"
+        ],
+        "jawaban_benar": "Sanjaya",
+        "pembahasan": "Raka I Pikatan, dalam kekuasaannya Hindu dan Buddha hidup berdampingan, dinasti syailendra berada dibawah dinasti sanjaya. Ia membangun Candi Prambanan yang bercorak Hindu"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nDaerah penghasil Bauksit di Indonesia adalah ...",
+        "pilihan": [
+            "Bontang",
+            "Pulau Buru",
+            "Lapangan Arun",
+            "Pulau Tarakan",
+            "Pulau Bintan"
+        ],
+        "jawaban_benar": "Pulau Bintan",
+        "pembahasan": "Daerah Penghasil Bauksit di Indonesia adalah Kijang, Pulau Bintan, Riau, Singkawang, Kalimantan Barat, dan Kalimantan Tengah"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nPancasila yang tercantum dalam pembukaan UUD 1945 alinea keempat dilihat dari proses terjadinya perubahan ...",
+        "pilihan": [
+            "Perintis hidup bangsa Indonesia",
+            "Dasar filsafat negara Indonesia",
+            "Perjanjian luhur bangsa Indonesia",
+            "Pedoman hidup bangsa Indonesia",
+            "Kepribadian bangsa Indonesia"
+        ],
+        "jawaban_benar": "Dasar filsafat negara Indonesia",
+        "pembahasan": "Normatif yaitu berpegang teguh pada norma, menurut norma atau kaidah yang berlaku"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nKomisi Pemberantasan Korupsi Republik Indonesia dalam melaksanakan tugas memberantas korupsi memiliki wewenang yang luas dalam menyelidiki suatu perkara tindak pidana korupsi. dalam hal penyadapan, KPK ...",
+        "pilihan": [
+            "Independen dalam melakukan penyadapan tanpa perlu izin dari pihak manapun",
+            "Memerlukan izin dari dewan etik KPK",
+            "Memerlukan izin dari dewan pengawas KPK",
+            "Harus berkoordinasi dengan Kepolisian dan Kejaksaan",
+            "Harus mendapatkan izin Presiden"
+        ],
+        "jawaban_benar": "Memerlukan izin dari dewan pengawas KPK",
+        "pembahasan": "Dalam hal penyadapan, KPK harus mendapatkan izin dari Dewan Pengawas KPK dimana yang tercantum didalam pasal 37B UU No 10 2019 yang mengatur tugas dewan pengawas yang berbunyi:\nMemberikan izin atau tidak memberikan izin penyadapan, penggeledahan, dan/atau penyitaan"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nPerilaku korupsi di Indonesia masih banyak terjadi dibeberapa daerah. Hal ini terbukti dengan penangkapan yang dilakukan oleh KPK terhadap beberapa oknum kepala daerah baik gubernur, bupati atau walikota yang menyalahgunakan wewenang untuk kepentingan tertentu. Wewenang yang diberikan oleh undang undang dalam hal melakukan penuntutan terhadap tersangka korupsi dapat dilakukan oleh ...",
+        "pilihan": [
+            "KPK saja",
+            "KPK dan Kejaksaan saja",
+            "KPK, Kejaksaan dan POLRI saja",
+            "POLRI dan Kejaksaan saja",
+            "Kejaksaan saja"
+        ],
+        "jawaban_benar": "KPK dan Kejaksaan saja",
+        "pembahasan": "Wewenang melakukan penuntutan terhadap kasus korupsi hanya dapat dilakukan oleh KPK dan Kejaksaan sedangkan POLRI hanya berwenang melakukan penyelidikan dan penyidikan tanpa wewenang penuntutan"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nSatono merupakan seorang Kepala Bidang di suatu instansi pemerintah didaerah. Suatu hari Satono menerima tawaran untuk memuluskan sebuah proyek dengan imbalan sejumlah uang. Satono menyetujui hal tersebut karena sedang butuh uang untuk biaya sekolah anaknya. Perilaku Satono ini bertentangan dengan Pancasila khususnya sila yang dilambangkan oleh ...",
+        "pilihan": [
+            "Bintang",
+            "Rantai",
+            "Pohon Beringin",
+            "Padi dan Kapas",
+            "Kepala Banteng"
+        ],
+        "jawaban_benar": "Padi dan Kapas",
+        "pembahasan": "Perilaku korupsi yang merugikan hajat hidup orang banyak bertentangan dengan  sila keadilan sosial bagi seluruh rakyat Indonesia yang disimbolkan dengan padi dan kapas"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nYang menjadi pedoman pasal dalam UUD 1945 tentang negara kesatuan adalah ...",
+        "pilihan": [
+            "Pasal 1 ayat 1",
+            "Pasal 1 ayat 2",
+            "Pasal 1 ayat 3",
+            "Pembukaan UUD 1945",
+            "Pasal 2 ayat 1"
+        ],
+        "jawaban_benar": "Pasal 1 ayat 1",
+        "pembahasan": "Pasal 1 ayat 1 berbunyi:\nNegara Indonesia ialah Negara Kesatuan yang berbentuk Republik"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nMasyarakat kecil yang secara ekonomi tergolong tidak mampu mendapatkkan bantuan sembako dari Pemerintah Republik Indonesia dimasa pandemi ini guna untuk meringankan beban masyarakat yang terbatas kegiatannya dikarenakan berbagai pembatasan yang diberlakukan. Hal ini adalah sesuai dengan amanah konstitusi republik Indonesia khususnya pasal ke ...",
+        "pilihan": [
+            "Pasal 33 ayat 1",
+            "Pasal 33 ayat 2",
+            "Pasal 34 ayat 1",
+            "Pasal 34 ayat 2",
+            "Pasal 35 ayat 1"
+        ],
+        "jawaban_benar": "Pasal 34 ayat 2",
+        "pembahasan": "Pasal 34\n(2) Negara mengembangkan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu sesuai dengan martabat kemanusiaan"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nCara penulisan yang sesuai dengan ketentuan EYD ialah...",
+        "pilihan": [
+            "Setiap hari Sabtu, bus Jakarta Semarang penuh sesak",
+            "Setiap hari Sabtu, bus Jakarta/Semarang penuh sesak",
+            "Setiap hari Sabtu, bus Jakarta-Semarang penuh sesak",
+            "Setiap hari Sabtu, bus Jakarta ke Semarah sesak penuh sesak",
+            "Setiap, hari Sabtu, bus Jakarta-Semarang"
+        ],
+        "jawaban_benar": "Setiap hari Sabtu, bus Jakarta-Semarang penuh sesak",
+        "pembahasan": "Cara penulisan yang sesuai dengan ketentuan EYD ialah Setiap hari Sabtu, bus Jakarta-Semarang penuh sesak"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nDi bawah ini kata-kata yang sama dengan kata kapal terbang adalah...",
+        "pilihan": [
+            "Mata hati, orang besar",
+            "Lampu neon, besar kepala",
+            "Makan hati, besar kepala",
+            "Rumah makan, kamar tidur",
+            "Kaki tangan, mata gelap"
+        ],
+        "jawaban_benar": "Rumah makan, kamar tidur",
+        "pembahasan": "Di bawah ini kata-kata yang sama dengan kata kapal terbang adalah Rumah makan, kamar tidur"
+    }
+]

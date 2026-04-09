@@ -1,0 +1,435 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nPRABU : ISTANA = ...",
+        "pilihan": [
+            "FILM : TELEVISI",
+            "BESI : SEPEDA",
+            "TELLER : BANK",
+            "SENIMAN : SASTRAWAN",
+            "KULIT : SEPATU"
+        ],
+        "jawaban_benar": "TELLER : BANK",
+        "pembahasan": "PRABU berada di ISTANA, sebagaimana TELLER berada di BANK"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nREDUP : ... = ... : PANAS",
+        "pilihan": [
+            "LAMPU - AIR",
+            "KAFE - SAUNA",
+            "GELAP - HANGAT",
+            "TERANG - MENDIDIH",
+            "CAHAYA - TEMPERATUR"
+        ],
+        "jawaban_benar": "GELAP - HANGAT",
+        "pembahasan": "REDUP berarti tidak terlalu GELAP, sebagaimana HANGAT berarti tidak terlalu PANAS"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nSemua amunisi berbahaya.\nSebagian amunisi mudah meledak.",
+        "pilihan": [
+            "Semua amunisi mudah meledak",
+            "Sebagian amunisi adalah berbahaya",
+            "Semua yang berbahaya amunisi",
+            "Semua yang berbahaya mudah meledak",
+            "Sebagian yang berbahaya mudah meledak"
+        ],
+        "jawaban_benar": "Sebagian yang berbahaya mudah meledak",
+        "pembahasan": "P1: Semua amunisi berbahaya.\nP2: Sebagian amunisi mudah meledak.\nK: Sebagian yang berbahaya mudah meledak\nKedua premis dihubungkan oleh kata amunisi, sehingga kedua premis dapat digabungkan menjadi sebagian yang berbahaya mudah meledak."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nJika x = 3 dan (x - y)\n2\n= 4 maka nilai y adalah ...",
+        "pilihan": [
+            "5"
+        ],
+        "jawaban_benar": "5",
+        "pembahasan": "Diketahui:\nx = 3 dan (x-y)\n2\n= 4\n(x-y)\n2\n= 4\nx\n2\n+ y\n2\n- 2xy = 4\n(3)\n2\n+ y\n2\n- 2(3)y - 4 = 0\ny\n2\n- 6y + 5 = 0\n(y-1)(y-5) = 0\nJadi, y = 1 atau y = 5"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nBerikut ini pernyataan yang tidak benar adalah ...",
+        "pilihan": [
+            "2295 habis dibagi 9",
+            "1288 habis dibagi 8",
+            "6477 habis dibagi 11",
+            "3276 habis dibagi 4",
+            "1027 habis dibagi 13"
+        ],
+        "jawaban_benar": "6477 habis dibagi 11",
+        "pembahasan": "Untuk menentukan jawaban, uji coba setiap pilihan jawaban\n2295/9 = 255\n1288/8 = 161\n6477/11 = 588,8181 ...\n3276/4 = 819\n1027/13 = 79\nJadi, pernyataan yang tidak benar adalah 6477 habis dibagi 11."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nPerhatikan ilustrasi berikut ini untuk menjawab soal nomor 36-39!\nArya, Dika, Derma, Lasmana, Jaka, Mustafa sedang duduk menonton film di bioskop. Ada tepat 6 kursi yang berjajar di ruang tersebut. Pada masing-masing kursi terdapat huruf G, H, I, J, K, dan L (satu kursi satu huruf) dari kanan, ke kiri. Setiap orang duduk tepat di satu kursi dengan ketentuan:\n- Derma tidak duduk tepat di kanan Jaka\n- Dika hanya dapat duduk di kursi G atau K\n- Arya duduk di sebelah kiri Dika\nJika Jaka duduk di kursi J dan Arya duduk di kursi H maka ...",
+        "pilihan": [
+            "Dika boleh duduk di kursi K",
+            "Mustafa boleh duduk di kursi K",
+            "Derma boleh duduk di kursi I",
+            "Dika tidak boleh duduk di kursi G",
+            "Lasmana boleh duduk di kursi G"
+        ],
+        "jawaban_benar": "Mustafa boleh duduk di kursi K",
+        "pembahasan": "Sesuai syarat batas urutan tempat duduk dari kanan ke kiri (G, H, I, J, K, L) maka didapatkan kemungkinan berikut.\nJadi, jika Jaka duduk di kursi J dan Arya duduk di kursi H maka Mustafa boleh duduk di kursi K atau L atau I."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nPerhatikan ilustrasi berikut ini untuk menjawab soal nomor 36-39!\nArya,\n Dika, Derma, Lasmana, Jaka, Mustafa sedang duduk menonton film di \nbioskop. Ada tepat 6 kursi yang berjajar di ruang tersebut. Pada \nmasing-masing kursi terdapat huruf G, H, I, J, K, dan L (satu kursi satu\n huruf) dari kanan, ke kiri. Setiap orang duduk tepat di satu kursi \ndengan ketentuan:\n- Derma tidak duduk tepat di kanan Jaka\n- Dika hanya dapat duduk di kursi G atau K\n- Arya duduk di sebelah kiri Dika\nJika Dika tidak duduk di kursi K dan Derma duduk di kursi I maka Jaka dapat duduk di kursi berikut, kecuali ...",
+        "pilihan": [
+            "H atau L",
+            "L atau K",
+            "K atau H",
+            "L atau H",
+            "J atau G"
+        ],
+        "jawaban_benar": "J atau G",
+        "pembahasan": "Jika Dika tidak duduk di K berarti dia harus duduk di G,\njika Derma duduk di I maka Jaka tidak mungkin di J, karena Derma tidak duduk tepat di kanan Jaka.\nJadi, Jaka tidak dapat duduk di J atau G."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nPerhatikan ilustrasi berikut ini untuk menjawab soal nomor 36-39!\nArya,\n Dika, Derma, Lasmana, Jaka, Mustafa sedang duduk menonton film di \nbioskop. Ada tepat 6 kursi yang berjajar di ruang tersebut. Pada \nmasing-masing kursi terdapat huruf G, H, I, J, K, dan L (satu kursi satu\n huruf) dari kanan, ke kiri. Setiap orang duduk tepat di satu kursi \ndengan ketentuan:\n- Derma tidak duduk tepat di kanan Jaka\n- Dika hanya dapat duduk di kursi G atau K\n- Arya duduk di sebelah kiri Dika\nDari kanan ke kiri, urutan yang mungkin adalah ...",
+        "pilihan": [
+            "Derma, Dika, Lasmana, Jaka, Mustafa, Arya",
+            "Dika, Lasmana, Derma, Jaka, Arya, Mustafa",
+            "Jaka, Mustafa, Derma, Lasmana, Dika, Arya",
+            "Arya, Dika, Derma, Mustafa, Jaka, Lasmana",
+            "Lasmana, Dika, Derma, Jaka, Arya, Mustafa"
+        ],
+        "jawaban_benar": "Jaka, Mustafa, Derma, Lasmana, Dika, Arya",
+        "pembahasan": "Urutan tempat duduk dari kanan ke kiri yang benar sebagai berikut.\nJadi, dari kanan ke kiri, urutan yang mungkin adalah Jaka, Mustafa, Derma, Lasmana, Dika, Arya."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nPerhatikan ilustrasi berikut ini untuk menjawab soal nomor 36-39!\nArya,\n Dika, Derma, Lasmana, Jaka, Mustafa sedang duduk menonton film di \nbioskop. Ada tepat 6 kursi yang berjajar di ruang tersebut. Pada \nmasing-masing kursi terdapat huruf G, H, I, J, K, dan L (satu kursi satu\n huruf) dari kanan, ke kiri. Setiap orang duduk tepat di satu kursi \ndengan ketentuan:\n- Derma tidak duduk tepat di kanan Jaka\n- Dika hanya dapat duduk di kursi G atau K\n- Arya duduk di sebelah kiri Dika\nJika Jaka duduk di kursi J dan Dika duduk di kursi G maka Derma tidak dapat duduk di kursi ...",
+        "pilihan": [
+            "H atau K",
+            "K atau L",
+            "L atau H",
+            "I atau G",
+            "K atau H"
+        ],
+        "jawaban_benar": "I atau G",
+        "pembahasan": "Derma tidak duduk tepat di kanan Jaka maka dia tidak duduk di I (tepat sebelah kanan J).\nKursi G telah diduduki Dika dan dia hanya dapat duduk di G atau K.\nArya tepat berada di kiri Dika.\nJadi, jika Jaka duduk di kursi J dan dan Dika duduk di kursi G maka Derma tidak dapat duduk di kursi I atau G atau H."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\n23, 27, 34, 38, 45, 49, ...",
+        "pilihan": [
+            "56"
+        ],
+        "jawaban_benar": "56",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\n..., ..., H, K, N, Q",
+        "pilihan": [
+            "B dan E",
+            "A dan D",
+            "D dan C",
+            "E dan F",
+            "B dan F"
+        ],
+        "jawaban_benar": "B dan E",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nDewa berjalan menempuh jarak 3/5 km dalam waktu 3 menit. Berapa kecepatan rata-rata perjalanan Dewa dalam 1 jam?",
+        "pilihan": [
+            "10 km/jam",
+            "12 km/jam",
+            "13 km/jam",
+            "15 km/jam",
+            "16 km/jam"
+        ],
+        "jawaban_benar": "12 km/jam",
+        "pembahasan": "Diketahui:\njarak 3/5 km ditempuh dalam waktu 3 menit\nrumus kecepatan adalah : V = s/t\nMaka kecepatannya adalah:\n3 menit = 3/60 = 1/20 jam sehingga\nV = (3/5) / (1/20)\n= 60/5=12 km/jam"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nDalam sebuah arisan di suatu RT, terkumpul uang sebanyak Rp96.000. Setiap peserta harus membayar iuran yang sama. Kemudian, ternyata terdapat 4 peserta arisan yang tidak membayarnya. Untuk menutup pembayaran tersebut, peserta lainnya harus menambah iuran masing-masing Rp2.000. Berapakah jumlah peserta yang membayar iuran?",
+        "pilihan": [
+            "12"
+        ],
+        "jawaban_benar": "12",
+        "pembahasan": "Diketahui:\nTotal uang arisan = Rp96.000\nkarena 4 orang tidak bayar, maka tanggungan 4 orang yang harus dibayarkan peserta lain\nbesarnya tanggungan 4 orang :  1/4 x 96.000 = 24.000\npeserta yang bayar harus menambah 2.000 untuk menutup kekurangan 24.000\njadi = 24.000/2.000 =\n12\norang."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\n42, 38, 32, 49, 44, 32, ..., ..., 32, 63.",
+        "pilihan": [
+            "52, 50",
+            "54, 56",
+            "56, 50",
+            "56, 52",
+            "58, 58"
+        ],
+        "jawaban_benar": "56, 50",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nA, C, E, G, I, K, M, O, Q, S, ..., ...",
+        "pilihan": [
+            "V, W",
+            "U, W",
+            "S, W",
+            "U, X",
+            "V, X"
+        ],
+        "jawaban_benar": "U, W",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nPerhatikan gambar berikut!\nJika luas segitiga di atas adalah 216 maka nilai c adalah ...",
+        "pilihan": [
+            "6"
+        ],
+        "jawaban_benar": "6",
+        "pembahasan": "Diketahui: luas segitiga = 216\nNilai c dapat ditentukan dengan cara sebagai berikut:\nAlas segitiga = 5c - c = 4c\nTinggi segitiga = 4c - c = 3c\nL = (a x t)/2\n216 = (4c x 3c)/2\n432 = 12c\n2\nc\n2\n= 36\nc = 6"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nPada sebuah sekolah, terdapat 2 grup. Di grup A ada 600 murid dan 30% diantaranya adalah laki-laki. Di grup B ada 400 murid dan 75% diantaranya adalah laki-laki. Setelah beberapa murid pindah dari B ke A, 40% grup A adalah laki-laki, maka persentase laki-laki di grup B sekarang adalah ...",
+        "pilihan": [
+            "65%",
+            "66%",
+            "66,5%",
+            "66,7%",
+            "0.7"
+        ],
+        "jawaban_benar": "66,7%",
+        "pembahasan": "Diketahui:\nDi grup A ada 600 murid dan 30% diantaranya adalah laki-laki\nDi grup B ada 400 murid dan 75% diantaranya adalah laki-laki\nBeberapa murid pindah dari B ke A, 40% grup A adalah laki-laki\nJawab:\nJumlah laki-laki di grup A:\nLa = 600 x (30/100)\n= 180\nJumlah laki-laki di grup B:\nLb = 400 x (75/100)\n=300\nSetelah ada yang pindah dari B ke A\n40% = (x + 180) / (x + 600)\n0,4x + 240 = x + 180\n0,6x = 60\nx = 100\nAda 100 orang laki-laki yang pindah dari grup B ke grup A sehingga persentase laki-laki di grup B sekarang adalah:\n%Lb = ((300-100) / (400-100)) x 100%\n= 66,7%"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nPada suatu penelitian, pertambahan banyak sejenis bakteri menjadi dua kali lipatnya setiap 5 menit, jika banyak bakteri yang diteliti awal sebanyak 10 bakteri maka berapa banyak bakteri setelah 1/2 jam?",
+        "pilihan": [
+            "160",
+            "320",
+            "640",
+            "1.280"
+        ],
+        "jawaban_benar": "640",
+        "pembahasan": "Diketahui:\nJumlah bakteri awal = 10\nbertambah 2 kali lipat setiap 5 menit\nDitanya:\nBanyak bakteri setelah 1/2 jam?\nJawab:\nJumlah awal bakteri:\na = 10\nJumlah interval:\nn = ((30 menit) / (5 menit))\n= 6 kali\nRasio: r = 2\nBanyak bakteri setelah 1/2 jam:\nU\n6\n= 10(2\n6\n)\n=640"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nBagaimanakah hubungan antara x\n2\ndan y\n3",
+        "pilihan": [
+            "x2 < y3",
+            "x2 > y3",
+            "x2 = y3",
+            "hubungan x2 dan y3 tidak dapat ditentukan",
+            "0,5x2 = y3"
+        ],
+        "jawaban_benar": "hubungan x2 dan y3 tidak dapat ditentukan",
+        "pembahasan": "Hubungan antara x\n2\ndan y\n3\ntidak dapat ditentukan karena akan menghasilkan nilai yang berbeda apabila x bernilai positif dan apabila x bernilai negatif."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nJika 1 < a < 5 < dan 1 < b < 5, hubungan antara a dan b adalah ...",
+        "pilihan": [
+            "a > b",
+            "a < b",
+            "a = b",
+            "hubungan a dan b tidak dapat ditentukan",
+            "2a < 3b"
+        ],
+        "jawaban_benar": "hubungan a dan b tidak dapat ditentukan",
+        "pembahasan": "Jika 1 < a < 5 < dan 1 < b < 5, hubungan a dan b merupakan himpunan yang memiliki banyak anggota maka hubungannya tidak dapat ditentukan, meskipun keduanya memiliki batas yang sama."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika x cm, 12 cm, 15 cm adalah sisi-sisi segitiga siku-siku dan y adalah rusuk sebuah kubus yang mempunyai luas permukaan 726 cm\n2\n, maka ...",
+        "pilihan": [
+            "x < y",
+            "x > y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "2x = 3y"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "Diketahui: x cm, 12 cm, 15 cm adalah sisi-sisi segitiga siku-siku dan y adalah rusuk sebuah kubus yang mempunyai luas permukaan 726 cm\n2\nsehingga diperoleh:\nx dapat ditentukan dengan triple phytagoras pada segitiga siku-siku yaitu 9, 12, 15.\nMaka nilai x = 9\nLuas permukaan kubus = 6y\n2\n6y\n2\n= 726\ny\n2\n= 726/6\ny\n2\n= 121\ny = 11\nNilai x = 9 dan y = 11 maka x < y."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nJika suatu kolam diisi air melalui kran A, B, atau C saja, kolam tersebut akan penuh dalam waktu berturut-turut 10 jam, 12 jam, atau 15 jam. Jika ketiga kran digunakan bersama selama tiga jam maka kolam tersebut akan terisi sebanyak ...",
+        "pilihan": [
+            "0,4 bagian",
+            "0,5 bagian",
+            "0,75 bagian",
+            "0,8 bagian",
+            "0,85 bagian"
+        ],
+        "jawaban_benar": "0,75 bagian",
+        "pembahasan": "Diketahui: kran A = 10 jam, kran B = 12 jam, kran C = 15 jam.\nkran A = 10 jam\n1 jam = 1/10 bagian\nkran B = 12 jam\n1 jam = 1/12 bagian\nkran C = 15 jam\n1 jam = 1/15 bagian\nJika kran A, B, dan C mengisi air secara bersamaan selama 3 jam diperoleh:\nA + B + C = 1/10 + 1/12 + 1/15\n= (6 + 5 + 4)/60\n= 15/60\n= ¼ bagian/jam\n3 jam = 3 x (¼)\n= ¾ bagian\n= 0,75 bagian"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nRata-rata sembilan bilangan adalah 8. Salah satu diantara kesembilan bilangan tersebut dibuang, rata-rata delapan bilangan menjadi 7. Jika x adalah bilangan yang dibuang dan y= 16 maka ...",
+        "pilihan": [
+            "x < y",
+            "x > y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x = 5y"
+        ],
+        "jawaban_benar": "x = y",
+        "pembahasan": "Diketahui:\nn = 9 → rata-rata x = 8\nn = 8 → rata-rata x = 7\nMaka:\nRata-rata x = a/n\n8 = a/9\na = 72\nJika suatu bilangan dibuang = x maka:\n7 = (a-x)/8\na-x = 56\nx = 72 - 56\nx = 16\nOleh karena itu nilai y diketahui 16 maka:\nx = y = 16"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nSalah satu sudut pada segitiga siku-siku adalah 45 derajat. Hubungan antara panjang alas dan tinggi segitiga tersebut adalah ...",
+        "pilihan": [
+            "Alas < tinggi",
+            "Alat > tinggi",
+            "Alas = tinggi",
+            "Hubungan antara alas dan tinggi tidak dapat ditentukan",
+            "3 x alas = tinggi"
+        ],
+        "jawaban_benar": "Alas = tinggi",
+        "pembahasan": "Dari soal telah dijelaskan bahwa segitiga tersebut adalah segitiga siku-siku dengan sudut 90\no\nyang berarti ada garis tegak sebagai tinggi dan alas. Jika salah satu lainnya adalah 45\no\nmaka segitiga tersebut adalah segitiga siku-siku sama kaki yang berarti panjang alas = tinggi."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nUntuk memproduksi x unit barang perhari diperlukan biaya (x\n3\n- 2.000x\n2\n+ 3.000.000x) rupiah. Jika barang itu harus diproduksikan maka biaya produksi per unit yang rendah tercapai apabila diproduksi per hari sejumlah ...",
+        "pilihan": [
+            "1.000 unit",
+            "1.500 unit",
+            "2.000 unit",
+            "3.000 unit",
+            "4.000 unit"
+        ],
+        "jawaban_benar": "1.000 unit",
+        "pembahasan": "Untuk memproduksi x unit barang perhari diperlukan biaya (x\n3\n- 2.000x\n2\n+ 3.000.000x) rupiah. Biaya produksi per unit yang rendah dapat diperoleh dengan cara mensubstitusikan nilai pada pilihan jawaban yang ada ke persamaan biaya produksi sehingga biaya produksi terendah tercapai saat jumlah produksi minimum (terkecil). Dari pilihan jawaban nilai terendah yang diperoleh jika disubstitusikan pada persamaan adalah pilihan 1.000 unit"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Gambar dibagi menjadi delapan bagian yang sama."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Gambar berotasi 135 derajat berlawanan arah jarum jam dan ditempatkan di dalam gambar lain dengan jumlah sisi yang lebih banyak satu buah."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Pada masing-masing gambar yang lain, dua segitiga berorientasi ke arah yang sama."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nGambar yang berbeda adalah ...",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Pada semua gambar yang lain, belah ketupat hitam muncul bersebelahan dengan persegi putih; dan klem muncul bersebelahan di elemen berbentuk T."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nGambar yang berbeda adalah ...",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Hanya pada gambar D, 2 elemen yang sama tidak saling berlawanan arah."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Elemen berbentuk gelas di tengah berotasi 90 derajat searah jarum jam, 180 derajat, 90 derajat searah jarum jam, 90 derajat searah jarum jam, ... secara beruntun. Pada satu tahap, lengkungan di atas dan di sisi kiri berotasi 180 derajat, dan pada tahap berikutnya, lengkungan di bawah dan di sisi kanan berotasi 180 derajat."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Elemen bergerak 1, 2, 3, 4, 5, 6 ... langkah berlawanan arah jjarum jam secara beruntun dan juga berubah dari lingkaran menjadi tanda ‘X’, lalu menjadi kotak, dan kembali menjadi lingkaran lagi, begitu seterusnya."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Panah bergerak ke bawah di kolom tengah dan begitu sampai di posisi paling bawah, panah tersebut bergerak ke posisi paling atas pada tahap berikutnya. Kepala panah dibalik secara lateral pada setiap tahap, bergerak dari kanan ke kiri dan begitu sampai di posisi paling kiri, kepala panah tersebut ke posisi paling kanan pada tahap berikutnya. Elemen di dekat perbatasan bergerak secara berurutan satu, dua, tiga, ... setengah-sisi di perbatasan kotak dalam arah yang berlawanan dengan jarum jam dan secara beruntun berubah dengan urutan: lingkaran → tanda `+` → bintang → lingkaran → ..."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Pin bergerak 1, 2, 3, 4, 5, ... langkah searah jarum jam dengan berurutan. Panahnya bergerak dua langkah berlawanan arah jarum jam setiap kali."
+    }
+]

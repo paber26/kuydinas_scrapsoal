@@ -1,0 +1,492 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nJika saya memiliki bawahan yang kompetensinya rendah, maka ...",
+        "pilihan": [
+            "Saya membimbing dan memintanyauntuk meningkatkankemampuannya.\n(Nilai 5)",
+            "Saya menuntutnya untuk meningkatkan kemampuannya.\n(Nilai 4)",
+            "Saya menegaskan bila dia tidak meningkatkan kemampuannya, maka saya tidak segan akan memberhentikannya.\n(Nilai 3)",
+            "Saya meminta atasan saya untuk memindahkannya ke unit lain.\n(Nilai 2)",
+            "Saya akan memberhentikannya dengan segera.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nSeluruh pekerjaan telah selesai saya kerjakan namun jam kerja hari ini masihtersisa sekitar 2 jam lebih ...",
+        "pilihan": [
+            "Saya pergunakan untuk membaca buku-buku pengembangan diri.\n(Nilai 5)",
+            "Setelah lelah bekerja hari ini, saya rasa tak ada salahnya saya mengobroldengan rekan-rekan kerja lain untuk sekedar mengisi waktu.\n(Nilai 4)",
+            "Saya pergunakan untuk chatting dengan kawan lama.\n(Nilai 3)",
+            "Saya lebih suka membaca tabloid infotainment.\n(Nilai 2)",
+            "Mumpung masih di kantor dengan fasilitas internet, maka saya pergunakan untuk mengakses situs jaringan sosial Facebook.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nMenurut rekan-rekan saya, saya ini orang yang ...",
+        "pilihan": [
+            "Cukup tekun.\n(Nilai 5)",
+            "Terkadang tekun.\n(Nilai 4)",
+            "Memiliki ketekunan rendah.\n(Nilai 3)",
+            "Terkadang mudah jengkel dan kurang tekun mengerjakan sesuatu.\n(Nilai 2)",
+            "Tidak memiliki ketekunan dalam mengerjakan pekerjaan rutin.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nSetelah menyelesaikan pekerjaan tertentu, saya ...",
+        "pilihan": [
+            "Meneliti pekerjaan tersebut apakah masih ada kekeliruan, lalumelakukan aktifitas lain.\n(Nilai 5)",
+            "Langsung melakukan aktifitas lain.\n(Nilai 4)",
+            "Istirahat sejenak.\n(Nilai 3)",
+            "Membaca koran.\n(Nilai 2)",
+            "Mengakses situs jejaring sosial semacam facebook untuk mengetahui kabar terbaru dari kerabat dan kawan saya.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nAnda adalah seorang anggota unit biasa. Saat ini unit anda dihadapkan padasituasi rumit yang membutuhkan pengambilan keputusan saat ini juga daripimpinan unit,padahal pimpinan unit baru tiba di kantor 4 jam lagi. Sikap anda adalah...",
+        "pilihan": [
+            "Saya menelpon dulu pimpinan lalu mengambil keputusan sesuai arahanpimpinan dan berdasarkan kondisi saat itu.\n(Nilai 5)",
+            "Saya akan mengambil keputusan untuk menyelamatkan kondisi rumit tersebut.\n(Nilai 4)",
+            "Meminta rekan lain saja yang mengambil keputusan.\n(Nilai 3)",
+            "Tetap menunggu pimpinan unit untuk datang.\n(Nilai 2)",
+            "Bagaimanapun juga, saya tidak bersedia mengambil keputusan karena hal itu berisiko tinggi bagi karier saya.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nHari ini rekan kerja di kantor anda ayahnya sakit keras dan rekan anda tak punya biaya untuk membawanya ke Rumah Sakit. Tindakan anda adalah ...",
+        "pilihan": [
+            "Saya mengkoordinir rekan-rekan lain untuk turut membantu.\n(Nilai 5)",
+            "Saya melaporkan kepada atasan tentang hal ini.\n(Nilai 4)",
+            "Saya memberinya bantuan semampu saya.\n(Nilai 3)",
+            "Saya menasehatinya untuk lain kali mencari fasilitas Jamkesmas.\n(Nilai 2)",
+            "Saya menganjurkannya untuk mengikuti asuransi kesehatan.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nAyah sahabat anda mengalami serangan jantung dan masuk Rumah Sakit. Tindakan anda adalah ...",
+        "pilihan": [
+            "Saya akan menjenguknya.\n(Nilai 5)",
+            "Saya berharap semoga lekas sembuh.\n(Nilai 4)",
+            "Saya percaya dokter RS mampu menangani dengan baik.\n(Nilai 3)",
+            "Saya akan menjenguknya ketika ada waktu yang benar-benar longgar.\n(Nilai 2)",
+            "Saya menanyakan apakah kondisinya memang parah.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nSeorang kawan di kantor sering meminta untuk diajari hal-hal seputar pekerjaanyang belum diketahuinya, maka saya ...",
+        "pilihan": [
+            "Mengajari dan menyarankannya membaca buku yang dapat membantu peningkatan professional perkerjaan.\n(Nilai 5)",
+            "Mengajarinya cukup sekali saja.\n(Nilai 4)",
+            "Mengajari kalau memang saya memiliki waktu yang sangat longgar.\n(Nilai 3)",
+            "Memintanya agar belajar mandiri.\n(Nilai 2)",
+            "Memintanya dengan tegas agar belajar sendiri, karena itulah inti tanggung jawab.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nJika saya bepergian dengan bis kota, ...",
+        "pilihan": [
+            "Saya selalu mengajak bicara orang yang duduk di samping saya.\n(Nilai 5)",
+            "Saya ingin orang yang duduk di samping saya mengajak saya bicara.\n(Nilai 4)",
+            "Saya takut mengajak bicara orang yang duduk di samping saya.\n(Nilai 3)",
+            "Saya diam saja.\n(Nilai 2)",
+            "Saya tak mau mengajak bicara karena itu bukan urusan saya.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nDalam keseharian, ...",
+        "pilihan": [
+            "Orang lain sering curhat kepada saya.\n(Nilai 5)",
+            "Mungkin curhat itu diperlukan.\n(Nilai 4)",
+            "Saya sering curhat kepada orang lain.\n(Nilai 3)",
+            "Tak perlu saya curhat, biarlah masalah itu saya tanggung sendiri.\n(Nilai 2)",
+            "Saya tak ingin menjadi tempat curhat orang lain karena hanya membebani pikiran saya.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nMenurut rekan-rekan saya, saya termasuk orang yang ...",
+        "pilihan": [
+            "Memiliki toleransi tinggi.\n(Nilai 5)",
+            "Memiliki toleransi sedang.\n(Nilai 4)",
+            "Memiliki toleransi rendah.\n(Nilai 3)",
+            "Terkadang kurang toleran terhadap kesulitan rekan.\n(Nilai 2)",
+            "Tidak memiliki toleransi sama sekali.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nSetelah melaksanakan tugas tertentu yang diberikan atasan, ternyata adainstruksi yang salah dari atasan sehingga anda harus mengulangi tugas tersebut. Bagaimana sikap anda ?",
+        "pilihan": [
+            "Saya bersedia mengulanginya dan saya juga memintanya untuk lebih berhati-hati dalam memberikan instruksi di kemudian hari..\n(Nilai 5)",
+            "Meskipun dia atasan saya, saya menegurnya dengan keras atas kesalahan yang merugikan orang lain tersebut.\n(Nilai 4)",
+            "Saya tetap mengulanginya meskipun sambil sedikit melampiaskan kekesalan kepada atasan.\n(Nilai 3)",
+            "Saya mengulanginya meskipun dalam hati terasa sangat marah.\n(Nilai 2)",
+            "Saya tidak bersedia mengulanginya karena kesalahan bukan dari pihak saya.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nDi kantor Anda ada beberapa peralatan yang tidak berfungsi (rusak), namunhanya anda yang mengetahuinya. Apa tindakan anda?",
+        "pilihan": [
+            "Saya laporkan kepada bagian perlengkapan.\n(Nilai 5)",
+            "Saya beritahu rekan kerja terdekat saya.\n(Nilai 4)",
+            "Saya menginvestigasi siapa yang merusaknya.\n(Nilai 3)",
+            "Saya diam saja karena tugas saya sendiripun masih banyak.\n(Nilai 2)",
+            "Saya akan diam saja, karena jika saya melaporkan hal ini ke bagian perlengkapan, maka akan dikira saya yang telah merusaknya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nApa yang anda lakukan bila terjadi bencana alam di wilayah anda ?",
+        "pilihan": [
+            "Saya mengajak rekan-rekan kerja di kantor, kerabat dan siapapun untuk menyumbang sesuai dengan kemampuannya bagi korban bencana alam.\n(Nilai 5)",
+            "Saya laporkan kepada atasan di kantor agar menyalurkan sumbangan.\n(Nilai 4)",
+            "Saya percaya pengelolaan sumbangan bagi korban bencana alam seperti itu akan diatur oleh pemerintah.\n(Nilai 3)",
+            "Saya akan menyumbangkan sebagian gaji saya karena saya pun membutuhkan biaya hidup untuk diri sendiri dan keluarga.\n(Nilai 2)",
+            "Saya akan menyumbangkan seluruh gaji saya bulan ini untuk korban bencana alam tersebut.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nDi lingkungan kerja yang baru, ...",
+        "pilihan": [
+            "Saya langsung mampu akrab dengan rekan kerja.\n(Nilai 5)",
+            "Jika ada yang ingin berkenalan tentunya saya senang sekali.\n(Nilai 4)",
+            "Saya menunggu rekan kerja yang ingin berkenalan.\n(Nilai 3)",
+            "Saya perlu waktu untuk mengenal rekan-rekan kerja.\n(Nilai 2)",
+            "Jika saya membutuhkan bantuan baru saya akan berkenalan.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSaya baru saja dimutasikan ke unit lain yang sama sekali baru bagi saya. Sikapsaya adalah ...",
+        "pilihan": [
+            "Berusaha memahami mekanisme kerja unit melalui arsip dan aturan kebijakan.\n(Nilai 5)",
+            "Berusaha mempelajari dan memahami mekanisme kerja unit melalui rekan sejawat.\n(Nilai 4)",
+            "Mengamati proses pekerjaan yang dilakukan rekan sejawat.\n(Nilai 3)",
+            "Duduk duduk saja sambil menunggu perintah atasan.\n(Nilai 2)",
+            "Jarang masuk karena belum jelas apa yang harus dikerjakan.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nSikap saya terhadap perubahan perubahan, ide ide baru dan cara cara barudalam melaksanakan suatu pekerjaan adalah ...",
+        "pilihan": [
+            "Keberhasilan pekerjaan tergantung jenis perubahan, ide, dan cara cara baru tersebut.\n(Nilai 5)",
+            "Dengan adanya perubahan, kondisi kerja pasti lebih baik.\n(Nilai 4)",
+            "Perubahan adalah sesuatu yang pasti.\n(Nilai 3)",
+            "Stabilitas dalam bekerja lebih penting.\n(Nilai 2)",
+            "Perubahan bukan jaminan keberhasilan pekerjaan.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nTerjadi pergantian pimpinan di unit kerja saya. Sikap saya adalah ...",
+        "pilihan": [
+            "Berusaha mengenal dan memahami visi dan misi pimpinan baru.\n(Nilai 5)",
+            "Berusaha mengenal pribadi pimpinan baru.\n(Nilai 4)",
+            "Pergantian pimpinan itu sesuatu yang biasa.\n(Nilai 3)",
+            "Tidak berusaha mendekati pimpinan baru karena takut dicap penjilat.\n(Nilai 2)",
+            "Tidak peduli.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nSaya diutus mengikuti suatu Diklat. Oleh panitia penyelenggara saya ditempatkan sekamar dengan orang yang tidak saya kenal yang berasal dari kotalain. Sikap saya adalah ...",
+        "pilihan": [
+            "Menerima aturan panitia dan berusaha mengenal dan memahami teman sekamar.\n(Nilai 5)",
+            "Menerima aturan panitia.\n(Nilai 4)",
+            "Mengajukan keberatan tetapi akhirnya menerima aturan panitia.\n(Nilai 3)",
+            "Mengajukan keberatan dan minta ditempatkan dengan minimal orang yang dikenal.\n(Nilai 2)",
+            "Protes keras dan minta ditempatkan sendiri saja.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nPrediksi pengamat ekonomi bahwa bulan depan akan terjadi inflasi besar diIndonesia membuat saya, ...",
+        "pilihan": [
+            "Mengambil langkah hati-hati dalam membelanjakan uang.\n(Nilai 5)",
+            "Biarlah yang akan terjadi terjadilah.\n(Nilai 4)",
+            "Tidak percaya dengan prediksi yang menyusahkan itu.\n(Nilai 3)",
+            "Susah tidur.\n(Nilai 2)",
+            "Depresi berat, karena inflasi berarti harga barang naik.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika rencana saya melakukan inovasi pekerjaan ditentang oleh rekan kerja saya, maka ...",
+        "pilihan": [
+            "Saya meminta penjelasan dari rekan tersebut dan mencari solusi terbaik.\n(Nilai 5)",
+            "Saya berani berdebat dengan rekan tersebut karena saya yakin bahwa rencana inovasi itu membawa angin perubahan yang positif.\n(Nilai 4)",
+            "Saya sedih karena inovasi tersebut terhambat.\n(Nilai 3)",
+            "Saya merasa kecewa.\n(Nilai 2)",
+            "Saya marah, karena bagaimanapun juga inovasi tersebut untuk kebaikan bersama.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nKarena ruang kantor sempit maka penambahan sekat untuk karyawan baruterpaksa mempersempit seluruh sekat yang sudah ada termasuk sekat anda ...",
+        "pilihan": [
+            "Saya menerima perubahan ini.\n(Nilai 5)",
+            "Apa mau dikata, saya harus menerima kondisi ini.\n(Nilai 4)",
+            "Saya perlu waktu beberapa bulan untuk penyesuaian diri terhadap sempitnya sekat saya saat ini.\n(Nilai 3)",
+            "Saya mengajak rekan kerja lain untuk protes dan berdemo kepada atasan.\n(Nilai 2)",
+            "Seharusnya tak perlu ada karyawan baru, karena hanya mempersempit ruang sekat yang sudah sempit.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nBila ada rekan kerja yang salah memanggil nama saya, ...",
+        "pilihan": [
+            "Itu tidak menjadi masalah.\n(Nilai 5)",
+            "Saya tak boleh tersinggung.\n(Nilai 4)",
+            "Saya mengingatkannya.\n(Nilai 3)",
+            "Saya mengingatkannya dengan keras agar tidak diulang.\n(Nilai 2)",
+            "Saya sedikit tersinggung, karena nama adalah kehormatan seseorang.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nReko kali ini lupa belum mengembalikan bolpoin yang dipinjamnya, ...",
+        "pilihan": [
+            "Saya mengingatkannya.\n(Nilai 5)",
+            "Saya membiarkannya terlebih dulu sebab ini yang pertama kalinya dia lupa.\n(Nilai 4)",
+            "Saya menyindirnya agar ingat kelalaiannya.\n(Nilai 3)",
+            "Saya akan menegurnya dengan keras agar tidak terulang lagi.\n(Nilai 2)",
+            "Saya mengikhlaskan bolpoin tersebut, toh harganya murah.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nSaya sudah berusaha untuk memperbaiki kelemahan diri, tetapi belum jugamenampakkan hasilnya. Sehingga saya ...",
+        "pilihan": [
+            "Menerimanya dengan lapang dada.\n(Nilai 5)",
+            "Menerimanya, meski tentu saja dengan sedikit kekecewaan.\n(Nilai 4)",
+            "Menerimanya dengan terpaksa.\n(Nilai 3)",
+            "Membenci diri saya sendiri.\n(Nilai 2)",
+            "Meratapi diri sendiri.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nKetika sedang melakukan presentasi, saya menerima pesan singkat (SMS) yangmengabarkan bahwa anak saya diopname di rumah sakit. Reaksi saya adalah...",
+        "pilihan": [
+            "Mencari tahu kondisi anak saya kemudian memutuskan apakah tetap presentasi atau ke rumah sakit.\n(Nilai 5)",
+            "Menghentikan presentasi dan mencari tahu kondisi anak saya.\n(Nilai 4)",
+            "Membalas SMS dan melanjutkan presentasi.\n(Nilai 3)",
+            "Menghentikan presentasi dan langsung menuju rumah sakit.\n(Nilai 2)",
+            "Melanjutkan presentasi.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nJika hal-hal kecil merusak rencana besar saya, ...",
+        "pilihan": [
+            "Saya melakukan evaluasi menyeluruh.\n(Nilai 5)",
+            "Saya perlu waktu untuk menenangkan diri.\n(Nilai 4)",
+            "Saya sangat sedih dan marah kenapa hal kecil mampu merusak rencana besar.\n(Nilai 3)",
+            "Saya akan melakukan teguran kepada pihak pelaksana.\n(Nilai 2)",
+            "Saya marah.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nPengumuman pemenang tender akan diumumkan besok, ...",
+        "pilihan": [
+            "Biarlah takdir yang menentukan.\n(Nilai 5)",
+            "Saya berharap menang, namun jika kalah, saya siap.\n(Nilai 4)",
+            "Malam ini saya melakukan refreshing terlebih dulu, agar besok tidak terlalu tertekan bila bukan saya pemenangnya.\n(Nilai 3)",
+            "Pokoknya saya yakin dan harus menang.\n(Nilai 2)",
+            "Malam ini saya tidak bisa tidur.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nJika saya sedang marah kepada orang lain, ...",
+        "pilihan": [
+            "Saya memberitahukan kesalahannya.\n(Nilai 5)",
+            "Saya marah dengan diam mengacuhkannya.\n(Nilai 4)",
+            "Saya susah memberitahukannya.\n(Nilai 3)",
+            "Kalau memang keterlaluan baru saya tampar wajahnya.\n(Nilai 2)",
+            "Saya tampar wajahnya.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nDibandingkan dengan rekan-rekan kerja saya yang lain, gaya kemarahan sayaadalah ...",
+        "pilihan": [
+            "Saya marah jika memang diperlukan untuk perbaikan kondisi agar lebih baik.\n(Nilai 5)",
+            "Saya sering marah seperti lazimnya rekan lain.\n(Nilai 4)",
+            "Saya cenderung lebih pemarah dari rekan lain.\n(Nilai 3)",
+            "Kemarahan saya lebih dahsyat dari rekan lain.\n(Nilai 2)",
+            "Saya tidak pernah marah.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nApa pendapat anda tentang marah?",
+        "pilihan": [
+            "Marah itu tidak diperlukan.\n(Nilai 5)",
+            "Marah itu bisa baik bisa buruk.\n(Nilai 4)",
+            "Marah itu tidak baik.\n(Nilai 3)",
+            "Marah itu buruk.\n(Nilai 2)",
+            "Marah itu buruk sekali.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nPendapat saya tentang kesabaran, ...",
+        "pilihan": [
+            "Saya terus berusaha menjadi lebih sabar.\n(Nilai 5)",
+            "Sabar itu memang mudah diucapkan namun sulit dilakukan.\n(Nilai 4)",
+            "Sabar itu ada batasnya.\n(Nilai 3)",
+            "Bersabar adalah hal paling sulit dalam hidup saya.\n(Nilai 2)",
+            "Mustahil ada orang yang selalu bisa bersabar terhadap semua kasus kehidupan.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nMenurut rekan-rekan saya, kesabaran saya ...",
+        "pilihan": [
+            "Cukup tinggi.\n(Nilai 5)",
+            "Sedang.\n(Nilai 4)",
+            "Rendah.\n(Nilai 3)",
+            "Terkadang sabar terkadang tidak.\n(Nilai 2)",
+            "Rendah sekali\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nSaya telah mempersiapkan diri dengan baik sebelum melakukan presentasi di kantor besok pagi ...",
+        "pilihan": [
+            "Saya yakin besok presentasi saya berjalan dengan baik, namun saya tetap mempersiapkan dengan maksimal.\n(Nilai 5)",
+            "Tapi Mungkin saja presentasi saya terganggu hal lain.\n(Nilai 4)",
+            "Meski begitu saya cemas kalau-kalau ternyata besok presentasi saya kurang lancar.\n(Nilai 3)",
+            "Saya pasrah jika ada kendala.\n(Nilai 2)",
+            "Tak mungkin presentasi saya tidak lancar\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nAndi adalah seorang karyawan yang rajin. Namun apa yang akan terjadi padamasa mendatang tak ada yang tahu ...",
+        "pilihan": [
+            "Karakter Andi sebagai karyawan rajin dapat membantu kenaikan karirnya kelak.\n(Nilai 5)",
+            "Harusnya karyawan rajin tak boleh kena PHK.\n(Nilai 4)",
+            "Andi tetap saja akan terkena PHK jika ekonomi nasional lesu.\n(Nilai 3)",
+            "Mustahil karyawan serajin Andi kena PHK.\n(Nilai 2)",
+            "Pemecatan banyak karyawan tidaklah terlalu berpengaruh terhadap citra perusahaan.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    }
+]

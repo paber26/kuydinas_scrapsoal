@@ -1,0 +1,434 @@
+Soal 1:
+Jumlah semua bilangan di antara 200 dan 800 yang habis dibagi 5 adalah  . . .
+A. 23.8
+B. 60
+C. 59.5
+D. 46.8
+E. 49.4
+
+==================================================
+
+Soal 2:
+Pipa A mampu mengisi sebuah kolam dalam waktu 25 jam, sementara pipa B dapat mengisi kolam yang sama dalam waktu 15 jam. Jika kedua pipa tersebut digunakan bersama-sama, berapa jam waktu yang dibutuhkan untuk mengisi 2/3 bagian dari kolam tersebut ?
+A. 14/4
+B. 60/3
+C. 25/4
+D. 8/3
+E. 75/2
+
+==================================================
+
+Soal 3:
+Sebuah pabrik mempunyai 3 buah mesin pompa untuk mengisi sebuah tangki air. Mesin pertama memerlukan waku 3 hari untuk mengisi penuh tangki tersebut,sementara mesin kedua membutuhkan waktu 4 hari dan mesin ketiga membutuhkan waktu 6 hari untuk mengerjakan pekerjaan yang sama. Berapa hari yang dibutuhkan untuk mengisi tangki tersebut apabila ketiga mesin tersebut beroperasi bersama-sama ?
+A. 2/3 hari
+B. 1/3 hari
+C. 4/3 hari
+D. 7/3 hari
+E. 5/3 hari
+
+==================================================
+
+Soal 4:
+Suatu proyek terdiri dari beberapa jenis proyek kecil, yakni proyek A, B, C, D, E dan F. Proyek kecil ini berkaitan satu sama lain sehingga tiap jenis pekerjaan diatur sebagai berikut
+• Proyek B hanya boleh dikerjakan bersama proyek C
+• Proyek A boleh dikerjakan bersama proyek E
+• Proyek B tidak boleh dikerjakan bersama dengan proyek D
+• Proyek E dikerjakan jika dan hanya jika proyek F dikerjakan
+Jika minggu kedua pekerjaan wajib mengerjakan proyek F dan tidak boleh mengerjakan proyek C maka ...
+A. Pekerjaan tidak mengerjakan proyek B
+B. Pekerjaan pasti mengerjakan proyek C
+C. Pekerjaan pasti mengerjakan proyek A
+D. Pekerjaan juga tidak mengerjakan proyek D
+E. Pekerjaan tidak mengerjakan proyek E
+
+==================================================
+
+Soal 5:
+Suatu proyek terdiri dari beberapa jenis proyek kecil, yakni proyek A, B, C, D, E dan F. Proyek kecil ini berkaitan satu sama lain sehingga tiap jenis pekerjaan diatur sebagai berikut
+• Proyek B hanya boleh dikerjakan bersama proyek C
+• Proyek A boleh dikerjakan bersama proyek E
+• Proyek B tidak boleh dikerjakan bersama dengan proyek D
+• Proyek E dikerjakan jika dan hanya jika proyek F dikerjakan
+Jika proyek A dan D dikerjakan maka yang pasti tidak dikerjakanlah proyek ...
+A. F
+B. Tidak ada
+C. C
+D. B
+E. E
+
+==================================================
+
+Soal 6:
+Suatu proyek terdiri dari beberapa jenis proyek kecil, yakni proyek A, B, C, D, E dan F. Proyek kecil ini berkaitan satu sama lain sehingga tiap jenis pekerjaan diatur sebagai berikut
+• Proyek B hanya boleh dikerjakan bersama proyek C
+• Proyek A boleh dikerjakan bersama proyek E
+• Proyek B tidak boleh dikerjakan bersama dengan proyek D
+• Proyek E dikerjakan jika dan hanya jika proyek F dikerjakan
+Jika pekerjaan sudah mengerjakan proyek E maka ...
+A. Pekerjaan akan mengerjakan proyek E
+B. Pekerjaan tidak akan mengerjakan proyek A
+C. Pekerjaan juga mengerjakan proyek F
+D. Pekerjaan hanya akan mengerjakan proyek B
+E. Pekerjaan tidak mengerjakan proyek D
+
+==================================================
+
+Soal 7:
+Semua hewan memiliki ekor panjang. Sebagian hewan melata memiliki mata merah.
+A. Semua hewan melata berekor panjang memiliki mata tidak merah
+B. Semua hewan melata tidak berekor panjang dan memiliki mata merah
+C. Sebagian hewan melata berekor panjang dan memiliki mata tidak merah
+D. Sebagian hewan melata tidak berekor panjang dan memiliki mata merah
+E. Semua hewan melata berekor panjang dan memiliki mata merah
+
+==================================================
+
+Soal 8:
+Semua pekerja adalah pegawai lepas.Semua penghuni barak adalah pekerja.
+A. Semua pegawai lepas adalah penghuni barak
+B. Tidak ada jawaban yang benar
+C. Semua pekerja adalah penghuni barak
+D. Sebagian penghuni barak adalah bukan pegawai lepas
+E. Semua penghuni barak adalah pekerja lepas
+
+==================================================
+
+Soal 9:
+Seluruh mahasiswa wajib memakai pensil. Sebagian mahasiswa menyukai kertas hijau.
+A. Semua mahasiswa yang menyukai kertas hijau pasti memakai pensil
+B. Semua mahasiswa yang memakai pensil pasti menyukai kertas hijau
+C. Semua mahasiswa memakai pensil dan menyukai kertas hijau
+D. Semua mahasiswa yang menyukai kertas hijau pasti memakai pensil
+E. Sebagian mahasiswa yang menyukai kertas hijau tidak memakai pensil
+
+==================================================
+
+Soal 10:
+Semua sekolah suka mengadakan pertunjukan musik. Sekolah yang suka mengadakan pertunjukan musik suka mengadakan bakti sosial. Sebagian sekolah yang suka mengadakan bakti sosial tidak suka mengikuti kompetisi olahraga antarsekolah.
+A. Semua sekolah suka mengadakan pertunjukan music,tetapi tidak suka mengadakan bakti sosial
+B. Semua sekolah tidak suka mengikuti kompetisi olahraga tetapi suka mengadakan pertunjukan musik
+C. Sebagian sekolah suka mengikuti kompetisi olahraga antar sekolah
+D. Sebagian sekolah suka mengadakan bakti sosial dan tidak suka mengadakan pertunjukan musik
+E. Semua sekolah tidak suka mengikuti kompetisi olahraga,tetapi suka mengadakan pertunjukan musik
+
+==================================================
+
+Soal 11:
+DINAMIS  = ...
+A. Benar
+B. Hancur
+C. Bergerak maju
+D. Selaras
+E. Kacau
+
+==================================================
+
+Soal 12:
+NISBI >< ...
+A. Mutlak
+B. Asimilasi
+C. Maya
+D. Stabil
+E. Abstrak
+
+==================================================
+
+Soal 13:
+DARMA = ...
+A. Jarang
+B. Seperti
+C. Pengabdian
+D. Jamur
+E. Kerap
+
+==================================================
+
+Soal 14:
+PERLOP >< ...
+A. Masuk
+B. Absen
+C. Kerja
+D. Pulang
+E. Datang
+
+==================================================
+
+Soal 15:
+DATA : DISKET = . . .
+A. Padi :  traktor
+B. Tumbuhan : pupuk
+C. Minyak :  tanah
+D. Uang : bank
+E. Baju : jahit
+
+==================================================
+
+Soal 16:
+KUCING : BINATANG = JERUK:
+A. Segar
+B. Vitamin
+C. Buah
+D. Merah
+E. Murah
+
+==================================================
+
+Soal 17:
+OBAT : APOTIK = PAKAIAN : . . .
+A. Baju
+B. Celana
+C. Butik
+D. Swalayan
+E. Binatu
+
+==================================================
+
+Soal 18:
+BULAN : BUMI = YUPITER : . . .
+A. Uranus
+B. Venus
+C. Orbit
+D. Matahari
+E. Aries
+
+==================================================
+
+Soal 19:
+Berdasarkan perhatiannya terhadap orang dan perhatiannya terhadap kinerja, Sethia dan Glinow (dalam Collins dan Mc Laughlin, 1996: 760-762) membedakan adanya empat macam budaya organisasi, yaitu: (a) apathetic culture; (b) caring culture; (c) exacting culture; dan integrative culture. Dalam tipe apathetic culture, perhatian anggota organisasi terhadap hubungan antar manusia maupun perhatian terhadap kinerja pelaksanaan tugas, dua-duanya rendah. Di sini penghargaan diberikan terutama berdasarkan permainan politik danpemanipulasian orang–orang lain. Sedangkan budaya organisasi Caring Culture dicirikan oleh rendahnya perhatian terhadap kinerja dan tingginya perhatian terhadap hubungan antar manusia. Penghargaan lebih didasarkan atas kepaduan tim dan harmoni, dan bukan didasarkan atas kinerja pelaksanaan tugas. Sementara itu ciri utama tipe exacting Culture adalah bahwa perhatian terhadap orang sangat rendah, tetapi perhatian terhadap kinerja sangat tinggi.Disini secara ekonomis, penghargaan sangat memuaskan tetapi hukuman atas kegagalan yang dilakukan juga sangat berat.Dengan demikian tingkat keamanan pekerjaan menjadi sangat rendah.Yang terakhir, dalam organisasi yang memiliki budaya integrative, maka perhatian terhadap orang maupun perhatian terhadap kinerja keduanya sangat tinggi.
+Apabila organisasi-organisasi publik di Indonesia dianalisis dengan menggunakan empat tipe budaya tersebut diatas, maka dapat disimpulkan bawwa sebagian besar organisasi publik memiliki budaya organisasi yang bertipe Caring. Organisasi-organisasi publik di Indonesia biasanya memiliki perhatian yang sangat rendah terhadap kinerja pelaksanaan tugas, tetapi memiliki perhatian yang sangat tinggi terhadap hubungan an,ar manusia. Hal ini nampak dari ciri-ciri birokrat sebagai berikut: (a) lebih mementingkan kepentingan pimpinan ketimbang kepentingan klien atau pengguna jasa; (b), lebih merasa sebagai abdi negara daripada abdi masyarakat; (c) meminimalkan resiko dengan cara menghindari inisiatif; (d) menghindari tanggung jawab; (d) menolak tantangan; dan (e) tidak suka berkreasi dan berinovasi dalam melaksanakan tugas-tugasnya. Budaya Caring ini tidak cocok dalam pemberian pelayanan yang berkualitas kepada masyarakat.Dengan demikian harus diadopsi budaya organisasi baru yang lebih sesuai dankondusif dengan manajemen pelayanan publik. Budaya organisasi seperti ini disebut kultur kinerja (Ivancevich, Lorenzi, Skinner &Cmsby 1997 :460)
+Sumber : Dikutip dengan perubahan seperlunya dari Ratminto & Winarsih (2005); Manajemen Pelayanan.
+Makna kata yang identik dengan kata “publik” dalam kata “manajemen pelayanan publik” adalah . . .
+A. Rombongan
+B. Warga negara
+C. Umum
+D. Negara
+E. Orang banyak
+
+==================================================
+
+Soal 20:
+Berdasarkan perhatiannya terhadap orang dan perhatiannya terhadap kinerja, Sethia dan Glinow (dalam Collins dan Mc Laughlin, 1996: 760-762) membedakan adanya empat macam budaya organisasi, yaitu: (a) apathetic culture; (b) caring culture; (c) exacting culture; dan integrative culture. Dalam tipe apathetic culture, perhatian anggota organisasi terhadap hubungan antar manusia maupun perhatian terhadap kinerja pelaksanaan tugas, dua-duanya rendah. Di sini penghargaan diberikan terutama berdasarkan permainan politik danpemanipulasian orang–orang lain. Sedangkan budaya organisasi Caring Culture dicirikan oleh rendahnya perhatian terhadap kinerja dan tingginya perhatian terhadap hubungan antar manusia. Penghargaan lebih didasarkan atas kepaduan tim dan harmoni, dan bukan didasarkan atas kinerja pelaksanaan tugas. Sementara itu ciri utama tipe exacting Culture adalah bahwa perhatian terhadap orang sangat rendah, tetapi perhatian terhadap kinerja sangat tinggi.Disini secara ekonomis, penghargaan sangat memuaskan tetapi hukuman atas kegagalan yang dilakukan juga sangat berat.Dengan demikian tingkat keamanan pekerjaan menjadi sangat rendah.Yang terakhir, dalam organisasi yang memiliki budaya integrative, maka perhatian terhadap orang maupun perhatian terhadap kinerja keduanya sangat tinggi.
+Apabila organisasi-organisasi publik di Indonesia dianalisis dengan menggunakan empat tipe budaya tersebut diatas, maka dapat disimpulkan bawwa sebagian besar organisasi publik memiliki budaya organisasi yang bertipe Caring. Organisasi-organisasi publik di Indonesia biasanya memiliki perhatian yang sangat rendah terhadap kinerja pelaksanaan tugas, tetapi memiliki perhatian yang sangat tinggi terhadap hubungan an,ar manusia. Hal ini nampak dari ciri-ciri birokrat sebagai berikut: (a) lebih mementingkan kepentingan pimpinan ketimbang kepentingan klien atau pengguna jasa; (b), lebih merasa sebagai abdi negara daripada abdi masyarakat; (c) meminimalkan resiko dengan cara menghindari inisiatif; (d) menghindari tanggung jawab; (d) menolak tantangan; dan (e) tidak suka berkreasi dan berinovasi dalam melaksanakan tugas-tugasnya. Budaya Caring ini tidak cocok dalam pemberian pelayanan yang berkualitas kepada masyarakat.Dengan demikian harus diadopsi budaya organisasi baru yang lebih sesuai dankondusif dengan manajemen pelayanan publik. Budaya organisasi seperti ini disebut kultur kinerja (Ivancevich, Lorenzi, Skinner &Cmsby 1997 :460)
+Sumber : Dikutip dengan perubahan seperlunya dari Ratminto & Winarsih (2005); Manajemen Pelayanan.
+Menurut penulis buku tersebut di atas, sebagaian besar organisasi publik di Indonesia memiliki budaya caring, hal ini dicirikan dengan hal-hal di bawah ini kecuali . . .
+A. Mementingkan kepentingan klien
+B. Menghindari tanggungjawab
+C. Tidak suka berinovasi
+D. Menolak tantangan
+E. Tidak suka berkreasi
+
+==================================================
+
+Soal 21:
+Ketika Pemerintah memutuskan untuk menaikkan harga elpiji dan juga bensin pertamax, Kita masih bisa memahami alasan bahwa kenaikan itu harus dilakukan karena komoditas itu lebih banyak dipergunakan masyarakat kelas atas.Namun ketika pemerintah menaikkan harga pupuk ZA dan SP-36, pantas kita bertanya apakah alasannya juga karena komoditas itu dipergunakan masyarakat kelas atas? Terus terang kita bertanya-tanya, ke mana sebetulnya arah keberpihakan pemerintah ini.Kita paham bahwa keuangan negara ini sangat terbatas dan tidak mungkin lagi untuk memberikan subsidi. Tetapi, apakah benar apabila kita kemudiansama sekali tidak mengenal subsidi lagi.
+Pupuk jenis SP-36 dan ZA umumnya banyak dipakai oleh petani tebu dan hortikultura.Mereka umumnya bukanlah petani besar, tetapi petani gurem.Luasan lahan yang mereka miliki sangatlah kecil sehingga mereka umumnya tergabung dalam Asosiasi Petani Tebu Rakyat Indonesia.
+Ada dua hal yang membuat petani akan merasa diperlakukan tidak adil. Pertama, kenaikan dilakukan mulai 1 Januari jauh dari masa panen tiba.Artinya, petani harus keluar modal yang lebih banyak terlebih dahulu sebelum memetik hasilnya. Itu sama saja dengan kita meminta petani untuk memberikan subsidi kepada konsumen. Belum lagi tidak adanya jaminan bahwa pemerintah akan menetapkan harga dasar baru yang akan mengompensasi kerugian yang harus dihadapi petani. Sepanjang kondisinya seperti itu berlangsung, tidak usah heran apabila petani seumur-umur akan menjadi kelompok yang tertinggal karena nilai tukar mereka akan terus menurun.
+Kedua adalah ketidakmampuan pemerintah untuk memberlakukan perdagangan yang adil (fair trade).Bukan sekali-dua kali terjadi penyelundupan gula. Dengan harga jual yang disubsidi ditambah lagi dengan tidak membayar bea masuk, jelas tidak mungkin sampai kapan pun produk petani kita akan mampu bersaing dengan produk impor.
+Sumber: Tajuk Rencana, Kompas 6 Januari 2005.
+Pernyataan di bawah ini yang tidak benar adalah ...
+A. Kenaikan harga pupuk harus dilakukan karenakomoditas itu lebih banyak dipergunakanmasyarakat kelas atas
+B. Pupuk jenis SP-36 dan ZA umumnya banyak dipakai oleh petani tebu dan hortikultura
+C. Luasan lahan yang mereka miliki sangatlah kecil
+D. Mereka umumnya bukanlah petani besar, tetapi petani gurem
+E. Mereka umumnya tergabung dalam Asosiasi Petani Tebu Rakyat Indonesia
+
+==================================================
+
+Soal 22:
+Berdasarkan perhatiannya terhadap orang dan perhatiannya terhadap kinerja, Sethia dan Glinow (dalam Collins dan Mc Laughlin, 1996: 760-762) membedakan adanya empat macam budaya organisasi, yaitu: (a) apathetic culture; (b) caring culture; (c) exacting culture; dan integrative culture. Dalam tipe apathetic culture, perhatian anggota organisasi terhadap hubungan antar manusia maupun perhatian terhadap kinerja pelaksanaan tugas, dua-duanya rendah. Di sini penghargaan diberikan terutama berdasarkan permainan politik danpemanipulasian orang–orang lain. Sedangkan budaya organisasi Caring Culture dicirikan oleh rendahnya perhatian terhadap kinerja dan tingginya perhatian terhadap hubungan antar manusia. Penghargaan lebih didasarkan atas kepaduan tim dan harmoni, dan bukan didasarkan atas kinerja pelaksanaan tugas. Sementara itu ciri utama tipe exacting Culture adalah bahwa perhatian terhadap orang sangat rendah, tetapi perhatian terhadap kinerja sangat tinggi.Disini secara ekonomis, penghargaan sangat memuaskan tetapi hukuman atas kegagalan yang dilakukan juga sangat berat.Dengan demikian tingkat keamanan pekerjaan menjadi sangat rendah.Yang terakhir, dalam organisasi yang memiliki budaya integrative, maka perhatian terhadap orang maupun perhatian terhadap kinerja keduanya sangat tinggi.
+Apabila organisasi-organisasi publik di Indonesia dianalisis dengan menggunakan empat tipe budaya tersebut diatas, maka dapat disimpulkan bawwa sebagian besar organisasi publik memiliki budaya organisasi yang bertipe Caring. Organisasi-organisasi publik di Indonesia biasanya memiliki perhatian yang sangat rendah terhadap kinerja pelaksanaan tugas, tetapi memiliki perhatian yang sangat tinggi terhadap hubungan an,ar manusia. Hal ini nampak dari ciri-ciri birokrat sebagai berikut: (a) lebih mementingkan kepentingan pimpinan ketimbang kepentingan klien atau pengguna jasa; (b), lebih merasa sebagai abdi negara daripada abdi masyarakat; (c) meminimalkan resiko dengan cara menghindari inisiatif; (d) menghindari tanggung jawab; (d) menolak tantangan; dan (e) tidak suka berkreasi dan berinovasi dalam melaksanakan tugas-tugasnya. Budaya Caring ini tidak cocok dalam pemberian pelayanan yang berkualitas kepada masyarakat.Dengan demikian harus diadopsi budaya organisasi baru yang lebih sesuai dankondusif dengan manajemen pelayanan publik. Budaya organisasi seperti ini disebut kultur kinerja (Ivancevich, Lorenzi, Skinner &Cmsby 1997 :460)
+Sumber : Dikutip dengan perubahan seperlunya dari Ratminto & Winarsih (2005); Manajemen Pelayanan.
+Pernyataan tentang caring culture di bawah ini yang tidak benar adalah . . .
+A. Penghargaan diberikan terutama berdasarkan harmoni
+B. Penghargaan diberikan terutama berdasarkan kepaduan tim
+C. Perhatian anggota organisasi terhadap hubungan antar manusia tinggi
+D. Perhatian anggota organisasi terhadap kinerja pelaksanaan tugas rendah
+E. Penghargaan diberikan terutama berdasarkan kinerja pelaksanaan tugas
+
+==================================================
+
+Soal 23:
+Bayu menginvestasikan 35% modalnya ke Bursa Efek Jakarta akhir bulan Maret. Akhir bulan selanjutnya, ia menambah investasinya sebesar 60% dari investasi awal. Jika pada akhir Mei, ia memperoleh bunga deposito 10% dari investasi, berapa kenaikan jumlah modal dan investasinya sekarang ?
+A. 9,5%
+B. 5,6%
+C. 7,5%
+D. 105,6%
+E. 6,5%
+
+==================================================
+
+Soal 24:
+Kota Denpasar-Blitar bejarak 525 km. Kecepatan perjalanan berangkat 50 km/jam dan saat pulang 70 km/jam. Berapa kecepatan rata-rata untuk seluruh perjalanan pulang perginya ?
+A. 60,2 km/jam
+B. 60,4 km/jam
+C. 58,3 km/jam
+D. 58.6 km/jam
+E. 53,8 km/jam
+
+==================================================
+
+Soal 25:
+Pada tahun 2002 usia seorang anak sama dengan seperempat usia ibunya (dalam tahun). Jika pada tahun 2006 usia anak tersebut sepertiga usia ibunya, anak tersebut lahir pada tahun . . .
+A. 1992
+B. 1994
+C. 1990
+D. 1997
+E. 1988
+
+==================================================
+
+Soal 26:
+Tanah seluas 10.000 m2 akan dibangun rumah  tipe A dan tipe B. Untuk tipe A diperlukan 100 m2 dan dan tipe B diperlukan 75 m2 Jumlah rumah yang akan dibangun paling banyak 125 unit.Keuntungan rumah tipe A adalah Rp.6.000.000,00/unit dan tipe B adalah Rp. 4.000.000,00/unit. Keuntungan maksimum yang dapat diperoleh daru penjualan rumah tersebut adalah . . .
+A. Rp550.000.000,00,-
+B. Rp600.000.000,00,-
+C. Rp950.000.000,00,-
+D. Rp800.000.000,00,-
+E. Rp750.000.000,00,-
+
+==================================================
+
+Soal 27:
+Asep mengecat tembok yang tingginya 3 m dan telah 1/3 nya selesai. Jika dia selanjutnya mengecat tembok 10 m2 lagi, dia sudah akan ¾  selesai. Berapa meterkah panjang tembok tadi ?
+A. 8
+B. 4
+C. 6
+D. 2
+E. 10
+
+==================================================
+
+Soal 28:
+Dua buah kereta api berjalan dalam jalur yang bersebelahan. Kereta pertama berjalan dengan kecepatan 25 km/jam, sementara kereta kedua berjalan dengan kecepatan 30 km/jam. Apabila kereta pertama berjalan 1 jam lebih awal, maka berapa lama waktu yang dibutuhkan oleh kereta kedua agar dapat menyusul kereta pertama ?
+A. 4 jam
+B. 5 jam
+C. 3 jam
+D. 6 jam
+E. 7 jam
+
+==================================================
+
+Soal 29:
+Tabung A dan tabung B memiliki ukuran yang sama. Jika jari-jari tabung A di dua kali lipatkan maka tinggi tabung B berapa kali harus dilipatkan agar volume kedua tabung tetap sama ?
+A. 0
+B. 8
+C. 2
+D. 6
+E. 4
+
+==================================================
+
+Soal 30:
+Sebuah bus berisi 20% ketika berangkat dari stasiun. Jika ditengah perjalanan naik 14 orang lagi maka bus akan terisi 2/3 dari kapasitas maksimumnya. Berapa penumpangkah kapasitas bus tersebut ?
+A. 40
+B. 50
+C. 30
+D. 60
+E. 70
+
+==================================================
+
+Soal 31:
+3, 5, 7, 6, 10, 14, 12, …, …
+A. 17, 28
+B. 15, 18
+C. 8, 17
+D. 14, 17
+E. 20, 28
+
+==================================================
+
+Soal 32:
+A,C,F,J,O, ...
+A. T
+B. V
+C. U
+D. DHuruf yang dilewat selalu bertambah  Jawaban Yang Paling Tepat Adalah Pilihan - U
+E. P
+
+==================================================
+
+Soal 33:
+27, 49, 31, 44, 35, …, …, 34, 43
+A. 36, 38
+B. 37, 34
+C. 23, 39
+D. 45, 37
+E. 39, 39
+
+==================================================
+
+Soal 34:
+2, …, 4, 6, …, 12, 16, 24, 32
+A. 4 dan 8
+B. 3 dan 9
+C. 5 dan 7
+D. 5 dan 8
+E. 3 dan 8
+
+==================================================
+
+Soal 35:
+5, 11, 23, 47, …, 191, 383, 767, 1535
+A. 96
+B. 95
+C. 105
+D. 90
+E. 85
+
+==================================================
+
+Soal 36:
+Jawablah pertanyaan berikut !
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_313/soal_36_img1.png)
+A. D
+B. A
+C. B
+D. C
+E
+
+==================================================
+
+Soal 37:
+Jawablah pertanyaan berikut !
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_313/soal_37_img1.png)
+A. B
+B
+C. C
+D. D
+E. A
+
+==================================================
+
+Soal 38:
+Jawablah pertanyaan berikut !
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_313/soal_38_img1.png)
+A. C
+B
+C. A
+D. B
+E. D
+
+==================================================
+
+Soal 39:
+Jawablah pertanyaan berikut !
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_313/soal_39_img1.png)
+A
+B. A
+C. D
+D. C
+E. B
+
+==================================================
+
+Soal 40:
+Jawablah pertanyaan berikut !
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_313/soal_40_img1.png)
+A. C
+B. D
+C
+D. B
+E. A
+
+==================================================
+

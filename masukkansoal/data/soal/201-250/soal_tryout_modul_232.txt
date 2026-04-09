@@ -1,0 +1,400 @@
+Soal 1:
+Panorama = ...
+A. Pemandangan indah
+B. Pemandangan bebas
+C. Pemandangan langit
+D. Pemandangan luas
+E. Pemandangan alam
+
+==================================================
+
+Soal 2:
+NOMADEN >< ...
+A. Bohemian
+B. Permanen
+C. Pindah
+D. Stabil
+E. Menetap
+
+==================================================
+
+Soal 3:
+TOPI : KEPALA = ... : ...
+A. Perban : Perut
+B. Sarung tangan : Jari
+C. Tas : Pensil
+D. Pakaian : Badan
+E. Atap : Panas
+
+==================================================
+
+Soal 4:
+1 – 1/2 – 1/20 – 1/200 – 1/2000 – 1/20000 = …
+A. 0,33333
+B. 0,44445
+C. 0,44444
+D. 0,35555
+E. 0,33335
+
+==================================================
+
+Soal 5:
+Seorang marketing boy akan menerima komisi 25 % dari penjualan sebesar
+Rp. 3.000.000. Apabila ia telah menerima komisi sebesar Rp. 250.000, berapa
+bagiankah yang masih harus diterimanya?
+A. 4/3
+B. 2/3
+C. 1/3
+D. 1
+E. 3/5
+
+==================================================
+
+Soal 6:
+45% dari X adalah 90 dan 7/9 dari Y adalah 35. Nilai X + Y adalah …
+A. 130
+B. 245
+C. 67
+D. 150
+E. 90
+
+==================================================
+
+Soal 7:
+Dalam sebuah ruangan terdapat 7 orang untuk mengikuti rapat. Berapa
+banyak cara untuk mengatur posisi duduk mereka..
+A. 210
+B. 234
+C. 49
+D. 21
+E. 720
+
+==================================================
+
+Soal 8:
+Dari kota X ke kota Y dilayani oleh 4 bus dan dari Y ke Z oleh 3 bus.
+Seseorang berangkat dari kota X ke kota Z melalui Y kemudian kembali lagi
+ke X juga melalui Y. Jika saat kembali dari Z ke X, ia tidak mau
+menggunakan bus yang sama, maka banyak cara perjalanan orang tersebut
+adalah ….
+A. 96
+B. 6
+C. 12
+D. 72
+E. 36
+
+==================================================
+
+Soal 9:
+Banyaknya bilangan antara 2000 dan 6000 yang dapat disusun dari angka
+0,1,2,3,4,5,6,7, dan tidak ada angka yang sama adalah …
+A. 1.680
+B. 720
+C. 1.840
+D. 840
+E. 360
+
+==================================================
+
+Soal 10:
+10 orang finalis suatu lomba Abang DKI akan dipilih secara acak 3 yang
+terbaik. Banyak cara pemilihan tersebut ada … cara
+A. 20
+B. 120
+C. 240
+D. 30
+E. 60
+
+==================================================
+
+Soal 11:
+Peluang munculnya kartu brigde yang mempunyai tulisan “bukan huruf” di
+sudut kartunya adalah...
+A. 7/26
+B. 4/13
+C. 15/52
+D. ¼
+E. 1/8
+
+==================================================
+
+Soal 12:
+Diambil sebuah bola dari dalam kotak yang berisi 10 bola yang masing-masing
+memiliki warna yang berbeda, lalu diambil 1 buah bola. Berapa
+peluang warna bola hitam yang terambil?
+A. 1/8
+B. 0
+C. ¼
+D. ½
+E. 1/10
+
+==================================================
+
+Soal 13:
+Dari sebuah rapat ditentukan 8 kandidat (2 pria dan 6 wanita) yang akan
+menduduki posisi sebagai ketua, bendahara, dan sekretaris. Apabila yang
+wajib menjadi ketua adalah pria, berapa kemungkinan formasi yang dapat
+dibentuk?
+A. 240
+B. 84
+C. 21
+D. 42
+E. 336
+
+==================================================
+
+Soal 14:
+Jika jarak dari X ke Y adalah 3 km, dan jarak dari Y ke Z adalah 2 km,
+maka...
+A. Tidak dapat ditentukan hubungannya
+B. Jarak X ke Z > jarak X ke Y
+C. Jarak X ke Y = jarak X ke Z
+D. Jarak X ke Z = jarak X ke Y
+E. Jarak X ke Z < jarak X ke Y
+
+==================================================
+
+Soal 15:
+Banyaknya gram gula harus ditambah agar 120 gram larutan 15% menjadi
+kadar 20% gula?
+A. 2,5
+B. 5,5
+C. 9
+D. 8
+E. 7,5
+
+==================================================
+
+Soal 16:
+Sebuah bak penampung air bervolume 20 liter akan diisi dengan sebuah
+kran dengan debit 1 liter/menit. Tanpa disadari bak tersebut bocor 10/3
+cm³/detik. Berapa lama bak tersebut akan terisi penuh?
+A. 20 Menit
+B. 15 Menit
+C. 30 Menit
+D. 35 Menit
+E. 25 Menit
+
+==================================================
+
+Soal 17:
+Seorang anak yang tingginya 160 cm difoto dalam ukuran kecil dengan skala
+1:40, kemudian foto tersebut diperbesar dengan skala 4:1, maka tinggi anak
+dalam foto yang terakhir menjadi…
+A. 14 cm
+B. 18 cm
+C. 16 cm
+D. 25 cm
+E. 20 cm
+
+==================================================
+
+Soal 18:
+Dua buah bilangan apabila dijumlahkan maka jumlahnya 190. Selisih kedua
+bilangan tersebut adalah 52. Bilangan pertama lebih besar dari pada
+bilangan kedua. Berapa nilai bilangan kedua ?
+A. 50
+B. 65
+C. 60
+D. 69
+E. 55
+
+==================================================
+
+Soal 19:
+Sebuah percetakan dengan kecepatan konstan dapat menghasilkan 72
+eksemplar buku dalam 15 menit. Berapa lama diperlukan untuk
+memfotokopi 264 lembar ?
+A. 65
+B. 50
+C. 45
+D. 55
+E. 60
+
+==================================================
+
+Soal 20:
+Seutas kawat dipotong menjadi dua bagian sedemikian rupa sehingga
+panjang bagian pertama adalah 4 kali panjang bagian ke dua. Jika selisih
+kedua kawat adalah 48 meter, berapakah panjang tali yang panjang ?
+A. 64
+B. 50
+C. 52
+D. 56
+E. 58
+
+==================================================
+
+Soal 21:
+Sebuah perusahaan penerbangan mengurangi jumlah penerbangan untuk
+jalur tertentu sebesar 25 pesen menjadi 24 kali sehari. Berapa jumlah
+penerbangan setiap hari sebelum ada pengurangan ?
+A. 38
+B. 36
+C. 28
+D. 32
+E. 30
+
+==================================================
+
+Soal 22:
+Bacaan untuk soal 22-24
+Pembangunan Jembatan Trans Sunda akan dilakukan oleh pemerintah.
+Joint Operation antara PT RIO dengan PT EFRIS akan menjadi
+penanggung jawab dalam proyek konstruksi tersebut. Pekerjaan
+pembangunan jembatan akan dibagi menjadi 6 jenis pekerjaan, yakni K, L,
+M, N, O dan P. Enam jenis pekerjaan harus dilakukan dengan ketentuan
+sebagai berikut:
+- N dikerjakan sebelum O
+- M dikerjakan pada urutan ketiga
+- P tidak akan dikerjakan sebelum pekerjaan K dilakukan.
+Jika setelah mengerjakan O karyawan mengerjakan P, maka urutan yang
+benar dari yang pertama dikerjakan adalah ...
+A. K, N, M, O, L, P
+B. P, N, M, K, O, L
+C. P, N, O, K, L, M
+D. K, L, O, N, P, M
+E. K, P, N, O, L, M
+
+==================================================
+
+Soal 23:
+Jika yang pertama kali dikerjakan adalah L, maka yang mungkin
+dikerjakan pada urutan kedua adalah ...
+A. M
+B. N
+C. P
+D. O
+E. N atau K
+
+==================================================
+
+Soal 24:
+Jika L dikerjakan pada urutan terakhir dan N dikerjakan pada urutan
+kedua, maka yang pertama dikerjakan adalah ...
+A. P
+B. O
+C. M
+D. K
+E. K atau P
+
+==================================================
+
+Soal 25:
+Seri huruf W A B W C D selanjutnya adalah …
+A. Y Z
+B. X F
+C. W F
+D. W E
+E. X E
+
+==================================================
+
+Soal 26:
+Seri huruf A Z B Y C X selanjutnya adalah...
+A. E W
+B. D V
+C. E V
+D. F V
+E. D W
+
+==================================================
+
+Soal 27:
+Seri huruf A B D C E F H selanjutnya adalah…
+A. I J
+B. G I
+C. J L
+D. G L
+E. J K
+
+==================================================
+
+Soal 28:
+“ Jika semua warga Bandung membuang sampah pada tempatnya, maka
+musibah banjir dapat di dicegah sedini mungkin ”. Pernyayaan tersebut
+mempunyai negasi yang logis, yakni . . .
+A. Ada warga Bandung membuang sampah pada tempatnya tetapi musibah banjir dapat di dicegah sedini mungkin
+B. Ada warga Bandung tidak membuang sampah pada tempatnya dan musibah banjir dapat di dicegah sedini mungkin
+C. Bila ada warga Bandung tidak membuang sampah pada tempatnya maka musibah banjir tidak dapat di dicegah sedini mungkin
+D. Semua warga Bandung membuang sampah pada tempatnya tetapi musibah banjir tidak dapat di dicegah sedini mungkin
+E. Semua warga Bandung membuang sampah pada tempatnya dan musibah banjir dapat di dicegah sedini mungkin
+
+==================================================
+
+Soal 29:
+Beberapa dosen bergabung dalam forum dosen. Forum dosen tidak ada yang
+menjadi pemain futsal.
+A. Beberapa pemain futsal bukanlah merupakan anggota forum dosen
+B. Ada berapa dosen yang menjadi pemain futsal
+C. Beberapa dosen bukan pemain futsal
+D. Forum dosen hanya cocok menjadi dosen
+E. Tidak ada dosen yang menjadi pemain futsal
+
+==================================================
+
+Soal 30:
+Himpunan orang yang mendownload flappy bird saat ini adalah...
+A. 0
+B. 1.000
+C. 100
+D. 10
+E. 1
+
+==================================================
+
+Soal 31:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_232/soal_31_img1.png)
+A. C
+B. B
+C. D
+D. E
+E. A
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_232/soal_32_img1.png)
+A. D
+B. A
+C. E
+D. B
+E. C
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_232/soal_33_img1.png)
+A. C
+B. A
+C. E
+D. B
+E. D
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_232/soal_34_img1.png)
+A. C
+B. D
+C. A
+D. E
+E. B
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_232/soal_35_img1.png)
+A. D
+B. C
+C. B
+D. A
+E. E
+
+==================================================
+

@@ -1,0 +1,440 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nKAKAK TUA : MERPATI = ...",
+        "pilihan": [
+            "ANJING : HELDER",
+            "GAJAH : SEMUT",
+            "GURAMI : KAKAP",
+            "SINGA : NAGA",
+            "ELANG : KUPU-KUPU"
+        ],
+        "jawaban_benar": "GURAMI : KAKAP",
+        "pembahasan": "KAKAK TUA dan MERPATI adalah jenis burung (dari jenis yang sama), sebagaimana GURAMI dan KAKAP adalah jenis ikan (dari jenis yang sama)."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nHURUF : KATA = ...",
+        "pilihan": [
+            "KLUB : ORANG",
+            "HALAMAN : BUKU",
+            "GAMBAR : KRAYON",
+            "PEKERJAAN RUMAH : SEKOLAH",
+            "BARANG : PABRIK"
+        ],
+        "jawaban_benar": "HALAMAN : BUKU",
+        "pembahasan": "Gabungan beberapa HURUF membentuk sebuah KATA, sebagaimana gabungan beberapa HALAMAN membentuk sebuah BUKU."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\n... : KEROPOS = ... : OLENG",
+        "pilihan": [
+            "RATAK - LABIL",
+            "TUA - LIMBUNG",
+            "LEMAH - JATUH",
+            "TULANG - GERAK",
+            "RANGKA - ROBOH"
+        ],
+        "jawaban_benar": "LEMAH - JATUH",
+        "pembahasan": "LEMAH terjadi karena KEROPOS, sebagaimana JATUH terjadi karena OLENG."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nJika bulan Ramadhan tiba maka banyak buah kurma dijual di pasaran.\nTidak banyak buah kurma yang dijual di pasaran.\nKesimpulannya adalah ...",
+        "pilihan": [
+            "Bulan Ramadhan tiba",
+            "Bulan Ramadhan belum tiba",
+            "Bulan Ramadhan belum tiba namun tidak banyak buah kurma yang dijual di pasaran",
+            "Bulan Ramadhan belum tiba sehingga banyak buah kurma yang dijual di pasaran",
+            "Bulan Ramadhan tiba walaupun tidak banyak buah kurma yang dijual di pasaran"
+        ],
+        "jawaban_benar": "Bulan Ramadhan belum tiba",
+        "pembahasan": "Misalkan:\nP = Bulan Ramadhan tiba\nQ = Banyak buah kurma dijual di pasaran.\n-Q = Tidak banyak buah kurma yang dijual di pasaran.\nP ⇒ Q\n-Q\n\\\n-P\nMaka kesimpulannya adalah bulan Ramadhan belum tiba."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nBeberapa hewan boleh dimakan.\nBeberapa hewan mengandung racun.\nKesimpulannya adalah ...",
+        "pilihan": [
+            "Beberapa hewan boleh dimakan atau mengandung racun",
+            "Beberapa hewan boleh dimakan dan mengandung racun",
+            "Semua hewan boleh dimakan dan mengandung racun",
+            "Seluruh hewan boleh dimakan dan mengandung racun",
+            "Tidak ada hewan yang boleh dimakan dan tidak mengandung racun"
+        ],
+        "jawaban_benar": "Beberapa hewan boleh dimakan dan mengandung racun",
+        "pembahasan": "P = Beberapa hewan\nQ = Boleh dimakan\nR = Mengandung racun\nP ⇒ Q\nP ⇒ R\n\\\nP ⇒ Q\n∧\nR\nMaka kesimpulannya adalah beberapa hewan boleh dimakan dan mengandung racun."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nUntuk menjawab soal nomor 36 dan 37, perhatikan ilustrasi berikut!\nSeorang calon direktur perusahaan merencanakan mengunjungi enam kota berikut:\nJakarta, Kendari, Lamongan, Manado, Kupang, dan Palembang, satu kali selama masa kampanye.\nKampanye merencanakan jadwal perjalanan untuk calon direktur tersebut sebagai berikut:\nCalon direktur dapat mengunjungi Manado hanya jika dia telah mengunjungi Lamongan dan Kupang\nCalon direktur tidak dapat mengunjungi Kupang sebelum mengunjungi Jakarta\nKota kedua yang dikunjungi calon direktur tersebut adalah Kendari\nManakah dari berikut ini yang benar untuk jadwal perjalanan calon direktur tersebut?",
+        "pilihan": [
+            "Ia mengunjungi Jakarta pada kesempatan pertama",
+            "Ia mengunjungi Kendari pada kesempatan pertama",
+            "Ia mengunjungi Lamongan pada kesempatan keenam",
+            "Ia mengunjungi Manado pada kesempatan keempat",
+            "Ia mengunjungi Kupang pada kesempatan keenam"
+        ],
+        "jawaban_benar": "Ia mengunjungi Jakarta pada kesempatan pertama",
+        "pembahasan": "Kemungkinan urutan perjalanan calon direktur tersebut:\nJakarta - Kendari - Kupang - Lamongan - Palembang - Manado.\nJadi, jadwal perjalanan yang benar adalah \"Ia mengunjungi Jakarta pada kesempatan pertama\"."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nUntuk menjawab soal nomor 36 dan 37, perhatikan ilustrasi berikut!\nSeorang calon direktur perusahaan merencanakan mengunjungi enam kota berikut:\nJakarta, Kendari, Lamongan, Manado, Kupang, dan Palembang, satu kali selama masa kampanye.\nKampanye merencanakan jadwal perjalanan untuk calon direktur tersebut sebagai berikut:\nCalon direktur dapat mengunjungi Manado hanya jika dia telah mengunjungi Lamongan dan Kupang\nCalon direktur tidak dapat mengunjungi Kupang sebelum mengunjungi Jakarta\nKota kedua yang dikunjungi calon direktur tersebut adalah Kendari\nJika calon direktur tersebut mengunjungi Palembang pada pertemuan terakhir, manakah dari kota-kota berikut yang dapat menjadi kota pertama dan ketiga dalam jadwal kunjungannya?",
+        "pilihan": [
+            "Jakarta dan Palembang",
+            "Jakarta dan Lamongan",
+            "Lamongan dan Kupang",
+            "Lamongan dan Palembang",
+            "Manado dan Kupang"
+        ],
+        "jawaban_benar": "Jakarta dan Lamongan",
+        "pembahasan": "Jika Palembang berada pada urutan terakhir maka didapatkan kemungkinan urutan perjalanan berikut: Jakarta - Kendari - Lamongan - Kupang - Manado - Palembang. Jadi, kota yang menjadi kota pertama dan ketiga dalam jadwal kunjungan calon direktur adalah Jakarta dan Lamongan."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nPak Dodi menjual sebuah jam dinding dengan harga Rp 117.450,- dan memperoleh laba 35% dari harga belinya. Berapakah harga beli jam dinding tersebut?",
+        "pilihan": [
+            "78.000",
+            "80.000",
+            "83.000",
+            "87.000",
+            "92.500"
+        ],
+        "jawaban_benar": "87.000",
+        "pembahasan": "Harga beli = (Harga jual) / (%laba)\n= 117.450 : (100% + 35%)\n= 117.450 : 135%\n= 117.450 x (100/135)\n= 87.000"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nDalam sebuah perusahaan, 42% pegawai adalah perempuan. Jika 50% pegawai sudah menikah dan 80% dari pegawai yang sudah menikah adalah perempuan, berapakah jumlah pegawai yang belum menikah dan laki-laki?",
+        "pilihan": [
+            "68%",
+            "72%",
+            "84%",
+            "96%",
+            "98%"
+        ],
+        "jawaban_benar": "96%",
+        "pembahasan": "Misal,\nJumlah pegawai = 100 orang\n42% dari pegawai adalah perempuan, maka:\nPerempuan = 42% x 100 = 42\nLaki-laki = 100 - 42 = 58\n50% pegawai sudah menikah, sehingga:\nMenikah = 50% x 100 = 50\nBelum menikah = 100 - 50 = 50\n80% pegawai yang sudah menikah adalah perempuan, maka:\nPerempuan menikah = 80% x 50 = 40\nLaki-laki menikah = 50 - 40 = 10\nJumlah pegawai laki-laki yang belum menikah adalah:\n58 - 10 = 48 orang\nSehingga persentase pegawai laki-laki yang belum menikah adalah:\n(48/50) x 100% = 96%"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nJarak rumah Mala ke sekolah adalah 12 km. Sedangkan jarak pada peta adalah 2 cm. Maka skala yang digunakan adalah ...",
+        "pilihan": [
+            "1 : 600",
+            "1 : 6.000",
+            "1 : 60.000",
+            "1 : 600.000",
+            "1 : 6.000.000"
+        ],
+        "jawaban_benar": "1 : 600.000",
+        "pembahasan": "Skala adalah Perbandingan antara jarak pada peta dengan jarak sebenarnya.\nS = Jp/Js\n= 2 cm/12 km\n= 2 cm/1.200.000 cm\n= 1/600.000"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nPerbandingan nilai Yovi dan Chan adalah 1 : 3 sedangkan perbandingan nilai Dovi dan Chan adalah 2 : 1. Jika nilai Chan adalah 30, maka nilai Dovi dan Yovi adalah ...",
+        "pilihan": [
+            "70"
+        ],
+        "jawaban_benar": "70",
+        "pembahasan": "Yovi : Chan = 1 : 3\nChan : Dovi = 1 : 2\nYovi : Chan : Dovi = 1x1 : 1x3 : 3x2\n= 1 : 3 : 6\nNilai Chan adalah 30.\nJumlah nilai Dovi dan Yovi\n((6+1)/3) x 30\n= 7/3 x 30\n= 70"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nJika x\n3\n- 8 = 19 maka nilai 3x\n3\nadalah ...",
+        "pilihan": [
+            "81",
+            "201"
+        ],
+        "jawaban_benar": "81",
+        "pembahasan": "x\n3\n- 8 = 19\nx\n3\n= 19 + 8\nx\n3\n= 27\n3x\n3\n= 3 x 27\n3x\n3\n= 81"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nHimpunan penyelesaian dari persamaan x\n2\n+ x - 6 = 0 adalah ...",
+        "pilihan": [
+            "(-2,3)",
+            "(-3,-2)",
+            "(2,2)",
+            "(3,2)",
+            "(-3,2)"
+        ],
+        "jawaban_benar": "(-3,2)",
+        "pembahasan": "x\n2\n+ x - 6 = 0\n(x + 3)(x - 2) = 0\nx + 3 = 0 ⇒ x = -3\nx - 2 = 0 ⇒ x= 2\nHimpunan penyelesaian (-3,2)"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nJika x merupakan bilangan rasional, himpunan penyelesaian dari 2x - 9 < 6 adalah ...",
+        "pilihan": [
+            "Bilangan asli",
+            "Bilangan cacah",
+            "Bilangan rasional",
+            "Bilangan prima",
+            "Bilangan bulat"
+        ],
+        "jawaban_benar": "Bilangan rasional",
+        "pembahasan": "2x - 9 < 6\n2x < 6 + 9\n2x < 15\nx < (15/2)\nJadi penyelesaiannya adalah x merupakan bilangan rasional."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nDiberikan data usia sekelompok anak sebagai berikut:\n14, 13, 15, 14, 17, 16, 12, 18, 13, 11, 14, 17, 13, 12, 17, 16\nMedian dari data tersebut adalah ...",
+        "pilihan": [
+            "12,5",
+            "13,5",
+            "14",
+            "14,5"
+        ],
+        "jawaban_benar": "14",
+        "pembahasan": "Diketahui:\nData sebagai berikut:\n14, 13, 15, 14, 17, 16, 12, 18, 13, 11, 14, 17, 13, 12, 17, 16\nDitanya:\nMedian = …?\nJawab:\nUntuk menentukan median data tunggal, maka langkah pertama adalah mengurutkan data dari terkecil ke yang terbesar:\n11, 12, 12, 13, 13, 13, 14, 14, 14, 15, 16, 16, 17, 17, 17, 18\nJumlah data total : n = 16 (genap)\nMaka:\nM\ne\n= ½(X\nn/2\n+ X\nn/2+1\n)\nM\ne\n= ½(X8 + X9)\nM\ne\n= ½(14+14)\nM\ne\n= 14"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nDiagram lingkaran di bawah ini memperlihatkan kegemaran siswa pada bidang olahraga. Jika banyak siswa yang gemar catur 15 orang, banyak siswa yang gemar basket adalah …\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_16_img1.png]",
+        "pilihan": [
+            "75 orang",
+            "70 orang",
+            "55 orang",
+            "45 orang",
+            "35 orang"
+        ],
+        "jawaban_benar": "35 orang",
+        "pembahasan": "Jumlah siswa gemar catur: n = 15 orang\nDitanya:\nBanyak siswa yang gemar basket?\nJawab:\nUntuk menentukan banyak siswa yang gemar basket, langkah pertama kita harus menentukan besar sudut untuk olahraga basket.\nBasket = 360\no\n- 90\no\n- 60\no\n- 110\no\n- 30\no\n= 70\no\nMaka siswa yang gemar basket yaitu:\nn = (70/30) x 15 = 35 anak"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nData pada diagram menunjukkan jumlah siswa yang diterima di beberapa perguruan tinggi.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_17_img1.png]\nJika jumlah siswa seluruhnya sebanyak 80 orang, maka persentase banyak siswa yang diterima di UNPAD adalah ...",
+        "pilihan": [
+            "0.25",
+            "0.3",
+            "0.35",
+            "0.4",
+            "0.45"
+        ],
+        "jawaban_benar": "0.3",
+        "pembahasan": "Jumlah siswa total : n = 80 orang\nDitanya:\nPersentase banyak siswa yang diterima di UNPAD?\nJawab:\nUntuk dapat menentukan persentase siswa yang diterima di UNPAD, maka langkah pertama yaitu menentukan jumlah siswa yang diterima di UNPAD:\nUNPAD : n = 80 - 16 - 14 - 11 - 15 = 24 orang\nMaka persentase siswa yang diterima di UNPAD adalah:\n%UNPAD = (24/80) x 100% = 30%=0.3"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nKecepatan Melani bersepeda ke rumah Nuning 15 km/jam. Jika ia berangkat dari rumah pukul 06.32 dan tiba di rumah Nuning pukul 07.44, jarak yang ditempuh Melani adalah ...",
+        "pilihan": [
+            "18"
+        ],
+        "jawaban_benar": "18",
+        "pembahasan": "Kecepatan = 15 km/jam\nBerangkat = 06.32\nTiba = 07.44\n07.44\n06.32\n-\n01.12\n1 jam 12 menit = 1⅕ jam = 6/5 jam\nJarak = kecepatan x waktu\n= 15 x 6/5\n= 18 km"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nYongki mengendarai sepeda motor sejauh 200 km dengan kecepatan rata-rata 75 km/jam. Jika ia tiba pukul 16.19 dan di tengah perjalanan beristirahat 15 menit, maka ia berangkat pukul ...",
+        "pilihan": [
+            "13.42",
+            "13.34",
+            "13.24",
+            "13.14",
+            "23.04"
+        ],
+        "jawaban_benar": "13.24",
+        "pembahasan": "Jarak = 200 km\nKecepatan = 75 km/jam\nTiba = 16.19\nLama istirahat = 15 menit\nLama perjalanan:\nwaktu = jarak/kecepatan\n= 200/75\n= 2 ⅔ jam\n= 2 jam ⅔ menit x 60\n= 2 jam 40 menit\nWaktu berangkat:\n16.19\n00.15\n-\n16.04 = 15.64\n15.64\n02.40\n-\n13.24"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nSeorang pengendara sepeda motor dengan kecepatan 60 km/jam dalam waktu 30 menit dapat menempuh jarak tertentu. Dengan kecepatan satu sepertiga kali lebih cepat dalam waktu 1,33 jam, pengendara tersebut akan menempuh jarak ... km.",
+        "pilihan": [
+            "102,4",
+            "104,6",
+            "104,8",
+            "106,4",
+            "106,8"
+        ],
+        "jawaban_benar": "106,4",
+        "pembahasan": "Kecepatan 1 = 60 km/jam\nWaktu 1 = 30 menit\nKecepatan 2:\n1⅓ x 60 = 4/3 x 60\n= 80 km/jam\nWaktu 2 = 1,33 jam\nJarak:\njarak = waktu x kecepatan\n= 1,33 x 80\n= 106,4 km"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nHasil dari (876 - 287) + (734 - 478) adalah ...",
+        "pilihan": [
+            "925",
+            "865",
+            "855",
+            "845",
+            "333"
+        ],
+        "jawaban_benar": "845",
+        "pembahasan": "Hasil perhitungan di atas dapat dikerjakan bertahap agar tidak bingung, sebagai berikut:\n(876 - 287) + (734 - 478)\n= 589 + 256\n= 845"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nHasil dari 3,84 + 2,9 - 1,2 + 5,78 = ...",
+        "pilihan": [
+            "11,32",
+            "10,54",
+            "9,78",
+            "9,32",
+            "12,44"
+        ],
+        "jawaban_benar": "11,32",
+        "pembahasan": "Karena operasi perhitungan hanya terdiri dari penjumlahan dan pengurangan, maka lakukan perhitungan dari kiri terlebih dahulu.\n3,84 + 2,9 - 1,2 + 5,78\n= 11,32"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nPerhatikan pecahan berikut!\n0,75 ; 1⅖ ; 60% ; 7/8\nUrutan dari pecahan terkecil ke pecahan terbesar adalah ...",
+        "pilihan": [
+            "0,75 ; 1⅖ ; 60% ; 7/8",
+            "1⅖ ; 7/8 ; 0,75 ; 60%",
+            "7/8 ; 0,75 ; 60% ; 1⅖",
+            "60% ; 0,75 ; 7/8 ; 1⅖",
+            "60% ; 0,75 ; 1⅖ ; 7/8"
+        ],
+        "jawaban_benar": "60% ; 0,75 ; 7/8 ; 1⅖",
+        "pembahasan": "Untuk melihat urutan pecahan, seluruh pecahan di atas harus diubah ke bentuk pecahan biasa dengan penyebut yang sama.\n0,75 = 75/100\n1⅖ = 7/5 = 140/100\n60% = 60/100\n7/8 = 87,5/100\nKemudian urutkan pembilang dari yang terkecil ke terbesar:\n60; 75; 87,5; 140\nJadi, urutan pecahan terkecil ke terbesar adalah 60% ; 0,75 ; 7/8 ; 1⅖."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n-9 -8 -1 0 7 ... ...",
+        "pilihan": [
+            "8 dan 12",
+            "8 dan 14",
+            "8 dan 15",
+            "9 dan 16",
+            "9 dan 18"
+        ],
+        "jawaban_benar": "8 dan 15",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_24_pemb_img1.png]"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n0      -(3/4)      -(8/9)     -(15/16)     -(24/25)     ...",
+        "pilihan": [
+            "-(1/36)",
+            "-(5//36)",
+            "-(31/49)",
+            "-(31/36)",
+            "-(35/36)"
+        ],
+        "jawaban_benar": "-(35/36)",
+        "pembahasan": "Pola yang digunakan adalah:\nUn = (1/n\n2\n) - 1\nSuku keenamnya:\nU6 = (1/6\n2\n) - 1\n= 1/36 - 1\n= -(35/36)"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nV   U   R   Q   N   ...   J",
+        "pilihan": [
+            "M"
+        ],
+        "jawaban_benar": "M",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_27_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_27_img2.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Seluruh gambar berotasi 180 derajat dan elemen yang sampai di posisi kanan berotasi lebih jauh 90 derajat searah jarum jam."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_28_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_28_img2.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Bagian melengkung di kedua elemen dihilangkan dan bagian yang tersisa dibuat menyilang."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_29_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_29_img2.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Gambar dibalik secara lateral."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nTentukan satu gambar yang berbeda dari keempat gambar yang lain!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_30_img1.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Hanya gambar D yang terdiri dari dua lingkaran, sementara semua gambar yang lain hanya memiliki satu lingkaran."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nTentukan satu gambar yang berbeda dari keempat gambar yang lain!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_31_img1.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Pada semua gambar lain, jumlah kotak entah satu buah lebih sedikit atau satu buah lebih banyak dibanding jumlah simbol di sepanjang perbatasan."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nTentukan satu gambar yang berbeda dari keempat gambar yang lain!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_32_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Hanya pada gambar A, tiap elemennya diputar sejauh 180 derajat."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_33_img1.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Pada setiap tahap, semua simbol bergerak setengah sisi kotak searah jarum jam. Simbol-simbol ini digantikan dengan simbol-simbol yang baru secara beruntun dengan arah berlawanan jarum jam."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_34_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_34_img2.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_34_pemb_img1.png]"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_382\\gambar\\soal_35_img1.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Pada satu tahap, gambar dibalik secara lateral. Pada tahap berikutnya, semua panah melengkung yang ada turun satu langkah dan panah melengkung yang baru muncul di posisi paling atas."
+    }
+]

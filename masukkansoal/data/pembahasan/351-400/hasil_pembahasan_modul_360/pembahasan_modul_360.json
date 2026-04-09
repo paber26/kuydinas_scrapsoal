@@ -1,0 +1,442 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nGUNDU : KELERENG = ... : ...",
+        "pilihan": [
+            "Komputer : Teknologi",
+            "Iterasi : Ulangan",
+            "Angin : Udara",
+            "Laut : Ombak",
+            "Pertimbangan : Awalan"
+        ],
+        "jawaban_benar": "Iterasi : Ulangan",
+        "pembahasan": "GUNDU sama dengan KELERENG. ITERASI sama dengan ULANGAN."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nMATA RANTAI : HUBUNGAN = ... : ...",
+        "pilihan": [
+            "Sombong : Besar Kepala",
+            "Besar Mulut : Oleh-oleh",
+            "Main Mata : Melirik",
+            "Kaki Tangan : Pemimpin",
+            "Tinggi Hati : Ramah"
+        ],
+        "jawaban_benar": "Main Mata : Melirik",
+        "pembahasan": "Kiasan MATA RANTAI artinya sebuah HUBUNGAN. MAIN MATA berarti MELIRIK."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nTeks untuk menjawab soal nomor 33 - 35!\nMuji adalah anak dari pasangan Fatimah dan Daroji. Muji memiliki adik yang bernama Pri. Pada umur 25 tahun Muji menikah dengan Sakdiyah yang usianya 2 tahun lebih muda darinya. Dari pernikahannya ia memiliki dua anak yaitu Titi (anak pertamanya) dan Upeh (anak keduanya). Daroji memiliki Ayah yang bernama Arif serta memiliki adik yang bernama Kumedi dimana selisih usia dengannya hanya 3 tahun.\nSiapakah yang paling muda?",
+        "pilihan": [
+            "Upeh",
+            "Sakdiah",
+            "Pri",
+            "Titi",
+            "Kumedi"
+        ],
+        "jawaban_benar": "Upeh",
+        "pembahasan": "Urutan silsilah keluarga dari yang tertua ke yang termuda adalah:\nArif - Daroji - Fatimah - Kumedi - Muji - Pri - Sakdiah - Titi - Upeh.\nBerdasarkan urutan tersebut, maka yang termuda adalah Upeh."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nTeks untuk menjawab soal nomor 33 - 35!\nMuji adalah anak dari pasangan Fatimah dan Daroji. Muji memiliki adik yang bernama Pri. Pada umur 25 tahun Muji menikah dengan Sakdiyah yang usianya 2 tahun lebih muda darinya. Dari pernikahannya ia memiliki dua anak yaitu Titi (anak pertamanya( dan Upeh (anak keduanya). Daroji memiliki Ayah yang bernama Arif serta memiliki adik yang bernama Kumedi dimana selisih usia dengannya hanya 3 tahun.\nSiapakah yang paling tua?",
+        "pilihan": [
+            "Muji",
+            "Fatimah",
+            "Daroji",
+            "Arif",
+            "Kumedi"
+        ],
+        "jawaban_benar": "Arif",
+        "pembahasan": "Urutan silsilah keluarga dari yang tertua ke yang termuda adalah:\nArif - Daroji - Fatimah - Kumedi - Muji - Pri - Sakdiah - Titi - Upeh.\nBerdasarkan urutan tersebut, maka yang tertua adalah Arif."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nTeks untuk menjawab soal nomor 33 - 35!\nMuji adalah anak dari pasangan Fatimah dan Daroji. Muji memiliki adik yang bernama Pri. Pada umur 25 tahun Muji menikah dengan Sakdiyah yang usianya 2 tahun lebih muda darinya. Dari pernikahannya ia memiliki dua anak yaitu Titi (anak pertamanya( dan Upeh (anak keduanya). Daroji memiliki Ayah yang bernama Arif serta memiliki adik yang bernama Kumedi dimana selisih usia dengannya hanya 3 tahun.\nSiapakah kakeknya Muji?",
+        "pilihan": [
+            "Pri",
+            "Upeh",
+            "Daroji",
+            "Kumedi",
+            "Arif"
+        ],
+        "jawaban_benar": "Arif",
+        "pembahasan": "Pada teks dituliskan bahwa Muji merupakan anak dari pasangan Fatimah dan Daroji sedangkan Daroji memiliki Ayah bernama Arif. Maka, Arif adalah kakek dari Muji."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nJika ada masyarakat yang tidak menggunakan masker selama PSBB, maka ia akan mendapatkan sanksi.\nRiani menggunakan masker selama PSBB.\nKesimpulannya adalah ...",
+        "pilihan": [
+            "Riani akan mendapatkan sanksi",
+            "Riani tidak akan mendapatkan sanksi",
+            "Riani tidak akan mendapatkan sanksi karena ia menggunakan masker selama PSBB",
+            "Riani tidak akan mendapatkan sanksi sehingga ia menggunakan masker selama PSBB",
+            "Riani tidak akan mendapatkan sanksi walaupun ia menggunakan masker selama PSBB"
+        ],
+        "jawaban_benar": "Riani tidak akan mendapatkan sanksi",
+        "pembahasan": "P1= Jika ada masyarakat yang tidak menggunakan masker selama PSBB, maka ia akan mendapatkan sanksi.\nP2= Riani menggunakan masker selama PSBB.\nP ⇒ Q\n~P\n\\~\nQ\nJika ada masyarakat yang tidak menggunakan masker selama PSBB ia akan mendapatkan sanksi.\nRiani menggunakan masker selama PSBB.\nKesimpulan: Riani tidak mendapatkan sanksi."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nSemua mobil dapat bergerak.\nSemua mobil memiliki setir.\nKesimpulannya adalah ...",
+        "pilihan": [
+            "Ada mobil dapat bergerak dan memiliki setir",
+            "Semua mobil dapat bergerak dan tidak memiliki setir",
+            "Semua mobil tidak dapat bergerak dan memiliki setir",
+            "Semua mobil dapat bergerak dan memiliki setir",
+            "Semua mobil dapat bergerak karena memiliki setir"
+        ],
+        "jawaban_benar": "Semua mobil dapat bergerak dan memiliki setir",
+        "pembahasan": "P= Semua mobil.\nQ= Dapat bergerak.\nR= Memiliki setir.\nP ⇒ Q\nP ⇒ R\n\\\nP ⇒ Q ^ R\nSemua mobil dapat bergerak.\nSemua mobil memiliki setir.\nSemua mobil dapat bergerak dan memiliki setir."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\n16, 480, 36, 240, 56, 120, ..., ..., ..., ...",
+        "pilihan": [
+            "74, 50, 102, 20",
+            "68, 64, 90, 32",
+            "72, 46, 86, 34",
+            "76, 60, 96, 30",
+            "80, 46, 102, 28"
+        ],
+        "jawaban_benar": "76, 60, 96, 30",
+        "pembahasan": "Deret di atas mempunyai dua pola, yaitu pola pertama merupakan deret bilangan dengan beda +20. Sedangkan pola kedua merupakan deret bilangan dengan rasio :2. Sehingga lanjutan dari deret tersebut adalah: 76, 60, 96, dan 30."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\n45, 54, 51, 62, 57, 70, ..., ..., ..., 86",
+        "pilihan": [
+            "60, 75, 85",
+            "61, 76, 76",
+            "62, 77, 73",
+            "63, 78, 69",
+            "65, 73, 67"
+        ],
+        "jawaban_benar": "63, 78, 69",
+        "pembahasan": "Deret di atas mempunyai dua pola, yaitu pola pertama merupakan deret bilangan dengan beda +6. Sedangkan pola kedua merupakan deret bilangan dengan beda +8. Sehingga lanjutan dari deret tersebut adalah: 63, 78, 69."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nR, S, T, S, T, U, T, ..., V, U, ..., W",
+        "pilihan": [
+            "S, T",
+            "R, T",
+            "T, V",
+            "U, V",
+            "V, W"
+        ],
+        "jawaban_benar": "U, V",
+        "pembahasan": "Huruf-huruf tersebut dibagi menjadi empat kelompok dengan pembagian seperti ilustrasi RST, STU, TUV, dan UVW\nJadi, jawaban yang tepat adalah U dan V."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nSeorang pedagang buah membeli 50 kg mangga dengan harga Rp400.000,00. Kemudian pedagang tersebut menjual kembali mangga tersebut dengan harga Rp9.000,00 tiap kilogramnya. Karena terlalu lama ditampung, ada 1 kg mangga tersebut membusuk dan tidak dapat dijual kembali. Maka dari penjualan mangga tersebut diperoleh bahwa pedagang buah tersebut mengalami ...",
+        "pilihan": [
+            "Untung sebesar Rp50.000,00",
+            "Untung sebesar Rp45.000,00",
+            "Untung sebesar Rp41.000,00",
+            "Rugi sebesar Rp45.000,00",
+            "Rugi sebesar Rp41.000,00"
+        ],
+        "jawaban_benar": "Untung sebesar Rp41.000,00",
+        "pembahasan": "Diketahui:\nHarga beli 50 kg mangga: HB = Rp400.000,00\n1 kg mangga busuk dan tidak bisa dijual\n49 kg mangga dijual dengan harga Rp 9.000,00/kg\nDitanya:\nBesar keuntungan atau kerugian pedagang = ...?\nJawab:\nPertama menghitung besar harga jual total mangga tersebut sebagai berikut:\nHJ = 9000 x 49 = 441.000\nDari perhitungan diperoleh besar harga penjualan adalah Rp441.000,00, sehingga harga jual lebih besar dari harga beli. Sehingga dapat disimpulkan pedagang mendapatkan untung yang besarnya dapat ditentukan sebagai berikut:\nU = HJ – HB\nU = 441.000 – 400.000\nU = 41.000\nJadi, dapat disimpulkan bahwa pedagang untung sebesar Rp41.000,00."
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nHasil pendataan 30 orang di suatu klinik terdapat 6 orang pernah melakukan vaksinasi covid-19 dan influenza, 3 orang belum pernah melakukan vaksinasi kedua penyakit tersebut. Banyaknya orang yang melakukan vaksinasi covid-19 2 kali lipat dari vaksinasi influenza. Banyak orang yang melakukan vaksinasi covid-19 adalah ...",
+        "pilihan": [
+            "25 orang",
+            "22 orang",
+            "16 orang",
+            "15 orang",
+            "11 orang"
+        ],
+        "jawaban_benar": "22 orang",
+        "pembahasan": "Diketahui :\nKeterangan gambar\n6 = jumlah orang yang melakukan vaksinasi covid-19 dan vaksinasi influenza\n2x-6 = Jumlah orang yang melakukan vaksinasi covid-19\nx-6 = Jumlah orang yang melakukan vaksinasi influenza\n3 = Jumlah orang yang belum melakukan vaksinansi kedua penyakit\nS = 30 : Jumlah keseluruhan orang di klinik\nDitanya :\nBanyak orang yang melakukan vaksinasi covid-19 atau 2x\nJawab:\nDari diagram di atas dapat dibuat Persamaan :\nJumlah orang = orang divaksinasi covid + orang divaksinasi keduanya + orang di vaksinasi influenza + orang tidak divaksinanasi keduanya\nmaka :\n30 = 2x – 6 + 6 + x – 6 + 3\n30 = 3x – 3\n33 = 3x\nx = 33/3 = 11\nMaka nilai 2x = 2 · 11 = 22\nJadi, dari perhitungan diperoleh jumlah yang melakukan vaksinasi covid-19 adalah 22 orang."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nIbu Aminah membeli 100 kg ikan dengan harga Rp18.000 per kg dengan biaya transportasi Rp45.000,00. Selanjutnya, ikan-ikan itu Ibu Aminah jual dengan harga Rp19.500,00 per kg. Sementara sisa ikan yang tidak laku dijual sebanyak 2 kg. Dalam keadaan ini, hasil yang diperoleh ibu Aminah adalah ...",
+        "pilihan": [
+            "Untung Rp110.000",
+            "Untung Rp105.000",
+            "Untung Rp66.000",
+            "Rugi Rp105.000",
+            "Rugi Rp60.000"
+        ],
+        "jawaban_benar": "Untung Rp66.000",
+        "pembahasan": "Diketahui:\nHarga beli: B = Rp18.000 x 100 = Rp1.800.000,00\nBiaya transportasi: T = Rp45.000,00\nHarga jual per kg: J = Rp19.500,00\nSisa ikan yang tidak laku dijual = 2 kg\nDitanya:\nBesar keuntungan atau kerugian yang diderita Ibu Aminah = ...?\nJawab:\nPertama, menghitung modal usaha sebagai berikut:\nModal = B + T\nModal = 1.800.000 + 45.000\nModal = 1.845.000\nSelanjutnya menentukan harga jual total sebagai berikut:\nHJ = J x (100 – 2)\nHJ = 19.500 x 98\nHJ = 1.911.000\nKarena HJ > M, maka Ibu Aminah mendapatkan keuntungan, yang besarnya dapat ditentukan sebagai berikut:\nU = HJ – M\nU = 1.911.000 – 1.845.000\nU = 66.000\nJadi, dari perhitungan diperoleh besar keuntungan yang diperoleh Ibu Aminah adalah sebesar Rp66.000,00."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nSeorang pedagang gandum membeli 200kg gandum dengan harga Rp4.200,00 tiap kg. Apabila semua gandum terjual semua, pedagang tersebut mengalami kerugian 10%. Maka total harga penjualan gandum tersebut adalah ...",
+        "pilihan": [
+            "Rp 800.000",
+            "Rp784.000",
+            "Rp756.000",
+            "Rp724.000",
+            "Rp712.000"
+        ],
+        "jawaban_benar": "Rp756.000",
+        "pembahasan": "Diketahui:\nHarga beli: HB = Rp4.200,00 tiap kg\nJumlah gandum yang dibeli = 200 kg\nPersentase kerugian: % R = 10%\nDitanya:\nHarga jual: HJ\nJawab:\nUntuk menentukan harga jual gandum secara keseluruhan, maka pertama yang dilakukan adalah menghitung harga beli total gandum terlebih dahulu sebagai berikut:\nHB = Rp.4.200 x 200\nHB = Rp.840.000\nSelanjutnya menentukan harga jual gandum tersebut dengan persamaan berikut:\nHJ = 840.000 – (10% x 840.000)\nHJ = 840.000 – 84.000\nHJ = 756.000\nJadi, dari perhitungan diperoleh harga jual seluruh gandum tersebut adalah Rp756.000,00."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nDi sebuah kotak terdapat 20 buku dengan 10 diantaranya bersampul biru. Joko diminta mengambil 17 buku yang terdiri dari seluruh buku bersampul biru dan buku lainnya. Banyaknya pilihan yang dapat Joko ambil adalah …",
+        "pilihan": [
+            "125",
+            "106",
+            "120"
+        ],
+        "jawaban_benar": "120",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_15_pemb_img1.png]"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nDalam kompetisi matematika, setiap jawaban benar diberi nilai 4, salah -2 dan tidak dijawab -1. Dari 40 soal yang diberikan, Laskar berhasil menjawab benar 30 dan salah 6. Skor yang diperoleh Laskar adalah ...",
+        "pilihan": [
+            "114",
+            "110",
+            "108",
+            "106",
+            "104"
+        ],
+        "jawaban_benar": "104",
+        "pembahasan": "Diketahui:\nNilai jawaban benar = 4\nNilai jawaban salah = -2\nNilai soal yang tidak dijawab = -1\nJumlah soal di jawab = 36\nTidak dijawab = 40 – 36 = 4\nJumlah soal dijawab benar = 30\nJumlah soal dijawab salah = 6\nDitanya:\nSkor yang diperoleh Laskar\nJawab:\nSkor yang diperoleh Laskar dapat ditentukan sebagai berikut:\nJawaban benar = 30 x 4 = 120\nJawaban salah = 6 x (-2) = -12\nTidak dijawab = 4 x (-1) = - 4\nTotal nilai yang diperoleh:\n120 – 12 – 4 = 104\nJadi, dari perhitungan diperoleh skor yang diperoleh Laskar adalah 104."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nSeorang pedagang membeli 3 lu­sin buku dengan harga Rp64.800,00. Dua lusin buku terjual dengan harga Rp2.500,00 per buah dan 1 lusin buku dengan harga Rp1.750,00 per buah. Besar keuntungan yang diperoleh pedagang itu adalah ...",
+        "pilihan": [
+            "Rp16.200",
+            "Rp15.800",
+            "Rp15.600",
+            "Rp15.400",
+            "Rp15.000"
+        ],
+        "jawaban_benar": "Rp16.200",
+        "pembahasan": "Diketahui:\nHarga beli buku = Rp64.800.00\nHarga jual buku = Rp2.500,00/pcs untuk 2 lusin buku dan Rp1.750,00/pcs untuk 1 lusin lainnya.\nDitanya:\nBesar keuntungan: U = ...?\nJawab:\nUntuk menentukan besar keuntungan, maka langkah pertama menghitung besar harga jual total sebagai berikut:\nHJ = (2 x 12 x 2500) + (1 x 12 + 1750)\nHJ = 60000 + 21000\nHJ = 81000\nSelanjutnya menghitung besar keuntungan sebagai berikut:\nU = HJ – HB\nU = 81.000 – 64.800\nU = 16.200\nJadi, dari perhitungan diperoleh besar keuntungan yang diperoleh pedagang tersebut adalah Rp16.200."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSetiap hari Heri menabung sebesar Rp500,00.\nI. Jumlah tabungan Heri saat ini Rp12.500\nII. Heri menyisihkan 50% dari total uang jajannya\nUntuk mengetahui besar tabungan Heri setelah 13 hari, informasi yang dibutuhkan adalah ...",
+        "pilihan": [
+            "Informasi dari poin I dan II digunakan bersamaan",
+            "Informasi I & II tidak dapat digunakan",
+            "Informasi dari poin II saja",
+            "Informasi dari poin I saja",
+            "Perlu tambahan informasi selain dari poin I & II"
+        ],
+        "jawaban_benar": "Informasi dari poin I saja",
+        "pembahasan": "Untuk mengetahui besar tabungan Heri 13 hari berikutnya\nmaka informasi yang dibutuhkan adalah:\nInformasi jumlah awal yaitu Rp500 yang sudah disebutkan dalam soal\nserta\nInformasi dari poin I saja, yaitu jumlah tabungan saat ini Rp12.000\nInformasi dari poin II tidak diperlukan.\nDengan gambaran perhitungan :\nBesar tabungan tiap hari = Rp500,00\nTabungan saat ini = Rp12.500,00\nUntuk menentukan besar tabungan Heri, 13 berikutnya dapat ditentukan sebagai berikut:\nT = 12.500 + (13 x 500)\nT = 12.500 + 6.500\nT = 19.000\nJadi, dari perhitungan diperoleh besar tabungan Heri 13 hari kemudian adalah Rp19.000."
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nPerbandingan umur Abas : Ibnu : Firnas adalah 1 : 3 : 4. Jika jumlah umur ketiganya adalah 40 tahun, maka umur Ibnu adalah ... tahun",
+        "pilihan": [
+            "15"
+        ],
+        "jawaban_benar": "15",
+        "pembahasan": "Diketahui\nPerbandingan umur Abas : Ibnu : Firnas = 1 : 3 : 4\nJumlah umur mereka : 40 Tahun\nPerbandingan umur Ibnu : 3\nDitanya\nUmur Ibnu\nJawab\nAnggap saja perbandingan sebenarnya umur mereka adalah:\n1x + 3x + 4x = 40\n8x = 40\nx = 5\nmaka umur Ibnu :\n3x = 3 · 5\n= 15\nJadi umur Ibnu adalah 15 tahun."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nPada peta, jarak rumah nenek ke rumah Uta adalah 6 cm. Jika skala yang digunakan adalah 1:500.000 maka jarak rumah nenek dan rumah Uta sebenarnya adalah ...",
+        "pilihan": [
+            "3 km",
+            "30 km",
+            "300 km",
+            "3.000 km",
+            "30.000 km"
+        ],
+        "jawaban_benar": "30 km",
+        "pembahasan": "Jarak pada peta (Jp) = 6cm\nSkala (S) = 1:500.000\nJs = Jp/S\nJs = 6cm/(1/500.000)\n= 6 cm x 500.000/1\n= 3.000.000 cm\n= 30 km."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika -2x\n2\n= -8, maka nilai x yang mungkin adalah ...",
+        "pilihan": [
+            "-2"
+        ],
+        "jawaban_benar": "-2",
+        "pembahasan": "-2x\n2\n= -8\nx\n2\n= -8/-2\nx\n2\n= 4\nx = √4\nx = +-2\nJadi nilai x yang mungkin adalah -2."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nJika x < 2 maka nilai dari x - 2 adalah ...",
+        "pilihan": [
+            "> 0",
+            "< 0",
+            "> 2",
+            "< 2",
+            "< -2"
+        ],
+        "jawaban_benar": "< 0",
+        "pembahasan": "x < 2\nx - 2 < 2 - 2\nx - 2 < 0"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nRata-rata hasil ulangan matematika 14 siswa adalah 60. Jika nilai seorang siswa disertakan, nilai rata-ratanya menjadi 62. Nilai siswa yang baru disertakan adalah ...",
+        "pilihan": [
+            "90"
+        ],
+        "jawaban_benar": "90",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_23_pemb_img1.png]"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nNilai hasil tes penerimaan calon pegawai di suatu perusahaan dinyatakan dalam bentuk tabel berikut!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_24_img1.png]\nCalon\n yang lulus dapat diterima menjadi pegawai adalah mereka yang mendapat \nnilai lebih besar sama dengan 6,5. Persentase calon pegawai yang \nditerima adalah ...",
+        "pilihan": [
+            "65%",
+            "50%",
+            "40%",
+            "35%",
+            "25%"
+        ],
+        "jawaban_benar": "50%",
+        "pembahasan": "Karena calon yang lulus dapat diterima menjadi pegawai adalah mereka yang mendapat nilai ≥ 6,5 maka jumlah calon pegawai yang lulus dapat ditentukan sebagai berikut:\nn = 11 + 8 + 3 + 1 + 2 = 25\nJumlah total calon pegawai berjumlah:\ns = 9 + 6 + 10 + 11 + 8 + 3 + 1 + 2 = 50\nMaka persentase calon pegawai yang diterima dapat ditentukan sebagai berikut:\n%n = n/s x 100% = 25/50 x 100% = 50%."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nHasil dari 5\n⅘\n- 3/4 + 3/8 adalah ...",
+        "pilihan": [
+            "4 27/40",
+            "4 17/40",
+            "5 17/40",
+            "5 27/40",
+            "5 37/40"
+        ],
+        "jawaban_benar": "5 17/40",
+        "pembahasan": "Hasil perhitungan di atas dapat diselesaikan dengan cara mengubah pecahan campuran menjadi pecahan biasa dan kemudian menyamakan penyebutnya sebagai berikut:\n= 5\n⅘\n- 3/4 + 3/8\n= 29/5 - 3/4 + 3/8\n= (232 - 30 + 15) / 40\n= 217/40\n= 5\n17\n/\n40\nJadi, dari perhitungan dapat disimpulkan bahwa hasil dari 5\n⅘\n- 3/4 + 3/8 = 5\n17\n/\n40."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nProyek perbaikan jalan harus selesai se­lama 30 hari dengan pekerja sebanyak 15 orang. Setelah 6 hari pelaksanaan, proyek tersebut dihentikan selama 4 hari karena sesuatu hal. Jika kemampu­an pekerja setiap orang sama dan agar proyek dapat selesai tepat waktu, pe­kerja tambahan yang diperlukan ada­lah ...",
+        "pilihan": [
+            "12 orang",
+            "9 orang",
+            "6 orang",
+            "3 orang",
+            "1 orang"
+        ],
+        "jawaban_benar": "3 orang",
+        "pembahasan": "Diketahui:\nWaktu mula-mula: t1 = 30 hari\nJumlah pekerja awal: n1 = 15 orang\nWaktu akhir: t2 = 20 hari\nDitanya:\nJumlah pekerja tambahan: n2 = ...?\nJawab:\nUntuk menghitung jumlah pekerja akhir dapat dihitung dengan perbandingan perbalik nilai berikut:\n30 hari → 15 orang\n30 - 6 hari → 15 orang\n24 - 4 hari → x orang\n20x = 24 x 15\n20 x = 360\nx = 360/20\nx = 18\nBanyak pekerja tambahan yang dibutuhkan:\nn2 = 18 – 15 = 3 orang\nJadi, dari perhitungan diperoleh banyak pekerja tambahan yang diperlukan adalah 3 orang."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_27_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_27_img2.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Hasil pencerminan dan melihat pola Gambar sebelahnya."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_28_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_28_img2.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Merupakan sisi yang berkelanjutan, segitiga, segiempat, segilima, dan selanjutnya segienam.\nElemen berpindah ke sisi lain berlawanan arah jarum jam di tiap tahap.\nWarna elemen berbeda dengan warna elemen sebelumnya."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_29_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_29_img2.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Lihat pola Gambar belah ketupat di tengah dan garis yang menghubungkannya."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar lainnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_30_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Perhatikan arah panah hitam. Semuanya merupakan hasil perputaran suatu bangun, kecuali Gambar A merupakan hasil percerminan."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar lainnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_31_img1.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Perhatikan, arah panah yang ada di masing-masing gambar. Semua gambar menunjukkan tiga panah besar yang salah satu arah panahnya berlawanan dengan dua panah lainnya kecuali gambar D karena salah satu panah besar memiliki dua arah."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar lainnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_32_img1.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Perhatikan semua gambar panah merupakan panah dua arah (atas bawah Atau kanan kiri) kecuali gambar yang berupa panah satu arah."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_33_img1.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Satu lengkungan dan empat lengkungan dibalik secara bergantian."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_34_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Daun dihitamkan secara berurutan searah jarum jam. Jumlah daun yang dihitamkan terus bertambah disetiap tahap. Namun setelah tahap ke-3 dan kelipatannya, jumlah daun yang dihitamkan bertambah dua daun."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_360\\gambar\\soal_35_img1.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Semua elemen bergerak bersama-sama sejauh 1 langkah ke kanan pada setiap tahap, dan begitu mereka sampai di posisi paling kanan, maka di langkah selanjutnya mereka bergerak ke posisi paling kiri. Juga, pada tahap pertama, elemen pertama (paling atas) dan elemen ketiga bertukar posisi; Pada tahap kedua, elemen kedua dan keempat bertukar posisi; dan pada tahap ke-3, tidak ada elemen yang bertukar posisi. Ketiga langkah ini diulangi untuk melanjutkan rangkaian.\nUntuk lebih jelasnya perhatikan\ngaris merah\npada gambar berikut:"
+    }
+]

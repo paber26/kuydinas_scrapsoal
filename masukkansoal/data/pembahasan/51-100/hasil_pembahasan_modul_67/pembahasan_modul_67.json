@@ -1,0 +1,22 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nA",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nApakah A?",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": ""
+    }
+]

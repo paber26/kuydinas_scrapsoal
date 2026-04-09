@@ -1,0 +1,408 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nAMBAL = _______",
+        "pilihan": [
+            "Rial",
+            "Parade",
+            "Barisan",
+            "Pawai",
+            "Riuh"
+        ],
+        "jawaban_benar": "Pawai",
+        "pembahasan": "Ambal = sebuh istilah dalam sastra lama yang artinya berarak-arak; biasanya digunakan untuk mengungkapkan suatu iring-iringan barisan atau berpawai. (D)"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nDEMAGOGI = _______",
+        "pilihan": [
+            "Menghasut",
+            "Menghina",
+            "Membela",
+            "Mempelajari",
+            "Membujuk"
+        ],
+        "jawaban_benar": "Menghasut",
+        "pembahasan": "Demagogi = istilah dalam politk untuk menyatakan atau memperoleh kekuasaan dengan jalan menghasut dan membangkitkan emosi rakyat dalam pidato-pidatonya. (A)"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nLEJAR = _______",
+        "pilihan": [
+            "Lemas",
+            "Lemah",
+            "Penat",
+            "Lesu",
+            "Lalai"
+        ],
+        "jawaban_benar": "Penat",
+        "pembahasan": "Lejar = suatu keadaan dimana seseorang merasa sangat penat (letih) sehabis melakukan sesuatu. (C)"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nTELAGA >< _______",
+        "pilihan": [
+            "Laut",
+            "Danau",
+            "Telaga",
+            "Mata Air",
+            "Arus"
+        ],
+        "jawaban_benar": "Laut",
+        "pembahasan": "Telaga = genangan air yang cukup luas dan dalam di daratan, lawannya adalah genangan air yang cukup luas yang melingkupi daratan (laut/lautan). (A)"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nROBOH >< _______",
+        "pilihan": [
+            "Runtuh",
+            "Miring",
+            "Hancur",
+            "Tegak",
+            "Rusak"
+        ],
+        "jawaban_benar": "Tegak",
+        "pembahasan": "Roboh = runtuh, jatuh, rebah, dsb. Jadi lawan roboh adalah tegak. (D)"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nDAWAI >< _______",
+        "pilihan": [
+            "Tali",
+            "Tambang",
+            "Pita",
+            "Sabut",
+            "Kawat"
+        ],
+        "jawaban_benar": "Tambang",
+        "pembahasan": "Dawai = kawat yang halus. Lawannya adalah tambang. (B)"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nFILM : SKENARIO = ______ : ______",
+        "pilihan": [
+            "Drama : Panggung",
+            "Sandiwara : Plot",
+            "Teater : Acara",
+            "Resital : Tinjauan",
+            "Pameran : Pengunjung"
+        ],
+        "jawaban_benar": "Sandiwara : Plot",
+        "pembahasan": "Skenario bagian dari film, plot bagian dari sandiwara. (B)"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nKEPAK : SAYAP = ______ : ______",
+        "pilihan": [
+            "Hirup : Oksigen",
+            "Sandar : Kepala",
+            "Hentak : Kaki",
+            "Tarik : Tali",
+            "Makan : Roti"
+        ],
+        "jawaban_benar": "Hentak : Kaki",
+        "pembahasan": "Sayap dikepakkan agar bisa terbang, kaki dihentakkan agar bisa jalan. (C)"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nDAUN : DURI = TERATAI : ______",
+        "pilihan": [
+            "Ranting",
+            "Kapur",
+            "Kamboja",
+            "Kaktus",
+            "Air"
+        ],
+        "jawaban_benar": "Kaktus",
+        "pembahasan": "Teratai mempunyai daun, sepola dengan kaktus mempunyai duri. (D)"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nIKAN MAS : IKAN PAUS = INSANG : ______",
+        "pilihan": [
+            "Rusa",
+            "Paru-paru",
+            "Anjing",
+            "Air tawar",
+            "Ikan"
+        ],
+        "jawaban_benar": "Rusa",
+        "pembahasan": "Ikan mas : Ikan paus → jenis-jenis ikan sepola dengan jenis-jenis alat pernapasan → insang : paru-paru. (B)"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nPak Badu membeli 2 keranjang mangga dan dijual kembali dengan harga Rp. 532.000. Jika mendapat untung 40%, berapa rupiahkah harga pembelian sekeranjang mangga tersebut?",
+        "pilihan": [
+            "Rp. 180.000",
+            "Rp. 190.000",
+            "Rp. 212.800",
+            "Rp.380.000",
+            "Rp. 385.000"
+        ],
+        "jawaban_benar": "Rp.380.000",
+        "pembahasan": "Rp. 380.000,-"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nSeorang pedagang telur membeli dua kuintal telur ayam seharga Rp. 1.360.000, dengan banyaknya telur impor yang beredar dipasaran, harga jual telur adalah Rp. 5.600 per kg. Berapakah kerugian pedagang tersebut jika hanya terjual 3/4 nya saja dari seluruh telur yang telah dibelinya?",
+        "pilihan": [
+            "Rp. 180.000",
+            "Rp. 480.000",
+            "Rp. 840.000",
+            "Rp.1.020.000",
+            "Rp. 932.000"
+        ],
+        "jawaban_benar": "Rp. 180.000",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nAngka ketujuh dari sederetan angka adalah 45. Selisih angka pertama adalah 7, demikian pula angka-angka selanjutnya mempunyai selisih 7 dari angka sebelumnya. Berapakah nilai angka yang berada pada urutan keempat?\n\nA. 122\nB. 94\nC. 66\nD. 45\nE. 55",
+        "pilihan": [
+            "122",
+            "66"
+        ],
+        "jawaban_benar": "66",
+        "pembahasan": "66"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nUmur B dua kali umur A, sedangkan umur C 10 tahun lebih muda dari umur B. Jika rata-rata umur A, B dan C adalah sama dengan umur C, berapakah jumlah umur A dan C?",
+        "pilihan": [
+            "50",
+            "Salah semua"
+        ],
+        "jawaban_benar": "50",
+        "pembahasan": "50"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nJika (x2 - 4 = 0) dan (y = 2), manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "Hubungan x dan y tak dapat ditentukan",
+            "x ≠ y"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "Hubungan x dan y tak dapat ditentukan (D)"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nJika p > 0, q < 0, {x = p2 + q2}, dan {y = (p+q)2}, manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "Hubungan x dan y tak dapat ditentukan",
+            "x ≠ y"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "x > y (A)"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nSuatu desa terdiri atas 238 keluarga dengan rata-rata jumlah anggota setiap keluarga adalah 4 orang dan jumlah orang dewasa seluruhnya 580 orang. Suatu saat desa itu terserang wabah virus adalah 0,5 bagi anak-anak. Berapakah orang anak yang diperkirakan akan tertular virus itu?",
+        "pilihan": [
+            "186",
+            "261",
+            "290",
+            "372",
+            "380"
+        ],
+        "jawaban_benar": "186",
+        "pembahasan": "Jumlah warga = 238 keluarga 4 orang\nJumlah jiwa = 952 jiwa.\nJumlah anak-anak = 952 - 580 = 372 jiwa.\nPerkiraan jumlah anak-anak terkena wabah = 372 0,5 = 186 jiwa.  (A)"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSeorang mahasiswa mendapat nilai 78, 86, 80, dan 91 untuk empat mata kuliah. Berapakah nilai yang harus diperoleh untuk mata kuliah yang kelima agar diperoleh rata-rata 83?",
+        "pilihan": [
+            "80"
+        ],
+        "jawaban_benar": "80",
+        "pembahasan": "80 (A)"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nTono meninggalkan kota A pukul 6.15 dan sampai di kota B pukul 9.45. Jika ia mengendarai mobilnya dengan kecepatan rata-rata 60 km/jam dan beristirahat satu jam untuk makan, berapa km jarak kota A ke kota B?",
+        "pilihan": [
+            "210 km",
+            "175 km",
+            "150 km",
+            "135 km",
+            "160 km"
+        ],
+        "jawaban_benar": "150 km",
+        "pembahasan": "Lama perjalanan = 9.45 - 6.15 = 3 jam 30 menit\nIstirahat 1 jam, jadi lama berkendara = 3 jam 30 menit - 1 jam 30 menit.\nJarak A - B = 21/2 x 60 = 150 km (C)"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nPada permulaan pekerjaan tertentu, counter pada sebuah mesin fotocopy menunjukkan angka 1254. Pada akhir pekerjaan tersebut counter menunjukkan angka 2334. Jika waktu untuk menyelesaikan pekerjaan tersebut adalah 30 menit, berapakah kecepatan rata-rata per detik mesin fotocopy itu beroperasi?",
+        "pilihan": [
+            "0,6 per detik",
+            "1,1 per detik",
+            "6 per detik",
+            "36 per detik",
+            "25 per detik"
+        ],
+        "jawaban_benar": "6 per detik",
+        "pembahasan": "x2 + y2 = (x + y)2 - 2xy\n7 = (x + y)2 - 2xy\n7 = (x + y)2 - 2(5)\n17 = (x + y)2 (C)"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSemua tempat duduk sebuah bis telah penuh dan ada 5 orang yang berdiri. Pada halte berikutnya, ada 12 orang turun dan 4 orang yang naik. Berapakah jumlah tempat duduk yang kosong jika semua penumpang telah duduk?",
+        "pilihan": [
+            "3",
+            "Tidak ada"
+        ],
+        "jawaban_benar": "3",
+        "pembahasan": "12 turun → kosong 7\n4 naik → kosong 3 (B)"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nMurid sebuah TK adalah sejumlah A anak. Dari jumlah tersebut , sejumlah B anak suka melukis, sejumlah C anak suka menari, dan sejumlah D anak suka melukis dan menari. Berapa porsi jumlah anak yang tidak menyukai melukis atau menari?",
+        "pilihan": [
+            "(A-B-C) / A",
+            "(D+C+B) / A",
+            "(A-D-C-B) / A",
+            "(A+D-C-B) / A",
+            "(A+C+B-D) / A"
+        ],
+        "jawaban_benar": "(A+D-C-B) / A",
+        "pembahasan": "A = jumlah anak\nB = jumlah suka melukis \nC = jumlah anak menari\nD = jumlah anak suka melukis dan menari\nMisalkan jumlah anak yang tidak suka melukis dan menari sebagai X, maka:\nA = (B - D) + (C - D) + D + X\nA = B – D + C + X \nA – B + D – C = X \nA + D - B - C = X\nJadi, porsi jumlah anak yang tidak suka melukis dan menari =  (D)"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\n3  8  13  18  23  …  …",
+        "pilihan": [
+            "28 dan 33",
+            "33 dan 38",
+            "38 dan 43",
+            "28 dan 38"
+        ],
+        "jawaban_benar": "28 dan 33",
+        "pembahasan": "Angka yang dicetak tebal ditambah 10 dan yang tidak dicetak tebal ditambah 10, maka: 18 + 10 = 28 dan 23 + 10 = 33  (A)"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n50  40  100  90  …  140  200  190",
+        "pilihan": [
+            "120",
+            "130",
+            "140",
+            "150",
+            "160"
+        ],
+        "jawaban_benar": "150",
+        "pembahasan": "50  40  100 90  …  140  200  190\nAngka yang dicetak tebal ditambah 50 dan yang tidak dicetak tebal ditambah 50, maka: 100 + 50 = 150  (D)"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n2  4  …  …  12  17",
+        "pilihan": [
+            "4 dan 11",
+            "6 dan 8",
+            "5 dan 6",
+            "4 dan 7",
+            "5 dan 8"
+        ],
+        "jawaban_benar": "5 dan 8",
+        "pembahasan": "5 dan 8 (E)"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nUntuk soal nomor 26-28, gunakan informasi berikut!  Iwan lebih tinggi daripada Amir. Amir lebih tinggi daripada Yudi dan Bandi. Joko lebih tinggi daripada Amir dan Ridwan. Tidak ada yang tingginya sama.\n\nJika Iwan lebih tinggi daripada Joko, maka yang tertinggi adalah …",
+        "pilihan": [
+            "Amir",
+            "Bandi",
+            "Ridwan",
+            "Joko",
+            "Yudi"
+        ],
+        "jawaban_benar": "Joko",
+        "pembahasan": "Iwan tidak lebih tinggi daripada Joko, maaka Joko lebih tinggi daripada Iwan. Iwan lebih tinggi daripada Amir dan Amir lebih tinggi darpada Yudi dan Budi. Jadi, yang paling tinggi adalah Joko.(D)"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nPernyataan yang benar adalah …\n\n\n\nD\nE.",
+        "pilihan": [
+            "Bandi lebih tinggi daripada Ridwan",
+            "Ridwan lebih tinggi darpada Yudi",
+            "Joko lebih tinggi daripada Bandi",
+            "Ridwan lebih tinggi daripada Amir",
+            "Joko lebih tinggi daripada Ridwan"
+        ],
+        "jawaban_benar": "Joko lebih tinggi daripada Bandi",
+        "pembahasan": "Keterangan sama dengan nomor atasnya. (C )"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nJika Bandi lebih tinggi daripada Ridwan, maka …",
+        "pilihan": [
+            "Amir lebih tinggi daripada Ridwan",
+            "Bandi lebih tinggi daripada Joko",
+            "Yudi lebih tinggi daripada Ridwan",
+            "Joko lebih tinggi daripada Iwan",
+            "Iwan lebih tinggi daripada Bandi"
+        ],
+        "jawaban_benar": "Amir lebih tinggi daripada Ridwan",
+        "pembahasan": "Iwan > Joko > Amir > Yudi > Ridwan.(A)"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nDiam-diam ubi berisi, diam-diam penggali berkarat.",
+        "pilihan": [
+            "Diamnya orang pandai itu emas, diamnya orang bodoh itu lumpur",
+            "Diamnya orang pandai itu berpikir, diamnya orang yang bodoh sia-sia",
+            "Melakukan perbuatan baik tanpa harus diketahui oleh orang lain",
+            "Memamerkan perbuatan baik yang jarang dilakukan",
+            "Orang yang selalu menjadi panutan bagi orang lain"
+        ],
+        "jawaban_benar": "Diamnya orang pandai itu berpikir, diamnya orang yang bodoh sia-sia",
+        "pembahasan": "Diamnya ubi dalam peribahasa di atas diumpamakan dengan diamnya orang berilmu, sedangkan diamnya penggali diumpamakan dengan diamnya orang bodoh. Orang berilmu itu kalau ia diam, ia berpikir, tetapi kalau orang bodoh yang diam, diamnya itu sia-sia, tak ada gunanya.(B)"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nKetika ada jangan dimakan, telah habis maka dimakan.",
+        "pilihan": [
+            "Harta benda kita harus dibagikan ke orang lain yang lebih membutuhkan",
+            "Harta benda tidak dibawa mati",
+            "Jangan serakah akan kekayaan yang dimiliki",
+            "Hemat dan menabung adalah cara untuk kaya",
+            "Hiduplah hemat dan suka menabung. Selama tidak terdesak, janganlah tabungan itu diusik-usik."
+        ],
+        "jawaban_benar": "Hiduplah hemat dan suka menabung. Selama tidak terdesak, janganlah tabungan itu diusik-usik.",
+        "pembahasan": "Peribahasa di atas menganjurkan kita selalu hidup hemat, tidak boros. Artinya kita sebaik- baiknya dapat menyimpan. Kalau ada kelebihan uang walaupun sedikit, hendaklah ditabung. Kalau kita ditimpa kesusahan, kita dapat menggunakan simpanan atau tabungan itu. Kalau kita tiba-tiba sakit misalnya, sedangkan kita tidak ada lagi uang pada kita yang dapat dipakai membayar dokter dan obat, dapatlah kita ambil uang tabungan kita tadi. Tetapi, kalau tidak perlu benar, simpanan itu janganlah sekali-kali diusik.\t(E)"
+    }
+]

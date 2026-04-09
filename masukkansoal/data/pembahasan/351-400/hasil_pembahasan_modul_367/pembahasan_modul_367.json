@@ -1,0 +1,449 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nSENDOK : MAKAN = SILET : ...",
+        "pilihan": [
+            "POTONG",
+            "TAJAM",
+            "BAHAYA",
+            "HITAM",
+            "KIKIS"
+        ],
+        "jawaban_benar": "POTONG",
+        "pembahasan": "SENDOK digunakan sebagai alat MAKAN, sebagaimana SILET digunakan sebagai alat POTONG"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\n... : CINTA = MARAH : ...",
+        "pilihan": [
+            "SUKA - DENDAM",
+            "RASA - KARAKTER",
+            "PELUK - AGRESIF",
+            "CEMBURU - BENCI",
+            "PASANGAN - MUSUH"
+        ],
+        "jawaban_benar": "CEMBURU - BENCI",
+        "pembahasan": "CEMBURU tanda CINTA sebagaimana MARAH tanda BENCI"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nINTENSITAS : FREKUENSI = ...",
+        "pilihan": [
+            "HADIAH : PENGABDIAN",
+            "HAK : KEWAJIBAN",
+            "PENGHARGAAN : PENGHORMATAN",
+            "JAUH : JARAK",
+            "MATA : PANDANGAN"
+        ],
+        "jawaban_benar": "PENGHARGAAN : PENGHORMATAN",
+        "pembahasan": "INTENSITAS memiliki sinonim FREKUENSI, sebagaimana PENGHARGAAN memiliki sinonim PENGHORMATAN."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nSemua bunga di Taman Keputren berwarna putih.\nSemua putri suka bunga.\nPutri Lestari membawa bunga biru.",
+        "pilihan": [
+            "Bunga yang dibawa Putri Lestari bukan dari Keputren",
+            "Putri Lestari tidak suka bunga",
+            "Taman keputren ada bunga birunya",
+            "Putri suka bunga biru",
+            "Putri berasal dari Keputren"
+        ],
+        "jawaban_benar": "Bunga yang dibawa Putri Lestari bukan dari Keputren",
+        "pembahasan": "P1: Semua bunga di Taman Keputren berwarna putih.\nP2: Semua putri suka bunga.\nP3: Putri Lestari membawa bunga biru.\nPada P1 disebutkan Semua bunga di Taman Keputren berwarna putih, berarti dapat disimpulkan bahwa bunga yang dibawa Putri Lestari bukan dari Keputren karena berwarna biru."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nSemua pemilik kendaraan harus mempunyai surat izin. Sementara motor termasuk kendaraan",
+        "pilihan": [
+            "Pemilik motor tidak perlu surat izin",
+            "Pemilik motor boleh memiliki surat izin",
+            "Pemilik motor harus mempunyai surat izin",
+            "Pemilik kendaraan pasti punya motor",
+            "Tidak ada kesimpulan"
+        ],
+        "jawaban_benar": "Pemilik motor harus mempunyai surat izin",
+        "pembahasan": "P1: Semua pemilik kendaraan harus mempunyai surat izin.\nP2: Sementara motor termasuk kendaraan.\nKata yang menggabungkan kedua premis adalah \"kendaraan\". sehingga kedua premis dapat digabungkan menjadi \"pemilik motor harus mempunyai surat izin.\""
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nLampu neon lebih terang daripada lampu pijar.\nLampu neon impor lebih mahal dari lampu neon produksi dalam negeri.\nLampu yang lebih terang atau lebih tahan lama harganya lebih mahal.",
+        "pilihan": [
+            "Lampu neon buatan dalam negeri lebih tahan lama daripada lampu impor",
+            "Lampu neon lebih mahal dari lampu pijar",
+            "Lampu pijar impor lebih mahal dari lampu pijar produksi dalam negeri",
+            "Lampu neon produksi dalam negeri lebih tahan lama dari lampu neon impor",
+            "Lampu pijar lebih tahan lama dari lampu neon"
+        ],
+        "jawaban_benar": "Lampu neon lebih mahal dari lampu pijar",
+        "pembahasan": "P1: Lampu neon lebih terang daripada lampu pijar.\nP2: Lampu neon impor lebih mahal dari lampu neon produksi dalam negeri.\nP3: Lampu yang lebih terang atau lebih tahan lama harganya lebih mahal.\nPada premis pertama, diinformasikan bahwa lampu neon lebih terang daripada lampu pijar, dan lampu yang lebih terang disebutkan pada premis ketiga harganya lebih mahal. Dengan demikian dapat disimpulkan bahwa, lampu neon lebih mahal dari lampu pijar."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nUntuk soal nomor 37 sampai 40, perhatikan ilustrasi berikut!\nDalam rangka menyemarakkan hari jadi Kota Langka diadakan lomba lari. Ani, Budi, Cintia, Dadang, Erna, dan Farhan adalah peserta lomba tersebut. Dadang lebih cepat daripada Erna. Farhan tidak lebih cepat daripada Cintia , namun ia lebih cepat jika dibandingkan dengan Budi. Erna memiliki kecepatan yang hampir setara dengan Ani sehingga Ani selalu berada tepat di belakang Erna.\nSetelah lomba selesai semua peserta diberi label nomor 1 hingga 6 yang menandakan bahwa nomor 1 adalah yang tercepat dan sebaliknya. Tidak ada anak yang kecepatan larinya sama.\nCintia tidak dapat berada pada nomor ...",
+        "pilihan": [
+            "Satu",
+            "Tiga",
+            "Dua",
+            "Pertama",
+            "Empat"
+        ],
+        "jawaban_benar": "Tiga",
+        "pembahasan": "Syarat batas kecepatan lari: Dadang > Erna; Cintia > Farhan > Budi; Erna, Ani (hampir setara)\nDadang, Erna, Ani cenderung berada dalam satu urutan, sedangkan Cintia selalu lebih cepat dari Farhan dan Budi.\nJadi, Cintia tidak dapat berada di urutan nomor tiga."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nUntuk soal nomor 37 sampai 40, perhatikan ilustrasi berikut!\nDalam\n rangka menyemarakkan hari jadi Kota Langka diadakan lomba lari. Ani, \nBudi, Cintia, Dadang, Erna, dan Farhan adalah peserta lomba tersebut. \nDadang lebih cepat daripada Erna. Farhan tidak lebih cepat daripada \nCintia , namun ia lebih cepat jika dibandingkan dengan Budi. Erna \nmemiliki kecepatan yang hampir setara dengan Ani sehingga Ani selalu \nberada tepat di belakang Erna.\nSetelah\n lomba selesai semua peserta diberi label nomor 1 hingga 6 yang \nmenandakan bahwa nomor 1 adalah yang tercepat dan sebaliknya. Tidak ada \nanak yang kecepatan larinya sama.\nJika Cintia selalu tepat didepan Erna maka urutan yang benar dimulai dari yang paling cepat adalah ...",
+        "pilihan": [
+            "Cintia - Erna - Ani - Dadang - Farhan - Budi",
+            "Dadang - Cintia - Erna - Farhan - Budi - Ani",
+            "Dadang - Budi - Cintia - Erna - Ani - Farhan",
+            "Dadang - Cintia - Erna - Ani - Farhan - Budi"
+        ],
+        "jawaban_benar": "Dadang - Cintia - Erna - Ani - Farhan - Budi",
+        "pembahasan": "Jika Cintia selalu tepat di depan Erna maka didapatkan kemungkinan urutan berikut:\nDadang - Ci\nJika Cintia selalu tepat di depan Erna maka didapatkan kemungkinan urutan berikut:\nDadang - Cintia - Erna - Ani - Farhan - Budi\nntia - Erna - Ani - Farhan - Budi"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nUntuk soal nomor 37 sampai 40, perhatikan ilustrasi berikut!\nDalam\n rangka menyemarakkan hari jadi Kota Langka diadakan lomba lari. Ani, \nBudi, Cintia, Dadang, Erna, dan Farhan adalah peserta lomba tersebut. \nDadang lebih cepat daripada Erna. Farhan tidak lebih cepat daripada \nCintia , namun ia lebih cepat jika dibandingkan dengan Budi. Erna \nmemiliki kecepatan yang hampir setara dengan Ani sehingga Ani selalu \nberada tepat di belakang Erna.\nSetelah\n lomba selesai semua peserta diberi label nomor 1 hingga 6 yang \nmenandakan bahwa nomor 1 adalah yang tercepat dan sebaliknya. Tidak ada \nanak yang kecepatan larinya sama.\nAnak yang mungkin sebagai yang terlambat adalah ...",
+        "pilihan": [
+            "Cintia",
+            "Dadang",
+            "Erna",
+            "Ani",
+            "Farhan"
+        ],
+        "jawaban_benar": "Ani",
+        "pembahasan": "Syarat batas kecepatan lari: Dadang > Erna; Cintia > Farhan > Budi; Erna, Ani (hampir setara)\nJika tidak ada Budi berarti anak yang mungkin sebagai yang terlambat adalah Ani."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nUntuk soal nomor 37 sampai 40, perhatikan ilustrasi berikut!\nDalam\n rangka menyemarakkan hari jadi Kota Langka diadakan lomba lari. Ani, \nBudi, Cintia, Dadang, Erna, dan Farhan adalah peserta lomba tersebut. \nDadang lebih cepat daripada Erna. Farhan tidak lebih cepat daripada \nCintia , namun ia lebih cepat jika dibandingkan dengan Budi. Erna \nmemiliki kecepatan yang hampir setara dengan Ani sehingga Ani selalu \nberada tepat di belakang Erna.\nSetelah\n lomba selesai semua peserta diberi label nomor 1 hingga 6 yang \nmenandakan bahwa nomor 1 adalah yang tercepat dan sebaliknya. Tidak ada \nanak yang kecepatan larinya sama.\nManakah pernyataan yang salah jika Ani tidak lebih lambat daripada Farhan?",
+        "pilihan": [
+            "Dadang lebih cepat daripada Cintia",
+            "Cintia lebih cepat daripada Erna",
+            "Budi lebih lambat daripada Dadang",
+            "Ani lebih lambat daripada Cintia",
+            "Erna lebih lambat daripada Budi"
+        ],
+        "jawaban_benar": "Erna lebih lambat daripada Budi",
+        "pembahasan": "Jika Ani tidak lebih lambat daripada Farhan maka didapatkan kemungkinan urutan berikut:\ni) Dadang, Erna, Ani, Cintia, Farhan, Budi\nii) Dadang, Cintia, Erna, Ani, Farhan, Budi\niii) Cintia, Dadang, Erna, Ani, Farhan, Budi\nJadi, jika Ani tidak lebih lambat daripada Farhan maka semua pernyataan benar, kecuali “Erna lebih lambat daripada Budi”."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nJika panjang sisi bujur sangkar adalah (3x / 4) + 1 maka keliling persegi tersebut adalah ...",
+        "pilihan": [
+            "x + 1",
+            "3x + 4",
+            "3x + 1",
+            "x + 4",
+            "(9/16)x2 + (3/2)x + 1"
+        ],
+        "jawaban_benar": "3x + 4",
+        "pembahasan": "k = 4 × s = 4 × ((3x / 4)) + 1) = 3x + 4"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nDari pecahan berikut yang nilainya terkecil adalah ...",
+        "pilihan": [
+            "7/8",
+            "8/9",
+            "1/2",
+            "6/7",
+            "10/11"
+        ],
+        "jawaban_benar": "1/2",
+        "pembahasan": "Ubah semua bentuk pecahan ke dalam bentuk desimal.\n7/8 = 0,87\n8/9 = 0,889\n1/2 = 0,500\n6/7= 0,857\n10/11 = 0,909\nJadi, yang memiliki nilai terkecil adalah 1/2."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nNilai terdekat dari 0,250/0,333 dibagi 0,125/0,167 adalah ...",
+        "pilihan": [
+            "1",
+            "0,667",
+            "0,887"
+        ],
+        "jawaban_benar": "1",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_13_pemb_img1.png]"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\n72, 70, 43, 35, 22, 17(½), 9, ...",
+        "pilihan": [
+            "8(¾) dan 3",
+            "7(½) dan 7",
+            "8(¾) dan 4",
+            "7(½) dan 3",
+            "7(½) dan 8(¾)"
+        ],
+        "jawaban_benar": "8(¾) dan 4",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_14_pemb_img1.png]"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\n1, 5, 6, 11, 17, 28, ..., ..., 118",
+        "pilihan": [
+            "45 dan 70",
+            "45 dan 73",
+            "50 dan 75",
+            "55 dan 73",
+            "60 dan 75"
+        ],
+        "jawaban_benar": "45 dan 73",
+        "pembahasan": "*Ditambahkan dengan angka sebelumnya\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_15_pemb_img1.png]"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\n5, 4, 5, 8, 10, 16, 15, 32, 25, ...",
+        "pilihan": [
+            "48, 50",
+            "50, 40",
+            "64, 40",
+            "68, 42",
+            "72, 64"
+        ],
+        "jawaban_benar": "64, 40",
+        "pembahasan": "*tanda + artinya ditambahkan dengan nilai sebelumnya"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\n8, 8, 16, 24, 40, ...",
+        "pilihan": [
+            "64, 104",
+            "72, 108",
+            "76, 104",
+            "80, 100",
+            "82, 108"
+        ],
+        "jawaban_benar": "64, 104",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nJika y = √x - 5 dengan x dan y anggota bilangan asli maka ...",
+        "pilihan": [
+            "x < y",
+            "x > y",
+            "x = y",
+            "hubungan x dan y bilangan positif",
+            "2x = 5y"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "Diketahui: y = √x - 5 dengan x dan y anggota bilangan asli\nAgar y tetap menjadi bilangan asli dari persamaan y = √x -5 maka nilai x > 25\nMaka didapat x > y"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nJika jarak dari X ke Y adalah 3 km dan jarak dari Y ke Z adalah 2 km, maka ...",
+        "pilihan": [
+            "Jarak X ke Z lebih besar daripada jarak X ke Y",
+            "Jarak X ke Z sama dengan dua kali jarak X ke Y",
+            "Jarak X ke Z lebih kecil daripada jarak X ke Y",
+            "Jarak X ke Z sama dengan jarak X ke Y",
+            "Antara jarak X ke Z dan jarak X ke Y tidak dapat ditentukan hubungannya"
+        ],
+        "jawaban_benar": "Antara jarak X ke Z dan jarak X ke Y tidak dapat ditentukan hubungannya",
+        "pembahasan": "Dalam soal tidak disebutkan posisi antara x, y, maupun z, sehingga tidak dapat ditentukan perbandingan jarak masing-masing."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nBobot paket x adalah 3 kali bobot paket y ditambah z. Maka ...",
+        "pilihan": [
+            "z > ⅓x",
+            "z < ⅓x",
+            "z = ⅓x",
+            "z > ⅓y",
+            "hubungan bobot x dan z tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "z < ⅓x",
+        "pembahasan": "Diketahui: Bobot x adalah 3 kali bobot y ditambah z.\nx = 3(y + z)\nx/3 = y + z\nz = x/3 - y\nJadi, z < ⅓x"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika (3x + 2y)/(4x - y) = (5/3), 4x - y ≠ 0, maka ...",
+        "pilihan": [
+            "x < y",
+            "x > y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "2x = y"
+        ],
+        "jawaban_benar": "x = y",
+        "pembahasan": "Diketahui (3x + 2y)/(4x -y) = (5/3), 4x - y ≠ 0\n(3x + 2y)/(4x -y) = (5/3)\n20x - 5y = 9x + 6y\n11x = 11y\nx=y"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSeorang peternak memiliki anak ayam dan anak bebek sebanyak 400 ekor. 30% dari jumlah tersebut adalah anak bebek. Setelah peternak itu menjual anak ayamnya, Persentase anak bebeknya 60%. Berapa ekor anak ayam yang dijual?",
+        "pilihan": [
+            "200 ekor",
+            "180 ekor",
+            "160 ekor",
+            "140 ekor",
+            "120 ekor"
+        ],
+        "jawaban_benar": "160 ekor",
+        "pembahasan": "30% x 400 = 30/100 x 400\n30 x 4 = 120 Anak bebek\nJumlah anak ayam  = 400 - 120 = 280\nJumlah anak bebe setelah anak ayam telah di jual\n60% x 400 = 60/100 x 400\n60 x 4 = 240 anak bebek\nanak ayam yang di jual 400 ekor - 240 ekor\njadi,jumlah anak ayam yang telah di jual adalah 160 ekor"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nBerapakah biaya yang diperlukan untuk mengecat dinding dengan panjang 13 m dan tingginya 4 m jika per m\n2\ndiperlukan biaya Rp 4.500?",
+        "pilihan": [
+            "Rp 207.000",
+            "Rp 216.000",
+            "Rp 223.000",
+            "Rp 234.000",
+            "Rp 243.000"
+        ],
+        "jawaban_benar": "Rp 234.000",
+        "pembahasan": "Diketahui: panjang dinding = 13 m\nTinggi dinding = 4 m\nBiaya cat per m\n2\n= Rp4.500\nSehingga biaya cat seluruh dinding sebagai berikut:\nBiaya cat = luas x harga\n= (13 x 4) x 4.500\n= 52 x 4.500\n= 234.000\nJadi, biaya cat seluruh dindin adalah Rp234.000"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nPita sepanjang 24 m dipotong menjadi 20 bagian yang sama panjang, panjang tiap potong adalah ...",
+        "pilihan": [
+            "560 cm",
+            "60 cm",
+            "120 cm",
+            "80 cm",
+            "100 cm"
+        ],
+        "jawaban_benar": "120 cm",
+        "pembahasan": "Pita sepanjang 24 m dipotong menjadi 20 bagian yang sama panjang sehingga panjang tiap potongan pita adalah:\n= (24 m x 100) /20\n= 2400 cm / 20\n= 120 cm"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nDua buah mobil menempuh jarak 450 km kecepatan mobil kedua setiap jamnya 15 kali lebih cepat daripada kecepatan mobil pertama. Jika waktu perjalanan mobil kedua satu jam lebih pendek dari waktu perjalanan mobil pertama maka rata-rata kecepatan kedua mobil tersebut adalah ...",
+        "pilihan": [
+            "97,5 km/jam",
+            "92,5 km/jam",
+            "87,5 km/jam",
+            "85 km/jam",
+            "82,5 km/jam"
+        ],
+        "jawaban_benar": "82,5 km/jam",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_25_pemb_img1.png]"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan gambar 4 dengan memilih gambar yang sesuai\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_26_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_26_img2.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Kecuali titik-titiknya, bagian gambar yang tersisa berotasi 180° dan berpindah ke sisi perbatasan kotak yang berlawanan."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan gambar 4 dengan memilih gambar yang sesuai\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_27_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_27_img2.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Panah bergerak 4 langkah (Tiap langkah setara dengan 1 Sisi segi enam yang ada di gambar) ke arah jarum jam, sementara ruas garis dan lingkaran bergeser 2 langkah ke arah yang searah jarum jam."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan gambar 4 dengan memilih gambar yang sesuai\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_28_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_28_img2.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Gambar berotasi 90° searah jarum jam dan dibalik secara lateral."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar yang lain!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_29_img1.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Hanya pada gambar D, satu segitiga hitam menempel di masing-masing sisi kotak."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar yang lain!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_30_img1.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Pada masing-masing gambar yang lain, elemen bagian dalam serupa dengan elemen bagian luar."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_31_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_31_img2.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Gambar dibalik secara vertikal."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_32_img1.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_33_img1.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Gambar berotasi 45° dan 90“ berlawanan arah jarum jam secara bergantian. Simbol di salah satu ujung digantikan dengan simbol baru di setiap langkahnya. Simbol di sudut satunya diubah menjadi ‘V’ dan ‘T’ secara bergantian."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_34_img1.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Gambar yang sama berulang pada setiap tahap kedua. Setiap kali gambar tertentu muncul kembali, panah membalik arahnya dan bergerak ke sisi yang berseberangan dari elemen utama, dan elemen utama berotasi 90° berlawanan arah jarum jam."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_367\\gambar\\soal_35_img1.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Pada setiap tahap, panah pertama dan kedua, bertukar posisi , dan panah ketiga dan keempat diballik pada satu tahap, dan panah pertama dan kedua dibalik pada tahap berikutnya. Proses ini terus berlanjut."
+    }
+]

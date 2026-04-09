@@ -1,0 +1,12 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Latihan TWK Oke",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nOke",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "A"
+    }
+]

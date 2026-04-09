@@ -1,0 +1,390 @@
+Soal 1:
+AMTENAR = ...
+A. Abdi negara
+B. Pembawa kabar
+C. Tokoh pilihan
+D. Sesepuh desa
+E. Jaminan hutang
+
+==================================================
+
+Soal 2:
+GOTES = ...
+A. Tangkap
+B. Lempar
+C. Tangkis
+D. Kayuh
+E. Petik
+
+==================================================
+
+Soal 3:
+KOHEREN = ...
+A. Lurus
+B. Bertentangan
+C. Harmonis
+D. Simpangan
+E. Selisih
+
+==================================================
+
+Soal 4:
+MAKSUM >< ...
+A. Membisu
+B. Mendekati
+C. Menyakiti
+D. Menyatu
+E. Menghilang
+
+==================================================
+
+Soal 5:
+Bedah >< ...
+A. Kacau
+B. Jelas
+C. Bongkar
+D. Mapan
+E. Tutup
+
+==================================================
+
+Soal 6:
+SEIMBAS >< ...
+A. Lama
+B. Lemah
+C. Gores
+D. Cicip
+E. Jomplang
+
+==================================================
+
+Soal 7:
+BUTIR : TELUR = ... : ...
+A. Beras : Genggam
+B. Gelas : Kopi
+C. Jaja : Permen
+D. Hembus : Angin
+E. Helai : Rambut
+
+==================================================
+
+Soal 8:
+MUSIK : KERONCONG = ... : ...
+A. Olahraga : Raket
+B. Pakaian : Topi
+C. Tari : Seudati
+D. Ayam : Unggas
+E. Dokar : Kuda
+
+==================================================
+
+Soal 9:
+POHON : HUTAN = ... : ...
+A. Pisang : Tunas
+B. Ayam : Buaya
+C. Kayu : Jati
+D. Sungai : Ikan
+E. Pasir : Pantai
+
+==================================================
+
+Soal 10:
+15, 8, 45, 64, 75, 512, ...
+A. 625
+B. 1024
+C. 121
+D. 96
+E. 105
+
+==================================================
+
+Soal 11:
+10, 24, 38, 52, ...
+A. 70
+B. 56
+C. 64
+D. 60
+E. 66
+
+==================================================
+
+Soal 12:
+2, 3, 4, 7, 6, 11, 8, ...
+A. 16
+B. 15
+C. 13
+D. 12
+E. 14
+
+==================================================
+
+Soal 13:
+1 x 27 + 3 : 6 - 2 x 4 = ...
+A. 21,5
+B. 20,5
+C. 17,5
+D. 19,5
+E. 18,5
+
+==================================================
+
+Soal 14:
+9,94 : 0,07 = ...
+A. 14200
+B. 1420
+C. 0,142
+D. 1,42
+E. 142
+
+==================================================
+
+Soal 15:
+Jika rata-rata nilai a, b, c, 36 adalah 9, maka jumlah nilai a, b, dan c adalah ...
+A. 6
+B. 9
+C. 3
+D. 0
+E. 18
+
+==================================================
+
+Soal 16:
+Data hasil penjualan rata-rata setiap bulan sebuah toko baju sebagai berikut.
+Jika promosi berhasil meningkatkan omset penjualan celana sebanyak 100% dan gaun sebanyak 50%, tetapi menurunkan omset penjualan kemeja sebanyak 10%, berapa besar total keuntungan yang diperoleh toko
+baju tersebut?
+A. 39 juta
+B. 35,9 juta
+C. 39,5 juta
+D. 35,5 juta
+E. 35 juta
+
+==================================================
+
+Soal 17:
+Tarif parkir mobil untuk 2 jam pertama adalah Rp2.000,00 dan tarif selanjutnya dihitung per jam. Jika uang Rp6.500,00 dapat digunakan parkir mobil selama 5 jam maka tarif parkir setelah 2 jam pertama adalah ...
+A. Rp3.500,00
+B. Rp500,00
+C. Rp1.000,00
+D. Rp3.000,00
+E. Rp1.500,00
+
+==================================================
+
+Soal 18:
+Untuk menempuh perjalanan dari kota A ke kota B membutuhkan waktu 4 jam. Jika kota C dan kota B berjarak dari 3/5 dari jarak kota A dan B, berapa total perjalanan yang harus ditempuh dari A ke C dengan kecepatan tetap?
+A. 6 jam 40 menit
+B. 6 jam
+C. 6 jam 24 menit
+D. 7 jam
+E. 5 jam 40 menit
+
+==================================================
+
+Soal 19:
+Jika suatu kolam diisi air melalui kran A, B, atau C saja, kolam tersebut akan penuh dalam waktu berturut-turut 10 jam, 12 jam, atau 15 jam. Jika ketiga kran digunakan bersama-sama selama 3 jam maka kolam tersebut terisi ....
+A. 0,5 bagian
+B. 0,85 bagian
+C. 0,75 bagian
+D. 0,7 bagian
+E. 0,8 bagian
+
+==================================================
+
+Soal 20:
+Hitunglah luas gabungan 2 persegi panjang identik yang berukuran 16 cm x 10 cm seperti pada bangun di bawah ini ... cm²
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_146/soal_20_img1.png)
+A. 240
+B. 260
+C. 280
+D. 220
+E. 300
+
+==================================================
+
+Soal 21:
+Jika langit mendung maka Aisha membawa payung.
+Jika Aisha membawa payung maka ia memakai ransel.
+A. Langit mendung atau Aisha memakai ransel
+B. Aisha tidak memakai ransel meski langit mendung
+C. Aisha memakai ransel jika langit tidak mendung
+D. Jika langit mendung maka Aisha tidak memakai ransel
+E. Aisha tidak memakai ransel bila langit tidak mendung
+
+==================================================
+
+Soal 22:
+Untuk menghilangkan kejenuhan, setiap awal bulan Andina berjalan-jalan ke luar kota atau nonton film di bioskop.
+Awal bulan Juni ini, tidak ada film yang menarik bagi Andina.
+A. Untuk menghilangkan kejenuhan bekerja, pada awal bulan Juni, Andina melakukan rekreasi bersama teman-temannya
+B. Pada awal bulan Juni, Andina berkunjung ke rumah saudara di luar kota
+C. Untuk menghilangkan kejenuhan bekerja, pada awal bulan Juni, Andina jalan-jalan ke luar kota
+D. Pada awal bulan Juni, Andina hanya istirahat di rumah karena tidak jadi ke bioskop
+E. Pada awal bulan Juni, Andina menonton film di bioskop walaupun tidak ada film yang menarik
+
+==================================================
+
+Soal 23:
+Pada hari Minggu lalu, di Kampung Bambu terjadi tindak kejahatan berupa perampokan atau pencurian meskipun keamanan kampung ditingkatkan.
+Ternyata, di Kampung Bambu tidak pernah terjadi perampokan.
+A. Pada hari Minggu yang lalu, di Kampung Bambu baru saja terjadi tindak kejahatan berupa pencurian
+B. Tidak ada warga Kampung Bambu yang mengalami tindak kejahatan pada hari Minggu yang lalu
+C. Di Kampung Bambu tidak terjadi tindak kejahatan pada hari Minggu lalu karena keamanan kampung ditingkatkan
+D. Sejak hari Minggu yang lalu di Kampung Bambu tidak terjadi tindak kejahatan
+E. Tidak ada warga Kampung Bambu yang mengalami pencurian pada hari Minggu yang lalu
+
+==================================================
+
+Soal 24:
+Dini dipromosikan untuk mendapatkan posisi baru di Perusahaan X sebagai Kepala Divisi Pemasaran atau Sekretaris Direksi.
+Ternyata, Cindy terpilih sebagai Sekretaris Direksi di Perusahaan X sehingga posisi tersebut telah terisi.
+A. Dini mendapatkan posisi baru sebagai Kepala Divisi Pemasaran di Perusahaan X
+B. Cindy tidak cocok mendapatkan posisi sebagai Kepala Divisi Pemasaran di Perusahaan X
+C. Dini tidak mendapatkan posisi baru di Perusahaan X
+D. Dini tidak cocok mendapatkan posisi sebagai Sekretaris Direksi di Perusahaan X
+E. Cindy tidak mendapatkan posisi baru di Perusahaan X
+
+==================================================
+
+Soal 25:
+Tujuh orang yaitu Ami, Budi, Ceri, Dian, Evi, Fian, dan Gina melatih tujuh tim tari berbeda yaitu tim P,Q,R,S,T, U,dan V. Tim tersebut berlatih pada hari yang berbeda dari Senin sampai Minggu. Ami melatih S pada Rabu, Ceri tidak melatih P dan R. Jadwal latihannya sehari setelah Dian melatih U. Fian melatih T pada hari Jumat. Gina melatih pada hari Senin tapi bukan R maupun V. Sedangkan Evi melatih P pada Kamis,
+Kombinasi yang benar adalah ...
+A. Gina – V- Senin
+B. Budi – R- Sabtu
+C. Ceri – Q- Sabtu
+D. Ceri – V - Minggu
+E. Dian - U - Minggu
+
+==================================================
+
+Soal 26:
+Tujuh orang yaitu Ami, Budi, Ceri, Dian, Evi, Fian, dan Gina melatih tujuh tim tari berbeda yaitu tim P,Q,R,S,T, U,dan V. Tim tersebut berlatih pada hari yang berbeda dari Senin sampai Minggu. Ami melatih S pada Rabu, Ceri tidak melatih P dan R. Jadwal latihannya sehari setelah Dian melatih U. Fian melatih T pada hari Jumat. Gina melatih pada hari Senin tapi bukan R maupun V. Sedangkan Evi melatih P pada Kamis,
+Pasangan tim mana yang waktu latihannya berjarak lebih dari sehari?
+A. S dan Q
+B. U dan V
+C. P dan T
+D. Q dan R
+E. Q dan V
+
+==================================================
+
+Soal 27:
+Tujuh orang yaitu Ami, Budi, Ceri, Dian, Evi, Fian, dan Gina melatih tujuh tim tari berbeda yaitu tim P,Q,R,S,T, U,dan V. Tim tersebut berlatih pada hari yang berbeda dari Senin sampai Minggu. Ami melatih S pada Rabu, Ceri tidak melatih P dan R. Jadwal latihannya sehari setelah Dian melatih U. Fian melatih T pada hari Jumat. Gina melatih pada hari Senin tapi bukan R maupun V. Sedangkan Evi melatih P pada Kamis,
+Siapa yang melatih pada hari Senin?
+A. Evi
+B. Fian
+C. Gina
+D. Ceri
+E. Budi
+
+==================================================
+
+Soal 28:
+Data nilai ujian Matematika suatu SMA menunjukkan bahwa nilai ujian Eki lebih tinggi daripada Andina. Nilai ujian Bimo sama dengan Idris dan nilai ujian Marina lebih tinggi daripada Adhit. Jika nilai ujian Bimo lebih tinggi dibanding Andina dan nilai ujian Marina sama dengan Andina maka nilai ujian ...
+A. Eki lebih tinggi daripada Idris
+B. Adhit lebih tinggi daripada Idris
+C. Marina lebih tinggi daripada Idris
+D. Idris lebih tinggi daripada Andina
+E. Bimo lebih tinggi daripada Eki
+
+==================================================
+
+Soal 29:
+Carilah gambar selanjutnya dari deret gambar berikut ini.
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_146/soal_29_img1.png)
+A. B
+B. A
+C. C
+D. D
+E. E
+
+==================================================
+
+Soal 30:
+Carilah gambar yang tepat untuk mengisi tanda tanya (?).
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_146/soal_30_img1.png)
+A. A
+B. B
+C. D
+D. E
+E. C
+
+==================================================
+
+Soal 31:
+Atas perhatiannya kami ucapkan terima kasih.
+Ketidaktepatan penutup surat lamaran atas adalah penggunaan kata ....
+A. atas
+B. kami dan nya
+C. kami
+D. atas dan kami
+E. nya
+
+==================================================
+
+Soal 32:
+Pertegas juga alat perahumu
+Muaranya sempit tempatmu lalu
+Banyaklah di sana ikan dan hiu
+Menanti perahumu lalu dari situ
+Muaranya dalam ikan pun banyak
+Di sanalah perahu karam dan rusak
+Karangnya tajam seperti ombak
+Ke atas pasir kamu tersesak
+Inti puisi tersebut adalah ....
+A. Menyiapkan diri untuk menghadapi ilmu dan iman dalam kehidupan
+B. Persiapan hidup yang penuh dengan tantangan dan rintangan
+C. Menyiapkan diri untuk mengarungi lautan
+D. Seorang yang harus menyiapkan diri dengan ilmu dan iman dalam menghadapi kehidupan
+E. Seorang yang tidak berhati-hati dan akhirnya tenggelam di laut
+
+==================================================
+
+Soal 33:
+Pertegas juga alat perahumu
+Muaranya sempit tempatmu lalu
+Banyaklah di sana ikan dan hiu
+Menanti perahumu lalu dari situ
+Muaranya dalam ikan pun banyak
+Di sanalah perahu karam dan rusak
+Karangnya tajam seperti ombak
+Ke atas pasir kamu tersesak
+Citra yang menonjol pada bait pertama puisi tersebut adalah ....
+A. Penglihatan
+B. Perabaan
+C. Pendengaran
+D. Pengucapan
+E. Penciuman
+
+==================================================
+
+Soal 34:
+Ada pedang hanya sebilah
+.........(1)
+Taatilah aturan sekolah
+.........(2)
+Larik yang tepat untuk melengkapi larik yang rumpang tersebut ialah ....
+A. Terbuat dari tembaga (1) Dengan saksama (2)
+B. Dapat hadiah rasa lelah (1) Jangan resah jangan gundah (2)
+C. Terbuat dari baja putih (1) Agar diri tetap bersih (2)
+D. Terletak di samping pinggang (1) Janganlah bimbang dan ragu (2)
+E. Dibawa perang oleh pasukan (1)  Agar tercipta kedisiplinan (2)
+
+==================================================
+
+Soal 35:
+"Wah ..enggak nyangka deh, Yul,"
+komentar Mike sambil tersenyum penuh arti.
+"Tadi pagi dijemput ya, Yul?" tanya Irene sambil duduk di meja Yulia.
+"Sopir angkotnya keren bangeeeet....." kata Irene lagi.
+Yulia terbelangak, "Nggak, dia kan sopir angkot langganan ku."
+"Kamu naksir sopir angkot? Ha...ha..ha. ha...." suara Mike sambil tertawa.
+(Padahal tiap hari Yulia naik angkot ke sekolah.)
+Konflik dalam kutipan cerita di atas terjadi karena ....
+A. Irene merasa dihina
+B. Mike dan Irene cemburu pada Yulia
+C. Mike kecewa karena Yulia diantar angkot
+D. Irene bersilat lidah dengan Yulia
+E. Yulia merasa dihina oleh Mike dan Irene
+
+==================================================
+

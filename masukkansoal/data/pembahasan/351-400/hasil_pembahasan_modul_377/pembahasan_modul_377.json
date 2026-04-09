@@ -1,0 +1,632 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nAnda adalah seorang dokter yang membuka praktik di rumah. Suatu hari datang pasien lama yang penyakitnya kambuh karena tidak menaati saran-saran yang Anda berikan padanya. Sikap Anda adalah ...",
+        "pilihan": [
+            "Menanganinya sesuai prosedur yang berlaku dan lebih menekankan lagi tentang saran saya yang harus dilakukan\n(Nilai 5)",
+            "Menanganinya sesuai prosedur yang berlaku dan menanyakan kenapa tidak menjalankan saran saya sebelumnya\n(Nilai 4)",
+            "Menanganinya sesuai prosedur yang berlaku\n(Nilai 3)",
+            "Menanganinya dengan rasa sebel karena dia tidak memperhatikan saran saya\n(Nilai 2)",
+            "Menyarankannya untuk memeriksakan diri ke dokter lain\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nHampir semua pegawai di kantor instansi Anda meminta uang tanda terima kasih atas pengurusan surat izin tertentu. Namun menurut peraturan kantor, Hal itu tidaklah diperbolehkan. Sikap Anda adalah ...",
+        "pilihan": [
+            "Tidak ingin melakukannya sama sekali\n(Nilai 5)",
+            "Berusaha semampunya untuk tidak melakukannya\n(Nilai 4)",
+            "Melakukannya hanya jika terpaksa membutuhkan uang tambahan untuk keperluan keluarga, sebab gaji kantor memang kecil\n(Nilai 3)",
+            "Terkadang saja melakukan hal tersebut\n(Nilai 2)",
+            "Ikut melakukannya karena bagaimanapun juga kawan-kawan kantor juga melakukannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nSeorang pelanggan memaksa untuk meminta ganti rugi atas kecacatan barang yang ia beli beberapa hari yang lalu. Sikap Anda adalah ...",
+        "pilihan": [
+            "Menjelaskan peraturan toko bahwa barang tidak dapat ditukar atau dikembalikan\n(Nilai 5)",
+            "Menolak dengan tegas\n(Nilai 4)",
+            "Membiarkan saja\n(Nilai 3)",
+            "Menggantinya, meski itu berarti melanggar peraturan toko\n(Nilai 2)",
+            "Marah dan menyuruh ia pergi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nKetika Anda memimpin sebuah tim, Agar semua anggota tim Anda selalu bersemangat dalam bekerja, sikap Anda adalah ...",
+        "pilihan": [
+            "Menasehati masing-masing anggota tim secara empat mata\n(Nilai 5)",
+            "Membiarkan semuanya mengalir seperti air saja\n(Nilai 4)",
+            "Mendatangkan seorang motivator\n(Nilai 3)",
+            "Memberikan surat edaran ketua tim secara tertulis\n(Nilai 2)",
+            "Mengeluarkan orang-orang tidak bersemangat agar tidak merusak yang lain\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nApa yang Anda lakukan bila terjadi kebakaran di kantor Anda?",
+        "pilihan": [
+            "Menjalankan prosedur penyelamatan diri, sehingga mengajak yang lain untuk keluar melalui jalur evakuasi\n(Nilai 5)",
+            "Segera memanggil pemadam kebakaran\n(Nilai 4)",
+            "Meminta semua tenang\n(Nilai 3)",
+            "Melaporkan pada petugas gedung untuk menyelamatkan semua orang\n(Nilai 2)",
+            "Mematikan aliran listrik dan tidak menggunakan lift untuk meninggalkan gedung\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nAda tamu mencari atasan Anda di kantor yang merupakan kawasan bebas asap rokok. Di ruang tunggu, sang tamu merokok dengan asiknya. Saat satpam menegurnya, tamu tersebut marah dan Anda menyaksikan kejadian tersebut. Sikap Anda adalah ...",
+        "pilihan": [
+            "Ikut mengingatkan bahwa dilarang merokok\n(Nilai 5)",
+            "Memberikan permen sebagai ganti\n(Nilai 4)",
+            "Meminta maaf bila satpam terkesan kurang sopan kemudian menawarkan minuman\n(Nilai 3)",
+            "Diam saja, karena bukan urusan saya\n(Nilai 2)",
+            "Mengajaknya mengobrol dan menemani tamu merokok\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nAnda berhasil mengatasi tantangan, karena ...",
+        "pilihan": [
+            "Anda berani mencoba dengan segala resikonya\n(Nilai 5)",
+            "Anda tidak putus asa menghadapi kegagalan\n(Nilai 4)",
+            "Anda mendapat bantuan dari lingkungan\n(Nilai 3)",
+            "Anda berani mencoba hal-hal yang tidak beresiko\n(Nilai 2)",
+            "Nasib baik ada di tangan Anda\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nPrediksi pengamat ekonomi bahwa bulan depan akan terjadi inflasi besar di Indonesia. Sikap Anda adalah ...",
+        "pilihan": [
+            "Berhati-hati dan berhemat dalam membelanjakan uang\n(Nilai 5)",
+            "Yang akan terjadi, biarlah terjadi\n(Nilai 4)",
+            "Prediksi yang menyusahkan seperti itu tak perlu saya percayai\n(Nilai 3)",
+            "Susah tidur\n(Nilai 2)",
+            "Depresi berat, karena inflasi berarti harga barang naik\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nSaat sedang banyak antrian, seorang bapak salah datang ke tempat Anda dan meminta pelayanan. Padahal pelayanan yang diperlukan terletak di bidang lain. Sikap Anda adalah ...",
+        "pilihan": [
+            "Meminta tolong kepada teman yang sedang tidak melakukan pelayanan untuk mengantar bapak tersebut\n(Nilai 5)",
+            "Memberinya petunjuk jalan ke arah ruang pelayanan yang dibutuhkan\n(Nilai 4)",
+            "Meminta teman menggantikan tugas saya, dan mengantarkan bapak tersebut ke tempat yang diperlukan\n(Nilai 3)",
+            "Menutup pelayanan sebentar dan mengantarkannya ke bagian pelayanan yang diperlukan\n(Nilai 2)",
+            "Memintanya untuk segera ke ruangan yang diperlukan, karena saya harus segera melayani antrian lain\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nAnda seorang resepsionis di suatu kantor yang bergerak dalam bidang pelayanan. Banyak keluhan yang ditujukan pada instansi tempat Anda bekerja. Padahal di instansi Anda terdapat fasilitas untuk keluhan online. Sikap Anda adalah ...",
+        "pilihan": [
+            "Menerima keluhan para konsumen sembari mengajarkan cara menyampaikan keluhan secara online\n(Nilai 5)",
+            "Menerima dan menanggapi keluhan sembari mengajarkan cara menyampaikan keluhan secara online\n(Nilai 4)",
+            "Menerima dan menyelesaikan keluhan konsumen sambil menanyakan apakah ada kesulitan saat menyampaikan keluhan secara online\n(Nilai 3)",
+            "Menyelesaikan keluhan konsumen sambil menanyakan apakah ada kesulitan saat menyampaikan keluhan secara online\n(Nilai 2)",
+            "Mendengarkan keluh kesah konsumen tentang masalahnya dan mengajarkan cara menyampaikan keluhan secara online\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nTempat Anda bekerja akan kedatangan tamu penting dari Inggris dan Anda ditugaskan untuk mendampinginya selama kunjungan, sedangkan Anda tidak mahir berbahasa Inggris. Sikap Anda adalah ...",
+        "pilihan": [
+            "Mengajak rekan kerja lain yang mahir berbahasa Inggris agar turut bersama Anda selama mendampingi tamu\n(Nilai 5)",
+            "Meminta kepada atasan untuk menugaskan orang lain yang lebih mahir berbahasa Inggris\n(Nilai 4)",
+            "Mengambil kursus bahasa Inggris sesegera mungkin untuk menunjukkan kesungguhan Anda\n(Nilai 3)",
+            "Tetap menemaninya selama kunjungan walaupun Anda tidak banyak mengerti apa yang disampaikan oleh tamu\n(Nilai 2)",
+            "Meminta kepada atasan untuk menugaskan orang lain yang lebih mahir berbahasa Inggris\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nAnda bekerja sebagai PNS di bagian pelayanan jasa publik. Setiap hari banyak sekali orang yang ingin mendapatkan pelayanan dengan datang langsung ke kantor untuk melakukan pendaftaran sehingga membuat kantor Anda sesak dan seringkali terjadi keributan. Sikap Anda adalah ...",
+        "pilihan": [
+            "Menyarankan kepada perusahaan agar membuat layanan online untuk mempercepat proses pelayanan sehingga tidak perlu datang ke kantor secara langsung\n(Nilai 5)",
+            "Menyarankan kepada perusahaan agar menambah jumlah petugas pelayanan\n(Nilai 4)",
+            "Meminta security agar menertibkan semua pelanggan dan mengeluarkan mereka yang tidak mau tertib\n(Nilai 3)",
+            "Membatasi jumlah orang yang bisa dilayani setiap harinya\n(Nilai 2)",
+            "Senang dengan keadaan yang ada, karena kantor Anda ramai dikunjungi orang\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nSaat Anda sedang melakukan pelayanan, datang seorang pelanggan utama yang ingin dilayani terlebih dahulu. Sikap Anda adalah ...",
+        "pilihan": [
+            "Meminta pelanggan utama tersebut untuk menunggu sebentar sampai saya menyelesaikan pelayanan\n(Nilai 5)",
+            "Menyarankan pelanggan utama untuk mencari pelayanan dari teman saya yang lain\n(Nilai 4)",
+            "Berkonsultasi kepada atasan karena ini terkait pelanggan utama\n(Nilai 3)",
+            "Tidak menghiraukan permintaan dari pelanggan utama\n(Nilai 2)",
+            "Langsung melayani pelanggan utama\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nAnda sedang mengerjakan ujian Calon Pegawai Negeri Sipil (CPNS), waktu yang disediakan tinggal 5 menit padahal ada beberapa soal yang belum Anda selesaikan. Sikap Anda adalah ...",
+        "pilihan": [
+            "Mengerjakan soal tersisa sampai waktu habis\n(Nilai 5)",
+            "Berusaha menutupi kecemasan saya\n(Nilai 4)",
+            "Tak ingin memikirkannya\n(Nilai 3)",
+            "Memikirkan apa yang saya rasakan\n(Nilai 2)",
+            "Merasa gelisah, khawatir tidak selesai\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nDalam proses pengambilan keputusan, sikap Anda adalah ...",
+        "pilihan": [
+            "Mempercayakan keputusan pada kelompok\n(Nilai 5)",
+            "Menciptakan suasana agar orang berani mengungkapkan pendapatnya\n(Nilai 4)",
+            "Melontarkan gagasan yang memancing keterlibatan anggota\n(Nilai 3)",
+            "Mengusahakan agar pendapat Anda diterima\n(Nilai 2)",
+            "Mengambil alih proses pengambilan keputusan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nTeman Anda menyebarkan hal-hal privasi Anda melalui akun media sosialnya. Sikap Anda adalah ...",
+        "pilihan": [
+            "Meminta agar teman Anda menghapus postingannya\n(Nilai 5)",
+            "Biasa saja\n(Nilai 4)",
+            "Menyerang balik rekan Anda melalui akun media social Anda\n(Nilai 3)",
+            "Sakit hati dan menyimpan dendam kepada rekan Anda\n(Nilai 2)",
+            "Memukul dan menghajarnya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nAnda membeli barang yang ternyata rusak dan membawanya kembali ke toko tersebut tetapi petugas penjualannya tidak membantu. Sikap Anda adalah ...",
+        "pilihan": [
+            "Menemui manajer toko dan mengatakan bahwa Anda mendapatkan barang rusak ketika membelinya\n(Nilai 5)",
+            "Pulang dan menulis ke surat kabar tentang pelayanan yang tidak menyenangkan yang Anda dapatkan\n(Nilai 4)",
+            "Memarahi petugas penjualan tersebut karena tidak teliti dalam menjual barang\n(Nilai 3)",
+            "Menghardik petugas penjualan tersebut sampai Anda mendapatkan jawaban yang lebih membantu\n(Nilai 2)",
+            "Menyerah karena Anda tidak akan mendapatkan apapun\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nAnda mengerjakan tugas koreksi laporan kantor yang harus selesai besok pagi. Tiba-tiba teman Anda datang dengan muka cemberut dan tampaknya ingin curhat mencurahkan isi hati kepada Anda. Sikap Anda adalah ...",
+        "pilihan": [
+            "Terus mengoreksi laporan sambil sesekali mendengarkan ceritanya\n(Nilai 5)",
+            "Dengan menyesal tidak dapat mendengarkan keluhannya\n(Nilai 4)",
+            "Meneruskan koreksi laporan dan tidak memperdulikan keinginan teman saya\n(Nilai 3)",
+            "Menanggapi dan memberi berbagai alternatif penyelesaiannya\n(Nilai 2)",
+            "Mendengarkan ceritanya dengan penuh perhatian\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nAnda adalah seorang pegawai pada sebuah perusahaan ternama. Anda sangat semangat dalam bekerja dan terkenal memiliki dedikasi tinggi dalam bekerja. Suatu hari Anda tidak sengaja melakukan kesalahan fatal sehingga merusak sistem dan database perusahaan. Sikap Anda adalah ...",
+        "pilihan": [
+            "Memanggil ahli IT untuk memperbaiki kerusakan sistem dan database perusahaan tersebut\n(Nilai 5)",
+            "Bertanya kepada teman tentang cara memperbaiki kerusakan sistem dan database perusahaan\n(Nilai 4)",
+            "Berusaha memperbaikinya sendiri sebagai bentuk tanggung jawab kepada perusahaan\n(Nilai 3)",
+            "Melaporkan kejadian tersebut kepada atasan, dan bersedia untuk memberikan gaji Anda bulan ini sebagai bentuk tanggung jawab tanggungan biaya kerusakan sistem dan database perusahaan\n(Nilai 2)",
+            "Tetap tenang dalam bekerja dan berharap sistem dan database tersebut kembali normal\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nAnda mendapat teguran langsung dari pimpinan atas kesalahan yang bukan hanya Anda seorang diri sebagai pelakunya. Sikap Anda adalah ...",
+        "pilihan": [
+            "Menerima teguran tersebut dan mencoba menjadikannya sebagai pelajaran berharga tanpa perlu mengadukan pegawai lain yang turut bersalah\n(Nilai 5)",
+            "Menerima teguran tersebut dan mencoba menjadikannya sebagai pelajaran berharga, tetapi tetap mengadukan pegawai lain yang turut bersalah agar saya tidak menjadi korban seorang diri\n(Nilai 4)",
+            "Diam saja, karena membantah hanya akan menambah rumit permasalahan\n(Nilai 3)",
+            "Membantah dan mengadukan pegawai lain yang juga bersalah agar mereka juga bisa belajar dari kejadian ini\n(Nilai 2)",
+            "Membantah secara tegas agar pada kesempatan lain pimpinan tidak semena-mena menyalahkan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nKetika Anda mengerjakan sebuah proyek, yang Anda lakukan adalah ...",
+        "pilihan": [
+            "Memperhatikan semua dengan detail dan melakukan pengawasan supaya proyek berjalan dengan baik dan lancar\n(Nilai 5)",
+            "Membagi tugas tugas kepada bawahan dan memintanya untuk mengerjakan tugas\n(Nilai 4)",
+            "Memperhatikan secara detail dan memeriksa kembali semua yang Anda catat\n(Nilai 3)",
+            "Berkonsentrasi pada hal-hal umum dari proyek tersebut, karena detail-detailnya tidak penting\n(Nilai 2)",
+            "Mencatat terus menerus dan membaca seluruhnya untuk menghilangkan kesalahan yang mudah dilihat setelah Anda menyelesaikannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSeorang memberikan Anda naskah novel terbaru yang ditulisnya. Anda sangat bersemangat dan sudah menunggu lama. Seminggu kemudian dia menelepon Anda untuk meminta pendapat Anda. Sayangnya, alur ceritanya mudah ditebak dan dialognya ditulis secara buruk. Sikap Anda adalah ...",
+        "pilihan": [
+            "Memberikan komentar tentang betapa banyak hal yang sangat sulit yang dilaluinya ketika menulis, dan secara hati-hati menyarankan beberapa perbaikan dan mengatakan bahwa itu mungkin perlu sedikit diedit\n(Nilai 5)",
+            "Meminta teman menyampaikan pendapat Anda karena Anda merasa tidak enak\n(Nilai 4)",
+            "Mengatakan bahwa Anda belum selesai membaca naskah tersebut karena Anda masih mengerjakan beberapa pekerjaan\n(Nilai 3)",
+            "Mengatakan bahwa Anda lebih suka novel fiksi ilmiah dan benar-benar bukan orang yang tepat untuk dimintai pendapat\n(Nilai 2)",
+            "Mengatakan kepadanya bahwa Anda benar-benar terpesona dan dia harus mengirimkannya ke Penerbit yang prospektif\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSaya dituduh dan dimarahi oleh ketua kelompok saya, sedangkan tuduhan itu tidak sesuai dengan keadaan yang sebenarnya. Saya akan ...",
+        "pilihan": [
+            "Menerangkan keadaan yang sesungguhnya\n(Nilai 5)",
+            "Menanggapi pertanyaan dari siapapun tentang isu itu\n(Nilai 4)",
+            "Menceritakan kepada teman dekat\n(Nilai 3)",
+            "Mencari penyebar isu dan melawannya\n(Nilai 2)",
+            "Membiarkan saja isu berkembang\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nSaat Anda menghadapi rekan kerja yang senang mengeluh, sikap Anda adalah ...",
+        "pilihan": [
+            "Mendengar saja keluhannya\n(Nilai 5)",
+            "Menyatakan kebalikan dari keluhannya\n(Nilai 4)",
+            "Diam saja selama tidak mengganggu saya\n(Nilai 3)",
+            "Memarahinya\n(Nilai 2)",
+            "Ikut mengeluh juga\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nAndi adalah seorang karyawan rajin, namun apa yang akan terjadi di masa depan tidak ada yang tahu. Menurut Anda adalah ...",
+        "pilihan": [
+            "Karakter Andi sebagai karyawan rajin dapat membantu karirnya kelak\n(Nilai 5)",
+            "Harusnya karyawan rajin tidak kena PHK\n(Nilai 4)",
+            "Pemecatan banyak karyawan tidak terlalu berpengaruh terhadap kinerja perusahaan\n(Nilai 3)",
+            "Mustahil karyawan sebaik Andi terkena PHK\n(Nilai 2)",
+            "Andi tetap saja bakal terkena PHK jika ekonomi lesu\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nAkhir-akhir ini banyak tayangan televisi yang saya rasa kurang mendidik. Melihat fenomena tersebut, sikap Anda adalah ...",
+        "pilihan": [
+            "Ingin mengajak pihak-pihak yang berwenang dan terkait untuk membahas tentang kelayakan tayangan tersebut\n(Nilai 5)",
+            "Ingin protes kepada semua stasiun televisi untuk mengganti tayangan yang lebih layak\n(Nilai 4)",
+            "Ingin menggalang massa untuk melakukan demo terhadap pemerintah untuk segera mengambil kebijakan\n(Nilai 3)",
+            "Ingin menghujat stasiun televisi di media massa\n(Nilai 2)",
+            "Ingin menutup hak siar semua stasiun televisi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nDi kampung Anda akhir-akhir ini banyak warga yang kemalingan. Agar lingkungan dapat berjalan aman dan terkendali, menurut Anda adalah ...",
+        "pilihan": [
+            "Mengadakan SISKAMLING rutin, melakukan pendataan ulang warga kampung dan berkoordinasi tetap ke POLSEK terdekat\n(Nilai 5)",
+            "Menambah jumlah lampu lampu jalan yang dapat menjadikan kampung lebih terjamin\n(Nilai 4)",
+            "Mempersiapkan alat-alat kode keamanan seperti kentongan, bedug, dan semacamnya\n(Nilai 3)",
+            "Semua warga dilatih bela diri sebagai persiapan mengamankan kampung\n(Nilai 2)",
+            "Menyewa polisi, satpam atau tim keamanan guna mengamankan kampung\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nTingkat mabuk-mabukan saat ini sudah sangat memprihatinkan. Pemerintah dalam hal ini perlu memperhatikan dengan ekstra. Menurut Anda adalah ...",
+        "pilihan": [
+            "Pajak untuk minuman keras dikenakan setinggi-tingginya sehingga hanya terdapat pada toko-toko yang berkelas tinggi, bila memungkinkan ditutup saja\n(Nilai 5)",
+            "Peran organisasi kemasyarakatan untuk mengajak masyarakat mengadakan kegiatan-kegiatan positif\n(Nilai 4)",
+            "Tempat-tempat hiburan juga perlu diawasi mengingat rawan terhadap minuman keras\n(Nilai 3)",
+            "Peran yayasan yang membidangi kenakalan remaja dan masyarakat perlu fokus dan bergerak\n(Nilai 2)",
+            "Faktor pengangguran termasuk salah satu penyebab maraknya pelaku minuman keras\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nKetika Anda mengisi formulir pekerjaan yang meminta Anda menuliskan kemampuan dan keterampilan Anda, sikap Anda adalah ...",
+        "pilihan": [
+            "Menjunjung tinggi pengalaman Anda sendiri untuk berkompetisi dengan mereka\n(Nilai 5)",
+            "Menuliskan pengalaman seadanya karena Anda tidak terlalu berminat dengan pekerjaannya\n(Nilai 4)",
+            "Tidak menuliskannya dan lebih senang langsung membicarakannya\n(Nilai 3)",
+            "Melebih-lebihkan kemampuan yang Anda miliki\n(Nilai 2)",
+            "Melemparkan formulir tersebut ke tempat sampah karena kesal harus mengisinya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nDalam bekerja, rekan-rekan kerja menilai Anda sebagai karyawan yang ...",
+        "pilihan": [
+            "Menyukai target yang menantang\n(Nilai 5)",
+            "Semangat dalam menjalankan tugas\n(Nilai 4)",
+            "Rasional dalam menetapkan target\n(Nilai 3)",
+            "Selalu ceria dalam bekerja\n(Nilai 2)",
+            "Serius namun tetap santai dalam bekerja\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nHari ini merupakan jadwal Anda berbelanja bulanan di supermarket. Ketika Anda membeli kebutuhan bulanan, yang Anda lakukan adalah ...",
+        "pilihan": [
+            "Hanya membeli daftar barang-barang yang ada di dalam daftar belanja, jika tidak Anda begitu tidak dapat mengontrol pengeluaran Anda\n(Nilai 5)",
+            "Menyuruh orang lain untuk berbelanja karena takut tidak dapat menahan diri saat berbelanja\n(Nilai 4)",
+            "Pergi dengan membawa daftar belanja tapi membiarkan diri Anda tergoda dengan membeli barang-barang lainnya\n(Nilai 3)",
+            "Memutuskan Apa yang akan Anda beli ketika berada di supermarket tersebut dan khawatir tentang tagihan belanjanya nanti\n(Nilai 2)",
+            "Membeli beberapa barang dan mencari barang lain dengan harga diskon\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nSecara umum orang mengatakan saya orang yang dapat dipercaya. Sikap Anda adalah ...",
+        "pilihan": [
+            "Saya melakukan apa yang saya katakan (konsisten)\n(Nilai 5)",
+            "Saya bersifat sabar dan penuh perhatian terhadap orang lain\n(Nilai 4)",
+            "Saya orang yang ramah dan mau mendengar keluhan orang lain\n(Nilai 3)",
+            "Saya siap membantu tanpa memikirkan imbalan yang akan saya terima\n(Nilai 2)",
+            "Saya orang yang terbuka\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nMenurut Anda, 10 tahun setelah Anda diangkat sebagai PNS, Anda akan menjadi ...",
+        "pilihan": [
+            "Pejabat struktural atau tenaga fungsional yang profesional dalam bidangnya\n(Nilai 5)",
+            "PNS masih sebagai pelaksana di unit lain yang sesuai dengan kompetensi saya\n(Nilai 4)",
+            "PNS masih sebagai pelaksana di unit yang pertama kali saya diterima\n(Nilai 3)",
+            "Belum tahu karena sepenuhnya bergantung pada nasib\n(Nilai 2)",
+            "Bukan PNS lagi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nKadang saya bingung dengan perubahan perasaan yang sering terjadi di dalam diri saya. Sikap Anda adalah ...",
+        "pilihan": [
+            "Setiap perubahan perasaan menuntut adanya pengelolaan\n(Nilai 5)",
+            "Emosi seseorang perlu dikelola\n(Nilai 4)",
+            "Gejolak hati menunjukkan adanya perubahan sosial\n(Nilai 3)",
+            "Dalam setiap kehidupan, seseorang sering mengalami perubahan emosi\n(Nilai 2)",
+            "Perubahan perasaan merupakan hal biasa\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nAnda dipindahkan secara mendadak ke unit kerja sistem informasi yang belum pernah Anda tekuni selama ini. Yang Anda pikirkan adalah ...",
+        "pilihan": [
+            "Bagaimana saya bisa memahami bidang kerja saya yang baru secara cepat\n(Nilai 5)",
+            "Apa yang harus saya lakukan di tempat kerja yang baru\n(Nilai 4)",
+            "Mungkinkah saya bernegosiasi untuk berpindah ke tempat lainnya\n(Nilai 3)",
+            "Mengapa karir saya harus dipersulit\n(Nilai 2)",
+            "Apakah terdapat alasan politis dibalik mutasi kerja saya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 36,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 36\nTidak dijawab\nAnda dikenal sebagai seorang pegawai perpustakaan yang tegas. Menurut aturan yang ditetapkan, pengunjung perpustakaan tidak boleh makan di dalam perpustakaan. Suatu hari, Anda melihat seorang mahasiswa yang sambil belajar, makan sepotong roti dengan lahapnya\ndan tampak kelaparan. Sebaiknya Anda ...",
+        "pilihan": [
+            "Memberikan teguran yang sopan dengan menjelaskan aturan yang berlaku\n(Nilai 5)",
+            "Meminta pengunjung tersebut menghabiskan makanannya di luar terlebih dahulu\n(Nilai 4)",
+            "Menyita makanan tersebut dan membuangnya ke tempat sampah\n(Nilai 3)",
+            "Membiarkan hal tersebut sebab anda kasihan dengan pengunjung tersebut\n(Nilai 2)",
+            "Membiarkan hal tersebut terjadi karena ada petugas kebersihan yang akan membersihkannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 37,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 37\nTidak dijawab\nDalam pelayanan publik, ASN dituntut untuk mampu melaksanakan tugas-tugas pemerintahan, pembangunan, dan kegiatan pemenuhan\nkebutuhan pelayanan publik secara profesional, transparan, mengikuti standar pelayanan yang objektif, netral, tidak memihak, tidak diskriminatif, serta tidak terpengaruh kepentingan pribadi/ kelompok/golongan/partai politik. Sikap Anda jika melihat ASN di\nkementerian/lembaga lain yang tidak profesional dalam pelayanan publik adalah ...",
+        "pilihan": [
+            "Menegur langsung bahwa sebagai ASN harusnya bisa bekerja melayani dengan profesional\n(Nilai 5)",
+            "Menegur pimpinan yang bersangkutan bahwa terdapat ASN yang tidak bisa bekerja melayani dengan profesional\n(Nilai 4)",
+            "Mendokumentasikan dan melaporkannya melalui whistleblowing system\n(Nilai 3)",
+            "Mengunggah posting melalui akun Facebook, Twitter, atau Instagram\n(Nilai 2)",
+            "Bersikap biasa saja karena penilaian ASN terkait profesionalisme dalam pelayanan berbedabeda tergantung jenis pekerjaannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 38,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 38\nTidak dijawab\nAnda adalah seorang PNS sekaligus sebagai kepala bagian di dinas kependudukan dan pencatatan sipil di daerah Anda, pemilihan umum\nsebentar lagi akan dilaksanakan. Melihat hal tersebut Anda telah mempersiapkan banyak hal di kantor Anda, salah satunya anda mencegah antrian yang membludak untuk pengurusan KTP di kantor Anda. Hari itu juga Anda sedang mengerjakan tugas yang sangat penting , dan\nharus segera Anda lakukan. Sesuai dengan perkiraan Anda, ternyata antrian dikantor Anda sangat banyak dan tidak teratur sehingga warga sipil yang ingin mengurus surat pindah atau keterangan hilang KTP saling berebut untuk mendapatkan pelayanan sesegera mungkin, melihat hal tersebut apa yang akan Anda lakukan?",
+        "pilihan": [
+            "Memberitahukan ke warga sipil secara halus agar tertib dalam melakukan antrian panjang tersebut dan mencoba untuk mencari cara dengan membuat nomor antrian\n(Nilai 5)",
+            "Memberitahukan ke warga sipil secara halus agar tertib dalam melakukan antrian panjang tersebut dan membuka jalur antrian baru\n(Nilai 4)",
+            "Memberitahukan dengan sopan ke warga sipil tersebut agar tertib dalam melakukan antrian panjang tersebut dan meminta agar bagian loket untuk mempercepat pelayanan\n(Nilai 3)",
+            "Memberitahukan dengan sopan ke warga sipil tersebut agar tertib kemudian melanjutkan tugas yang anda kerjakan\n(Nilai 2)",
+            "Memberitahukan masalah tersebut ke kepala dinas, dengan sebelum nya anda memberitahukan ide anda untuk menertibkan antrian tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 39,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 39\nTidak dijawab\nAnda adalah seorang pegawai baru di suatu kantor. Suatu saat Anda dihadapkan dengan pelanggan yang mengeluhkan tentang pelayanan\nyang ada di kantor Anda. Pelanggan tersebut adalah mantan adik kelas Anda. Anda seharusnya ...",
+        "pilihan": [
+            "Menyampaikan permintaan maaf atas ketidakpuasan yang dikeluhkan pelanggan dan menjadikannya sebagai evaluasi untuk lebih baik kedepannya\n(Nilai 5)",
+            "Mendengarkan keluhan tersebut dengan memberikan senyuman\n(Nilai 4)",
+            "Memberikan tanggapan semampu anda terhadap keluhan yang disampaikan\n(Nilai 3)",
+            "Mendengarkan tanpa memperdulikan keluhan pelanggan tersebut\n(Nilai 2)",
+            "Mengabaikan keluhan tersebut dan melanjutkan pekerjaan Anda\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 40,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 40\nTidak dijawab\nAnda bekerja sebagai petugas pelayanan di kantor samsat. Seperti biasa, pada pagi hari Anda melihat sudah banyak antrean yang datang\nuntuk mengurus administrasi pajak kendaraan bermotor. Ada seorang ibu yang datang untuk menanyakan apakah kantor ini menyediakan\nruang laktasi. Kantor Anda selama ini masih belum responsive gender sehingga masih belum ada fasilitas ruang laktasi. Maka yang akan Anda lakukan adalah ...",
+        "pilihan": [
+            "Menyampaikan permohonan maaf kepada ibu tersebut karena masih belum tersedia ruang laktasi di kantor ini dan menawarkan ruangan kosong yang ada\n(Nilai 5)",
+            "Menyampaikan permohonan maaf kepada ibu tersebut karena masih belum tersedia ruang laktasi di kantor ini dan menawarkan toilet wanita yang ada\n(Nilai 4)",
+            "Menyampaikan permohonan maaf kepada ibu tersebut karena masih belum tersedia ruang laktasi di kantor ini dan melaporkan kepada pimpinan agar fasilitas ruang laktasi harus segera diprioritaskan\n(Nilai 3)",
+            "Menyampaikan permohonan maaf kepada ibu tersebut karena masih belum tersedia ruang laktasi di kantor ini dan meminta ibu tersebut menuliskan keluhan ke dalam kotak saran\n(Nilai 2)",
+            "Menyampaikan permohonan maaf kepada ibu tersebut karena masih belum tersedia ruang laktasi di kantor ini\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 41,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 41\nTidak dijawab\nKita mengetahui keberhasilan adalah sesuatu yang tidak mutlak. Anda saat ini bekerja disuatu badan pemerintahan yang memberikan pelayanan kepada publik. Dalam prinsip kehidupan, keberhasilan seseorang itu harus dimulai dari keberhasilan diri sendiri yaitu mandiri dalam hal apapun. Keberhasilan menurut saya dalam pekerjaan Anda adalah ...",
+        "pilihan": [
+            "Menjadi manusia yang berguna bagi sesama\n(Nilai 5)",
+            "Menjadi manusia yang rajin beribadah\n(Nilai 4)",
+            "Menjadi manusia yang baik dan benar\n(Nilai 3)",
+            "Mencapai tujuan hidup\n(Nilai 2)",
+            "Meraih kesuksesan dalam karir\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 42,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 42\nTidak dijawab\nSebagai seorang Mahasiswa Anda mendapat tugas meneliti kehidupan masyarakat Suku Dayak Meratus di Pegunungan Meratus di daerah Kabupaten Hulu Sungai Selatan Provinsi Kalimantan Selatan. Selama penelitian Anda harus tinggal disana kurang lebih dua bulan. Dalam\nproses penelitiannya Anda diwajibkan turut mengikuti berbagai upacara adat, salah satunya adalah Upacara Prosesi Tiwah. Upacara ini adalah prosesi menghantarkan roh leluhur orang yang sudah meninggal dunia ke Lewu Tatau (ke surga) bersama Ranying Hatalla (sang\npencipta). Jenazah yang sudah dikubur akan digali lagi, tulang belulangnya dibersihkan dan akan dimasukan ke dalam balai Nyahu. Dengan kata lain prosesi ini bertujuan untuk menyempurnakan roh orang yang sudah meninggal dunia, agar roh nya tenang dialamnya. Dalam upacara Tiwah biasanya memakai hewan sebagai korban, hewan yang digunakan yaitu Babi, Ayam, Kerbau, Sapi dan lain-lain. Tetapi pada upacara yang anda saksikan tersebut menggunakan hewan Babi, karena keluarga yang meninggal hanya bisa mendapatkan\nhewan Babi tersebut. Pada upacara tersebut Babi ditusuk hingga mati dengan menggunakan tombak oleh keluarga yang meninggal. Mereka percaya setiap cucuran darah hewan tersebut dapat mensucikan roh tersebut. Kepala hewan Babi yang sudah mati maka akan dipersembahkan kepada para roh dan dagingnya akan di masak dan dikonsumsi oleh masyarakat yang menghadiri Upacara Tiwah\ntersebut. Setelah daging babi itu masak, orang yang hadir diupacara tersebut wajib memakan daging babi tersebut walaupun hanya sedikit. Kemudian anda disuruh kepala suku untuk memakan atau mencicipi masakan daging babi tersebut, tetapi Anda ingat kalau dalam agama Anda memakan daging babi haram hukumnya, dan sangat dilarang dalam agama Anda. Bagaimana sikap Anda ...",
+        "pilihan": [
+            "Menghormati aturan karena tiap suku memiliki perbedaan pedoman\n(Nilai 5)",
+            "Mengubah beberapa aturan untuk saya yang bertentangan dengan agama dan kebudayaan saya\n(Nilai 4)",
+            "Menolak aturan yang ada di upacara tersebut\n(Nilai 3)",
+            "Tidak mematuhi aturan karena berbeda suku bangsa\n(Nilai 2)",
+            "Menempatkan diri dengan baik dengan melakukan aturan sebagai wujud upaya toleransi, meskipun bertentangan dengan agama dan kebudayaan Anda\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Aspek : Sosial budaya\nOpsi \" Menghormati aturan karena tiap suku memiliki perbedaan pedoman.\" terdapat kata menghormati mencakup antara budaya anda dan budaya daerah yang anda kunjungi, sehingga kata menghormati telah mewakili bahwa tidak semua budaya daerah yang sedang anda kunjungi harus diikuti jika bertentangan dengan norma agama. Sedangkan opsi \" Mengubah beberapa aturan untuk saya yang bertentangan dengan agama dan kebudayaan saya\" minus satu point karena terdapat tindakan mengubah aturan, meskipun konteksnya masih bertoleransi."
+    },
+    {
+        "nomor": 43,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 43\nTidak dijawab\nAyah anda adalah bendahara masjid di lingkungan sekitar Anda. Untuk perbaikan masjid, masyarakat sepakat untuk iuran kemudian dikumpulkan di masing-masing Ketua RT, kemudian diserahkan ke bendahara setelah uang terkumpul. Keluarga anda termasuk dalam RT 3, walaupun ayah Anda bendahara masjid, iuran tetap diberikan kepada Ketua RT 3. Satu Minggu kemudian, uang sudah terkumpul dari 5\nketua RT lain, hanya ketua RT 3 yang belum mengumpulkan kepada bendahara. Padahal pembangunan harus segera dilakukan, bendahara\npun menagih ketua RT 3 namun beliau menyampaikan bahwa uang tersebut sedang dipakai untuk keperluan pribadinya, dan akan segera\ndicarikan uang pengganti secepatnya. Namun sampai perbaikan masjid selesai, ketua RT belum juga memberikan uang tersebut. Warga RT\n3 sebenarnya sudah mengetahui kebiasaan ketua RT yang tidak amanah dalam menghimpun dan menyalurkan dana, namun tidak ada warga yang mau mencalonkan diri sebagai ketua RT, termasuk ayah Anda selaku bendahara masjid. Saat ini uang untuk perbaikan masjid\nbelum juga disetorkan. Sebagai warga RT 3, apa yang akan Anda lakukan?",
+        "pilihan": [
+            "Membuat petisi supaya Ketua RT segera mengembalikan uang tersebut dengan mengajak warga sekitar untuk menandatangani, dengan risiko Anda mungkin akan diabaikan dan dicap sebagai pengadu domba karena warga sebenarnya sudah tidak peduli dengan hal tersebut\n(Nilai 5)",
+            "Menyampaikan keluhan kepada perangkat desa yang lebih tinggi terkait perilaku Ketua RT tersebut walaupun pendapat Anda belum tentu didengarkan karena Ketua RT memiliki jaringan yang kuat di Pemerintahan Desa\n(Nilai 4)",
+            "Menegur ketua RT 3, walaupun hubungan keluarga Anda dengan ketua RT 3 menjadi renggang, padahal dimasa depan pasti Anda memerlukan Ketua RT sebagai tokoh untuk hajat Anda dan keluarga\n(Nilai 3)",
+            "Mendesak ayah Anda untuk terus menagih kepada Ketua RT, dengan risiko ayah Anda dijauhi oleh Ketua RT atau urusan keluarga Anda dipersulit\n(Nilai 2)",
+            "Menyampaikan kepada anak ketua RT karena usianya setara dengan Anda, supaya anaknya saja yang menyampaikan. Namun hubungan pertemanan Anda menjadi canggung\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sebagai warga dalam suatu kelompok, Anda sebaiknya proaktif dalam menyelesaikan masalah yang terjadi dalam kelompok tersebut. Jika\nlingkungan Anda mengabaikan masalah sosial yang sedang terjadi, sebaiknya anda membantu menyadarkan masyarakat akan pentingnya\nperan warga dalam pelaksanaan setiap kegiatan, walaupun pendapat anda akan diabaikan. Dengan adanya peran aktif dari masyarakat,\ntentunya Ketua RT menjadi segan jika akan melakukan penyelewengan. Tindakan tersebut bisa terjadi karena Ketua RT merasa bahwa warganya akan diam saja apapun yang dia lakukan."
+    },
+    {
+        "nomor": 44,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 44\nTidak dijawab\nAnda adalah salah satu peserta wawancara SKB CPNS untuk posisi analis hukum di Biro Hukum Instansi A dan terlahir di keluarga inti yang\nseluruhnya dan sebagian besar keluarga besar adalah PNS. Keluarga Anda berharap besar pada Anda untuk menjadi PNS. Di sisi lain, Anda mempunyai suatu keinginan untuk dapat melanjutkan pendidikan lebih tinggi dengan bidang selinier dan Anda adalah manager di salah\nsatu perusahaan law firm asing terkenal saat ini. Selama ini, Anda sering mendengar bahwa PNS itu kerjanya nyantai. Panitia pun mulai memanggil nama Anda dan Anda pun mulai memasuki ruang wawancara. Saat wawancara tiba, pewawancara menanyai motivasi apa\nyang melatarbelakangi Anda menjadi PNS. Jawaban apa yang akan anda utarakan ...",
+        "pilihan": [
+            "Saya ingin menjadi PNS dikarenakan ingin mengubah mindset orang-orang yang menganggap PNS itu kerjanya santai dengan bekerja semaksimal dan seprofesional mungkin\n(Nilai 5)",
+            "Saya ingin menjadi PNS karena ingin melanjutkan studi, sehingga saya dapat menerapkan ilmu saya untuk kemajuan instansi ini ke depannya\n(Nilai 4)",
+            "Saya ingin menjadi PNS dikarenakan ingin memberikan kontribusi bagi bangsa dan negara karena saya merasa dapat memberikan kontribusi lebih dengan menjadi PNS dan saya akan bekerja dengan penuh semangat\n(Nilai 3)",
+            "Saya ingin menjadi PNS dikarenakan tuntutan keluarga karena seluruh anggota keluarga inti dan sebagian besar keluarga besar saya adalah PNS agar saya dapat membahagiakan keluarga saya\n(Nilai 2)",
+            "Saya ingin menjadi PNS dikarenakan kerjanya santai dan tidak dikejar deadline seperti kerjaan saya sebelumnya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 45,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 45\nTidak dijawab\nKementerian tempat Anda bekerja sekarang sedang menyusun kebijakan perubahan jam kerja dari yang awalnya dari pukul 08.00 – 16.00 menjadi pukul 07.30 – 17.00. Hal ini membuat para pegawai resah karena jam kerja bertambah dan pulang ke rumah makin malam\nmeskipun ke depannya tunjangan akan sedikit lebih tinggi. Sebagai pegawai di sana, Anda ...",
+        "pilihan": [
+            "Tetap bekerja seperti biasa, tidak merasakan keluhan dan mencoba menyesuaikan diri dengan jam kerja yang akan diubah\n(Nilai 5)",
+            "Tidak merasakan keluhan dan mencoba menyesuaikan diri karena adanya kenaikan insentif\n(Nilai 4)",
+            "Tetap bersyukur karena diberi kesempatan untuk bekerja lebih lama\n(Nilai 3)",
+            "Tidak akan efektif karena pegawai akan bekerja dengan produktivitas yang justru lebih rendah\n(Nilai 2)",
+            "Memprotes kebijakan tersebut bersama dengan para pegawai yang lain\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    }
+]

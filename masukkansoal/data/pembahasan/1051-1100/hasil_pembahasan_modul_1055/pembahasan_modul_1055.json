@@ -1,0 +1,442 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nSESAK : NAPAS = … : …",
+        "pilihan": [
+            "Lapar : Minuman",
+            "Dahaga : Makanan",
+            "Letih : Bermain",
+            "Dingin : Selimut",
+            "Sakit : Aktivitas"
+        ],
+        "jawaban_benar": "Sakit : Aktivitas",
+        "pembahasan": "Hubungan antara sesak dan napas adalah bahwa sesak merupakan kondisi yang mengganggu atau menghambat proses bernapas. Analogi yang tepat harus menunjukkan hubungan serupa, di mana satu kondisi menghambat atau mempengaruhi hal lain. Dari opsi yang diberikan, sakit dan aktivitas memiliki hubungan yang sama, di mana sakit menghambat kemampuan seseorang untuk melakukan aktivitas. Opsi lainnya, seperti lapar minuman atau dingin selimut, tidak menggambarkan hambatan atau gangguan secara langsung. Oleh karena itu, jawaban yang benar adalah E: Sakit Aktivitas karena menggambarkan hubungan yang sepadan dengan sesak napas."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nBAB : BUKU = GERBONG : …",
+        "pilihan": [
+            "Ruang",
+            "Roda",
+            "Kereta",
+            "Penumpang",
+            "Masinis"
+        ],
+        "jawaban_benar": "Kereta",
+        "pembahasan": "Bab\nadalah bagian dari\nbuku\n, sama seperti\ngerbong\nadalah bagian dari\nkereta\n. Keduanya menunjukkan hubungan di mana satu merupakan bagian dari keseluruhan yang lebih besar."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nDOKTER : PASIEN = GURU : …",
+        "pilihan": [
+            "Murid",
+            "Pelajaran",
+            "Kelas",
+            "Sekolah",
+            "Kurikulum"
+        ],
+        "jawaban_benar": "Murid",
+        "pembahasan": "Hubungan antara dokter dan pasien adalah hubungan profesi dengan individu yang dilayani. Demikian pula, hubungan antara guru dan murid adalah hubungan profesi dengan individu yang diajar. Opsi lainnya, seperti pelajaran, kelas, sekolah, dan kurikulum, tidak mencerminkan hubungan langsung seperti antara dokter dengan pasien. Oleh karena itu, jawaban yang tepat adalah murid."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\n3647, 2596, 7294, 7788, 14588, …",
+        "pilihan": [
+            "15082",
+            "15100",
+            "21746",
+            "23364",
+            "25984"
+        ],
+        "jawaban_benar": "23364",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_4_pemb_img1.png]"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\n…, …, 8, -4, -12, -26",
+        "pilihan": [
+            "4, 14",
+            "14, 4",
+            "4, 12",
+            "12, 4",
+            "26, 14"
+        ],
+        "jawaban_benar": "14, 4",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_5_pemb_img1.png]"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\n3, 2, 17/17, 24/53, …",
+        "pilihan": [
+            "30/242",
+            "30/240",
+            "31/108",
+            "31/159",
+            "31/161"
+        ],
+        "jawaban_benar": "31/161",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_6_pemb_img1.png]"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\n1/2, 2/8, 3/26, 4/80, …",
+        "pilihan": [
+            "5/242",
+            "5/240",
+            "6/242",
+            "5/244",
+            "5/246"
+        ],
+        "jawaban_benar": "5/242",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_7_pemb_img1.png]"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\n6/6,  12/24,  1,  15/30, …, …",
+        "pilihan": [
+            "7/14,  34/34",
+            "17/17,  35/35",
+            "3/3,  34/68",
+            "17/17,  32/62",
+            "18/34, 24/55"
+        ],
+        "jawaban_benar": "3/3,  34/68",
+        "pembahasan": "Dari pola bilangan tersebut memiliki pola\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_8_pemb_img1.png]\nSehingga opsi yang sesuai dengan pola bilangan adalah 3/3,  34/68"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nSeorang manajer logistik sedang merencanakan pengiriman barang dari Kota A ke Kota D. Terdapat rute langsung dari Kota A ke Kota D, namun karena masalah biaya, manajer mempertimbangkan beberapa rute alternatif. Dari Kota A terdapat jalur menuju Kota B dan Kota C. Dari Kota B, barang dapat dikirim langsung ke Kota D atau melalui Kota E terlebih dahulu sebelum tiba di Kota D. Dari Kota C terdapat jalur menuju Kota F, kemudian dari Kota F ke Kota D. Selain itu, barang juga bisa dikirim dari Kota B ke Kota C yang mana jalurnya hanya searah, sebelum akhirnya tiba di Kota F. Berapakah total jalur yang dapat dipilih manajer logistik untuk mengirimkan barang dari Kota A ke Kota D?",
+        "pilihan": [
+            "7 jalur",
+            "8 jalur",
+            "3 jalur",
+            "9 jalur",
+            "5 jalur"
+        ],
+        "jawaban_benar": "5 jalur",
+        "pembahasan": "• Pengiriman langsung dari Kota A ke Kota D\nA    =>    D\nDiperoleh 1 jalur yaitu A – D\n• Pengiriman dari Kota A terdapat jalur menuju Kota B dan Kota C. Dari Kota B, barang dapat dikirim langsung ke Kota D atau melalui Kota E terlebih dahulu sebelum tiba di Kota D. Dari Kota C terdapat jalur menuju Kota F, kemudian dari Kota F ke Kota D. Selain itu, barang juga bisa dikirim dari Kota B ke Kota C yang mana jalurnya hanya searah, sebelum akhirnya tiba di Kota F.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_9_pemb_img1.png]\nDiperoleh 4 jalur yaitu\nA – B – D\nA – B – E – D\nA – C – F – D\nA – B – C – F – D\nSehingga, banyak jalur yang dapat dipilih manajer logistik untuk mengirimkan barang dari Kota A ke Kota D adalah 5 jalur"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nSebuah pabrik roti akan produksi roti 2000 pcs dalam waktu 20 hari dengan 20 orang pekerja. Jika di hari ke 11 ada 2 orang yang berhenti, maka berapa total hari roti akan selesai?",
+        "pilihan": [
+            "22 hari",
+            "30 hari",
+            "24 hari",
+            "34 hari",
+            "32 hari"
+        ],
+        "jawaban_benar": "22 hari",
+        "pembahasan": "Karena di hari ke 11 ada 2 orang berhenti, maka 20 − 2 = 18 orang.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_10_pemb_img1.png]"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nJika 32 harimau mampu menghabiskan makanan dalam waktu 60 hari, kemudian dipindahkan 2 ekor harimau, maka berapa hari stok makanan tersebut bertahan?",
+        "pilihan": [
+            "30 hari",
+            "47 hari",
+            "64 hari",
+            "84 hari",
+            "96 hari"
+        ],
+        "jawaban_benar": "64 hari",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_11_pemb_img1.png]"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nSebuah perusahaan makanan meminta 3 orang pegawainya untuk menilai rasa dan tampilan makanan dari empat toko berbeda untuk keperluan marketing. Penilaian dilakukan berdasarkan kriteria berikut :\n• Jika makanan enak dan tampilan bagus, maka diberi nilai 3\n• Jika makanan enak dan tampilan tidak bagus, maka diberi nilai 2\n• Jika makanan tidak enak dan tampilan bagus, maka diberi nilai 1\n• Jika makanan tidak enak dan tampilan tidak bagus maka diberi nilai 0\nTabel di bawah ini menunjukkan penilaian dari ketiga pegawai terhadap makanan di empat toko :\nBerdasarkan tabel penilaian tersebut, toko mana yang memiliki potensi pemasaran terbaik jika bobot utama yang dipertimbangkan adalah konsistensi penilaian rasa dan tampilan yang tinggi?",
+        "pilihan": [
+            "Toko A",
+            "Toko B",
+            "Toko C",
+            "Toko D",
+            "Toko A dan B"
+        ],
+        "jawaban_benar": "Toko B",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_12_pemb_img1.png]\nUntuk menentukan toko dengan potensi pemasaran terbaik, perlu mempertimbangkan total nilai sekaligus konsistensi penilaian dari ketiga pegawai. Nilai total setiap toko dapat dihitung sebagai berikut:\n• Toko A = 3 + 2 + 1 = 6\nWalaupun memiliki nilai awal tinggi, penilaian tampilan oleh pegawai ketiga rendah.\n• Toko B = 2 + 3 + 2 = 7\nMemiliki nilai yang konsisten tinggi dari setiap pegawai, sehingga potensinya kuat.\n• Toko C = 1 +1 + 3 = 5\nToko ini memiliki penilaian tinggi hanya dari satu pegawai, tidak konsisten di seluruh penilaian.\n• Toko D = 0 + 2 + 1 = 3\nNilai yang rendah menunjukkan banyak ruang perbaikan, namun untuk saat ini bukan yang terbaik.\nMaka toko dengan penilaian yang paling konsisten dari ketiga pegawai dan potensi pemasaran terbaik adalah Toko B."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nSasa membeli sepaket bucket bunga yang berisi 6 bucket dengan harga Rp120.000.\nManakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan...",
+        "pilihan": [
+            "3X < 2Y",
+            "2X < Y",
+            "5X = 4Y",
+            "3X = 2Y",
+            "Informasi yang diberikan tidak cukup untuk memutuskan salah satu dari tiga pilihan di atas"
+        ],
+        "jawaban_benar": "5X = 4Y",
+        "pembahasan": "Untuk menyelesaikan soal tersebut dapat kita gunakan perbandingan senilai\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_13_pemb_img1.png]\nMaka diperoleh nilai X : Y = 20.000 : 25.000 = 4 : 5\nSehingga diperoleh hubungan yang tepat adalah 5X = 4Y"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nManakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan …",
+        "pilihan": [
+            "3X > 2Y",
+            "3X < 2Y",
+            "Hubungan X dan Y tidak dapat ditentukan",
+            "3X < Y",
+            "2X > Y"
+        ],
+        "jawaban_benar": "3X < 2Y",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_14_pemb_img1.png]\nHubungan yang benar antara kuantitas X dan Y adalah 3X < 2Y"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nManakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan …",
+        "pilihan": [
+            "2X < Y",
+            "X > 2Y",
+            "Hubungan X dan Y tidak dapat ditentukan",
+            "1/2X > 1/3Y",
+            "3X < 2Y"
+        ],
+        "jawaban_benar": "1/2X > 1/3Y",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_15_pemb_img1.png]"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nHasil dari 175% + 2 3/4 − 1,5 = ...",
+        "pilihan": [
+            "2,5",
+            "3",
+            "3,25"
+        ],
+        "jawaban_benar": "3",
+        "pembahasan": "175% + 2 3/4 − 1,5 = 1,75 + 2,75 − 1,5\n= 3"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nHasil dari ….",
+        "pilihan": [
+            "28"
+        ],
+        "jawaban_benar": "28",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_17_pemb_img1.png]"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nHasil dari …",
+        "pilihan": [
+            "15"
+        ],
+        "jawaban_benar": "15",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_18_pemb_img1.png]"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nAda 7 kotak peti, masing-masing diberi nomor 1 sampai 7. Buah jambu, melon, semangka, jeruk, mangga dan durian akan dimasukkan kedalam peti-peti tersebut dengan aturan sebagai berikut :\n> Durian harus dimasukkan ke peti nomor 4\n> Semangka tidak boleh diletakkan tepat disamping melon\n> Jeruk harus diletakkan disamping mangga\nJika melon diletakkan di peti nomor 2, maka mana yang tidak boleh dilakukan ?",
+        "pilihan": [
+            "Jeruk diletakkan di peti nomor 5",
+            "Semangka diletakkan di nomor 3",
+            "Mangga diletakkan di peti nomor 7",
+            "Semangka diletakkan di peti nomor 5",
+            "Jambu diletakkan di peti nomor"
+        ],
+        "jawaban_benar": "Semangka diletakkan di nomor 3",
+        "pembahasan": "Sesuai dengan syarat kedua bahwa semangka tidak boleh diletakkan tepat di samping melon. Kalau melon berada di peti nomor 2 maka semangka tidak boleh berada di peti nomor 1 atau 3."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nDi sebuah kelas, terdapat 6 siswa yang duduk sejajar. Susunan tempat duduk mereka harus mengikuti aturan berikut:\n1) Lutfia ingin duduk di sebelah Zahara.\n2) Nay tidak duduk di ujung barisan.\n3) Arian duduk diantara Lutfia dan Ridwan.\n4) Arsy duduk disalah satu ujung barisan\n5) Nay duduk disebelah Ridwan\nPertanyaannya adalah, dimanakah posisi Zahara?",
+        "pilihan": [
+            "Di antara Arsy dan Lutfia",
+            "Di sebelah Arian",
+            "Di sebelah Arsy",
+            "Di salah satu ujung barisan",
+            "Di sebelah Nay"
+        ],
+        "jawaban_benar": "Di salah satu ujung barisan",
+        "pembahasan": "Pertama, siapkan enam tempat untuk mengisi nama-nama.\nSelanjutnya susun pernyataan yang diketahui dari petunjuk yang paling jelas.\n• Arsy duduk disalah satu ujung barisan\nMaka, terdapat dua kemungkinan\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_20_pemb_img1.png]\nDari dua kemungkinan tersebut posisi Zahara berada di salah satu ujung barisan."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nBunga terdiri dari kelopak dan putik. Hubungan ini sama dengan…",
+        "pilihan": [
+            "Mobil terdiri dari kaca dan wiper",
+            "Komputer terdiri dari mouse dan printer",
+            "Gitar terdiri dari bodi dan senar",
+            "Sepeda terdiri dari pedal dan lampu",
+            "Kaktus terdiri dari duri dan pot"
+        ],
+        "jawaban_benar": "Gitar terdiri dari bodi dan senar",
+        "pembahasan": "Kelopak dan putik adalah bagian utama bunga yang bekerja bersama dalam proses reproduksi, mirip dengan bodi dan senar pada gitar yang berfungsi bersama untuk menghasilkan suara. Opsi lain, seperti kaca dan wiper, mouse dan printer, pedal dan lampu, serta duri dan pot, tidak membentuk satu kesatuan fungsi utama seperti kelopak dan putik pada bunga. Oleh karena itu, jawaban yang tepat adalah gitar terdiri dari bodi dan senar."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSemua pegawai di departemen IT mengikuti pelatihan keamanan data.\nSebagian pegawai di departemen HR mengikuti pelatihan keamanan data.\nTidak semua pegawai di departemen IT mengikuti pelatihan manajemen proyek.\nTidak ada pegawai di departemen HR yang mengikuti pelatihan manajemen proyek.\nManakah kesimpulan yang paling tepat berdasarkan premis-premis di atas?",
+        "pilihan": [
+            "Semua pegawai di departemen IT mengikuti pelatihan manajemen proyek.",
+            "Sebagian pegawai di departemen HR mengikuti pelatihan manajemen proyek.",
+            "Tidak ada pegawai di departemen IT yang mengikuti pelatihan keamanan data.",
+            "Ada pegawai di departemen HR yang mendapatkan pelatihan manajemen proyek.",
+            "Sebagian pegawai di departemen IT tidak mengikuti pelatihan manajemen proyek."
+        ],
+        "jawaban_benar": "Sebagian pegawai di departemen IT tidak mengikuti pelatihan manajemen proyek.",
+        "pembahasan": "Premis ketiga menyatakan bahwa tidak semua pegawai di departemen IT mengikuti pelatihan manajemen proyek, yang berarti sebagian dari mereka tidak mengikuti pelatihan tersebut. Oleh karena itu, kesimpulan yang paling tepat adalah opsi E."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSemua karyawan tetap di perusahaan X mendapatkan tunjangan kesehatan.\nTidak ada karyawan kontrak di perusahaan X yang mendapatkan tunjangan kesehatan.\nKesimpulan dari kedua premis di atas adalah ...",
+        "pilihan": [
+            "Tidak semua karyawan tetap di perusahaan X adalah karyawan kontrak.",
+            "Semua karyawan kontrak di perusahaan X adalah karyawan tetap.",
+            "Tidak ada karyawan tetap di perusahaan X yang berstatus karyawan kontrak.",
+            "Tidak semua karyawan kontrak di perusahaan X mendapatkan tunjangan kesehatan.",
+            "Semua karyawan di perusahaan X mendapatkan tunjangan kesehatan."
+        ],
+        "jawaban_benar": "Tidak ada karyawan tetap di perusahaan X yang berstatus karyawan kontrak.",
+        "pembahasan": "Premis pertama menyatakan bahwa semua karyawan tetap di perusahaan X mendapatkan tunjangan kesehatan, sementara premis kedua menyatakan bahwa tidak ada karyawan kontrak di perusahaan X yang mendapatkan tunjangan kesehatan. Dengan demikian, kesimpulannya adalah tidak ada karyawan tetap di perusahaan X yang berstatus karyawan kontrak, karena tunjangan kesehatan hanya diberikan kepada karyawan tetap, dan tidak kepada karyawan kontrak."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nTidak ada pegawai baru yang mendapatkan bonus.\nPegawai yang mendapatkan bonus mendapatkan pelatihan.\nKesimpulan dari kedua premis di atas adalah ...",
+        "pilihan": [
+            "Pegawai baru tidak mendapatkan pelatihan.",
+            "Pegawai baru mungkin mendapatkan pelatihan.",
+            "Beberapa pegawai baru mendapatkan bonus.",
+            "Semua pegawai baru mendapatkan pelatihan.",
+            "Semua pegawai yang tidak mendapatkan bonus juga mendapatkan pelatihan."
+        ],
+        "jawaban_benar": "Pegawai baru mungkin mendapatkan pelatihan.",
+        "pembahasan": "Premis pertama menyatakan bahwa tidak ada pegawai baru yang mendapatkan bonus.\nPremis kedua mengatakan bahwa pegawai yang mendapatkan bonus mendapatkan pelatihan.\nKarena kita berbicara tentang pegawai yang tidak mendapatkan bonus (pegawai baru), kita tidak bisa menyimpulkan secara pasti apakah mereka mendapatkan pelatihan atau tidak. Oleh karena itu, kesimpulan yang paling mungkin adalah pegawai baru mungkin mendapatkan pelatihan."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nSemua mahasiswa jurusan Teknik Informatika memiliki laptop.\nTidak ada mahasiswa yang memiliki laptop yang kesulitan mengakses internet.\nKesimpulan dari kedua premis di atas adalah ...",
+        "pilihan": [
+            "Sebagian mahasiswa jurusan Teknik Informatika kesulitan mengakses internet.",
+            "Tidak semua mahasiswa jurusan Teknik Informatika bisa mengakses internet.",
+            "Sebagian mahasiswa yang memiliki laptop tidak bisa mengakses internet.",
+            "Semua mahasiswa yang kesulitan mengakses internet adalah mahasiswa jurusan Teknik Informatika.",
+            "Semua mahasiswa jurusan Teknik Informatika tidak kesulitan mengakses internet."
+        ],
+        "jawaban_benar": "Semua mahasiswa jurusan Teknik Informatika tidak kesulitan mengakses internet.",
+        "pembahasan": "Premis pertama menyatakan bahwa semua mahasiswa Teknik Informatika memiliki laptop.\nPremis kedua menyatakan bahwa mahasiswa yang memiliki laptop tidak kesulitan mengakses internet.\nJadi, kesimpulannya adalah semua mahasiswa Teknik Informatika tidak kesulitan mengakses internet."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Perhatikan objek kotak (lingkaran merah) pada baris pertama dan kedua. Objek kotak tersebut bergerak 1 langkah searah jarum jam dan berubah warna dari hitam ke putih begitupun sebaliknya. Maka opsi yang mungkin adalah A, B dan C.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_26_pemb_img1.png]\nKemudian perhatikan objek garis (lingkaran biru) pada baris pertama dan kedua, bergerak 1 langkah searah jarum jam.\nGambar yang tepat adalah sebagai berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_26_pemb_img2.png]\nMaka opsi yang tepat adalah B"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Perhatikan objek kotak pada baris pertama (lingkaran merah). Objek kotak tersebut bergerak 1 langkah searah jarum jam. Maka opsi yang mungkin adalah B, C, D dan E.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_27_pemb_img1.png]\nKemudian perhatikan objek persegi panjang (lingkaran biru) pada baris pertama bergerak 1 langkah berlawanan arah jarum jam.\nGambar yang tepat adalah sebagai berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_27_pemb_img2.png]\nMaka opsi yang tepat adalah C."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Pada setiap kotak berisi objek segitiga, lingkaran, dan garis. Setiap kotak memiliki pola yang sama, yaitu ketika objek tersebut muncul di kotak pertama, lalu muncul kembali di kotak kedua, maka pada kotak ketiga objek tersebut tidak muncul kembali.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_28_pemb_img1.png]\nKetika objek tersebut tidak muncul di kotak pertama, lalu muncul di kotak kedua, maka pada kotak ketiga objek tersebut akan muncul kembali.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_28_pemb_img2.png]\nKetika objek tersebut muncul di kotak pertama, lalu tidak muncul kembali di kotak kedua, maka pada kotak ketiga objek tersebut akan muncul kembali.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_28_pemb_img3.png]\nPola yang sama berlaku untuk baris ketiga. Maka jawaban yang tepat adalah E."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Gambar 1 di rotasi sebesar 90° searah jarum jam sehingga gambarnya menjadi,\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_29_pemb_img1.png]\nKemudian terjadi pencerminan secara vertikal, sehingga gambarnya menjadi,\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_29_pemb_img2.png]\nMaka pola yang sama juga terjadi pada gambar 3,\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_29_pemb_img3.png]\nGambar 3 di rotasi sebesar 90° searah jarum jam sehingga gambarnya menjadi\nKemudian terjadi pencerminan secara vertikal, sehingga gambarnya menjadi,\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_29_pemb_img4.png]"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Pada gambar tersebut setiap elemen bergeser 2 langkah searah jarum jam, lalu setiap elemen yang berwarna hitam berubah menjadi putih, dan elemen putih berubah menjadi hitam.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_30_pemb_img1.png]\nMaka opsi yang tepat adalah opsi C"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Perhatikan setiap gambar pada opsi, Gambar A, B, C dan D memiliki gambar yang sama.\n• Gambar A sebagai posisi awal\n• Gambar B merupakan Gambar A yang dirotasi 180° searah jarum jam\n• Gambar C merupakan Gambar A yang dirotasi 90° searah jarum jam\n• Gambar D merupakan Gambar A yang dirotasi 270° searah jarum jam"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Pada opsi A, B, C, dan D objek yang dilingkari terletak disebelah kiri tanda panah. Sedangkan pada opsi E, objeknya terletak disebelah kanan tanda panah.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_32_pemb_img1.png]\nMaka opsi yang tepat adalah opsi E"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Setiap kotak berisi objek segi empat hitam dan garis. Pola objek segi empat dari kotak pertama sampai keempat adalah bergerak satu langkah berlawanan arah jarum jam. Pola garis dari kotak pertama sampai keempat adalah bergerak 1 1/2 langkah berlawanan arah jarum jam. Maka serial gambar selanjutnya yang tepat adalah A."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Pola serial pada soal adalah pola gabungan. Ketika kotak pertama dan kotak kedua digabungkan akan membentuk pola pada kotak ketiga. Pada kotak pertama terdapat objek setengah lingkaran atas, satu lingkaran kecil hitam, dan satu lingkaran kecil putih. Pada kotak kedua terdapat objek setengah lingkaran bawah dan dua lingkaran kecil hitam. Ketika objek setengah lingkaran atas pada kotak pertama digabungkan dengan objek setengah lingkaran bawah pada kotak kedua, maka akan membentuk objek lingkaran besar pada kotak ketiga. Ketika objek lingkaran kecil hitam pada kotak pertama digabungkan dengan objek lingkaran kecil hitam pada kotak kedua, maka akan membentuk objek lingkaran kecil hitam pada kotak ketiga. Ketika objek lingkaran kecil putih pada kotak pertama digabungkan dengan objek lingkaran kecil hitam pada kotak kedua, maka pada kotak ketiga objek lingkaran kecil tersebut akan menghilang. Pola yang sama terjadi untuk gabungan kotak keempat dan kelima akan membentuk pola pada kotak keenam. Maka serial gambar selanjutnya yang tepat adalah A."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nPerhatikan gambar berikut!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Perhatikan objek garis pada baris pertama berotasi 45° searah jarum jam.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_35_pemb_img1.png]\nKemudian objek segitiga hitam kecil pada kotak pertama ke kotak kedua bertambah satu dan berlawanan arah jarum jam.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_35_pemb_img2.png]\nMaka opsi yang tepat untuk mengisi gambar baris ketiga kolom ketiga adalah A\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1055/gambar/soal_35_pemb_img3.png]"
+    }
+]

@@ -1,0 +1,438 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\n26, 27, 36, 38, 48, X, Y ...",
+        "pilihan": [
+            "49 dan 60",
+            "50 dan 61",
+            "51 dan 62",
+            "52 dan 63",
+            "53 dan 64"
+        ],
+        "jawaban_benar": "51 dan 62",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_1_pemb_img1.png]"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\n220, 222, 444, 446, 892, ...",
+        "pilihan": [
+            "890",
+            "891",
+            "892",
+            "893",
+            "894"
+        ],
+        "jawaban_benar": "894",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_2_pemb_img1.png]"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\n62, 63, 126, 127, 254, 255, 510, ...",
+        "pilihan": [
+            "510",
+            "511",
+            "512",
+            "513",
+            "514"
+        ],
+        "jawaban_benar": "511",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_3_pemb_img1.png]"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\n4 : 1,5 – 1 + 1,33 = ...",
+        "pilihan": [
+            "5/6",
+            "2 1/6",
+            "3"
+        ],
+        "jawaban_benar": "3",
+        "pembahasan": "Adapun aturan / urutan yang benar adalah sebagai berikut :\n1.\nJika ada tanda kurung, kerjakan lebih dahulu\n2.\nPerkalian dan Pembagian dikerjakan lebih selanjutnya, kedudukan setingkat maka kerjakan dari kiri.\n3.\nPenjumlahan dan Pengurangan dikerjakan selanjutnya, kedudukan setingkat maka dikerjakan dari kiri\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_4_pemb_img1.png]"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\n2 + 5 3/4 - 1/2 : 0,67 = ...",
+        "pilihan": [
+            "7"
+        ],
+        "jawaban_benar": "7",
+        "pembahasan": "Adapun aturan / urutan yang benar adalah sebagai berikut :\n1.\nJika ada tanda kurung, kerjakan lebih dahulu\n2.\nPerkalian dan Pembagian dikerjakan lebih selanjutnya, kedudukan setingkat maka kerjakan dari kiri.\n3.\nPenjumlahan dan Pengurangan dikerjakan selanjutnya, kedudukan setingkat maka dikerjakan dari kiri\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_5_pemb_img1.png]"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\n8 1/4 + 1/5 - 3,5 + 0,8 = ....",
+        "pilihan": [
+            "3,5",
+            "4,25",
+            "5,75"
+        ],
+        "jawaban_benar": "5,75",
+        "pembahasan": "Adapun aturan / urutan yang benar adalah sebagai berikut :\n1.\nJika ada tanda kurung, kerjakan lebih dahulu\n2.\nPerkalian dan Pembagian dikerjakan lebih selanjutnya, kedudukan setingkat maka kerjakan dari kiri.\n3.\nPenjumlahan dan Pengurangan dikerjakan selanjutnya, kedudukan setingkat maka dikerjakan dari kiri\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_6_pemb_img1.png]"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "x > y",
+            "x = y",
+            "x < y",
+            "x = xy",
+            "Hubungan x dan y tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "x ketika dipangkatkan x berjumlah 46.656 yaitu di saat x = 6\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_7_pemb_img1.png]"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "a < b",
+            "a > b",
+            "a = b",
+            "ab = 0",
+            "Hubungan a dan b tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "a = b",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_8_pemb_img1.png]"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\n... : DIA = KAMI : ...",
+        "pilihan": [
+            "Saya; Kita",
+            "Kamu; Anda",
+            "Beliau; Saya",
+            "Mereka; Aku",
+            "Aku; Kita"
+        ],
+        "jawaban_benar": "Mereka; Aku",
+        "pembahasan": "MEREKA : DIA = KAMI : AKU.\nKeduanya sama-sama mempunyai hubungan tentang “kata ganti jamak dan kata ganti tunggal”.\nMereka adalah kata ganti jamak orang ketiga dan Dia adalah kata ganti tunggal orang ketiga, sedangkan Kami adalah kata ganti jamak orang pertama dan Saya adalah kata ganti tunggal orang pertama."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nPOP : ... = ... : ILMU",
+        "pilihan": [
+            "Musik; Farmakologi",
+            "Budaya; Pelajaran",
+            "Penyanyi; Peneliti",
+            "Seniman; Pelajar",
+            "Teater; Seminar"
+        ],
+        "jawaban_benar": "Musik; Farmakologi",
+        "pembahasan": "POP : MUSIK = FARMAKOLOGI : ILMU.\nKeduanya sama-sama mempunyai hubungan “salah satu jenis”\nPop merupakan salah satu jenis cabang Musik, sedangkan Farmakologi merupakan salah satu jenis cabang Ilmu."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nPANGGUNG : ... = ... : PETINJU",
+        "pilihan": [
+            "Pentas; Penonton",
+            "Drama; Atlet",
+            "Aktor; Ring",
+            "Musik; Wasit",
+            "Lakon ; Lawan"
+        ],
+        "jawaban_benar": "Aktor; Ring",
+        "pembahasan": "PANGGUNG : AKTOR = RING : PETINJU.\nKeduanya sama-sama mempunyai hubungan tentang “merupakan tempat ... beraksi”.\nPanggung merupakan tempat aktor beraksi, sedangkan ring merupakan tempat petinju beraksi."
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nTeks berikut digunakan untuk menjawab soal nomor 42-46.\nAnh, Kim, Cha, Park, dan Seo adalah lima mahasiswa yang mencalonkan diri menjadi Ketua Umum Himpunan Mahasiswa. Ada 3 program yang diajukan para calon, yaitu (i) program peningkatan keterampilan mahasiswa oleh Anh, Kim, dan Cha; (ii) program olahraga oleh Kim, Cha, dan Park; (iii) program peningkatan kesejahteraan oleh Park, Seo, dan Anh. Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya.\nHasil pemungutan suara adalah sebagai berikut.\na.\n60 anggota memilih program peningkatan keterampilan mahasiswa.\nb.\n45 anggota memilih program olahraga.\nc.\n90 anggota memilih program peningkatan kesejahteraan.\nd.\nJumlah suara terbagi sama besar pada calon-calon yang memiliki program yang sama.\nCalon yang memperoleh suara terbanyak adalah ...",
+        "pilihan": [
+            "Anh",
+            "Kim",
+            "Cha",
+            "Park",
+            "Seo"
+        ],
+        "jawaban_benar": "Anh",
+        "pembahasan": "Dari informasi pada soal, dari lima orang mahasiswa (Anh, Kim, Cha, Park, dan Seo) yang mencalonkan diri menjadi ketua umum Himpunan Mahasiswa dengan program yang diajukan masing-masing calon sebagai berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_12_pemb_img1.png]\nDari tabel terlihat bahwa calon yang memperoleh suara terbanyak adalah Anh."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nTeks berikut digunakan untuk menjawab soal nomor 42-46.\nAnh, Kim, Cha, Park, dan Seo adalah lima mahasiswa yang mencalonkan diri menjadi Ketua Umum Himpunan Mahasiswa. Ada 3 program yang diajukan para calon, yaitu (i) program peningkatan keterampilan mahasiswa oleh Anh, Kim, dan Cha; (ii) program olahraga oleh Kim, Cha, dan Park; (iii) program peningkatan kesejahteraan oleh Park, Seo, dan Anh. Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya.\nHasil pemungutan suara adalah sebagai berikut.\na.\n60 anggota memilih program peningkatan keterampilan mahasiswa.\nb.\n45 anggota memilih program olahraga.\nc.\n90 anggota memilih program peningkatan kesejahteraan.\nd.\nJumlah suara terbagi sama besar pada calon-calon yang memiliki program yang sama.\nCalon yang memperoleh suara tersedikit adalah ...",
+        "pilihan": [
+            "Anh",
+            "Kim",
+            "Cha",
+            "Park",
+            "Seo"
+        ],
+        "jawaban_benar": "Seo",
+        "pembahasan": "Dari informasi pada soal, dari lima orang mahasiswa (Anh, Kim, Cha, Park, dan Seo) yang mencalonkan diri menjadi ketua umum Himpunan Mahasiswa dengan program yang diajukan masing-masing calon sebagai berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_13_pemb_img1.png]\nDari tabel terlihat bahwa calon yang memperoleh suara tersedikit adalah Seo."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nTeks berikut digunakan untuk menjawab soal nomor 42-46.\nAnh, Kim, Cha, Park, dan Seo adalah lima mahasiswa yang mencalonkan diri menjadi Ketua Umum Himpunan Mahasiswa. Ada 3 program yang diajukan para calon, yaitu (i) program peningkatan keterampilan mahasiswa oleh Anh, Kim, dan Cha; (ii) program olahraga oleh Kim, Cha, dan Park; (iii) program peningkatan kesejahteraan oleh Park, Seo, dan Anh. Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya.\nHasil pemungutan suara adalah sebagai berikut.\na.\n60 anggota memilih program peningkatan keterampilan mahasiswa.\nb.\n45 anggota memilih program olahraga.\nc.\n90 anggota memilih program peningkatan kesejahteraan.\nd.\nJumlah suara terbagi sama besar pada calon-calon yang memiliki program yang sama.\nAnh dan Kim memiliki perbedaan perolehan suara sebesar ...",
+        "pilihan": [
+            "15"
+        ],
+        "jawaban_benar": "15",
+        "pembahasan": "Dari informasi pada soal, dari lima orang mahasiswa (Anh, Kim, Cha, Park, dan Seo) yang mencalonkan diri menjadi ketua umum Himpunan Mahasiswa dengan program yang diajukan masing-masing calon sebagai berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_14_pemb_img1.png]\nPerbedaan perolehan suara calon Anh dan Kim sebesar: 50 – 35 = 15 suara."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nTeks berikut digunakan untuk menjawab soal nomor 42-46.\nAnh, Kim, Cha, Park, dan Seo adalah lima mahasiswa yang mencalonkan diri menjadi Ketua Umum Himpunan Mahasiswa. Ada 3 program yang diajukan para calon, yaitu (i) program peningkatan keterampilan mahasiswa oleh Anh, Kim, dan Cha; (ii) program olahraga oleh Kim, Cha, dan Park; (iii) program peningkatan kesejahteraan oleh Park, Seo, dan Anh. Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya.\nHasil pemungutan suara adalah sebagai berikut.\na.\n60 anggota memilih program peningkatan keterampilan mahasiswa.\nb.\n45 anggota memilih program olahraga.\nc.\n90 anggota memilih program peningkatan kesejahteraan.\nd.\nJumlah suara terbagi sama besar pada calon-calon yang memiliki program yang sama.\nUrutan dengan perolehan tiga suara terbanyak, dimulai dari yang terbanyak adalah ...",
+        "pilihan": [
+            "Anh – Park – Kim",
+            "Anh – Kim – Cha",
+            "Cha – Anh – Kim",
+            "Park – Kim – Seo",
+            "Seo – Cha – Anh"
+        ],
+        "jawaban_benar": "Anh – Park – Kim",
+        "pembahasan": "Dari informasi pada soal, dari lima orang mahasiswa (Anh, Kim, Cha, Park, dan Seo) yang mencalonkan diri menjadi ketua umum Himpunan Mahasiswa dengan program yang diajukan masing-masing calon sebagai berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_15_pemb_img1.png]\nUrutan perolehan tiga suara terbanyak:\nAnh – Park – Kim atau Anh – Park – Cha."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nTeks berikut digunakan untuk menjawab soal nomor 42-46.\nAnh, Kim, Cha, Park, dan Seo adalah lima mahasiswa yang mencalonkan diri menjadi Ketua Umum Himpunan Mahasiswa. Ada 3 program yang diajukan para calon, yaitu (i) program peningkatan keterampilan mahasiswa oleh Anh, Kim, dan Cha; (ii) program olahraga oleh Kim, Cha, dan Park; (iii) program peningkatan kesejahteraan oleh Park, Seo, dan Anh. Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya.\nHasil pemungutan suara adalah sebagai berikut.\na.\n60 anggota memilih program peningkatan keterampilan mahasiswa.\nb.\n45 anggota memilih program olahraga.\nc.\n90 anggota memilih program peningkatan kesejahteraan.\nd.\nJumlah suara terbagi sama besar pada calon-calon yang memiliki program yang sama.\nJika ketua terpilih mengangkat ketua seksi olahraga dari calon yang memperoleh suara terbanyak dan mengajukan program olahraga, maka yang menjadi seksi olahraga adalah ...",
+        "pilihan": [
+            "Anh",
+            "Kim",
+            "Cha",
+            "Park",
+            "Seo"
+        ],
+        "jawaban_benar": "Park",
+        "pembahasan": "Dari informasi pada soal, dari lima orang mahasiswa (Anh, Kim, Cha, Park, dan Seo) yang mencalonkan diri menjadi ketua umum Himpunan Mahasiswa dengan program yang diajukan masing-masing calon sebagai berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_16_pemb_img1.png]\nKetua seksi olahraga yang dipilih adalah Park, karena ia mengajukan program olahraga dan memperoleh suara terbanyak dari calon lain yang mengajukan program olahraga."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nSemua penipu pandai bicara dan ramah. Tuan X tidak ramah, tetapi pandai berbicara...",
+        "pilihan": [
+            "Tuan X seorang penipu yang pandai berbicara",
+            "Tuan X seorang penipu yang tidak ramah",
+            "Tuan X seorang penipu yang pandai bicara dan tidak ramah",
+            "Tuan X bukan seorang penipu, meskipun pandai berbicara",
+            "Tuan X bukan seorang penipu yang ramah"
+        ],
+        "jawaban_benar": "Tuan X bukan seorang penipu, meskipun pandai berbicara",
+        "pembahasan": "A = Pandai Bicara\nB = Ramah\nC = Penipu\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_17_pemb_img1.png]"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nNamdosan mendapat upah Rp248.500,00 dengan bekerja selama 7 jam.\nJika Namdosan bekerja selama 19 jam, maka upah yang akan Namdosan terima adalah ...",
+        "pilihan": [
+            "Rp569.000,00",
+            "Rp559.500,00",
+            "Rp674.500,00",
+            "Rp649.000,00",
+            "Rp769.000,00"
+        ],
+        "jawaban_benar": "Rp674.500,00",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_18_pemb_img1.png]"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nHarga 3 kg jeruk dan 4 kg apel adalah Rp 49.500,-, sedangkan harga 4 kg jeruk dan 3 kg apel adalah Rp 52.000,-. Harga 2 kg jeruk dan 1 kg apel adalah ...",
+        "pilihan": [
+            "Rp 14.000,-",
+            "Rp 18.000,-",
+            "Rp 23.000,-",
+            "Rp 27.000,-",
+            "Rp 34.000,-"
+        ],
+        "jawaban_benar": "Rp 23.000,-",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_19_pemb_img1.png]"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nJika Luna membeli krim pelembap wajah maka ia juga membeli toner. Jika Luna membeli toner maka Aliya membeli serum. Aliya membeli bedak.",
+        "pilihan": [
+            "Luna tidak membeli krim pelembab wajah",
+            "Aliya membeli toner",
+            "Luna membeli serum",
+            "Aliya tidak membeli krim yang mengandung serum",
+            "Luna membeli krim pelembab wajah"
+        ],
+        "jawaban_benar": "Luna tidak membeli krim pelembab wajah",
+        "pembahasan": "p = Luna membeli krim pelembap wajah\nq = Luna juga membeli toner\nr = Aliya membeli serum.\nP1 : p => q\nP2 : q => r\nP3 : ~r\nKesimpulan dari premis 1 dan premis 2 menggunakan silogisme yang mana didapat hasilnya p => r.\nKemudian kesimpulan dari premis 1 dan premis 2 ditulis menjadi premis 4.\nP4 : p => r\nP3 : ~r\nKesimpulan dari premis 4 dan premis 3 menggunakan modus tollens yang didapat hasilnya ~p\nJadi, kesimpulannya adalah Luna tidak membeli krim pelembab wajah."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSaya tidak bisa menjawab soal matematika atau saya pintar\nSaya bisa menjawab soal matematika",
+        "pilihan": [
+            "Saya pintar",
+            "Saya tidak pintar",
+            "Saya berhasil",
+            "Saya tidak berhasil",
+            "Tidak bisa ditarik kesimpulan"
+        ],
+        "jawaban_benar": "Saya pintar",
+        "pembahasan": "P1 : Saya tidak bisa menjawab soal matematika atau saya pintar : ~p ∨ q ≅ p => q\nP2 : Saya bisa menjawab soal matematika : p\nKesimpulannya menggunakan modus Ponens maka jawabannya adalah saya pintar."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nWaktu yang dibutuhkan untuk mengetik 210 kata adalah 1 menit. Untuk mengetik sebuah buku cerita membutuhkan waktu 4 jam. Bianca dan Jodi mempunyai kecepatan mengetik yang sama yaitu 105 kata per menit.\nBerapa waktu yang dibutuhkan Bianca dan Jodi untuk mengetik buku cerita yang sama secara bersamaan?",
+        "pilihan": [
+            "1 jam",
+            "2 jam",
+            "3 jam",
+            "4 jam",
+            "5 jam"
+        ],
+        "jawaban_benar": "4 jam",
+        "pembahasan": "Tips: jangan lupa konversi ke satuan waktu/jarak yang sama (contohnya: jam ubah ke menit)\nPada kalimat pertama dan kedua, buatlah rumus perbandingannya:\n210 : 1 = K : 4 jam\n210 : 1 = K : 240 menit\nK = 210.240\nK = 50.400 kata\nPada buku cerita tersebut terdapat 50.400 kata. “Bianca dan Jodi mempunyai kecepatan mengetik yang sama yaitu 105 kata per menit”, maka waktu yang dibutuhkan Bianca dan Jodi untuk mengetik buku tersebut secara bersamaan adalah:\n2(105) : 1 = 50.400 : B\n50.400 = 210.B\nB = 50.400 : 210 = 240 menit = 4 jam."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nJarak rumah Jack ke rumah Jill adalah 900 m. Jack berlari dengan kecepatan 30 m/menit.\nJack sampai di rumah Jill dalam waktu .... menit.",
+        "pilihan": [
+            "30"
+        ],
+        "jawaban_benar": "30",
+        "pembahasan": "Jarak = 900 m\nKecepatan = 30 m/menit\nDitanya Waktu?\nW = J : K\nW = 900 : 30 = 30 menit"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nSeojin menerima bonus 12% dari penjualan sebesar Rp4.000.000,00. Apabila Seojin awalnya telah menerima bonus sebesar Rp200.000,00, berapa bagiankah sisa bonus yang akan diterimanya?",
+        "pilihan": [
+            "2/13",
+            "3/11",
+            "7/12"
+        ],
+        "jawaban_benar": "7/12",
+        "pembahasan": "Bonus (dalam rupiah):\n12% × 4.000.000 = Rp480.000,00\nSisa bonus yang didapat:\nRp480.000,00 – Rp200.000,00 = Rp280.000,00\nBagian sisa bonus yang akan diterimanya\n280.000 / 480.000 = 7/12"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nJumlah pengikut (followers) di akun media sosial Rania, Fahira dan Tania berturut-turut 8 : 5 : 17.\nJika selisih followers Rania dan Tania adalah 180 akun, maka jumlah keseluruhan followers mereka bertiga adalah ...",
+        "pilihan": [
+            "520 akun",
+            "640 akun",
+            "480 akun",
+            "560 akun",
+            "600 akun"
+        ],
+        "jawaban_benar": "600 akun",
+        "pembahasan": "Buatlah kalimat matematikanya dulu:\nPerbandingan jumlah akun Rania (R), Fahira (F) dan Tania (T) berturut-turut 8 : 5 : 17\nMisalkan\nR = 8x\nF = 5x\nT = 17x\nIngat, selisih R dan T adalah 180 akun.\nT – R = 180\n17x – 8x = 180\n9x = 180\nx = 20\nJumlah keseluruhan followers di akun media sosial mereka bertiga:\nR + F + T = 8x + 5x + 17x = 30x = 30.20 = 600 akun"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nPada sebuah tempat pembuatan terompet mampu mempekerjakan 11 orang untuk pembuatan 132 buah terompet dalam waktu 5 hari. Jika pembuatan terompet sebanyak 144 buah dan dikerjakan oleh 6 orang  maka waktu yang dibutuhkan untuk menyelesaikan pembuatan terompet tersebut adalah …",
+        "pilihan": [
+            "10 hari",
+            "15 hari",
+            "20 hari",
+            "25 hari",
+            "30 hari"
+        ],
+        "jawaban_benar": "10 hari",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nPilihlah gambar (A), (B), (C), (D) atau (E) untuk melanjutkan pola gambar yang tersedia!",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Gambar terakhir pada urutan searah jarum jam berpindah ke urutan terakhir dengan arah berlawanan jarum jam. Sehingga pada gambar terakhir bulatan hitam dipindahkan dekat persegi putih"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nPilihlah gambar (A), (B), (C), (D) atau (E) untuk melanjutkan pola gambar yang tersedia!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Pola pergerakan gambar sebagai berikut :\n•\nSegitiga bergerak selangkah demi selangkah secara vertikal ke kiri ketika sampai ke ujung memantul lagi ke arah kanan dengan setiap perpindahan gambar berubah warna.\n•\nLingkaran bergerak selangkah demi selangkah secara vertikal ke kanan ketika sampai ke ujung memantul lagi ke arah kiri."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nPilihlah gambar (A), (B), (C), (D) atau (E) untuk melanjutkan pola gambar yang tersedia!",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Pola gerakan gambar mengikuti urutan nomor 1 – 5\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1036/gambar/soal_29_pemb_img1.png]"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nDi antara lima gambar di bawah ini, terdapat satu gambar yang tidak sama atau tidak mengikuti pola. Temukanlah gambar tersebut sebagai jawaban.",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Yang paling berbeda adalah opsi D karena opsi lainnya mempunyai sisi ganjil dan opsi D mempunyai sisi genap."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nDi antara lima gambar di bawah ini, terdapat satu gambar yang tidak sama atau tidak mengikuti pola. Temukanlah gambar tersebut sebagai jawaban.",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Yang paling berbeda adalah opsi A karena opsi lainnya mempunyai lengkungan sedangkan opsi A tidak mempunyai lengkungan."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nDi antara lima gambar di bawah ini, terdapat satu gambar yang tidak sama atau tidak mengikuti pola. Temukanlah gambar tersebut sebagai jawaban.",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Yang paling berbeda adalah opsi C karena lingkaran hitam tidak berada di persegi sedangkan opsi yang lain berada dalam persegi"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nPilihlah gambar (A), (B), (C), (D) atau (E) sebagai gambar (4) agar hubungan antara gambar (3) dan (4) seperti hubungan antara gambar (1) dan (2)!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Dari gambar 1 dan 2 didapat bahwa\n•\nBidang paling besar (segilima) menjadi bidang paling kecil, diputar 90 derajat searah jarum jam dan berubah warna.\n•\nBidang yang sedang (segitiga) menjadi bidang paling besar, diputar 90 derajat berlawanan arah jarum jam dan berubah warna.\n•\nBidang paling kecil (oval) berubah menjadi bidang yang sedang.\nJadi jawaban yang tepat dan mengikuti sifat di atas adalah B."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nPilihlah gambar (A), (B), (C), (D) atau (E) sebagai gambar (4) agar hubungan antara gambar (3) dan (4) seperti hubungan antara gambar (1) dan (2)!",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Dari gambar 1 dan 2 didapat bahwa\n•\nJarak dari A ke huruf C adalah maju 2 langkah\n•\nJarak dari I ke huruf H adalah mundur 1 langkah\n•\nJarak dari F ke huruf D adalah mundur 2 langkah\nJadi jawaban yang tepat dan mengikuti sifat di atas adalah D."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nPilihlah gambar (A), (B), (C), (D) atau (E) sebagai gambar (4) agar hubungan antara gambar (3) dan (4) seperti hubungan antara gambar (1) dan (2)!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Dari gambar 1 dan 2 didapat bahwa dua titik melambangkan dua garis pembentuk huruf.\nJadi jawaban yang tepat dan mengikuti sifat di atas adalah E."
+    }
+]

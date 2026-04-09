@@ -1,0 +1,459 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nSANGKURIANG : SUNDA  =  ...  :  ...",
+        "pilihan": [
+            "Oedipus : Yunani",
+            "Ranggawarsita : Jawa",
+            "Himalaya : Nepal",
+            "Gangga : India",
+            "Tengsin : Tibet"
+        ],
+        "jawaban_benar": "Oedipus : Yunani",
+        "pembahasan": "SANGKURIANG : SUNDA = Oedipus : Yunani"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nAwan : ... = ... : Listrik",
+        "pilihan": [
+            "Angin - Mesin",
+            "Mending - Aliran",
+            "Besar - Panjang",
+            "Air laut - Lampu",
+            "Hujan - Kabel"
+        ],
+        "jawaban_benar": "Angin - Mesin",
+        "pembahasan": "Awan digerakkan oleh angin sebagaimana mesin digerakkan oleh listrik."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\n3 4 7 19 13 39 21 64 ...",
+        "pilihan": [
+            "31"
+        ],
+        "jawaban_benar": "31",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_3_pemb_img1.png]"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\n3 7 6 12 11 17 18 22 ...",
+        "pilihan": [
+            "27"
+        ],
+        "jawaban_benar": "27",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_4_pemb_img1.png]"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nPolisi : ... = TNI : ...",
+        "pilihan": [
+            "Komisaris Polisi - Letnan",
+            "Ajun Komisaris Polisi - Kolonel",
+            "Komisaris Besar Polisi - Kapten",
+            "Ajun Komisaris Besar Polisi - Letnan Kolonel",
+            "Komisaris Jendral Polisi - Mayor Jendral"
+        ],
+        "jawaban_benar": "Ajun Komisaris Besar Polisi - Letnan Kolonel",
+        "pembahasan": "Polisi : Ajun Komisaris Besar Polisi = TNI : Letnan Kolonel"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\n9 25 23 57 19 ...",
+        "pilihan": [
+            "132",
+            "124",
+            "126",
+            "127",
+            "125"
+        ],
+        "jawaban_benar": "125",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_6_pemb_img1.png]"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nS N O P K R ...",
+        "pilihan": [
+            "G"
+        ],
+        "jawaban_benar": "G",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_7_pemb_img1.png]"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nNilai dari 37,5% dari 0,333 adalah ...",
+        "pilihan": [
+            "0,008",
+            "0,015",
+            "0,1",
+            "0,125",
+            "0,11"
+        ],
+        "jawaban_benar": "0,125",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_8_pemb_img1.png]"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nJika x = harga cetak/print 5 buku 160 halaman dengan harga Rp100/ lembar dan y = harga cetak/print 20 buku 60 halaman dengan harga Rp80/ lembar maka ...",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "x dan y tidak bisa ditentukan",
+            "2x > 3y"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_9_pemb_img1.png]"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nRata-rata dari 2125, 2135, 2145, 2155, 2165, 2175. 2185, 2195 adalah ...",
+        "pilihan": [
+            "2155,00",
+            "2155,50",
+            "2160,00",
+            "2165,50",
+            "2162.25"
+        ],
+        "jawaban_benar": "2160,00",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_10_pemb_img1.png]"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\n51% dari 576% dari 22/576 adalah ...",
+        "pilihan": [
+            "0,0221",
+            "0,1122",
+            "1,2452",
+            "4,2248",
+            "45,162"
+        ],
+        "jawaban_benar": "0,1122",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_11_pemb_img1.png]"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nDalam sebuah kegiatan kerja bakti, jika dikerjakan oleh 24 orang maka akan selesai dalam waktu 4 jam. Jika banyaknya yang datang adalah 36 orang maka banyaknya waktu yang diperlukan adalah ...",
+        "pilihan": [
+            "1 jam 30 menit",
+            "1 jam 50 menit",
+            "2 jam 40 menit",
+            "2 jam 45 menit",
+            "3 jam 20 menit"
+        ],
+        "jawaban_benar": "2 jam 40 menit",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_12_pemb_img1.png]"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nJarak kota A dan kota B adalah 320 km. Rendra berkendara dari kota A dengan kecepatan 30km/jam, sedangkan Ansori berkendara dari kota B dengan kecepatan 50km/jam. Jika mereka berdua berangkat pada jam yang sama yakni jam 08.00, mereka akan berpapasan pada pukul ...",
+        "pilihan": [
+            "10.00",
+            "11.00",
+            "12.00",
+            "13.00",
+            "14.00"
+        ],
+        "jawaban_benar": "12.00",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_13_pemb_img1.png]"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\n5, 5, 10, 25, 20, .....",
+        "pilihan": [
+            "145, 60",
+            "125, 40",
+            "100, 50",
+            "40, 120",
+            "50, 125"
+        ],
+        "jawaban_benar": "125, 40",
+        "pembahasan": "Ganjil : x5\nGenap : x2"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\n157, 165, 149, 181, 117, 245, .....",
+        "pilihan": [
+            "501",
+            "602",
+            "-47",
+            "439",
+            "-11"
+        ],
+        "jawaban_benar": "-11",
+        "pembahasan": "Langkah 1.\nJarak selisih : x4"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\n12, 30, 56, 90, .....",
+        "pilihan": [
+            "148",
+            "132",
+            "120",
+            "124",
+            "116"
+        ],
+        "jawaban_benar": "132",
+        "pembahasan": "Selisih 1 : +10, +18, +26, +34, ...\nSelisih 2 : +8"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nJarak antara kota A dan B adalah dua kali jarak antara kota C dan D. Kota E terletak ditengah-tengah antara kota C dan D. Selanjutnya, diketahui bahwa jarak antara kota C ke kota A sama dengan jarak kota D ke kota , yaitu setengah jarak kota A ke kota E. Dua kota dibawah ini yang jaraknya paling jauh adalah ...",
+        "pilihan": [
+            "Kota A dan B",
+            "Kota B dan E",
+            "Kota A dan E",
+            "Kota B dan D",
+            "Kota C dan B"
+        ],
+        "jawaban_benar": "Kota A dan B",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_17_pemb_img1.png]"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\n﻿\nTeks untuk menjawab soal 48 dan 49.\nDalam suatu ujian, nilai Rara lebih tinggi daripada Sita. Reni mendapat nilai tertinggi. Nilai Joko lebih tinggi daripada Rara. Sinta mendapatkan nilai paling rendah dibandingkan Rara, tetapi lebih tinggi daripada Sita.\nUrutan kelima anak berdasarkan nilai dimulai dari yang tertinggi adalah ...",
+        "pilihan": [
+            "Sinta, Sita, Rara, Joko, Reni",
+            "Reni, Joko, Sinta, Rara, Sita",
+            "Reni, Joko, Rara, Sinta, Sita",
+            "Reni, Rara, Sita, Sinta, Joko",
+            "Reni, Joko, Rara, Sita, Sinta"
+        ],
+        "jawaban_benar": "Reni, Joko, Rara, Sinta, Sita",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_18_pemb_img1.png]"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nJika ada siswa tambahan, Tono dan nilainya diantara dibawah Rara tetapi diatas Sinta, maka yang berada diurutan kelima adalah ...",
+        "pilihan": [
+            "Tono",
+            "Rara",
+            "Sinta",
+            "Sita",
+            "Joko"
+        ],
+        "jawaban_benar": "Sinta",
+        "pembahasan": "Urutan berdasarkan dari nilai tertinggi setelah ada Tono:\nReni>Joko>Rara>Tono>Sinta>Sita"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nAndi dan Hani adalah sahabat karib dari sebuah dusun kecil di Jawa Barat. Mereka sering bermain bersama disungai dan sudah seperti adik dan kakak sejak belia. Saat usia Andi 8 tahun, usia Hani setengah usia Andi. Saat ini usia Andi 20 tahun, maka usia Hani adalah ... tahun",
+        "pilihan": [
+            "16"
+        ],
+        "jawaban_benar": "16",
+        "pembahasan": "Andi 8 tahun - Hani 4 tahun\nAndi 20 tahun - Hani 16 tahun"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nBila semua X adalah A, sebagian X adalah B, maka ...",
+        "pilihan": [
+            "Semua X yang bukan A adalah B",
+            "Semua X yang bukan B adalah A",
+            "Semua B yang bukan X adalah A",
+            "Semua A yang bukan X adalah B",
+            "Semua X adalah A dan B"
+        ],
+        "jawaban_benar": "Semua X yang bukan B adalah A",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_21_pemb_img1.png]"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nPerhatikan gambar berikut !",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Gambar dirotasi 90 derajat berlawanan arah jarum jam."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSwiss : ... = ... : Abuja",
+        "pilihan": [
+            "Praha - Mozambik",
+            "Lisbon - Afrika Selatan",
+            "Zurich - Lebanon",
+            "Bern - Nigeria",
+            "Zurich - Pantai Gading"
+        ],
+        "jawaban_benar": "Bern - Nigeria",
+        "pembahasan": "Swiss : Bern = Nigeria : Abuja"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nCarilah gambar selanjurnya dari deret gamber berikut !",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Gambar berotasi 90 derajat searah jarum jam."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nCarikan gambar yang tepat untuk mengisi tanda tanya (?)",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Gambar berotasi 90 derajat berlawanan jarum jam."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nSemua orang yang bermental interpreneur hidup dengan makmur. Sebagian orang yang bermental interpreneur melakukan usaha wiraswasta. Jadi ...",
+        "pilihan": [
+            "Semua wiraswasta bermental interpreneur",
+            "Yang bermental interpreneur wiraswasta",
+            "Semua wiraswasta yang hidupnya makmur bermental interpreneur",
+            "Semua yang bermental interpreneur dan hidupnya makmur adalah wiraswasta",
+            "Semua yang bermental interpreneur dan hidupnya makmur melakukan wiraswasta"
+        ],
+        "jawaban_benar": "Semua wiraswasta yang hidupnya makmur bermental interpreneur",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nSebagian P adalah B. B bukan T. Sebagian P bukan M adalah T. Semua B, M dan T adalah P. Jadi ...",
+        "pilihan": [
+            "Semua T adalah T bukan M",
+            "Semua P adalah B bukan T",
+            "Semua P adalah B bukan M",
+            "Semua B yang bukan T adalah M",
+            "Sebagian P bukan T, bukan M, bukan B"
+        ],
+        "jawaban_benar": "Sebagian P bukan T, bukan M, bukan B",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_385\\gambar\\soal_27_pemb_img1.png]"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nJika A = B maka A tidak sama dengan C. Bila P = A maka ...",
+        "pilihan": [
+            "Bila P = C maka P = B",
+            "Bila P = C maka P tidak sama dengan A",
+            "Bila P = C maka tidak P tidak sama dengan B",
+            "Bila P = C maka P= A = B",
+            "Bila P = C maka B bukan A"
+        ],
+        "jawaban_benar": "Bila P = C maka P tidak sama dengan A",
+        "pembahasan": "Jika A = B maka A tidak sama dengan C\nBila P = C maka P tidak sama dengan A"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nKonvers dari pernyataan \"Jika saya mengantuk maka saya akan tidur\" adalah ...",
+        "pilihan": [
+            "Jika saya tidak mengantuk maka saya tidak akan tidur",
+            "Jika tidak tidur maka saya tidak mengantuk",
+            "Jika saya mengantuk maka saya kurang tidur",
+            "Jika saya akan tidur maka saya mengantuk",
+            "Jika tidak tidur maka saya akan megantuk"
+        ],
+        "jawaban_benar": "Jika saya akan tidur maka saya mengantuk",
+        "pembahasan": "Jika saya akan tidur maka saya mengantuk adalah konvers dari pernyataan tersebut (P>Q menjadi Q>P)."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nOlahragawan yang baik bersifat sportif. Orang yang sportif belum tentu olahragawan. Abdullah Hasan adalah juara tinju kelas ringan. Abdullah hasan adalah pegawai Bank Andalas. Seorang juara belum tentu sportif dalam bertanding. jadi ...",
+        "pilihan": [
+            "Abdullah Hasan mungkin bukan olahragawan yang baik",
+            "Abdullah Hasan bukan olahragawan yang baik",
+            "Abdullah Hasan bersifat Sportif",
+            "Abdullah Hasan adalah seorang olahragawan yang tidak sportif",
+            "Abdullah Hasan adalah olahragawan dan pegawai bank yang baik dan sportif"
+        ],
+        "jawaban_benar": "Abdullah Hasan mungkin bukan olahragawan yang baik",
+        "pembahasan": "Tidak ada hubungan antara juara dan olahragawan yang baik. Sehingga Abdullah Hasan mungkin bukan seorang olahragawan yang baik, meskipun juara tinju kelas ringan."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nPak Ali menghemat biaya perjalanan dari kota A ke kota C. Rute perjalanan tersebut harus dilakukan dengan dua kali penerbangan, dari kota A ke kota B, lalu dilanjutkan lagi dari kota B ke kota C. Tarif maskapai burung dari kota A ke kota B lebih mahal daripada maskapai rusa, tetapi tidak melebihi tarif maskapai ular. Tarif maskapai ular dari kota B ke kota C kurang dari tarif maskapai burung, tetapi sama dengan tarif maskapai rusa. maskapai yang dipilih oleh Pak Ali dalam dua penerbangan tersebut adalah ...",
+        "pilihan": [
+            "Ular dan rusa",
+            "Burung dan ular",
+            "Rusa dan ular",
+            "Rusa dan burung"
+        ],
+        "jawaban_benar": "Rusa dan ular",
+        "pembahasan": "Kota A ke B: Ular =  burung > rusa\nKota B ke C: Burung > ular = Rusa\nUntuk menghemat pak Ali memilih maskapai Rusa dan Ular."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nP, Q, R, S dan T adalah lima orang diplomat. P hanya dapat berbicara bahasa inggris dan jerman. Q hanya berbicara dalam bahasa perancis, jepang dan cina. R hanya dapat berbicara bahasa jerman. S hanya bisa berbicara bahasa inggris, jepang dan cina. T hanya dapat berbicara dalam bahasa perancis dan jerman. Satu-satunya pasangan diplomat yang harus menggunakan penerjemah dalam berkomunikasi adalah ...",
+        "pilihan": [
+            "P dan R",
+            "Q dan R",
+            "R dan T",
+            "Q dan S",
+            "P dan T"
+        ],
+        "jawaban_benar": "Q dan R",
+        "pembahasan": "Q = Perancis, jepang dan cina\nR = Jerman"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nPerhatikan gambar berikut !",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Pada dasarnya gambar A, B, C dan E adalah sama hanay berbeda karena rotasi gambar. gambar D berbeda pada posisi warna abu-abu dan hitam."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nParagraf berikut untuk soal nomor 64 dan 65 !\nPopulasi dan pertumbuhan penjualan sepeda motor setidaknya bisa juga menjadi indikator adanya pemulihan ekonomi. Sepeda motor merupakan pilihan yang paling baik untuk saat ini bagi banyak masyarakat khususnya kalangan menengah kebawah karena harga kendaraan roda dua ini masih terjangkau.  \"selain itu, masyarakat tidak bisa sepenuhnya mengandalkan transportasi publik yang makin buruk\", kata Ketua Umum Asosiasi Industri Sepeda Motor Indonesia (AISI), Ridwan Gunawan, menyangkut  evaluasi sektor industri otomotif, khususnya produk sepeda motor di jakarta belum lama ini.\nMenyangkut pilihan konsumen antara sepeda motor dan mobil, Ridwan menuturkan meski ada mobil yang makin murah dari waktu ke waktu, kondisi tersebut belum bisa menggantikan penjualan sepeda motor hingga kini. Harga jual mobil masih berlipat-lipat dibandingkan dengan sepeda motor yang paling populer di Indonesia, yaitu bebek dan matic.\nIde pokok paragraf pertama diatas adalah ...",
+        "pilihan": [
+            "Penjualan sepeda motor sebagai indikator pemulihan ekonomi",
+            "Masyarakat lebih memilih sepeda motor dibandingkan dengan mobil",
+            "Evaluasi penjualan sepeda motor",
+            "Sepeda motor bebek dan matic paling populer",
+            "Masyarakat menengah kebawah lebih memilih sepeda motor"
+        ],
+        "jawaban_benar": "Penjualan sepeda motor sebagai indikator pemulihan ekonomi",
+        "pembahasan": "Ide pokok paragraf pertama diatas terletak diawal paragraf (deduktif)."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nModel kalimat utama didalam paragraf pertama dari penggalan teks tersebut merupakan salah satu contoh bentuk paragraf ...",
+        "pilihan": [
+            "Deduktif",
+            "Induktif",
+            "Deskriptif",
+            "Evaluatif",
+            "Analitif"
+        ],
+        "jawaban_benar": "Deduktif",
+        "pembahasan": "Paragraf deduktif menempatkan inti paragraf diawal dibandingkan induktif yang menempatkan inti paragraf diakhir."
+    }
+]

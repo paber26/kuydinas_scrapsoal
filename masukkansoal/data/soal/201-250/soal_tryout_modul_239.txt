@@ -1,0 +1,399 @@
+Soal 1:
+ELEGI = .....
+A. Prosa kematian
+B. Puisi duka/sedih
+C. Puisi cinta
+D. Prosa kehidupan
+E. Puisi religi
+
+==================================================
+
+Soal 2:
+IMPLISIT = .....
+A. Terdalam
+B. Bermakna
+C. Tersurat
+D. Terbuka
+E. Tersirat
+
+==================================================
+
+Soal 3:
+ULTIMA >< ...
+A. Final
+B. Akhir
+C. Awal
+D. Peringatan
+E. Perang
+
+==================================================
+
+Soal 4:
+PERLOP >< ...
+A. Kerja
+B. Datang
+C. Absen
+D. Masuk
+E. Pulang
+
+==================================================
+
+Soal 5:
+DANA : PENGGELAPAN = ... : ...
+A. Uang : Brankas
+B. Deposito : Perbankan
+C. Cek : Akuntansi
+D. Karya tulis : Penjiplakan
+E. Kuitansi : Saldo
+
+==================================================
+
+Soal 6:
+BAIT : PUISI = ... : ...
+A. Hiasan dinding : Lukisan
+B. Drama : Dialog
+C. Indonesia Raya : Lagu kebangsaan
+D. Sajak : Prosa
+E. Genting : Rumah
+
+==================================================
+
+Soal 7:
+Terdapat 7 bilangan berurutan yang jika dijumlahkan nilainya adalah 280.
+Berapa hasil kali dari bilangan terkecil dan terbesar?
+A. 1345
+B. 1451
+C. 1591
+D. 1635
+E. 1322
+
+==================================================
+
+Soal 8:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_239/soal_8_img1.png)
+A. A
+B. E
+C. D
+D. C
+E. B
+
+==================================================
+
+Soal 9:
+Daren memiliki selembar pita. Saat bertemu saudara sepupunya, pita
+tersebut dibagi 2 sama panjang. Kemudian sepupu Daren tersebut membagi
+pita pemberian Daren tadi dengan 2 orang adiknya, ia mendapat setengah
+bagian, adik pertama mendapat sepertiga bagian dan sisanya untuk adik
+kedua. Berapa bagiankah yang diterima adik kedua?
+A. 1/8
+B. 1/5
+C. 1/4
+D. 1/10
+E. 1/12
+
+==================================================
+
+Soal 10:
+0,14025 : 0,5 = q : 0,2 x 0,12 Nilai q adalah …
+A. 0,4756
+B. 0,4655
+C. 0,4765
+D. 0,4675
+E. 0,4657
+
+==================================================
+
+Soal 11:
+Perbandingan umur Doni dan Dono adalah 3:9. Jika jumlah umur mereka
+adalah 24 tahun, berapa umur Dono?
+A. 18
+B. 21
+C. 19
+D. 17
+E. 20
+
+==================================================
+
+Soal 12:
+Jika populasi suatu Negara bertambah 12 orang setiap 5 menit, berapa
+banyak pertambahan populasinya selama 2 jam 5 menit?
+A. 500
+B. 300
+C. 400
+D. 600
+E. 700
+
+==================================================
+
+Soal 13:
+Delapan tahun yang lalu usia Eko adalah 1/3 dari usianya yang sekarang.
+Lima belas tahun yang akan datang perbandingan antara usia Eko dan
+Fajar adalah 3:5. Berapa tahunkah usia Fajar lima tahun yang akan datang?
+A. 55
+B. 45
+C. 15
+D. 35
+E. 25
+
+==================================================
+
+Soal 14:
+Bobby melihat jam dinding menunjukkan pukul 17.30. sudut terkecil yang
+dibentuk antara jarum pendek dan jarum panjang adalah….
+A. 15 derajat
+B. 35 derajat
+C. 35 derajat
+D. 0 derajat
+E. 10 derajat
+
+==================================================
+
+Soal 15:
+Jika diameter bandul ini 20 mm, serta tinggi kedua kerucut sama. Berapa
+berat bandul jika 1 mm3 = 0,5 kg?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_239/soal_15_img1.png)
+A. 1.203,67 kg
+B. 1.250,78 kg
+C. 1.300,65 kg
+D. 1.450,67 kg
+E. 1.200,43 kg
+
+==================================================
+
+Soal 16:
+Luas permukaan sebuah kerucut adalah 4069,44 cm². Jari-jari kerucut
+adalah 16 cm. Berapakah volume kerucut? (
+π
+= 3,14)
+A. 3.798 cm²
+B. 4.120 cm²
+C. 3.800 cm²
+D. 3.978 cm²
+E. 3.980 cm²
+
+==================================================
+
+Soal 17:
+Panjang sebuah persegi panjang adalah (3/2x + 4). Lebarnya adalah
+(7/3x + 9). Jika kelilingnya adalah 210 cm, maka nilai x ?
+A. 21
+B. 32
+C. 30
+D. 24
+E. 26
+
+==================================================
+
+Soal 18:
+Diameter sebuah lingkaran adalah (2x – 4) cm. Jika kelilingnya adalah 44
+cm. Berapakah nilai x?
+A. 14
+B. 16
+C. 9
+D. 10
+E. 13
+
+==================================================
+
+Soal 19:
+Suku ke- 35 dari deret berikut 3, 6, 9, 12 ,… adalah …
+A. 125
+B. 133
+C. 105
+D. 93
+E. 113
+
+==================================================
+
+Soal 20:
+Suku ke-14 dari deret berikut 1, 4, 9, 16, 25, … adalah …
+A. 225
+B. 196
+C. 144
+D. 121
+E. 169
+
+==================================================
+
+Soal 21:
+A B B C D E E F G H …
+A. J
+B. L
+C. H
+D. I
+E. K
+
+==================================================
+
+Soal 22:
+Bacaan untuk soal 22-25
+Di tempat parkir sebuah rumah ada 6 buah garasi untuk 6 penghuninya.
+Karena bentuk dan kualitasnya berbeda, 6 penghuni tersebut diberi hak
+parkir pada tempat-tempat tertentu sebagai berikut:
+1. F tidak boleh parkir di nomor 4 dan 6
+2. G hanya boleh parkir di 5 dan 6
+3. H hanya boleh parkir di 1 dan 3
+4. I hanya boleh parkir di 2 dan 4
+5. J hanya boleh parkir di 1, 3, dan 5
+6. K tidak boleh parkir di 3 dan 6
+Saat I pulang kelima, penghuni lain telah memarkir mobilnya. Jika K parkir
+di nomor 1, I pasti parkir di....
+A. 2
+B. 4
+C. 6
+D. 3
+E. 5
+
+==================================================
+
+Soal 23:
+Misal K pulang terakhir dan yang lain telah memarkir mobilnya. Jika I
+parkir di nomor 2, K pasti parkir di nomor ...
+A. 1
+B. 6
+C. 4
+D. 3
+E. 5
+
+==================================================
+
+Soal 24:
+Misal K pulang dulu dan parkir di nomor 2, kemudian disusul oleh F, H, I,
+dan J serta terakhir G, dapat dipastikan G akan parkir di nomor ...
+A. 3
+B. 6
+C. 4
+D. 1
+E. 5
+
+==================================================
+
+Soal 25:
+Dari sekelompok anak terdapat 20 anak gemar bulutangkis, 15 anak gemar
+tenis meja, dan 17 anak gemar keduanya. Jumlah anak dalam kelompok
+tersebut adalah…
+A. 17
+B. 15
+C. 20
+D. 18
+E. 25
+
+==================================================
+
+Soal 26:
+Dalam suatu kelas terdapat 37 siswa, setelah dicatat terdapat 28 anak senang
+olahraga, 26 anak senang membaca, dan 5 orang anak tidak senang olahraga
+maupun membaca. Banyak anak yang senang olahraga dan senang membaca
+adalah…
+A. 24
+B. 22
+C. 18
+D. 20
+E. 26
+
+==================================================
+
+Soal 27:
+Sekarang anda mengikuti ujian CPNS, apabila jumlah peserta sebanyak
+12.800 orang tetapi kursi yang diperebutkan hanya 500 kursi, dan pada saat
+tes berlangsung ada 8% peserta yang tidak mengikuti tes tersebut, maka
+peluang lolos tes tersebut adalah….
+A. 4,9%
+B. 4,6%
+C. 3,9%
+D. 4,2%
+E. 3,6%
+
+==================================================
+
+Soal 28:
+Peluang munculnya 2 buah dadu yang memiliki jumlah 7 apabila dilempar
+sebanyak 180 kali adalah ...
+A. 30
+B. 20
+C. 35
+D. 15
+E. 25
+
+==================================================
+
+Soal 29:
+Negasi dari pernyataan “ semua mahasiswa mengganggap soal Ujian
+Komprehensif sukar” adalah .....
+A. Semua mahasiswa soal Ujian Komprehensif sukar.
+B. Ada mahasiswa tidak menganggap soal Ujian Komprehensif tidak sukar.
+C. Tidak seorang pun murid mengganggap soal Ujian Komprehensif sukar.
+D. Ada mahasiswa menganggap soal ujian Komprehensif tidak sukar.
+E. Beberapa mahasiswa menganggap soal Ujian Komprehensif sukar.
+
+==================================================
+
+Soal 30:
+Diketahui pernyataan :
+P 1 : “Semua yang halal dimakan menyehatkan.”
+P 2 : “Sebagian makanan tidak menyehatkan.”
+Maka kesimpulan yang dapat diambil adalah ...
+A. Sebagian makanan tidak menyehatkan halal dimakan.
+B. Sebagian makanan tidak halal dimakan.
+C. Tidak dapat diambil kesimpulan.
+D. Semua yang tidak menyehatkan tidak halal dimakan.
+E. Semua yang halal pasti menyehatkan.
+
+==================================================
+
+Soal 31:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_239/soal_31_img1.png)
+A. D
+B. A
+C. B
+D. C
+E. E
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_239/soal_32_img1.png)
+A. E
+B. B
+C. A
+D. C
+E. D
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_239/soal_33_img1.png)
+A. D
+B. E
+C. A
+D. C
+E. B
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_239/soal_34_img1.png)
+A. E
+B. C
+C. A
+D. B
+E. D
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_239/soal_35_img1.png)
+A. A
+B. B
+C. D
+D. E
+E. C
+
+==================================================
+

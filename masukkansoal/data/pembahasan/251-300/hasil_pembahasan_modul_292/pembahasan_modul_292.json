@@ -1,0 +1,418 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nPancasila memiliki nilai objektif. Maksud dari nilai Pancasila bersifat objektif adalah …",
+        "pilihan": [
+            "Nilai-nilai Pancasila lahir dari bangsa Indonesia sendiri",
+            "Terdapat nilai-nilai kerohanian dalam Pancasila",
+            "Nilai-nilai yang ada dalam Pancasila terkandung suara hati nurani bangsa Indonesia",
+            "Nilai-nilai Pancasila merupakan pandangan hidup bangsa Indonesia",
+            "Nilai-nilai dalam Pancasila menunjukkan adanya sifat umum universal dan abstrak"
+        ],
+        "jawaban_benar": "Nilai-nilai dalam Pancasila menunjukkan adanya sifat umum universal dan abstrak",
+        "pembahasan": "Nilai Pancasila bersifat objektif, maksudnya :\n1. Rumusan dari Pancasila itu sendiri memiliki makna yang terdalam, menunjukkan adanya sifat umum Universal dan abstrak.\n2. Inti dari nilai Pancasila akan tetap ada sepanjang masa dalam kehidupan bangsa Indonesia.\n3. Pancasila dalam pembukaan UUD 1945 merupakan sumber dari segala sumber hukum di Indonesia."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nPancasila merupakan suatu kesatuan majemuk tunggal, yang berarti…",
+        "pilihan": [
+            "Seluruh lima sila yang ada memiliki nilai yang selaras dan seimbang antara masyarakat dengan pemerintah Indonesia",
+            "Seluruh lima sila yang ada merupakan kesatuan yang utuh",
+            "Seluruh lima sila yang ada mencerminkan penjunjungan tinggi harkat dan martabat manusia",
+            "Pancasila merupakan satu-satunya dasar Negara indonesia",
+            "Pancasila merupakan pandangan hidup masyarakat Indonesia yang paling fundamental"
+        ],
+        "jawaban_benar": "Seluruh lima sila yang ada merupakan kesatuan yang utuh",
+        "pembahasan": "Majemuk tunggal artinya Pancasila terdiri dari 5 sila tetapi merupakan satu kesatuan yang berdiri sendiri secara utuh."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nKeunggulan yang dimiliki demokrasi Pancasila dalam mengambil keputusan adalah…",
+        "pilihan": [
+            "Keputusan yang diambil mendahulukan kepentingan rakyat",
+            "keputusan yang didapat, diperoleh dari musyawarah untuk mufakat",
+            "Keputusan mewakili kepentingan umum dibandingkan kepentingan golongan",
+            "Keputusan diambil atas kebijakan dewan perwakilan rakyat",
+            "keputusan yang diambil dapat dipertanggungjawabkan"
+        ],
+        "jawaban_benar": "keputusan yang didapat, diperoleh dari musyawarah untuk mufakat",
+        "pembahasan": "Musyawarah untuk mufakat mencerminkan keunggulan yang dimiliki demokrasi Pancasila sebab musyawarah untuk mufakat didapat dari hasil diskusi dan pertukaran pendapat untuk menghasilkan keputusan, di mana keputusan tersebut merupakan suara yang bulat yang telah disetujui oleh seluruh anggota musyawarah."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nPancasila terdiri atas dua lapisan fundamen, yaitu…",
+        "pilihan": [
+            "Fundamen sosial dan Fundamen budaya",
+            "Fundamen sosial dan fundamen agama",
+            "Fundamen politik dan fundamen ekonomi",
+            "Fundamen politik dan fundamen moral",
+            "Fundamen ekonomi dan sosial"
+        ],
+        "jawaban_benar": "Fundamen politik dan fundamen moral",
+        "pembahasan": "Dua lapisan fundamen dalam Pancasila yaitu Fundamen politik dan moral."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nDalam merumuskan Pancasila Ir. Soekarno menggunakan dalil teori geopolitik khususnya Blut-und Boden theorie yang merupakan ciptaan ...",
+        "pilihan": [
+            "George A. Malcom",
+            "Thomas hobbes",
+            "Karl haushofer",
+            "Leon Duquit",
+            "Jean Jaques Rousseau"
+        ],
+        "jawaban_benar": "Karl haushofer",
+        "pembahasan": "Ir. Soekarno menggunakan dalil teori geopolitik khususnya Blut-und Boden Theorie, ciptaan karl Haushofer. Teori ini sebenarnya adalah sendi bagi politik Jerman tetapi sangat menarik bagi bangsa Indonesia khususnya untuk membela cita-cita kemerdekaan."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nBerdasarkan pasal 20 UUD 1945 presiden bersama DPR membahas RUU lalu harus mendapat persetujuan bersama. Setelah RUU tersebut disepakati maka RUU itu akan disahkan oleh…",
+        "pilihan": [
+            "Mahkamah Konstitusi",
+            "Disahkan berdua Presiden bersama DPR",
+            "Hakim Agung",
+            "Presiden",
+            "DPR"
+        ],
+        "jawaban_benar": "Presiden",
+        "pembahasan": "Pasal 20 ayat 4 UUD 1945, \"Presiden mengesahkan RUU yang telah disetujui bersama untuk menjadi UU.\""
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nJika kita mengacu pada UUD 1945 pasal 19 ayat 3 maka dalam 1 tahun DPR bersidang minimal sebanyak berapa kali?",
+        "pilihan": [
+            "1"
+        ],
+        "jawaban_benar": "1",
+        "pembahasan": "Pasal 19 Ayat 3 UUD 1945, \" DPR bersidang sedikitnya sekali dalam setahun.\""
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nPemilu harus dilaksanakan dengan LUBER JURDIL. Hal ini sesuai dengan pernyataan pada UUD 1945 ...",
+        "pilihan": [
+            "pasal 22E ayat 1",
+            "pasal 22E ayat 2",
+            "pasal 22E ayat 3",
+            "pasal 22E ayat 4",
+            "pasal 22E ayat 5"
+        ],
+        "jawaban_benar": "pasal 22E ayat 1",
+        "pembahasan": "Pasal 22E ayat 1 UUD 1945, \"Pemilu dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali.\""
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nHal Keuangan diatur dalam UUD 1945 pada bab VIII yaitu pasal ...",
+        "pilihan": [
+            "pasal 28",
+            "pasal 29",
+            "pasal 30",
+            "pasal 22",
+            "pasal 23"
+        ],
+        "jawaban_benar": "pasal 23",
+        "pembahasan": "Dalam Bab VIII hanya terdapat pasal 23, 23A-23D yang semuanya membahas tentang keuangan."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nPasal 24 UUD 1945 berbicara mengenai ...",
+        "pilihan": [
+            "kedaulatan ekonomi",
+            "kedaulatan wilayah negara",
+            "kedaulatan kehakiman",
+            "kedaulatan politik",
+            "administrasi negara"
+        ],
+        "jawaban_benar": "kedaulatan kehakiman",
+        "pembahasan": "Pasal 24 UUD 1945 berisi tentang kedaulatan kehakiman."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nYang berhak mengangkat hakim agung serta menegakkan kehormatan perilaku hakim menurut pasal 24B adalah ...",
+        "pilihan": [
+            "Komisi Yudisial",
+            "Mahkamah Agung",
+            "Jaksa Agung",
+            "DPR",
+            "Presiden"
+        ],
+        "jawaban_benar": "Komisi Yudisial",
+        "pembahasan": "Pasal 24B ayat 1 UUD 1945, \" Komisi Yudisial bersifat mandiri yang berwenang mengusulkan pengangkatan hakim agung dan mempunyai wewenang lain dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim.\""
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nTugas Mahkamah Konstitusi(MK) berdasarkan pasal 24C adalah berikut ini, kecuali …",
+        "pilihan": [
+            "menguji Undang-Undang terhadap UUD",
+            "memutus sengketa kewenangan lembaga negara",
+            "memutus sengketa perselisihan hasil pemilu",
+            "memutus pembubaran partai politik",
+            "memutus pemberhentian lembaga negara"
+        ],
+        "jawaban_benar": "memutus pemberhentian lembaga negara",
+        "pembahasan": "Pasal 24C ayat 1 UUD 1945, \"MK berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji UU terhadap UUD, memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD, memutus pembubaran partai politik dan memutus perselisihan tentang hasil pemilu.\""
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nYang menjadi warga negara Indonesia menurut pasal 26 UUD 1945 ...",
+        "pilihan": [
+            "hanya orang Indonesia asli",
+            "Orang Indonesia asli dan orang bangsa lain yang disahkan dengan Undang-Undang",
+            "Pribumi saja",
+            "bangsa Inlander",
+            "orang bangsa Indonesia dan keturunannya saja"
+        ],
+        "jawaban_benar": "Orang Indonesia asli dan orang bangsa lain yang disahkan dengan Undang-Undang",
+        "pembahasan": "Pasal 26 ayat 1 UUD 1945, \"Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan UU sebagai warga negara.\""
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nJika pemerintah yang terpilih tidak berusaha membuka lapangan pekerjaan bagi rakyatnya yang membutuhkan penghidupan, maka pemerintah telah melanggar ...",
+        "pilihan": [
+            "pasal 25",
+            "pasal 27",
+            "pasal 29",
+            "pasal 31",
+            "pasal 33"
+        ],
+        "jawaban_benar": "pasal 27",
+        "pembahasan": "Pasal 25 = wilayah negara\nPasal 27 = hak warga negara dalam politik, pekerjaan dan kehidupan serta bela negara.\nPasal 29 = agama\nPasal 31 = pendidikan dan kebudayaan\nPasal 33 = perekonomian nasional"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nJika seorang hakim tegas menghukum rakyat kecil namun lemah pejabat tinggi negara yang melanggar kepastian hukum yang adil, tidak memberikan perlakuan sama di depan hukum. Ini bertentangan dengan ...",
+        "pilihan": [
+            "pasal 28D ayat 1",
+            "pasal 28D ayat 2",
+            "pasal 28D ayat 3",
+            "pasal 28D ayat 4",
+            "pasal 28D ayat 7"
+        ],
+        "jawaban_benar": "pasal 28D ayat 1",
+        "pembahasan": "Pasal 28D ayat 1 UUD 1945, \" Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama dihadapan hukum.\""
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSubstansi kebudayaan yang merupakan inti/jiwa budaya Nasional adalah…",
+        "pilihan": [
+            "agama",
+            "Pancasila",
+            "DPR",
+            "IPTEK",
+            "nilai-nilai luhur budaya bangsa"
+        ],
+        "jawaban_benar": "nilai-nilai luhur budaya bangsa",
+        "pembahasan": "Macam-macam substansi kebudayaan yaitu Pengetahuan, nilai, pandangan hidup, kepercayaan, persepsi, etos kerja."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nMasyarakat Baduy dalam Banten sampai saat ini masih belum mau menerima pembaharuan yang datang dari luar masyarakat. Mereka menganggap semua unsur budaya dari luar akan merusak kehidupan masyarakat. Alasan masyarakat Baduy untuk mempertahankan kebudayaannya adalah karena...",
+        "pilihan": [
+            "Kebudayaan tidak sama dengan kebudayaan lain",
+            "Kebudayaan lain mengubah kebudayaan masyarakat",
+            "unsur kebudayaan asing lebih unggul",
+            "makna kebudayaanya berkurang",
+            "prasangka terhadap kebudayaan lain"
+        ],
+        "jawaban_benar": "prasangka terhadap kebudayaan lain",
+        "pembahasan": "Alasan masyarakat Baduy untuk mempertahankan kebudayaannya adalah karena prasangka terhadap kebudayaan lain."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSalah satu contoh kebudayaan immaterial adalah …",
+        "pilihan": [
+            "industri pesawat terbang",
+            "perlengkapan menangkap ikan",
+            "perlengkapan untuk berkemah",
+            "Gerakan Disiplin Nasional",
+            "Perangkat komputer"
+        ],
+        "jawaban_benar": "Gerakan Disiplin Nasional",
+        "pembahasan": "GDN adalah bentuk abstrak (immaterial) dari hasil kebudayaan"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nYang memegang kekuasaan tertinggi atas AD, AL, Au adalah…",
+        "pilihan": [
+            "Menteri Koordiantor Bidang Politik, Hukum, dan Keamanan",
+            "Menteri Pertahanan",
+            "Presiden",
+            "Menteri Pendayagunaan Aparatur Negara",
+            "KASAD, KASAL, KASAU"
+        ],
+        "jawaban_benar": "Presiden",
+        "pembahasan": "Pasal 10 UUD 1945, \"Presiden memegang kekuasaan yang tertinggi atas AD, AL, dan AU.\""
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nCalon Presiden dan wakil presiden harus seorang WNI sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain karena kehendaknya sendiri, tidak pernah mengkhianati negara, serta ,mampu secara rohani dan jasmani untuk melaksanakan tugas dan kewajiban sebagai presiden dan wakil presiden, adalah bunyi salah satu pasal UUD 1945, yaitu...",
+        "pilihan": [
+            "Pasal 6 ayat(1)",
+            "Pasal 6 ayat(2)",
+            "Pasal 6A ayat(1)",
+            "Pasal 6A ayat(2)",
+            "Pasal 6A ayat(3)"
+        ],
+        "jawaban_benar": "Pasal 6 ayat(1)",
+        "pembahasan": "Pasal 6 ayat 1 UUD 1945, \"Calon Presiden dan wakil presiden harus seorang WNI sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain karena kehendaknya sendiri, tidak pernah mengkhianati negara, serta mampu secara rohani dan jasmani untuk melaksanakan tugas dan kewajiban sebagai presiden dan wakil presiden.\""
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nBerikut adalah ketetapan dalam pemilu mengenai syarat boleh dilantiknya seseorang menjadi presiden dan wakil…",
+        "pilihan": [
+            "mendapat suara lebih dari 50% dari jumlah suara dalam pemilu dengan sedikitnya 20% suara di tiap provinsi yang tersebar di lebih dari setengah provinsi di Indonesia",
+            "Mendapat suara lebih dari 51% dari jumlah suara dalam pemilu dengan sedikitnya 20% suara di tiap provinsi yang tersebar di lebih dari setengah provinsi di Indonesia",
+            "mendapat suara mutlak di tiap provinsi di Indonesia",
+            "mendapat suara 50%+1 dari jumlah suara total di seluruh provinsi di Indonesia",
+            "memenuhi syarat syah KPU dan KPUD"
+        ],
+        "jawaban_benar": "mendapat suara lebih dari 50% dari jumlah suara dalam pemilu dengan sedikitnya 20% suara di tiap provinsi yang tersebar di lebih dari setengah provinsi di Indonesia",
+        "pembahasan": "Pasal 6A ayat 3 UUD 1945,\"Pasangan calon Presiden dan Wakil Presiden yang mendapatkan suara lebih dari 50% dari jumlah suara dalam pemilu dengan sedikitnya 20% suara di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi di Indonesia, dilantik menjadi Presiden dan Wakil Presiden.\""
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nPresiden dan/atau wakil presiden dapat diberhentikan dalam masa jabatan oleh MPR atas usul DPR dengan terlebih dahulu mengajukan permintaan kepada…",
+        "pilihan": [
+            "Mahkamah Agung untuk memeriksa, mengadili, dan memutuskan pendapat DPR",
+            "Mahkamah Konstitusi untuk memeriksa, megadili, dan memutuskan pendapat DPR",
+            "Mahkamah Agung dan Mahkamah Konstitusi untuk secara bersama melakukan proses peradilan",
+            "Sidang masing-masing fraksi untuk memeriksa lebih lanjut penyelidikan kesalahan dari Presiden dan/atau wakilnya",
+            "Pihak kepolisian untuk melakukan penyelidikan pelanggaran"
+        ],
+        "jawaban_benar": "Mahkamah Konstitusi untuk memeriksa, megadili, dan memutuskan pendapat DPR",
+        "pembahasan": "Pasal 7B ayat 1 UUD 1945, \"Usul pemberhentian Presiden/Wakil Presiden dapat diajukan oleh DPR kepada MPR hanya dengan terlebih dahulu mengajukan permintaan kepada MK untuk memeriksa, mengadili dan memutus pendapat DPR …\""
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nUntuk melaksanakan TRIKORA, pemerintah membentuk komandan operasi pembebasan Irian Barat tanggal 2 Januari 1962 dengan menunjuk Brigadir Jenderal Soeharto, operasi ini dinamakan…",
+        "pilihan": [
+            "komando jatayu",
+            "Komando Naga",
+            "Komando Srigala",
+            "Komando Banteng",
+            "Komando Mandala"
+        ],
+        "jawaban_benar": "Komando Mandala",
+        "pembahasan": "Komando Mandala adalah sebuah komanda yang dibentuk oleh Soekarno pada tanggal 2 Januari 1962 yang dibentuk untuk membebaskan Irian Barat."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nTrikora dikumandangkan oleh Presiden Soekarno pada…",
+        "pilihan": [
+            "19 Desember 1961 di Jakarta",
+            "19 Desember 1961 di Makasar",
+            "19 Desember 1961 di Jogjakarta",
+            "18 Desember 1961 di Jakarta",
+            "18 Desember 1961 di Jogjakarta"
+        ],
+        "jawaban_benar": "19 Desember 1961 di Jogjakarta",
+        "pembahasan": "Trikora merupakan sebuah komando yang dikumandangkan oleh Ir. Soekarno pada tanggal 19 Desember 1961 di Alun-Alun Utara Kota Yogyakarta."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nKabinet yang berhasil menyelenggarakan KAA tahun 1955 ialah…",
+        "pilihan": [
+            "Ali Sastro Amijoyo",
+            "Sukiman",
+            "Burhanudin Harahap",
+            "Djuanda",
+            "Semua salah"
+        ],
+        "jawaban_benar": "Ali Sastro Amijoyo",
+        "pembahasan": "KAA diselenggarakan pada tanggal 18 - 24 April 1955 pada masa pemerintahan kabinet Ali Sastroamijoyo."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nPenulisan huruf miring yang benar terdapat dalam tanda kurung adalah ....",
+        "pilihan": [
+            "Paman rajin minum (Nigella Sativa) untuk sakit reumatik yang dideritanya.",
+            "Halaman parkir di (Dufan) sangat luas.",
+            "Sepatu ini (diimpor) dari Paris.",
+            "(Liberalisme) berbahaya bagi bangsa ini.",
+            "Indonesia pernah mendapat julukan (macan Asia)."
+        ],
+        "jawaban_benar": "Paman rajin minum (Nigella Sativa) untuk sakit reumatik yang dideritanya.",
+        "pembahasan": "Penggunaan huruf miring yang tepat adalah :\n1. penulisan nama buku, majalah, surat kabar\n2. untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata.\n3. menuliskan nama ilmiah atau ungkapan asing yang telah disesuaikan.\nPenggunaan yang benar adalah \"Paman rajin minum Nigella Sativa untuk sakit reumatik yang dideritanya."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nDahulu Indonesia pernah diberi nama dwipantara oleh India, apakah artinya?",
+        "pilihan": [
+            "Pulau Seberang",
+            "Negara Padi",
+            "Negara Emas",
+            "Negara Perantara",
+            "Kepulauan Laut Selatan"
+        ],
+        "jawaban_benar": "Pulau Seberang",
+        "pembahasan": "Dwipantara adalah nama yang diberikan oleh bangsa India, nama yang diturunkan dari kata Sansekerta, dwipa, yang berarti pulau dan antara yang berarti luar atau seberang."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nBacalah bacaan berikut!\nWahana antariksa Kepler kembali membuat kejutan. NASA mengumumkan pada Senin (5/12) bahwa salah satu dari 2.326 kandidat planet temuan Kepler telah dikonfirmasi sebagai planet layak huni. \"Ini penemuan yang fenomenal. Ini membuktikan bahwa Homo sapiens semakin dekat dengan pencapaian kita di semesta untuk menemukan planet yang mengingatkan kita akan rumah.\"Kita hampir di sana,\" kata Geoff Marcy, peneliti dari University of California, Berkeley, seperti dikutip AP, Selasa (6/12).\nPlanet yang dikonfirmasi layak huni tersebut bernama Kepler 22b. Planet itu mengorbit bintang serupa Matahari bernama Kepler 22 dan berjarak 600 tahun cahaya dari Bumi. Kepler 22b memiliki beberapa kesamaan dengan Bumi. Bumi mengelilingi Matahari selama 365 hari, sedangkan Kepler 22b mengelilingi bintang induknya dalam waktu 290 hari, hanya sedikit berbeda. Temperatur Bumi dan Kepler 22b pun tak berbeda jauh. Disebutkan bahwa jika efek rumah kaca bekerja di Kepler 22b, maka temperatur di planet itu sekitar 22 derajat celcius.\nPerbedaan dijumpai pada ukurannya. Kepler 22b berukuran 2,4 kali lebih besar daripada Bumi. Sementara massanya, belum diketahui sehingga sulit dipastikan apakah Kepler 22b merupakan planet batuan atau gas raksasa. Jika merupakan planet gas, maka tentu sulit bagi manusia untuk hidup di sana. Meski dikonfirmasi layak huni, masih sulit bagi manusia untuk pergi ke Kepler 22b. Satu tahun cahaya setara dengan 9,65 triliun kilometer. Butuh waktu 22 juta tahun untuk ke sana dengan teknologi yang ada sekarang. Teknologilah yang nanti akan menjawab apakah pergi ke Kepler 22b akan menjadi mimpi atau kenyataan.\nSelain penemuan Kepler 22b, NASA juga mengumumkan bahwa kini Kepler telah memiliki 2.326 kandidat planet layak huni. Jumlah ini bertambah 1.094 dari pengumuman pada bulan Februari 2011 lalu yang menyatakan bahwa ada 1.235 kandidat planet layak huni. Dari jumlah 2.326 kandidat planet, 207 di antaranya memiliki ukuran setara Bumi. Sementara 680 lainnya lebih besar dari Bumi. Jumlah planet yang ada di Zona Layak Huni sendiri ada 48 buah. Masih dibutuhkan penelitian untuk mengonfirmasi apakah planet-planet tersebut layak huni.\n\"Perbedaan Kepler 22b dan Bumi terdapat pada besar ukurannya\".\nKalimat di atas terdapat pada ....",
+        "pilihan": [
+            "paragraf 4, kalimat 3",
+            "paragraf 3, kalimat 2",
+            "paragraf 3, kalimat 1",
+            "paragraf 2, kalimat 4",
+            "paragraf 1, kalimat 3"
+        ],
+        "jawaban_benar": "paragraf 3, kalimat 1",
+        "pembahasan": "Kalimat yang menunjukkan perbedaan Kepler 22b dan Bumi terdapat pada besar ukurannya ada pada paragraf tiga kalimat pertama."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nPancasila tidak mengenal fasisme sebab fasisme bertitik tolak pada …",
+        "pilihan": [
+            "Pemusatan pada beberapa orang",
+            "Material modern dan individualism",
+            "Mengutamakan individualism radikal",
+            "Memaksakan praktik liberalism",
+            "Pemusatan kekuasaan pada satu orang"
+        ],
+        "jawaban_benar": "Pemusatan kekuasaan pada satu orang",
+        "pembahasan": "Pancasila tidak mengenal fasisme sebab fasisme bertitik tolak pada pemusatan kekuasaan pada satu orang/ dipimpin oleh seorang diktator."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nPembangunan ekonomi Indonesia yang berdasarkan Pancasila menganut system ekonomi…",
+        "pilihan": [
+            "Liberal",
+            "Monopoli dan persainganbebas",
+            "Yang tidak mengakui kepemilikan individu",
+            "Berdasarkan moralitas Ketuhanan dan kemanusiaan",
+            "Yang disertaipenindasandalammencapaicita-citanya"
+        ],
+        "jawaban_benar": "Berdasarkan moralitas Ketuhanan dan kemanusiaan",
+        "pembahasan": "Pembangunan ekonomi Indonesia yang berdasarkan Pancasila menganut system ekonomi yang berdasarkan moralitas Ketuhanan dan kemanusiaan."
+    }
+]

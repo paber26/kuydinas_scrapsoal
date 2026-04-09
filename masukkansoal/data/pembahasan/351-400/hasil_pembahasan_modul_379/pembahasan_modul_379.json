@@ -1,0 +1,438 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nPASAK : BAJI",
+        "pilihan": [
+            "Derai : Ombak",
+            "Galat : Keliru",
+            "Mangkus : Obat",
+            "Kadaluwarsa : Tepat",
+            "Pemerintah : Eksekutif"
+        ],
+        "jawaban_benar": "Galat : Keliru",
+        "pembahasan": "PASAK sama dengan BAJI. GALAT sama dengan KELIRU."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nTIRANA : ALBANIA= ... : ...",
+        "pilihan": [
+            "Manat : Azerbaijanden",
+            "Botswana : Gaborone",
+            "Luanda : Angola",
+            "Santiago : Brazil",
+            "Yuan : China"
+        ],
+        "jawaban_benar": "Luanda : Angola",
+        "pembahasan": "TIRANA merupakan ibu kota dari Negara ALBANIA. LUANDA merupakan ibu kota dari Negara ANGOLA."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nSemua tanaman adalah makhluk hidup.\nSemua makhluk hidup memerlukan air.\nTidak semua tanaman berdaun hijau dapat berbuah.\nMangga adalah tanaman berdaun hijau.",
+        "pilihan": [
+            "Mangga tidak dapat berbuah",
+            "Tidak semua yang berdaun hijau memerlukan air",
+            "Mangga memerlukan air",
+            "Mangga bukan tanaman",
+            "Mangga bukan makhluk hidup"
+        ],
+        "jawaban_benar": "Mangga memerlukan air",
+        "pembahasan": "P1: Semua tanaman adalah makhluk hidup\nP2: Semua makhluk hidup memerlukan air\nP3: Tidak semua tanaman berdaun hijau dapat berbuah\nP4: Mangga adalah tanaman berdaun hijau\nMangga adalah tanaman dan tanaman adalah makhluk hidup sehingga memerlukan air.\nJadi, Kesimpulan yang tepat adalah mangga memerlukan air."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nAda pedagang yang giat bekerja.\nKebanyakan pedagang memiliki toko yang luas.",
+        "pilihan": [
+            "Pedagang yang memiliki toko luas harus giat bekerja",
+            "Ada pedagang yang memiliki toko luas dan giat bekerja",
+            "Pedagang yang giat bekerja adalah yang memiliki toko luas",
+            "Kesimpulan pada pilihan A, B dan C benar",
+            "Kesimpulan pada pilihan A, B dan C salah"
+        ],
+        "jawaban_benar": "Ada pedagang yang memiliki toko luas dan giat bekerja",
+        "pembahasan": "P1: Ada pedagang yang giat bekerja\nP2: Kebanyakan pedagang memiliki toko yang luas\nKalimat yang menggabungkan kedua premis adalah pedagang. Sehingga kedua premis dapat digabungkan menjadi ada pedagang yang memiliki toko luas dan giat bekerja."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nTeks berikut untuk menjawab soal nomor 35 - 37\nPemerintah akan menerapkan pembatasan sosial berskala besar (PSBB) di Jawa dan Bali mulai 11 Januari hingga 25 Januari 2021. Hal ini diungkapkan Ketua Komite Penanganan Covid-19 dan Pemulihan Ekonomi Nasional (KPCPEN) Airlangga Hartanto. Ia mengatakan bahwa penerapan tersebut untuk menekan laju peningkatan kasus Covid-19 yang melonjak dalam beberapa waktu belakangan ini. Airlangga menyatakan bahwa kasus mingguan di awal Januari mencapai 51.986 dengan fatality rate 3 persen. Selain itu pembatasan dilakukan karena tingkat keterisian tempat tidur yang tinggi dan kasus aktif mencapai 14,2 persen. \"Nah kemudian pemerintah melihat bahwa itu menjadi alasan daripada pembatasan tersebut,\" kata Airlangga usai rapat terbatas bersama Presiden di Istana Negara, Rabu (6/1/2021). Pemerintah telah menerapkan kriteria daerah yang harus menerapkan PSBB. Pembatasan sosial diterapkan di Jawa dan Bali karena memenuhi satu dari 4 kriteria yang ditetapkan pemerintah.\nPertanyaan yang sesuai dengan paragraf tersebut adalah ...",
+        "pilihan": [
+            "Kriteria apa saja yang digunakan pemerintah untuk menentukan daerah yang harus menerapkan PSBB ?",
+            "Mengapa PSBB diterapkan di daerah Jawa dan Bali ?",
+            "Bagaimana alur penetapan PSBB di daerah Jawa dan Bali ?",
+            "Di Jalur mana saja diberlakukan PSBB pada daerah Jawa dan Bali ?",
+            "Berapa total kasus Covid-19 di Indonesia hingga saat ini ?"
+        ],
+        "jawaban_benar": "Mengapa PSBB diterapkan di daerah Jawa dan Bali ?",
+        "pembahasan": "Pertanyaan yang sesuai dengan paragraf tersebut adalah \"mengapa PSBB diterapkan di daerah Jawa dan Bali ?\". Pernyataan ini dapat dijawab dengan \"untuk menekan laju peningkatan kasus Covid-19 yang melonjak dalam beberapa waktu belakangan ini\" dan \"PSBB dilakukan karena tingkat keterisian tempat tidur yang tinggi dan kasus aktif mencapai 14,2 persen\"."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nTeks berikut untuk menjawab soal nomor 35 - 37\nPemerintah akan menerapkan pembatasan sosial berskala besar (PSBB) di Jawa dan Bali mulai 11 Januari hingga 25 Januari 2021. Hal ini diungkapkan Ketua Komite Penanganan Covid-19 dan Pemulihan Ekonomi Nasional (KPCPEN) Airlangga Hartanto. Ia mengatakan bahwa penerapan tersebut untuk menekan laju peningkatan kasus Covid-19 yang melonjak dalam beberapa waktu belakangan ini. Airlangga menyatakan bahwa kasus mingguan di awal Januari mencapai 51.986 dengan fatality rate 3 persen. Selain itu pembatasan dilakukan karena tingkat keterisian tempat tidur yang tinggi dan kasus aktif mencapai 14,2 persen. \"Nah kemudian pemerintah melihat bahwa itu menjadi alasan daripada pembatasan tersebut,\" kata Airlangga usai rapat terbatas bersama Presiden di Istana Negara, Rabu (6/1/2021). Pemerintah telah menerapkan kriteria daerah yang harus menerapkan PSBB. Pembatasan sosial diterapkan di Jawa dan Bali karena memenuhi satu\nKalimat \"pembatasan dilakukan karena tingkat keterisian tempat tidur yang tinggi\" memiliki makna ...",
+        "pilihan": [
+            "Pembatasan sosial berskala besar (PSBB) diterapkan karena jumlah pasien Covid-19 yang selalu meningkat setiap harinya",
+            "Pembatasan sosial berskala besar (PSBB) diberlakukan karena peningkatan kasus aktif yang mencapai 14,2 persen",
+            "Pembatasan sosial berskala besar (PSBB) diberlakukan kembali karena laju peningkatan kasus yang semakin tinggi",
+            "Pembatasan sosial berskala besar (PSBB) diberlakukan kembali karena kasus positif Covid-19 terus meningkat",
+            "Pembatasan sosial berskala besar (PSBB) dilakukan karena kapasitas ruang isolasi di rumah sakit rujukan pasien Covid-19 semakin penuh"
+        ],
+        "jawaban_benar": "Pembatasan sosial berskala besar (PSBB) dilakukan karena kapasitas ruang isolasi di rumah sakit rujukan pasien Covid-19 semakin penuh",
+        "pembahasan": "Pembatasan dilakukan karena tingkat keterisian tempat tidur yang tinggi memiliki makna bahwa keterisian atau kapasitas ruang isolasi di rumah sakit rujukan pasien Covid-19 semakin penuh."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nTeks berikut untuk menjawab soal nomor 35 - 37\nPemerintah akan menerapkan pembatasan sosial berskala besar (PSBB) di Jawa dan Bali mulai 11 Januari hingga 25 Januari 2021. Hal ini diungkapkan Ketua Komite Penanganan Covid-19 dan Pemulihan Ekonomi Nasional (KPCPEN) Airlangga Hartanto. Ia mengatakan bahwa penerapan tersebut untuk menekan laju peningkatan kasus Covid-19 yang melonjak dalam beberapa waktu belakangan ini. Airlangga menyatakan bahwa kasus mingguan di awal Januari mencapai 51.986 dengan fatality rate 3 persen. Selain itu pembatasan dilakukan karena tingkat keterisian tempat tidur yang tinggi dan kasus aktif mencapai 14,2 persen. \"Nah kemudian pemerintah melihat bahwa itu menjadi alasan daripada pembatasan tersebut,\" kata Airlangga usai rapat terbatas bersama Presiden di Istana Negara, Rabu (6/1/2021). Pemerintah telah menerapkan kriteria daerah yang harus menerapkan PSBB. Pembatasan sosial diterapkan di Jawa dan Bali karena memenuhi satu\nKata \"pembatasan\" dalam teks di atas memiliki makna yang sama dengan ...",
+        "pilihan": [
+            "Determinasi",
+            "Inhibisi",
+            "Limitasi",
+            "Represi",
+            "Prohibisi"
+        ],
+        "jawaban_benar": "Limitasi",
+        "pembahasan": "Pembatasan memiliki sinonim limitasi."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nJika 3x + 5y = 27 dan 2x + 5y = 23 maka x dan y masing-masing adalah ...",
+        "pilihan": [
+            "4 dan 3",
+            "2 dan 5",
+            "4 dan 7",
+            "1 dan 4",
+            "4 dan 8"
+        ],
+        "jawaban_benar": "4 dan 3",
+        "pembahasan": "Diketahui: 3x + 5y = 27 dan 2x + 5y = 23\nNilai x dapat diperoleh dengan cara eliminasi kedua persamaan sehingga:\n3x + 5y = 27\n2x + 5y = 23\n-\nx = 4\ny = 3"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nJika 5 merupakan salah satu akar persamaan x\n2\n+ (a+1)x + (3a + 2) = 0, berapakah akar yang lain?",
+        "pilihan": [
+            "-2"
+        ],
+        "jawaban_benar": "-2",
+        "pembahasan": "Diketahui: 5 merupakan salah satu akar persamaan x\n2\n+ (a+1)x + (3a + 2) = 0\nmaka:\n5\n2\n+ (a + 1)5 + (3a + 2) = 0\n25 + 5a + 5 + 3a + 2 = 0\n8a = -32\na = -4\nSehingga persamaannya menjadi:\nx\n2\n+ (-4 + 1)x + (3(-4) + 2) = 0\nx\n2\n- 3x - 10 = 0\nMaka akar-akarnya yang lain adalah:\nx\n2\n- 3x - 10 = 0\n(x - 5) (x + 2) = 0\nx = 5 atau x = -2"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nKelereng Uli dibanding Abi adalah 4 : 3. Sedangkan perbandingan kelereng Abi dibanding Mei adalah 2 : 1. Jika jumlah kelereng Mei ada 6,maka kelereng Uli ada sebanyak ...",
+        "pilihan": [
+            "16"
+        ],
+        "jawaban_benar": "16",
+        "pembahasan": "Uli : Abi = 4 : 3\nAbi : Mei = 2 : 1\nUli : Abi : Mei = 4x2 : 2x3 : 3x1 = 8 : 6 : 3\nJumlah kelereng Mei ada 6.\nJumlah kelereng Uli:\n8/3 x 6 = 16\nJadi, kelereng Uli ada 16."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nUmur Badu dibanding umur Alan adalah 4 : 3. Jika selisih umur mereka adalah 9 tahun maka umur Badu adalah ... tahun.",
+        "pilihan": [
+            "36"
+        ],
+        "jawaban_benar": "36",
+        "pembahasan": "Perbandingan umur Badu : Alam = 4 : 3.\nSelisih umur mereka = 9 tahun\numur Badu :\n= (4/(4-3)) x 9\n= 4/1 x 9\n= 36"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nDari penghasilan Suryadi dalam satu bulan, 10% untuk pajak, 2,5% untuk zakat, 1,5% diberikan ke panti asuhan, dan 10% untuk investasi. Jika sisa penghasilan Suryadi adalah Rp1.900.000, berapakah penghasilan dalam satu bulan?",
+        "pilihan": [
+            "Rp 4.000.000",
+            "Rp 3.250.000",
+            "Rp 2.500.000",
+            "Rp 2.000.000",
+            "Rp 1.500.000"
+        ],
+        "jawaban_benar": "Rp 2.500.000",
+        "pembahasan": "Diketahui:\n10% untuk pajak\n2,5% untuk zakat\n1,5% diberikan ke panti asuhan\n10% untuk investasi\nsisa penghasilan = Rp1.900.000\nDitanya: Penghasilan dalam satu bulan?\nJawab:\nMisal penghasilan penuh = x\nPersentase sisa gaji: 100% - 10% - 2,5% - 1,5% - 10% = 76%\nGaji penuh diperoleh sebagai berikut:\n1.900.000 = 76/100 . x\nx = 2.500.000"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nSuatu tabung memiliki tinggi 14 cm dan luas selimutnya 308 cm\n2\n. Luas seluruh sisi tabung tersebut adalah ... cm\n2\n.",
+        "pilihan": [
+            "985",
+            "785",
+            "585",
+            "385",
+            "185"
+        ],
+        "jawaban_benar": "385",
+        "pembahasan": "Diketahui:\ntinggi tabung = 14 cm\nluas selimut tabung = 308 cm\n2\nSehingga:\nluas selimut tabung = k.alas x tinggi\n308 = k.alas x 14\nk.alas = 308/14 = 22\nk.alas = 2πr\n22 = 2 x 22 /7 x r\nr = 7/2\nLuas keseluruhan tabung\n= (2 x luas alas) + luas selimut\n= (2 x 22/7 x (7/2)\n2\n) + 308\n= 77 + 308\n= 385\nJadi, luas seluruh sisi tabung tersebut adalah 385 cm\n2\n."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nDina berangkat dari rumahnya dan akan menuju rumah Diana. Ia berangkat dengan kecepatan 16 km/jam pada pukul 08.00. Pukul 08.15 Diana berangkat dari rumahnya menuju rumah Dina dengan kecepatan 14 km/jam. Jika jarak mereka adalah 18 km, maka kapan mereka akan berpapasan?",
+        "pilihan": [
+            "08.28",
+            "08.38",
+            "08.43",
+            "08.45",
+            "09.00"
+        ],
+        "jawaban_benar": "08.43",
+        "pembahasan": "Jarak yang telah ditempuh Dina saat Diana berangkat:\nS = V x t                                (Jarak = Kecepatan x Waktu)\n= 16 x 15/60\n= 4 km\nWaktu Dina dan Diana berpapasan (WP) :\nWP  = S Total - S Selisih / (V1 + V2)\n=  (18-4) / (16+14) = 14/30 jam\n= 14/30 x 60 menit\n= 28 menit\nKeduanya akan berpapasan pada pukul:\n08.15 + 28 menit = 08.43"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nJarak kota P ke kota Q adalah 320 km. Sebuah bus berangkat dari kota P ke kota Q dengan kecepatan 60 km/jam. Jika bus tidak berhenti untuk istirahat, maka waktu yang diperlukan untuk sampai ke kota Q adalah ...",
+        "pilihan": [
+            "5 jam 10 menit",
+            "5 jam 15 menit",
+            "5 jam 20 menit",
+            "5 jam 25 menit",
+            "5 jam 31 menit"
+        ],
+        "jawaban_benar": "5 jam 20 menit",
+        "pembahasan": "Jarak = 320 km\nKecepatan = 60 km/jam\nWaktu yang dibutuhkan:\nWaktu = jarak/kecepatan\n= 320/60\n= 5 ⅓ jam\n= 5 jam 20 menit"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nKecepatan Valentino Rossi di lapangan saat beradu dalam Moto GP adalah 360 km/jam. Jika ia sudah berkendara selama 45 menit, maka jarak yang ditempuh Valentino Rossi adalah ...",
+        "pilihan": [
+            "270 km",
+            "240 km",
+            "210 km",
+            "200 km",
+            "190 km"
+        ],
+        "jawaban_benar": "270 km",
+        "pembahasan": "Jarak = kecepatan x waktu\nJarak = 360km/1jam x 45 menit\n= 360km/1jam x 0,75 jam\n= 270 km"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nHasil dari 625 : 25 x 86 = ...",
+        "pilihan": [
+            "10.240",
+            "9.890",
+            "2.150",
+            "2.020",
+            "1.150"
+        ],
+        "jawaban_benar": "2.150",
+        "pembahasan": "karena perkalian dan pembagian mempunyai derajat yang sama dalam operasi hitung maka untuk menyelesaikan soal di atas bisa langsung dilakukan dari kiri ke kanan:\n(625 : 25) x 86\n= 25 x 86\n= 2150"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nKelipatan persekutuan terkecil (KPK) dari 18, 36, dan 45 adalah ...",
+        "pilihan": [
+            "200",
+            "180",
+            "150"
+        ],
+        "jawaban_benar": "180",
+        "pembahasan": "KPK bisa dicari menggunakan faktorisasi prima, sehingga:\n18 = 2 x 3\n2\n36 = 2\n2\nx 3\n2\n45 = 3\n2\nx 5\nKPK = 2\n2\nx 3\n2\nx 5\nKPK = 180"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\n25, 3/8, 24, 9/2, 23, 27, ..., ...",
+        "pilihan": [
+            "20 dan 63",
+            "22 dan 72",
+            "22 dan 69",
+            "22 dan 81",
+            "25 dan 82"
+        ],
+        "jawaban_benar": "22 dan 81",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_19_pemb_img1.png]"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\n33, 22, 12, 4, -1, ...",
+        "pilihan": [
+            "-2"
+        ],
+        "jawaban_benar": "-2",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_20_pemb_img1.png]\nSelisihnya turun 1, 2, 3, 4, dan seterusnya"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nc, p, e, q, h, r, m, ..., ...",
+        "pilihan": [
+            "t, v",
+            "r, s",
+            "o, w",
+            "u, x",
+            "s, t"
+        ],
+        "jawaban_benar": "s, t",
+        "pembahasan": "2, 3, 5, 7, dan seterusnya adalah bilangan prima"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nx adalah 14,5% dari 250 dan y adalah 6,25% dari 580, maka ...",
+        "pilihan": [
+            "x = y",
+            "x < y",
+            "Hubungan x dan y tidak dapat ditentukan",
+            "x > y",
+            "x > 2y"
+        ],
+        "jawaban_benar": "x = y",
+        "pembahasan": "x = 14,5% x 250 = 0,145 x 250 = 36,25\ny = 6,25% x 580 = 0,0625 x 580 = 36,25\nsehingga x = y"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\n(63+32)\n2\n- (16x5)\n2\n= ...",
+        "pilihan": [
+            "1950",
+            "2250",
+            "2625",
+            "1925",
+            "1520"
+        ],
+        "jawaban_benar": "2625",
+        "pembahasan": "95\n2\n- 80\n2\n= 9025 - 6400 = 2625"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n2x(10+20+30+...+100) = ...",
+        "pilihan": [
+            "680",
+            "900",
+            "1050",
+            "1100",
+            "1250"
+        ],
+        "jawaban_benar": "1100",
+        "pembahasan": "Cara cepat: Pasangkan bilangan secara berurutan (10 dengan 100, 20 dengan 90, dst) sehingga diperoleh 5 pasang bilangan dengan jumlah 110. Jumlah dari seluruh bilangan tersebut adalah 5 x 110 = 550. Jadi, 2 x 550 = 1100"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n6,25 + 0,25 x {(5 ¾ x 2\n3\n) - (12,6% : 3 ³/\n20\n)} = ...",
+        "pilihan": [
+            "17,74",
+            "21,25",
+            "23,75",
+            "32,79",
+            "19,72"
+        ],
+        "jawaban_benar": "17,74",
+        "pembahasan": "6,25 + 0,25 x {(23/4 x 8) - (12,6/100 x 20/63)}\n= 6,25 + 0,25 x (46 - 0,04)\n= 6,25 + (0,25 x 45,96)\n= 6,25 + 11,49\n= 17,74"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nJika x = 25\n4\n- 13\n4\ndan y = 25\n2\n- 13\n2\n, maka ...",
+        "pilihan": [
+            "479",
+            "396",
+            "610",
+            "561",
+            "794"
+        ],
+        "jawaban_benar": "794",
+        "pembahasan": "x = 25\n4\n- 13\n4\n= (25\n2\n+ 13\n2\n)(25\n2\n- 13\n2\n)\nsehingga x/y = (25\n2\n+ 13\n2\n)(25\n2\n- 13\n2\n)/(25\n2\n- 13\n2\n) = 25\n2\n+ 13\n2\natau Anda juga bisa menghitung hasil dari x/y sama dengan hasil 25\n2\n+ 13\n2\nyaitu 794"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nGambar manakah yang merupakan kelanjutan dari gambar-gambar berikut ini ?\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_27_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_27_img2.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "1. Panah melengkung akan berpindah sisi berlawanan arah jaram jam pada tiap tahap\n2. Panah lurus hanya berbalik arah pada tiap tahapnya\n3. bentuk arsiran pada kotak dibalik secara lateral tiap tahapnya"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nGambar manakah yang tidak memiliki persamaan dengan gambar-gambar lainnya ?\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_28_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Pada semua pilihan, tiap sisi elemen akan bertambah satu sisi dari elemen terdalam ke elemen terluar, kecuali pilihan jawaban A."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nKelanjutan dari gambar berikut adalah ...\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_29_img1.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Setiap segitiga hitam berpindah 1 langkah, maka segitiga putih yang berada 2 langkah dibelakang segiitiga hitam akan menghilang."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nKelanjutan dari gambar berikut adalah ...\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_30_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_30_img2.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Elemen Kotak diputar 45 derajat searah jarum jam sedangkan elemen belah ketupat diputar 45 derajat berlawanan arah jarum jam."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nKelanjutan dari gambar berikut adalah ...\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_31_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_31_img2.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Gambar berotasi sebesar 90 derajat searah jarum jam."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nKelanjutan dari gambar berikut adalah ...\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_32_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_32_img2.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "1. Panah dibalik secara lateral ditiap tahap\n2. Garis diagonal bergerak ke satu sisi searah jarum jam tiap tahap\n3. Bola bergerak semakin keatas pada tiap tahap\n4. Warna bola berubah hitam-putih-hitam-putih"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nGambar manakah yang tidak memiliki persamaan dengan gambar-gambar lainnya ?\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_33_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Hanya pada gambar A, letak bola putih berada di depan bola hitam."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nGambar manakah yang merupakan kelanjutan dari gambar-gambar berikut ini ?\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_34_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_34_img2.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "1. Panah berputar 90\no\nberlawanan arah dan warna berubah (putih-hitam-putih-hitam) secara berurut\n2. Lingkaran besar bergeser setengah sisi searah jarum jam\n3. Lingkaran kecil berubah wana (hitam-putih) secara bergantian tiap tahap"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nGambar manakah yang tidak memiliki persamaan dengan gambar-gambar lainnya ?\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_379\\gambar\\soal_35_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Hanya pada gambar A, kedua panah putih (yang berlawanan arah) terlihat sejajar."
+    }
+]

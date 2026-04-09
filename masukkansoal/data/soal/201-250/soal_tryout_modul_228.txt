@@ -1,0 +1,392 @@
+Soal 1:
+EKSPONEN = ...
+A. Anggota
+B. Pemimpin
+C. Pendukung
+D. Simpatisan
+E. Bilangan
+
+==================================================
+
+Soal 2:
+INDIVIDUAL >< ...
+A. Masyarakat
+B. Rakyat umum
+C. Plural
+D. Kolektif
+E. Gotong Royong
+
+==================================================
+
+Soal 3:
+RELATIF >< ...
+A. Tegas
+B. Tergantung
+C. Mutlak
+D. Permanen
+E. Mati
+
+==================================================
+
+Soal 4:
+PANDAWA : KURAWA = ... : ...
+A. Ken Arok : Ken dedes
+B. Manchester United : Premier League
+C. Polisi : Jaksa
+D. Penjahat : Koruptor
+E. Kucing : Anjing
+
+==================================================
+
+Soal 5:
+ANDRA : DEWA = ... : ...
+A. Anton : J-Rocks
+B. Naga : Lyla
+C. Sansan : Vierra
+D. Piyu : Padi
+E. Charly : ST12
+
+==================================================
+
+Soal 6:
+Jika X + Y + Z = 75, MAKA J + T + A = ...
+A. 30
+B. 31
+C. 32
+D. 33
+E. 34
+
+==================================================
+
+Soal 7:
+Jika A dan B adalah bilangan yang dapat dibagi 5. Manakah dari
+pernyataan berikut ini yang tidak selalu benar?
+A. Tidak ada jawaban yang benar
+B. A X B dapat dibagi dengan 25
+C. A + B dapat dibagi dengan 10
+D. A – B dapat dibagi 5
+E. 2A + 2B dapat dibagi dengan 5
+
+==================================================
+
+Soal 8:
+p x q = p - q², maka nilai dari 2* (3* (5* 1) ) adalah ...
+A. 167
+B. -167
+C. -18
+D. -169
+E. 18
+
+==================================================
+
+Soal 9:
+Jika Z = 5788 – 5787 dan A = 5787 maka …
+A. Z > A
+B. Z = 2A
+C. Z < A
+D. Z dan A tidak dapat ditentukan
+E. Z = A
+
+==================================================
+
+Soal 10:
+Dari lima pelajar, diketahui ada 3 orang yang menyukai sepak bola dan 3
+anak suka bulu tangkis. Jika semua anak minimal menyukai salah satu
+olahraga tersebut, peluang kita untuk bertemu seseorang yang menyukai
+sepak bola saja atau bulu tangkis saja adalah…
+A. 0,7
+B. 0,4
+C. 0,8
+D. 0,5
+E. 0,6
+
+==================================================
+
+Soal 11:
+Fira melempar sebuah dadu satu kali. Berapakah peluang muncul mata
+dadu bilangan prima?
+A. 1/2
+B. 3/4
+C. 1
+D. 1/3
+E. 2/3
+
+==================================================
+
+Soal 12:
+Sekeping uang logam dilemparkan 4 kali berturut-turut. Berapakah peluang
+sekurang-kurangnya sisi angka muncul sekali?
+A. 3/4
+B. 1/2
+C. 1/16
+D. 1/6
+E. 15/16
+
+==================================================
+
+Soal 13:
+Dalam kantong A terdapat 5 kelereng merah dan 3 kelereng putih, dalam
+kantong B terdapat 4 kelereng merah dan 6 kelereng hitam. Dari setiap
+kantong diambil satu kelereng secara acak. Peluang terambilnya kelereng
+putih dari kantong A dan kelereng hitam dari kantong B adalah ….
+A. 7/9
+B. 39/40
+C. 9/20
+D. 9/13
+E. 9/40
+
+==================================================
+
+Soal 14:
+Dari 60 orang, ada 12 yang hanya gemar membaca, 15 hanya gemar bermain
+musik, dan 5% siswa tidak gemar kedua hal tersebut. Berapakah yang
+gemar membaca dan bermain musik?
+A. 25
+B. 30
+C. 18
+D. 15
+E. 12
+
+==================================================
+
+Soal 15:
+Pada suatu agen Koran terdapat 18 orang berlangganan Koran dan tabloid,
+24 orang berlangganan tabloid, dan 36 orang berlangganan koran.
+Banyaknya seluruh pelanggan agen tersebut adalah …
+A. 88
+B. 40
+C. 60
+D. 78
+E. 42
+
+==================================================
+
+Soal 16:
+Dari 25 orang anak, ternyata 17 anak gemar minum kopi, 8 anak gemar
+minum kopi dan teh, dan 3 anak tidak gemar minum kopi dan teh.
+Banyaknya anak yang hanya gemar minum teh adalah ...
+A. 11
+B. 7
+C. 15
+D. 16
+E. 13
+
+==================================================
+
+Soal 17:
+Banyaknya bilangan antara 3000 dan 6000 yang dapat disusun dari angka
+0,1,2,3,4,5,6,7, dan tidak ada angka yang sama adalah …
+A. 1.470
+B. 1.050
+C. 630
+D. 1.260
+E. 840
+
+==================================================
+
+Soal 18:
+Sebuah motor dapat menempuh 72 kilometer per galon bensin jika berjalan
+dengan kecepatan 60 kilometer per jam. Dengan kecepatan 80 kilometer per
+jam, jarak yang ditempuh berkurang 25%. Berapakah jarak yang dapat
+ditempuh oleh motor tersebut dengan 15 galon bensin dan berkecepatan 80
+kilometer per jam ?
+A. 900
+B. 700
+C. 810
+D. 720
+E. 840
+
+==================================================
+
+Soal 19:
+Umur Rendi saat ini 12 tahun lebih tua dari adiknya. Lima tahun yang akan
+datang, umur Rendi 2 kali lebih tua daripada umur adiknya. Berapa umur
+adik Rendi sekarang ?
+A. 9
+B. 7
+C. 10
+D. 8
+E. 6
+
+==================================================
+
+Soal 20:
+Usia rata-rata sekelompok orang yang terdiri dari mahasiswa akuntansi
+dan mahasiswa pajak adalah 20 tahun. Jika usia rata-rata mahasiswa
+akuntansi adalah 22 tahun dan usia rata-rata pengacara adalah 19 tahun,
+berapa perbandingan antara jumlah mahasiswa akuntansi dan mahasiswa
+pajak ?
+A. 3 : 2
+B. 2 : 1
+C. 1 : 2
+D. 3 : 1
+E. 2 : 3
+
+==================================================
+
+Soal 21:
+Seri angka 1, 8, 27, 64 selanjutnya adalah ...
+A. 81
+B. 72
+C. 125
+D. 136
+E. 100
+
+==================================================
+
+Soal 22:
+6, 8, 10, 14, 18, 26, 34, 50, …
+A. 66,98
+B. 74,102
+C. 74, 58
+D. 66,82
+E. 74, 88
+
+==================================================
+
+Soal 23:
+8, 9, 12, 13, 16, …
+A. 19
+B. 15
+C. 17
+D. 18
+E. 16
+
+==================================================
+
+Soal 24:
+7 (40) 3
+5 (0) 5
+7 (45) 2
+9 (….) 6
+A. 43
+B. 44
+C. 42
+D. 41
+E. 45
+
+==================================================
+
+Soal 25:
+Bacaan untuk soal 25-26
+Suatu regu terdiri dari 5 orang yaitu: Benni, Cintya, Esty, Priyo dan
+Yoshinta. Mereka berbaris dari kiri ke kanan sesuai abjad. Priyo bertukar
+tempat dengan Benni. Yoshinta bertukar tempat dengan Esty dan Priyo
+bertukar tempat denga Yoshinta. Terakhir Cintya bertukar tempat dengan
+Esty.
+Siapa yang berdiri paling kanan pada posisi yang baru?
+A. Yoshinta
+B. Beni
+C. Cintya
+D. Priyo
+E. Esty
+
+==================================================
+
+Soal 26:
+Siapa yang berdiri di sebelah kanan Benni?
+A. Cintya
+B. Esty
+C. Benni berdiri di ujung paling kanan
+D. Priyo
+E. Yoshinta
+
+==================================================
+
+Soal 27:
+Kakak Tua terbang ke utara. Kakak Tua adalah burung.
+A. Semua burung adalah merpati
+B. Beberapa burung terbang ke utara
+C. Tidak setiap Kakak Tua yang terbang ke utara adalah burung
+D. Tidak semua burung Kakak Tua terbang ke utara
+E. Burung bukan Kakak Tua
+
+==================================================
+
+Soal 28:
+Jika Pernyatan "Semua pegawai pajak adalah laki-laki" salah, maka . . .
+A. Sementara laki-laki adalah pegawai pajak
+B. Sementara pegawai pajak adalah laki-laki
+C. Tidak ada pegawai pajak yang bukan laki-laki
+D. Sementara pegawai pajak adalah bukan laki-laki
+E. Tidak ada kesimpulan yang benar
+
+==================================================
+
+Soal 29:
+Carilah keliling jajar genjang berikut ini jika panjang PQ = 98 cm , panjang
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_228/soal_29_img1.png)
+A. 256 cm
+B. 294 cm
+C. 320 cm
+D. 300 cm
+E. 240 cm
+
+==================================================
+
+Soal 30:
+Jari-jari sebuah lingkaran diperbesar 40 % dari semula, berapakah
+persentase penambahan luas dan kelilingnya!
+A. 80 % dan 70 %
+B. 93 % dan 60 %
+C. 95 % dan 80 %
+D. 96 % dan 80 %
+E. 60 % dan 80 %
+
+==================================================
+
+Soal 31:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_228/soal_31_img1.png)
+A. D
+B. E
+C. B
+D. A
+E. C
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_228/soal_32_img1.png)
+A. D
+B. C
+C. B
+D. A
+E. E
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_228/soal_33_img1.png)
+A. E
+B. A
+C. D
+D. C
+E. B
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_228/soal_34_img1.png)
+A. A
+B. C
+C. D
+D. E
+E. B
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_228/soal_35_img1.png)
+A. E
+B. D
+C. C
+D. B
+E. A
+
+==================================================
+

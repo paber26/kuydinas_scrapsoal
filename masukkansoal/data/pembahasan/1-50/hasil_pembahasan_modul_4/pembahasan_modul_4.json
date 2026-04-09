@@ -1,0 +1,486 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nDalam kehidupan, seorang pemimpin yang baik harus berani mendorong bawahannya untuk semangat bekerja, agar berani mengambil keputusan yang kreatif dan sanggup mempertanggung jawabkannya. Pola kepemimpinan ini dikenal dengan istilah …",
+        "pilihan": [
+            "Ing Ngarso Sung Tulodo",
+            "Ing Madyo Mangun Karso",
+            "Tut Wuri Handayani",
+            "Demokrasi Pancasila",
+            "Bhinneka Tunggal Ika"
+        ],
+        "jawaban_benar": "Tut Wuri Handayani",
+        "pembahasan": "Tut Wuri Handayani"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nKujang merupakan senjata tradisional yang berasal dari ….",
+        "pilihan": [
+            "Jawa Tengah",
+            "Jawa Timur",
+            "Sumatera Barat",
+            "Jawa Barat",
+            "Bengkulu"
+        ],
+        "jawaban_benar": "Jawa Barat",
+        "pembahasan": "Jawa Barat"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nDi era globalisasi ini banyak sisi negatif yang harus dihindari demi membangun bangsa, yaitu ….",
+        "pilihan": [
+            "Optimisme",
+            "Curiositas",
+            "Profesionalisme",
+            "Eklusivisme",
+            "Proaktif"
+        ],
+        "jawaban_benar": "Eklusivisme",
+        "pembahasan": "Eklusivisme"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nRumah adat Tongkonan berasal dari Provinsi ….",
+        "pilihan": [
+            "Sulawesi Barat",
+            "Sulawesi Selatan",
+            "Sulawesi Tenggara",
+            "Maluku",
+            "Sulawesi Utara"
+        ],
+        "jawaban_benar": "Sulawesi Selatan",
+        "pembahasan": "Sulawesi Selatan"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nPasal dalam UUD 1945 yang berkaitan dengan bhinneka tunggal ika adalah, kecuali .…",
+        "pilihan": [
+            "Pasal 6A ayat (3)",
+            "Pasal 18, Pasal 18A, dan Pasal 18 B",
+            "Pasal 25A",
+            "Pasal 29 ayat (1)",
+            "Pasal 26 ayat (1)"
+        ],
+        "jawaban_benar": "Pasal 29 ayat (1)",
+        "pembahasan": "Pasal 29 ayat (1)"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nMenurut aturan yang tercantum dalam UUD 1945, kedaulatan rakyat adalah di tangan rakyat dan dilakukan sepenuhnya oleh MPR yang anggotanya terdiri dari unsur-unsur, kecuali ….",
+        "pilihan": [
+            "Utusan Golongan",
+            "Utusan Partai Politik",
+            "Utusan Pemerintah",
+            "Utusan Daerah",
+            "Utusan TNI"
+        ],
+        "jawaban_benar": "Utusan Pemerintah",
+        "pembahasan": "Utusan Pemerintah"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nAPBN ditetapkan dengan persetujuan ….",
+        "pilihan": [
+            "MPR",
+            "DPR",
+            "Presiden",
+            "Kejaksaan Agung"
+        ],
+        "jawaban_benar": "DPR",
+        "pembahasan": "DPR"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nAncaman terhadap suatu wilayah pada dasarnya merupakan ancaman bagi bangsa dan negara. Pengertian tersebut merupakan pengertian Wawasan Nusantara dalam bidang ….",
+        "pilihan": [
+            "Pertahanan dan Keamanan",
+            "Politik",
+            "Hukum",
+            "Kebudayaan",
+            "Sosial"
+        ],
+        "jawaban_benar": "Hukum",
+        "pembahasan": "Hukum"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nMakna fungsi Pancasila sebagai ideologi terbuka adalah ….",
+        "pilihan": [
+            "Menerima perkembangan teknologi, ilmu pengetahuan, dan perkembangan masyarakat untuk diterapkan demi kemajuan rakyat Indonesia.",
+            "Menerima perkembangan teknologi, ilmu pengetahuan, dan perkembangan masyarakat sesuai dengan keperibadian bangsa.",
+            "Menerima perkembangan teknologi, ilmu pengetahuan, dan perkembangan masyarakat sesuai dengan cita-cita nasional.",
+            "Menerima perkembangan teknologi, ilmu pengetahuan, dan perkembangan masyarakat sesuai dengan undang-undang yang ditetapkan pemerintah.",
+            "Menerima perkembangan teknologi, ilmu pengetahuan, dan perkembangan masyarakat sesuai dengan semangat untuk menjaga ketertiban dunia."
+        ],
+        "jawaban_benar": "Menerima perkembangan teknologi, ilmu pengetahuan, dan perkembangan masyarakat sesuai dengan keperibadian bangsa.",
+        "pembahasan": "Menerima perkembangan teknologi, ilmu pengetahuan, dan perkembangan masyarakat sesuai dengan keperibadian bangsa."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nSelain norma kesusilaan dan norma kesopanan, dua norma lainnya yang termasuk dalam empat macam norma dalam masyarakat adalah ….",
+        "pilihan": [
+            "Norma Agama dan Norma Hukum",
+            "Norma Agama dan Norma Sosial",
+            "Norma Hukum dan Norma Sosial",
+            "Norma Sosial dan Norma Budaya",
+            "Norma Hukum dan Norma Budaya"
+        ],
+        "jawaban_benar": "Norma Agama dan Norma Hukum",
+        "pembahasan": "Norma Agama dan Norma Hukum"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nTujuan utama dibentuknya hukum adalah untuk .…",
+        "pilihan": [
+            "Menciptakan keseragaman pendapat dalam masyarakat.",
+            "Menciptakan masyarakat yang tertib dan aman.",
+            "Menciptakan masyarakat yang patuh pada penguasa",
+            "Menciptakan masyarakat yang adil dan sejahtera.",
+            "Menciptakan masyarakat yang dapat memahami hukum secara benar."
+        ],
+        "jawaban_benar": "Menciptakan masyarakat yang tertib dan aman.",
+        "pembahasan": "Menciptakan masyarakat yang tertib dan aman."
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nPada leher Garuda tergantung dengan rantai sebuah perisai berupa jantung, di mana di tengah perisai terdapat garis tebal. Melambangkan apakah garis tebal tersebut …",
+        "pilihan": [
+            "Indonesia terdiri dari pulau-pulau yang bersatu dan tidak terpisahkan.",
+            "Semua sila dalam Pancasila bersatu padu.",
+            "Kedaulatan Indonesia akan dipertahankan dengan sikap tegas jika ada pihak asing yang mencoba merongrongnya",
+            "Indonesia adalah negara kepulauan.",
+            "Indonesia dilalui garis khatulistiwa"
+        ],
+        "jawaban_benar": "Indonesia dilalui garis khatulistiwa",
+        "pembahasan": "Indonesia dilalui garis khatulistiwa"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nSalah satu pelaksanaan Demokrasi di Indonesia adalah pelaksanaan pemilu. Pemilihan dilaksanakan dengan asas LUBER JURDIL. Semua warga negara yang memenuhi syarat berhak untuk mengikuti pemilu. Hal tersebut sesuai dengan asas pemilu yaitu....",
+        "pilihan": [
+            "Langsung",
+            "Umum",
+            "Bebas",
+            "Jujur",
+            "Adil"
+        ],
+        "jawaban_benar": "Umum",
+        "pembahasan": "Umum"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nDemokrasi terpimpin dilaksanakan pada tahun ....",
+        "pilihan": [
+            "1945 -1950",
+            "1949 - 1956",
+            "1966 - 1971",
+            "1991 -1998",
+            "1959 - 1966"
+        ],
+        "jawaban_benar": "1959 - 1966",
+        "pembahasan": "1959 - 1966"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nMengutamakan pengambilan keputusan dengan musyawarah mufakat dalam semangat kekeluargaan merupakan keunggulan dari Demokrasi ....",
+        "pilihan": [
+            "Terpimpin",
+            "Pancasila",
+            "Sosialis",
+            "Liberalis",
+            "Kapitalis"
+        ],
+        "jawaban_benar": "Pancasila",
+        "pembahasan": "Pancasila"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nCiri-ciri dari sistem pemerintahan parlementer yaitu ....",
+        "pilihan": [
+            "Presiden tidak bertanggungjawab kepada kekuasaan legislative.",
+            "Presiden tidak bertanggungjawab kepada kekuasaan yudikatif.",
+            "Presiden memiliki kedudukan sebagai kepala pemerintahan dan kepala negara.",
+            "Adanya pemisahan yang jelas antara kepala pemerintahan dan kepala negara."
+        ],
+        "jawaban_benar": "Adanya pemisahan yang jelas antara kepala pemerintahan dan kepala negara.",
+        "pembahasan": "Adanya pemisahan yang jelas antara kepala pemerintahan dan kepala negara."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nKeanggotaan MPR terdiri dari anggota ....",
+        "pilihan": [
+            "MPR dan DPR",
+            "MPR dan DPD",
+            "DPR dan DPD",
+            "DPR dan DPRD",
+            "DPD dan DPRD"
+        ],
+        "jawaban_benar": "DPR dan DPD",
+        "pembahasan": "DPR dan DPD"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nMengajukan rancangan undang-undang yang berkaitan dengan otonomi daerah merupakan kewenangan dari ....",
+        "pilihan": [
+            "MPR",
+            "DPR",
+            "DPRD",
+            "DPD"
+        ],
+        "jawaban_benar": "DPD",
+        "pembahasan": "DPD"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nPresiden memiliki kekuasaan untuk memberikan grasi dan rehabilitasi dengan memperhatikan pertimbangan dari ....",
+        "pilihan": [
+            "MPR",
+            "MA",
+            "DPA",
+            "DPD",
+            "DPD dan DPRD"
+        ],
+        "jawaban_benar": "MA",
+        "pembahasan": "MA"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nPresiden memiliki kekuasaan untuk memberikan amnesti dan abolisi dengan memperhatikan pertimbangan dari ....",
+        "pilihan": [
+            "DPD",
+            "BPK",
+            "MPR",
+            "DPR"
+        ],
+        "jawaban_benar": "DPR",
+        "pembahasan": "DPR"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nKata kedaulatan berasal dari bahasa Arab, yaitu ....",
+        "pilihan": [
+            "Daulat",
+            "Derajat",
+            "Daulah",
+            "Majelis",
+            "Mu'amalah"
+        ],
+        "jawaban_benar": "Daulah",
+        "pembahasan": "Daulah"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nMemutus perselisihan hasil pemilihan umum merupakan kewenangan yang dimiliki oleh ....",
+        "pilihan": [
+            "MK",
+            "DPR",
+            "MPR"
+        ],
+        "jawaban_benar": "MK",
+        "pembahasan": "MK"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nBerikut ini yang bukan merupakan hak anggota MPR adalah ….",
+        "pilihan": [
+            "Hak memilih dan dipilih dan hak menentukan sikap.",
+            "Hak keuangan dan administrative.",
+            "Hak membela diri dan hak imunitas.",
+            "Hak angket dan hak interpelasi.",
+            "Hak imunitas dan hak protokoler."
+        ],
+        "jawaban_benar": "Hak angket dan hak interpelasi.",
+        "pembahasan": "Hak angket dan hak interpelasi."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nBerikut ini yang bukan merupakan hak DPD adalah …",
+        "pilihan": [
+            "Hak Imunitas",
+            "Hak Menyampaikan Usul",
+            "Hak Protokoler",
+            "Hak Interpelasi",
+            "Hak Membela Diri"
+        ],
+        "jawaban_benar": "Hak Interpelasi",
+        "pembahasan": "Hak Interpelasi"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nPeraturan perundang-undangan tertinggi yang sekarang berlaku di Indonesia adalah ….",
+        "pilihan": [
+            "Pancasila",
+            "UUD 1945",
+            "Ketetapan MPR",
+            "Supersemar",
+            "Undang-undang"
+        ],
+        "jawaban_benar": "UUD 1945",
+        "pembahasan": "UUD 1945"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nDi bawah ini adalah contoh negara yang terbentuk dari occupatie, yaitu ….",
+        "pilihan": [
+            "China",
+            "Jepang",
+            "Liberia",
+            "Nigeria",
+            "Indonesia"
+        ],
+        "jawaban_benar": "Liberia",
+        "pembahasan": "Liberia"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nIndonesia pernah diberi nama Dwipantara oleh orang India, yang artinya ….",
+        "pilihan": [
+            "Pulau Nusantara",
+            "Pulau Antara",
+            "Pulau Seberang",
+            "Negara Emas",
+            "Negara Padi"
+        ],
+        "jawaban_benar": "Pulau Seberang",
+        "pembahasan": "Pulau Seberang"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nOrganisasi yang didirikan oleh Haji Samanhudi adalah ….",
+        "pilihan": [
+            "Muhammadiyah",
+            "Nahdatul Ulama (NU)",
+            "Sarekat Dagang Islam",
+            "Sarekat Islam",
+            "Masyumi"
+        ],
+        "jawaban_benar": "Sarekat Dagang Islam",
+        "pembahasan": "Sarekat Dagang Islam"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nBerikut ini adalah pahlawan yang terlibat dalam perang Aceh adalah, kecuali .…",
+        "pilihan": [
+            "Teuku Umar",
+            "Cut Nyak Dien",
+            "Panglima Polim",
+            "Usman dan Harun",
+            "Cut Meutiah"
+        ],
+        "jawaban_benar": "Usman dan Harun",
+        "pembahasan": "Usman dan Harun"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nPusat Tenaga Rakyat atau Putera adalah organisasi yang dibentuk pemerintah Jepang di Indonesia pada 16 April 1943 dan dipimpin oleh Empat Serangkai berikut, kecuali …",
+        "pilihan": [
+            "Soekaro",
+            "Cipto Mangoenkoesoemo",
+            "Ki Hadjar Dewantara",
+            "KH Mas Mansyur",
+            "Moh. Hatta"
+        ],
+        "jawaban_benar": "Cipto Mangoenkoesoemo",
+        "pembahasan": "Cipto Mangoenkoesoemo"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nPendiri organisasi Partai Nasional Indonesia (PNI) adalah ….",
+        "pilihan": [
+            "Boedi Utomo",
+            "Sutan Syahrir",
+            "Soekarno",
+            "Moh. Hatta",
+            "Tan Malaka"
+        ],
+        "jawaban_benar": "Soekarno",
+        "pembahasan": "Soekarno"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nIsi Perjanjian Renville adalah sebagai berikut, kecuali …",
+        "pilihan": [
+            "TNI harus hijrah ke RI.",
+            "RI merupakan bagian dari RIS",
+            "Akan diadakan pemilu",
+            "Belanda hanya mengakui Jawa sebagai wilayah RI.",
+            "Akan dibentuk dewan konstitusi RIS dalam waktu dekat"
+        ],
+        "jawaban_benar": "Belanda hanya mengakui Jawa sebagai wilayah RI.",
+        "pembahasan": "Belanda hanya mengakui Jawa sebagai wilayah RI."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nYang dimaksud dengan bangsa adalah ….",
+        "pilihan": [
+            "Sekelompok besar manusia yang mempunyai adat istiadat, budaya, sosial, dan politik yang sama yang hidup bersama dalam sebuah wilayah dan mempunyai pemerintahan yang sah.",
+            "Sekelompok besar manusia yang berasal dari satu keturunan.",
+            "Sekelompok besar manusia yang mempunyai kesamaan dalam sifat, watak, semangat, dan bersatu padu untuk mencapai tujuan bersama",
+            "Sekelompok besar manusia yang merasa sejiwa dan hidup bersama untuk mencapai tujuan bersama.",
+            "Sekelompok besar manusia yang mempunyai pandangan yang sama perihal norma dan hukum sehingga dapat hidup bersama dalam sebuah wilayah."
+        ],
+        "jawaban_benar": "Sekelompok besar manusia yang merasa sejiwa dan hidup bersama untuk mencapai tujuan bersama.",
+        "pembahasan": "Sekelompok besar manusia yang merasa sejiwa dan hidup bersama untuk mencapai tujuan bersama."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nMakna norma hukum bersifat memaksa adalah ….",
+        "pilihan": [
+            "Hukum dibuat untuk ditaati, apabila melanggar maka pelakunya akan mendapatkan sanksi atas pelanggaran tersebut.",
+            "Hukum dibuat untuk ditaati, jika dilanggar dan pelanggaran tersebut belum tercantum, maka hukum akan dilakukan revisi.",
+            "Hukum dibuat untuk ditaati, siapapun juga tidak diperbolehkan untuk melanggarnya.",
+            "Semua warga negara dipaksa untuk mematuhi hukum yang dibuat.",
+            "Hukum dibuat untuk ditaati dengan pengecualian atas sanksi untuk pelanggaran yang terbilang kecil."
+        ],
+        "jawaban_benar": "Hukum dibuat untuk ditaati, apabila melanggar maka pelakunya akan mendapatkan sanksi atas pelanggaran tersebut.",
+        "pembahasan": "Hukum dibuat untuk ditaati, apabila melanggar maka pelakunya akan mendapatkan sanksi atas pelanggaran tersebut."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nSelain kerukunan intern beragama dan kerukunan antar umat beragama, satu hal lainnya yang termasuk dalam Tri Kerukunan umat beragama lainnya adalah .…",
+        "pilihan": [
+            "Kerukunan antara umat beragama dengan tokoh adat dan budayawan",
+            "Kerukunan antara umat beragama dengan pemerintah",
+            "Kerukunan antara umat beragama dengan kekuatan sosial dan politik di Indonesia",
+            "Kerukunan antara umat beragama dengan cendekiawan dan ilmuwan",
+            "Kerukunan antara umat beragama dengan umat beragama lainnya di dunia internasional"
+        ],
+        "jawaban_benar": "Kerukunan antara umat beragama dengan pemerintah",
+        "pembahasan": "Kerukunan antara umat beragama dengan pemerintah"
+    }
+]

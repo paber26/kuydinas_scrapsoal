@@ -1,0 +1,632 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nJika ada salah seorang\npelanggan mengkritik pekerjaan yang dilakukan oleh tim Anda, maka Anda akan ...",
+        "pilihan": [
+            "Segera membahas saran tersebut kepada rekan - rekan tim Anda\n(Nilai 5)",
+            "Menyampaikan saran tersebut kepada atasan Anda\n(Nilai 4)",
+            "Mengucapkan terima kasih kepada klien tersebut dan berpikir bahwa sarannya juga pernah Anda sarankan kepada tim\n(Nilai 3)",
+            "Mengiyakan saja apa yang ia sarankan\n(Nilai 2)",
+            "Menolak saran dari klien tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Segera membahas saran tersebut kepada rekan - rekan tim Anda (5 point)\nSegera membahas saran tersebut kepada rekan - rekan tim Anda (4 point)\nMengucapkan terima kasih kepada klien tersebut dan berpikir bahwa sarannya juga pernah Anda sarankan kepada tim (3 point)\nMengiyakan saja apa yang ia sarankan (2 point)\nMenolak saran dari klien tersebut (1 point)"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nKetika saya berjanji pada seseorang teman tanpa sengaja saya mengingkari janji, maka saya ...",
+        "pilihan": [
+            "Merasa berasalah pada orang yang bersangkutan\n(Nilai 5)",
+            "Merasa malu pada diri sendiri\n(Nilai 4)",
+            "Merasa takut dislahkan oleh orang yang bersangkutan\n(Nilai 3)",
+            "Merasa tenang saja, iangkar janji adalah hal yang biasa\n(Nilai 2)",
+            "Tidak berpikir saya telah ingkar janji\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini bertujuan untuk mengukur\naspek integritas\n(tingkat kebaikan atau ketulusan hati seseorang dalam kesehariannya/ konsistensi dan ketangguhan yang tak tergoyahkan dalam menjunjung tinggi nilai-nilai luhur dan keyakinan)"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nPada saat melaksanakan suatu tugas yang dipercayakan kepada saya, maka saya ...",
+        "pilihan": [
+            "Harus melaksanakan tugas sesuai dengan kemampuan yang saya miliki\n(Nilai 5)",
+            "Menyadari bahwa keputusan pimpinan diperlukan di luar wewenang saya sebagai bawahan\n(Nilai 4)",
+            "Berusaha membuat terobosan baru dalam penyelesain tugas saya\n(Nilai 3)",
+            "Wajib mendahulukan kepentingan pimpinan saya\n(Nilai 2)",
+            "Harus menyelesaikan secepat mungkin\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini bertujuan untuk mengukur\naspek tanggung jawab\n(tingkat kedewasaan dalam mempertanggungjawabkan atau menanggung resiko apa yang telah dilakukannya dan apa yang dilakukan oleh tim yang berada di bawah wewenangnya)"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nSaya akan ke toko untuk membeli baju. Sesampainya di toko saya bertemu dengan teman yang mengajak makan bersma d restoran siap saji, maka saya akan ...",
+        "pilihan": [
+            "Membeli baju terlebih dahulu baru kemudian makan bersama teman\n(Nilai 5)",
+            "Menyetujui ajakannya demi menjaga hubungan\n(Nilai 4)",
+            "Menyetujui ajakannya dengan sangat hati\n(Nilai 3)",
+            "Membeli baju meskipun tergiur ajakannya\n(Nilai 2)",
+            "Membeli baju sesuai tujuan semula\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Ramah dan supel dalam pergaulan merupakan ciri orang yang memiliki kehidupan sosial yang baik. Meskipun kita memiliki kepentingan, menjalin hubungan yang baik terutama dengan teman juga merupakan hal yang harus diperhatiakan untuk menciptakan kehidupan sosial yang harmonis"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nSaya dipercayakan mengatur suatu kegiatan yang belum dipublikasikan dan masih harus dijaga kerahasiannya. Ketika saya berada di antara teman-teman dekat di kantor, saya ...",
+        "pilihan": [
+            "Membicarakan hal-hal lain yang tidak ada kaitannya dengan tugas baru saya\n(Nilai 5)",
+            "Membatasi pembicaraan agar tidak menyangkut ke hal-hal yang berkaitan dengan tugas baru saya\n(Nilai 4)",
+            "Akan mengalihkan ke pembicaraan lain bila mereka sudah mulai menyinggung tugas baru saya\n(Nilai 3)",
+            "Akan merasa gelisah dan kurang senang bila mereka mulai membicarakan tugas baru saya\n(Nilai 2)",
+            "Suka menerima masukan demi masukan demi masukan dalam rangka pengembangan tugas baru saya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini berfungsi untuk mengatur\naspek efisiensi kerja\n(seberapa baikkah Anda dalam menuntaskan suatu pekerjaan secara benar, namun dengan waktu yang lebih cepat dan pemakaian sumber daya yang lebih hemat)"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nKetika pulang sekolah teman yang rumahnya dekat dengan sekolah ingin membonceng motor saya padahal saya tidak membawa helm. Maka yang saya lakukan ...",
+        "pilihan": [
+            "Menolak permintaannya karena ingin mematuhi peraturan lalu lintas\n(Nilai 5)",
+            "Ragu - ragu memenuhi permintaannya\n(Nilai 4)",
+            "Menolak permintaan teman dengan alasan tergesa-gesa\n(Nilai 3)",
+            "Memberikan boncengan meskipun dengan was-was\n(Nilai 2)",
+            "Tidak keberatan memenuhi permintaannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Membantu orang lain merupakan kewajiban kita dalam hidup besosial. Ketika ada teman yang meminta bantuan sudah sewajarnya kita membantu"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nAda seorang anak didik yang tidak mampu membayar uang ujian, karena hal tersebut saya ...",
+        "pilihan": [
+            "Menggoordinir teman-temannya untuk iuran guna membayar biaya dan saya ikut iuran juga\n(Nilai 5)",
+            "Merasa kasihan dan berusaha menghiburnya\n(Nilai 4)",
+            "Menganggap hal itu sebagai hl biasa\n(Nilai 3)",
+            "Membiarkan karena setiap orang memiliki masalah sendiri-sendiri\n(Nilai 2)",
+            "Pura-pura tidak mengetahui\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sikap peduli dengan kondisi orang lain dapat diwujudkan  dengan sikap atau perbuatan untuk menolong orang tersebut keluar dari masalah yang dialami"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nApabila saya diminta oleh Kepala Dapartemen tempat saya bekerja untuk menjadi ketua sekaligus penanggung jawab sebuah tim kerja di kantor saya, padahal saya merasa belum merasa pantas untuk menerimanya sebab masih ada atasan saya yang saya anggap mampu. Maka saya ...",
+        "pilihan": [
+            "Mempertimbangkan permintaan tersebut dan minta saran masukan dari atasan saya yang saya anggap lebih mampu\n(Nilai 5)",
+            "Menerima permintaan tersebut dengan senang hati\n(Nilai 4)",
+            "Menerima tawaran tersebut agar saya bisa segera naik jabatan sajajar dengan atasan saya\n(Nilai 3)",
+            "Menolak permintaan tersebut dan mengusulkan atasan yang menerima tugas tersebut\n(Nilai 2)",
+            "Menolak permintaan Kepala Departemen\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini bertujuan untuk mengukur\naspek penghargaan terhadap orang lain\n(tingkat kedewasaan Anda dalam menghargai orang lain baik itu pendapatnya, eksistensinya, maupun kapasitasnya sebagai entitas yang ada di luar diri Anda)"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nSudah diketahui secara umum, bahwa proses belajar-mengajar di perguruan tinggi dan sekolah menengah berbeda. Terhadap perbedaan tersebut saya akan ...",
+        "pilihan": [
+            "Mudah menyesuaikan kegiatan dengan situasi baru\n(Nilai 5)",
+            "Dapat mengubah kebiasaan saya selama ini\n(Nilai 4)",
+            "Membutuhkan waktu untuk menyesuaikan diri\n(Nilai 3)",
+            "Mengalami kesulitan untuk meninggalkan kebiasaan\n(Nilai 2)",
+            "Tidak dapat menyesuaikan diri tanpa bantuan orang lain\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Seseorang yang mudah melakukan adaptasi dan mampu menyesuaikan diri dengan cepat akan membrikan nilai tambah dalam dirinya ketika berada pada situasi baru"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nOrganisasi sedang mengalami permasalahan internal seputar manajemen keuangan (kerugian atau defisit yang cukup besar). Pendapat saya terhadap kondisi ini adalah ...",
+        "pilihan": [
+            "Saya akan menjaga kerahasiaan permasalahan yang terjadi dan tidak ingin ikut campur masalah keuangan\n(Nilai 5)",
+            "Perlu menjelaskan permasalahan kondisi keuangan perusahaan kepada seluruh jajaran organisasi agar dapat mengevaluasi kembali rencana pembelajaran\n(Nilai 4)",
+            "Tidak mempersoalkan masalah tersebut karena bukan bagian tugas saya\n(Nilai 3)",
+            "Seharusnya pimpinan puncak dapat menindak tegas yang terlibat dalam masalah ini\n(Nilai 2)",
+            "Pastikan bahwa kepala keuangan bertanggung jawab penuh terhadap masalah ini\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal menguji tentang skala kematangan dari aspk pengendalian diri"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nDalam suatu pertemuan atau rapat, salah satu teman Anda melakukan kecurangan absensi kehadiran, dengan cara mengisi data yang tidak sesuai dengan kehadiran. Yang Anda lakukan adalah ...",
+        "pilihan": [
+            "Melaporkan pada pimpinan rapat\n(Nilai 5)",
+            "Memberitahu kepada teman yang terdekat\n(Nilai 4)",
+            "Membiarkan saja\n(Nilai 3)",
+            "Diam saja atau pura-pura tidak melihatnya\n(Nilai 2)",
+            "Ikut-ikutan melakukannya kemudian bolos dari rapat\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini bertujuan untuk mengukur\naspek kejujuran\n(tingkat ketulusan hati Anda alam berkata dan berbuat yang benar sesuai norma agama/persamaan antara ucapan, perbuatan, dan hati nurani)"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nSuatu ketika saya mendapat undangan menghadiri acara hajatan seorang kerabat dari luar kota, bersamaan dengan itu ada pekerjaan kantor, sedangkan minggu lalu saya sudah membolos, saya akan ...",
+        "pilihan": [
+            "Mempersiapkan diri sejak awal dan membicarakannya dengan pimpinan untuk menyelesaikan tugas di hari ini\n(Nilai 5)",
+            "Akan mengerjakan tugas dengan sungguh-sungguh\n(Nilai 4)",
+            "Akan melaksanakan tugas sungguh-sungguh dan inilah kesempatan untuk memperbaiki kinerja saya\n(Nilai 3)",
+            "Akan meminta izin tidak dapat mengikuti tugas hari ini\n(Nilai 2)",
+            "Memilih pergi dan berusaha semaksimal mungkin mengerjakan tugas berikutnya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini bertujuan untuk mengukur\naspek tanggung jawab\n(tingkat kedewasaan dalam mempertanggungjawabkan atau menanggung resiko apa yang telah dilakukannya dan apa yang dilakukan oleh tim yang berada di bawah wewenangnya)"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nAgar suatu kegiatan berhasil saya selesaikan dengan hasil yang memuaskan, maka saya ...",
+        "pilihan": [
+            "Memperlajari berbagai hal mengenai kegiatan tersebut sebelum memulai kegiatan\n(Nilai 5)",
+            "Mencontoh orang lain yang telah sukses terlebih dahulu dalam mengerjakan pekerjaan serupa\n(Nilai 4)",
+            "Minta petunjuk guru pribadi saya dalam melaksanakan\n(Nilai 3)",
+            "Menyesuaikan dengan kondisi yang sedang terjadi sekarang\n(Nilai 2)",
+            "Menggunakan cara-cara yang sudah biasa saya pakai\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini bertujuan untuk mengukur\naspek semangat berprestasi\n(tingkat motivasi dan kekuatan tekad seseorang untuk melakukan tugasnya dengan baik dan meraih capaian-capaian tertentu yang signifikan dan penting)"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nSebagian rekan kerja pulang 20 menit lebih awal dari jadwal yang seharusnya, bagimana dengan Anda ?",
+        "pilihan": [
+            "Saya tetap mengikuti aturan yang berlaku sehingga tetap pulang sesuai\n(Nilai 5)",
+            "Saya tidak melakukannya agar dinilai sebagai staf yang rajin oleh atasan\n(Nilai 4)",
+            "Karene banyak yang melakukannya, mungkin hal itu tidaklah mengapa\n(Nilai 3)",
+            "Banyak yang melakukannya sehingga saya pun juga melakukannya\n(Nilai 2)",
+            "Demi toleransi, saya ikut melakukannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal menguji tentang skala kematangan dari aspek pengendalian diri"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nInstansi/lembaga tempat saya mengabdi sedang mengalami permasalahan internal seputar manajemen keuangan, pendapat saya terhadap kondisi yang sedang terjadi adalah ...",
+        "pilihan": [
+            "Saya akan menjaga kerahasiaan tentang permasalahan yang terjadi dan coba memberikan alternatif solusi kepada pimpinan\n(Nilai 5)",
+            "Seharusnya pimpinan puncak dapat menindak tegas yang terlibat dalam masalah ini\n(Nilai 4)",
+            "Patikan bahwa kepala keuangan bertanggung jawab penuh terhadap masalah ini\n(Nilai 3)",
+            "Perlu membeberkan permasalahan kepada seluruh jajaran organisasi agar bisa memahami kondisi yang ada\n(Nilai 2)",
+            "Tidak mempersoalkan masalah ini karena bukan bagian dari tugas saya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini bertujuan untuk mengukur\naspek inisiatif\n(tingkat kedewasaan dalam mencetuskan sesuatu ide tertentu yang berguna bagi organisasinya)"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nIklim kerja di organisasi yang paling saya harapkan adalah iklim yang ...",
+        "pilihan": [
+            "Kompetitif, sehingga menjadikan saya lebih berkembang\n(Nilai 5)",
+            "Menyenangkan dan memotivasi saya untuk bekerja\n(Nilai 4)",
+            "Memberi kesempatan kepada saya untuk beraktualisasi diri\n(Nilai 3)",
+            "Memenuhi semua kebutuhan hidup saya\n(Nilai 2)",
+            "Memberi kesempatan naik pangkat\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Soal ini bertujuan untuk mengukur\naspek semangat berprestasi\n(tingkat motivasi dan kekuatan tekad seseorang untuk melakukan tugasnya dengan baik dan meraih capaian-capaian tertentu yang signifikan dan penting)"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nBeban kerja yang tinggi menurut saya adalah ...",
+        "pilihan": [
+            "Merupakan jalan saya mencapai tingkat pimpinan tertinggi\n(Nilai 5)",
+            "Merupakan jalan kita untuk melangkah kedepan\n(Nilai 4)",
+            "Suatu tantangan yang harus kita hadapi\n(Nilai 3)",
+            "Sebagai sarana melatih diri\n(Nilai 2)",
+            "(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Merupakan jalan saya mencapai tingkat pimpinan tertinggi (5 point)\nMerupakan jalan kita untuk melangkah kedepan (4 point)\nSuatu tantangan yang harus kita hadapi (3 point)\nSebagai sarana melatih diri (2 point)\nLebih baik saya mengundurkan diri daripada saya stres (1 point)"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSebagai seorang ayah, anda memiliki salah seorang anak yang sangat susah\ndiatur dan suka berkelahi, maka Anda akan ...",
+        "pilihan": [
+            "Mencoba mengetahui permasalahannya dan mencoba membantu menyelesaikannya\n(Nilai 5)",
+            "Menanyakan permasalahannya\n(Nilai 4)",
+            "Menegurnya dengan keras\n(Nilai 3)",
+            "Menegurnya didepan umum\n(Nilai 2)",
+            "Membiarkannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Mencoba mengetahui permasalahannya dan mencoba membantu menyelesaikannya (5 point)\nMenanyakan permasalahannya (4 point)\nMenegurnya dengan keras (3 point)\nMenegurnya didepan umum (2 point)\nMembiarkannya (1 point)"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nAnda ditunjuk menjadi ketua divisi di kantor Anda, maka Anda akan ...",
+        "pilihan": [
+            "Siap mengemban amanah\n(Nilai 5)",
+            "Siap dan segera mempelajari apa yang dibutuhkan seorang pemimpin\n(Nilai 4)",
+            "Menolaknya karena merasa ada yang lebih pantas\n(Nilai 3)",
+            "Menolaknya karena merasa belum siap\n(Nilai 2)",
+            "Menolaknya karena merasa belum pantas\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Siap mengemban amanah (5 point)\nSiap dan segera mempelajari apa yang dibutuhkan seorang pemimpin (4 point)\nMenolaknya karena merasa ada yang lebih pantas (3 point)\nMenolaknya karena merasa belum siap (2 point)\nMenolaknya karena merasa belum pantas (1 point)"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nKetika Anda ditawari beasiswa dari tempat Anda bekerja, maka Anda akan ...",
+        "pilihan": [
+            "Membaca persyaratan yang ada, apabila sesuai maka segera mengurus keperluannya\n(Nilai 5)",
+            "Segera melengkapi persyaratannya\n(Nilai 4)",
+            "Biasa saja\n(Nilai 3)",
+            "Tidak ada waktu untuk sekolah lagi\n(Nilai 2)",
+            "Tidak tertarik\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Membaca persyaratan yang ada, apabila sesuai maka segera mengurus keperluannya (5 point)\nSegera melengkapi persyaratannya (4 point)\nBiasa saja (3 point)\nTidak ada waktu untuk sekolah lagi (2 point)\nTidak tertarik (1 point)"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nKetika Anda diminta atasan untuk menyusun jadwal kerja di unit Anda,\nmaka yang Anda lakukan adalah ...",
+        "pilihan": [
+            "Memberi tahu waktu - waktu yang Anda bisa dan tidak bisa\n(Nilai 5)",
+            "Ikut dengan jadwal yang disepakati rekan - rekan saya saja\n(Nilai 4)",
+            "Mencoba mencari jadwal yang tidak berbenturan dengan jadwal saya meski harus mengorbankan jadwal rekan yang lain\n(Nilai 3)",
+            "Saya pusing jika harus disuruh menyusun jadwal\n(Nilai 2)",
+            "Saya takut bersuara jika jadwal tersebut mangganggu jadwal saya yang sudah ada\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Memberi tahu waktu - waktu yang Anda bisa dan tidak bisa (5 point)\nIkut dengan jadwal yang disepakati rekan - rekan saya saja (4 point)\nMencoba mencari jadwal yang tidak berbenturan dengan jadwal saya meski harus mengorbankan jadwal rekan yang lain (3 point)\nSaya pusing jika harus disuruh menyusun jadwal (2 point)\nSaya takut bersuara jika jadwal tersebut mangganggu jadwal saya yang sudah ada (1 point)"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nPimpinan ingin dibuatkan sebuah kumpulan berita - berita baru yang mudah\ndibaca, maka sebaiknya ...",
+        "pilihan": [
+            "Saya kumpulkan berita - berita dari internet dan saya bookmark tiap alamatnya\n(Nilai 5)",
+            "Saya buatkan kliping koran dengan jangka waktu tiap bulan\n(Nilai 4)",
+            "Saya kumpulkan berita majalah dan koran yang berisi berita penting\n(Nilai 3)",
+            "Saya bersama teman - teman menyimpan tiap koran dan majalah ke rak - rak khusus\n(Nilai 2)",
+            "Saya meminta OB untuk mengkliping koran yang penting\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Saya kumpulkan berita - berita dari internet dan saya bookmark tiap alamatnya (5 point)\nSaya buatkan kliping koran dengan jangka waktu tiap bulan (4 point)\nSaya kumpulkan berita majalah dan koran yang berisi berita penting (3 point)\nSaya bersama teman - teman menyimpan tiap koran dan majalah ke rak - rak khusus (2 point)\nSaya meminta OB untuk mengkliping koran yang penting (1 point)"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nBagaimana sikap di kantor ...",
+        "pilihan": [
+            "Bekerja dengan giat baik diawasi maupun tidak\n(Nilai 5)",
+            "Bekerja dengan giat ketika diawasi\n(Nilai 4)",
+            "Berpura - pura bekerja dengan tekun\n(Nilai 3)",
+            "Bekerja dengan santai sambil sesekali membuka sosial media\n(Nilai 2)",
+            "Bekerja sambil sesekali mengakses situs online shop\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Bekerja dengan giat baik diawasi maupun tidak (5 point)\nBekerja dengan giat ketika diawasi (4 point)\nBerpura - pura bekerja dengan tekun (3 point)\nBekerja dengan santai sambil sesekali membuka sosial media (2 point)\nBekerja sambil sesekali mengakses situs online shop (1 point)"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nKetika orang di sekitar Anda tidak mau mendengar saran Anda, maka Anda\nakan ...",
+        "pilihan": [
+            "Berusaha memahami kondisi\n(Nilai 5)",
+            "Sedih\n(Nilai 4)",
+            "Marah\n(Nilai 3)",
+            "Putus asa\n(Nilai 2)",
+            "Tidak mau memberi saran lagi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Berusaha memahami kondisi (5 point)\nSedih (4 point)\nMarah (3 point)\nPutus asa (2 point)\nTidak mau memberi saran lagi (1 point)"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nKetika saya sedang bekerja lembur, tiba - tiba ada telepon dari rumah\nmemberi tahu bahwa Anak sedang sakit, sikap saya ...",
+        "pilihan": [
+            "Melihat dulu kondisinya, apabila sakit parah segera kembali rumah\n(Nilai 5)",
+            "Sudah ada istri dan pembantu di rumah\n(Nilai 4)",
+            "Meminta istri untuk lembur selesai\n(Nilai 3)",
+            "Segera kembali ke rumah\n(Nilai 2)",
+            "Pekerjaan kantor lebih penting\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Melihat dulu kondisinya, apabila sakit parah segera kembali rumah (5 point)\nSudah ada istri dan pembantu di rumah (4 point)\nMeminta istri untuk lembur selesai (3 point)\nSegera kembali ke rumah (2 point)\nPekerjaan kantor lebih penting (1 point)"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nAnda memiliki beberapa mobil untuk disewakan. Salah satu orang yang\nmenyewa mobil Anda melaporkan jika mengalami mogok. Maka yang akan Anda lakukan\nadalah ...",
+        "pilihan": [
+            "Segera membenahi mobil tersebut\n(Nilai 5)",
+            "Memberikan penawaran mobil anda yang lain untuk dipakai\n(Nilai 4)",
+            "Meminta pada penyewa untuk sementara membenahinya sendiri\n(Nilai 3)",
+            "Membebankan tanggung jawab kepada si penyewa\n(Nilai 2)",
+            "Meminta pada penyewa mobil untuk segera mengembalikan tersebut bila sudah tidak nyaman\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Segera membenahi mobil tersebut (5 point)\nMemberikan penawaran mobil anda yang lain untuk dipakai (4 point)\nMeminta pada penyewa untuk sementara membenahinya sendiri (3 point)\nMembebankan tanggung jawab kepada si penyewa (2 point)\nMeminta pada penyewa mobil untuk segera mengembalikan tersebut bila sudah tidak nyaman (1 point)"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nSaat sedang rapat warga di balai RW, saya biasanya memberikan masukan\nberupa pendapat tetapi beberapa tetangga saya juga memberikan pendapat, sikap\nsaya akan hal ini ...",
+        "pilihan": [
+            "Bersikap terbuka dan menerima semua pendapat yang ada\n(Nilai 5)",
+            "Mencoba selalu berfikir positif atas segala keputusan rapat\n(Nilai 4)",
+            "Mencoba mempengaruhi yang lain agar setuju terhadap pendapat saya\n(Nilai 3)",
+            "Tetap berpegang teguh pada ide saya\n(Nilai 2)",
+            "Saya cukup dekat dengan pimpinan rapat, saya yakin ide saya disetujui\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Bersikap terbuka dan menerima semua pendapat yang ada (5 point)\nMencoba selalu berfikir positif atas segala keputusan rapat (4 point)\nMencoba mempengaruhi yang lain agar setuju terhadap pendapat saya (3 point)\nTetap berpegang teguh pada ide saya (2 point)\nSaya cukup dekat dengan pimpinan rapat, saya yakin ide saya disetujui (1 point)"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSaat menghadapi anak Anda bermalas - malasan pergi ke sekolah, Anda akan ...",
+        "pilihan": [
+            "Bersikap tegas\n(Nilai 5)",
+            "Mencoba memahami permasalahannya\n(Nilai 4)",
+            "Marah\n(Nilai 3)",
+            "Menganggapnya maklum, mungkin dia lelah\n(Nilai 2)",
+            "Membiarkan saja\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Bersikap tegas (5 point)\nMencoba memahami permasalahannya (4 point)\nMarah (3 point)\nMenganggapnya maklum, mungkin dia lelah (2 point)\nMembiarkan saja (1 point)"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nKarena pertemuan kerja dari luar kota kemarin, siang ini saya merasa\nsangat mengantuk, kerjaan tidak ada yang selesai karena tidak fokus, sebaiknya\nsaya ...",
+        "pilihan": [
+            "Meminta izin atasan untuk istirahat sejenak\n(Nilai 5)",
+            "Segera tidur siang\n(Nilai 4)",
+            "Segera ke musholah untuk tidur\n(Nilai 3)",
+            "Segera makan siang\n(Nilai 2)",
+            "Meminta teman untuk memijat\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Meminta izin atasan untuk istirahat sejenak (5 point)\nSegera tidur siang (4 point)\nSegera ke musholah untuk tidur (3 point)\nSegera makan siang (2 point)\nMeminta teman untuk memijat (1 point)"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nSaat banyak masalah tiba - tiba hadir bersamaan, biasanya Anda ...",
+        "pilihan": [
+            "Tenang\n(Nilai 5)",
+            "Menenangkan diri sejenak\n(Nilai 4)",
+            "Berusaha bijak\n(Nilai 3)",
+            "Mengambil pelajaran dari setiap peristiwa\n(Nilai 2)",
+            "Stress\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Tenang (5 point)\nMenenangkan diri sejenak (4 point)\nBerusaha bijak (3 point)\nMengambil pelajaran dari setiap peristiwa (2 point)\nStress (1 point)"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nMenurut pegawai Anda, Anda adalah seorang yang ...",
+        "pilihan": [
+            "Rajin\n(Nilai 5)",
+            "Disiplin\n(Nilai 4)",
+            "Tegas\n(Nilai 3)",
+            "Amanah\n(Nilai 2)",
+            "Supel\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Rajin (5 point)\nDisiplin (4 point)\nTegas (3 point)\nAmanah (2 point)\nSupel (1 point)"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nPada suatu ketika Anda menyapa tetangga Anda, ternyata Anda salah orang,\nmaka Anda akan ...",
+        "pilihan": [
+            "Meminta maaf dan sedikit basa - basi\n(Nilai 5)",
+            "Meminta maaf sembari berlalu\n(Nilai 4)",
+            "Malu dan mood rusak seharian\n(Nilai 3)",
+            "Pura - pura tidak terjadi apapun\n(Nilai 2)",
+            "Biasa saja\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Meminta maaf dan sedikit basa - basi (5 point)\nMeminta maaf sembari berlalu (4 point)\nMalu dan mood rusak seharian (3 point)\nPura - pura tidak terjadi apapun (2 point)\nBiasa saja (1 point)"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nAnda berada dalam satu kelompok untuk mengerjakan tugas dari kampus dan\nteman - teman Anda merupakan orang - orang yang sibuk, maka Anda akan ...",
+        "pilihan": [
+            "Mencoba mengetahui jadwal masing - masing sehingga mereka semua dapat meluangkan waktunya untuk kerja kelompok\n(Nilai 5)",
+            "Menasehati rekan - rekan yang menurut Anda sangat sibuk sehingga tidak memiliki waktu untuk mengerjakan pekerjaan tim\n(Nilai 4)",
+            "Mulai mengajak mereka kerja kelompok ketika mereka tidak sibuk lagi\n(Nilai 3)",
+            "Mulai mengajak mereka kerja kelompok ketika tenggak waktu penyelesaian sudah hampir tiba\n(Nilai 2)",
+            "Cuek saja yang penting saya menyelesaikan apa yang menjadi tugas saya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Mencoba mengetahui jadwal masing - masing sehingga mereka semua dapat meluangkan waktunya untuk kerja kelompok (5 point)\nMenasehati rekan - rekan yang menurut Anda sangat sibuk sehingga tidak memiliki waktu untuk mengerjakan pekerjaan tim (4 point)\nMulai mengajak mereka kerja kelompok ketika mereka tidak sibuk lagi (3 point)\nMulai mengajak mereka kerja kelompok ketika tenggak waktu penyelesaian sudah hampir tiba (2 point)\nCuek saja yang penting saya menyelesaikan apa yang menjadi tugas saya (1 point)"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nDalam memperingati hari penting bagi negeri Anda, sebagai pegawai di\nkantor Anda, maka Anda akan ...",
+        "pilihan": [
+            "Mengajak rekan - rekan sekantor untuk mengadakan acara peringatan\n(Nilai 5)",
+            "Menyarankan kepada atasan untuk mendekorasi ruangan\n(Nilai 4)",
+            "Mengajak rekan sekantor untuk berlibur\n(Nilai 3)",
+            "Ikut upacara peringatan\n(Nilai 2)",
+            "Menikmati liburan di rumah\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Mengajak rekan - rekan sekantor untuk mengadakan acara peringatan (5 point)\nMenyarankan kepada atasan untuk mendekorasi ruangan (4 point)\nMengajak rekan sekantor untuk berlibur (3 point)\nIkut upacara peringatan (2 point)\nMenikmati liburan di rumah (1 point)"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nSaat pimpinan kantor sedang sakit, teman - teman seruangan berencana\nmenjenguk dan membawakan bingkisan, tapi kekurangan dana maka kami mengambil\ndana pembiayaan rapat, mengenai hal ini ...",
+        "pilihan": [
+            "Menghimbau agar patungan saja\n(Nilai 5)",
+            "Menolak rencana ini\n(Nilai 4)",
+            "Tidak ikut - ikutan\n(Nilai 3)",
+            "Tidak apa - apa asalkan sedikit\n(Nilai 2)",
+            "Memakai dana sponsor\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Menghimbau agar patungan saja ( 5 point)\nMenolak rencana ini (4 point)\nTidak ikut - ikutan (3 point)\nTidak apa - apa asalkan sedikit (2 point)\nMemakai dana sponsor (1 point)"
+    },
+    {
+        "nomor": 36,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 36\nTidak dijawab\nPagi ini seperti biasanya anda selalu sibuk dengan rutinitas dipekerjaan\nsebagai seorang customer service pada sebuah rumah sakit pemerintah.\nKetika anda sedang asik bekerja datanglah seorang ibu-ibu tua yang ingin menanyakan prosedur penggunaan BPJS kesehatan untuk proses rawat inap\nanaknya yang sedang sakit dan membutuhkan perawatan secepatnya agar\nsakitnya tidak bertambah para,Setelah anda menjelaskan panjang lebar\ndengan bahasa yang mudah dimengerti beberapa kali kepada sang ibu namun\nternyata ibu tersebut tampak sangat kebingungan dan mengatakan bahwa dia\ntidak mengerti sama sekali dengan prosedur yang anda jelaskan, bagaimana\nsikap anda ...",
+        "pilihan": [
+            "Meminta sang ibu untuk memanggil salah satu anggota keluarganya agar anda bisa menjelaskan hal tersebut kepadanya\n(Nilai 5)",
+            "Meminta teman anda yang lebih berpengalaman dalam melayani keluarga pasien yang kebingungan dalam memahami prosedur yang ada\n(Nilai 4)",
+            "Menjelaskan secara perlahan tahapan demi tahapan yang harus dilakukan ibu tersebut dengan bahasa yang santun agar sang ibu paham maksud dari apa yang\nanda jelaskan\n(Nilai 3)",
+            "Menjelaskan secara pelan pelan dengan bahasa yang mudah dipahami oleh ibunya agar dia tahu maksud dari apa yang anda jelaskan\n(Nilai 2)",
+            "Menjelakan dengan sabar sembari mengajak sang ibu untuk tenang terlebih dahulu agar lebih focus ketika anda menjelaskan, jika masih kebingungan anda\nakan membantu ibu tersebut untuk proses pengurusannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 37,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 37\nTidak dijawab\nAnda telah berjanji untuk bertemu dengan teman anda, disaat yang sama ada\npekerjaan yang menuntut anda untuk segera menyelesaikannya, maka…",
+        "pilihan": [
+            "menelepon teman dan menjelaskan mengapa tidak bisa bertemu dengannya dan meminta maaf.\n(Nilai 5)",
+            "meminta sekretaris anda untuk menelepon teman anda dan menyampaikan maaf anda\n(Nilai 4)",
+            "mencoba untuk mengatur ulang pekerjaan anda.\n(Nilai 3)",
+            "menyelesaikan pekerjaan anda dengan cepat kemudian bergegas menemui teman anda tersebut.\n(Nilai 2)",
+            "mengirimkan hadiah kepadanya sebagai tanda menebus ketidakhadiran anda\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 38,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 38\nTidak dijawab\nAwal tahun ini anda baru saja lulus dari sebuah Universitas ternama dengan\npredikat cumloude. Andapun mencoba peruntungan untuk melamar\ndibeberapa perusahaan. Setelah mengikuti beberapa kali proses seleksi\ndibeberapa perusahaan akhirnya anda diterima disebuah perusahaan yang\nterletak dipinggiran kota. Kemudian Anda memutuskan untuk mencari\nkontrakan disekitar lokasi perusahaan anda bekerja. Namun anda merasa\ntinggal di pinggiran kota memang sangat tidak mengenakkan. Mulai dari\nsusahnya transportasi umum untuk ke kota, jauhnya fasilitas kesehatan,\nsampai jarangnya tepat hiburan sebagai pelepas stress jika pulang bekerja,\ntapi dengan tinggal di pinggiran kota membuat anda sering tiba tepat waktu di\nkantor, bagaimana sikap anda",
+        "pilihan": [
+            "Mencari cara agar dapat menikmati kehidupan di daerah pinggiran kota yang lokasinya dekat dengan pekerjaan anda\n(Nilai 5)",
+            "Menerima hal ini sebagai resiko dari pekerjaan yang anda ambil dan berusaha untuk tetap bisa merasa nyaman tinggal di daerah pinggiran\n(Nilai 4)",
+            "Saya akan mencoba untuk bertahan semampunya untuk tetap tinggal di pinggiran kota karena akan membuat saya lebih dekat dengan lokasi perusahaan\n(Nilai 3)",
+            "Berusaha untuk bekerja lebih giat dengan harapan bisa mendapatkan fasilitas rumah dari kantor.\n(Nilai 2)",
+            "Mencari tempat tinggal lain yang lebih nyaman, meskipun sedikit jauh dari lokasi perusahaan tempat anda bekerja\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 39,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 39\nTidak dijawab\nAnda sedang berbicara dengan sekelompok teman Anda, tiba-tiba mereka mulai mengkritik salah satu teman Anda yang tidak ada disitu, maka…",
+        "pilihan": [
+            "mengingatkan kepada mereka untuk tidak mengkritik orang lain disaat orang tersebut tidak ada dan meminta mereka menyampaikan kritikan tersebut dengan baik dan sopan\n(Nilai 5)",
+            "memutuskan untuk mengabaikan kritikan tersebut\n(Nilai 4)",
+            "mengambil kesimpulan bahwa teman Anda mungkin memiliki kesalahan yang tidak Anda ketahui.\n(Nilai 3)",
+            "tidak berkomentar apapun terhadap kritikan tersebut\n(Nilai 2)",
+            "dengan keras membela teman Anda\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 40,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 40\nTidak dijawab\nSemenjak musim kemarau melanda negeri ini terutama didaerah tempat\ntinggal anda. Membuat masyarakat disekitar harus berhemat dalam\npenggunaan air untuk kebutuhan rumah tangga dan keperluan sehari-hari\nlainnya. Satu satunya sumber air yaitu berasal dari air PDAM yang mengalir\ndisetiap rumah warga. Namun akhir-akhir ini aliran air tersebut sering mati,\nterutama pada saat pagi hari dimana semua orang membutuhkannya untuk\nberbagai aktivitas mulai dari memasak sampai dengan untuk kebutuhan mandi\nsebelum menjalankan aktivitas. Hal apa yang akan anda lakukan ...",
+        "pilihan": [
+            "Menampung air dimalam hari sebagai cadangan untuk kebutuhan dipagi hari\n(Nilai 5)",
+            "Meminta suami/istri untuk membeli air gallon setiap harinya untuk kebutuhan memasak dan mandi anggota kelurga\n(Nilai 4)",
+            "Mengajukan protes kepada pihak penyedia jasa air yaitu PDAM agar pada saat pagi hari aliran air tidak mati karena ini merupakan hak warga\n(Nilai 3)",
+            "Menggunakan air seadanya untuk memasak dan kebutuhan mandi sebelum berangkat ke kantor agar tidak terlambat\n(Nilai 2)",
+            "Santai saja, saya bisa meminta air untuk kebutuhan memasak dan mandi kepada tetangga\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 41,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 41\nTidak dijawab\ndi daerah anda hanya ada pertokoan sebagai tempat belanja, jika di daerah\nAnda dibangun sebuah supermarket, apakah Anda masih akan berbelanja di\nkomplek pertokoan tersebut?",
+        "pilihan": [
+            "ada saatnya saya berbelanja ke supermarket dan ada saatnya saya berbelanja ke komplek pertokoan.\n(Nilai 5)",
+            "saya akan pergi berbelanja ke tempat dimana seluruh sudutnya bersih dan indah.\n(Nilai 4)",
+            "saya akan pergi ke tempat barang-barang yang murah\n(Nilai 3)",
+            "saya masih akan pergi berbelanja ke toko sekali-kali.\n(Nilai 2)",
+            "saya akan tetap ke toko untuk berbelanja.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 42,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 42\nTidak dijawab\nHari ini di kantor anda akan di adakan rapat besar terkait dengan kebijakan\nyang akan ditempuh oleh perusahaan dalam rangka untuk meningkatkan\npelayanan terhadap masyarakat. Semua karyawan yang mewakili divisi masing-masing diminta untuk menyampaikan ide dan gagasan mereka pada\nsaat rapat berlangsung, anda pun telah menyampaikan ide anda sebagai\nperwakilan dari divisi anda, namun rekan yang lain kurang mendukung ide dan\ngagasan yang anda ajukan karena dinilai tidak memiliki perubahan signifikan\nterhadap perusahaan kedepannya, sikap anda ...",
+        "pilihan": [
+            "Membicarakan dengan rekan divisi lain untuk memadukan gagasan yang anda punya\n(Nilai 5)",
+            "Menggantinya dengan ide lain yang lebih baik dan dapat diterima oleh semua perwakilan divisi\n(Nilai 4)",
+            "Merumuskan ide tersebut secara detail agar rekan rekan yang lain mengerti bahwa gagasan yang anda sampaikan akan berdampak baik bagi kemajuan\nperusahaan\n(Nilai 3)",
+            "Mencoba membicarakan lebih jauh dengan rekan perwakilan divisi yang lain maksud dari gagasan yang anda ajukan dan dampaknya terhadap perusahaan\n(Nilai 2)",
+            "Mencari dukungan dari ketua rapat, dengan memberikan data-data yang mendukung gagasan anda agar diterima\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 43,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 43\nTidak dijawab\nanda telah berada dalam pekerjaan yang sama selama 20 tahun lebih dan\nketika kesempatan baru datang kepada Anda secara tiba-tiba maka yang akan\nAnda lakukan adalah…",
+        "pilihan": [
+            "menimbang pro dan kontra sebelum sampai pada keputusan yang rasional\n(Nilai 5)",
+            "memutuskan bahwa Anda tidak mungkin meninggalkan pekerjaan lama Anda, teman-teman Anda, dan kolega Anda\n(Nilai 4)",
+            "mengambil kesempatan baru tersebut dengan sigap\n(Nilai 3)",
+            "anda sudah terlanjur menikmati pekerjaan lama anda.\n(Nilai 2)",
+            "menolak kesempatan baru tersebut dengan alasan Anda sudah terlalu tua untuk menerimanya.\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 44,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 44\nTidak dijawab\nAnda merupakan seorang karyawan pada sebuah perusahaan jasa yang\nbergerak dalam bidang transportasi. Siang ini akan di adakan sebuah diskusi\nsingkat dengan pimpinan perusahaan. Semua karyawan diminta untuk memberikan usulan terkait peningkatan kualitas pelayanan terhadap\npelanggan kedepannya agar banyak dari customer yang memakai jasa\nperusahaan anda, sikap anda ...",
+        "pilihan": [
+            "Memberikan usulan agar perusahaan menyediakan fasilitas kusus bagi ibu hamil, menyusui dan lansia\n(Nilai 5)",
+            "Menyusulkan agar alat transportasi yang digunakan selalu bersih dengan cara merekrut karyawan baru dengan gaji tinggi\n(Nilai 4)",
+            "Mengusulkan agar pada hari libur masal biaya tiket didiskon hingga 50% sehingga banyak dari pelanggan yang akan menggunakan jasa perusahaan anda\n(Nilai 3)",
+            "Mengusulkan Adanya jalur khusus untuk ibu hamil dan menyusui dan para lansia\n(Nilai 2)",
+            "Memberikan usulan jika ingin meningkatkan pelayanan, perusahaan harus memenuhi semua hal yang diinginkan oleh pelanggan tanpa terkecuali\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    },
+    {
+        "nomor": 45,
+        "sub_modul": "TKP 7",
+        "pertanyaan": "Pertanyaan 45\nTidak dijawab\nanda adalah seorang prajurit militer. Anda ditugaskan untuk bertempur dalam\nperang yang tidak Anda inginkan, maka reaksi Anda…",
+        "pilihan": [
+            "mengungkapkan ketidaksetujuan Anda tetapi terus melaksanakan tugas Anda\n(Nilai 5)",
+            "tidak berkomentar apapun dan hanya menyimpan ketidaksetujuan tersebut dalam hati\n(Nilai 4)",
+            "melakukan tugas tersebut meskipun secara pribadi Anda merasa ragu-ragu.\n(Nilai 3)",
+            "bercerita kepada rekan Anda tentang ketidaksetujuan Anda.\n(Nilai 2)",
+            "meninggalkan tugas militer tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "cukup jelas"
+    }
+]

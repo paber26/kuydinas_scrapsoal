@@ -1,0 +1,436 @@
+Soal 1:
+Pak Ali menghemat biaya perjalanan dari kota A ke kota C. Rute perjalanan tersebut harus dilakukan dengan dua kali penerbangan, dari kota A ke kota B dilanjutkan dari kota B Ke kota C. Tarif maskapai burung dari kota A ke kota B lebih mahal daripada maskapai rusa, tetapi tidak melebihi tarif maskapai ular. Tarif maskapai ular dari kota B ke kota C kurang dari tarif maskapai burung, tetapi sama dengan tarif
+maskapai rusa. Maskapai yang dipilih oleh Pak Ali dalam dua penerbangan tersebut ...
+A. Rusa dan ular
+B. Burung dan ular
+C. Rusa dan burung
+D. Ular dan rusa
+E. Burung dan rusa
+
+==================================================
+
+Soal 2:
+Untuk bisa terpilih menjadi pegawai teladan di sebuah pabrik mobil, seorang karyawan harus rajin bekerja, berprestasi, dan sudah bekerja minimal 5 tahun. Pak Harun adalah satpam yang sangat disiplin, ia baru bekerja 3 tahun. Tahun lalu ia berhasil menangkap seorang pencuri sepeda motor milik karyawan. Dewi adalah staf tata usaha yang sering pergi berbelanja pada jam kerja, ia sudah bekerja selama 7 tahun. Pak Yanto bekerja di bagian produksi selama 6 tahun, sering izin karena merasa kurang sehat. Sementara Yeni bekerja di bagian pemasaran, penjualannya melebihi target, dan telah bekerja selama 5 tahun. Endang sangat rajin masuk kerja, ia adalah karyawan tata usaha dan telah bekerja selama 4 tahun. Gelar pegawai teladan sebaiknya diberikan kepada siapa?
+A. Dewi
+B. Yeni
+C. Endang
+D. Pak Yanto
+E. Pak Harun
+
+==================================================
+
+Soal 3:
+Ali lebih cermat daripada Budi, tapi lebih ceroboh daripada Deni. Mardi lebih cermat daripada Deni. Urutan dari yang paling cermat adalah ...
+A. Deni, Mardi, Ali, Budi
+B. Mardi, Deni, Ali, Budi
+C. Mardi, Deni, Budi, Ali
+D. Mardi, Ali, Budi, Deni
+E. Deni, Budi, Mardi, Ali
+
+==================================================
+
+Soal 4:
+Amri membeli baju dan sarung baru untuk lebaran. Dodo hanya membeli sarung baru. Harun membeli sama dengan Indra ditambah sepatu. Agung membeli celana, sarung, dan peci. Sedangkan, Indra membeli sama persis dengan Amri. Siapakah yang tidak membeli sarung baru?
+A. Tidak ada
+B. Harun
+C. Amri
+D. Indra
+E. Agung
+
+==================================================
+
+Soal 5:
+Anto berlari lebih cepat daripada Indra. Kaka berlari lebih lambat daripada Ivan. Ivan berlari lebih lambat daripada Rino. Indra berlari lebih cepat daripada Rino. Urutan yang benar mulai dari yang terlambat adalah ...
+A. Anto, Indra, Rino, Ivan, Kaka
+B. Ivan, Indra, Kaka, Anto, Rino
+C. Kaka, Ivan, Rino, Indra, Anto
+D. Kaka, Rino, Indra, Ivan, Anto
+E. Anto, Kaka, Rino, Indra, Ivan
+
+==================================================
+
+Soal 6:
+Tiga tim pendaki gunung harus dibentuk dengan masing-masing tim terdiri atas tiga orang. A harus berada dalam satu tim dengan D, B tidak boleh setim dengan G atau C, C tidak boleh dipisahkan dengan I, E dan H harus berada dalam tim yang sama dengan B, sedangkan F harus dipisahkan dengan A untuk tiap tim yang dapat dibentuk adalah ...
+A. A,D,I - B, E, H - C, G, F
+B. A, D, G - B, I, H - C, E, F
+C. A, I, F - B, E, N - C, D, F
+D. A, B, G - D, E, H - C, I, F
+E. E, H, B - A, D, G - C, I, F
+
+==================================================
+
+Soal 7:
+Di sini ada perempatan jalan yang saling tegak lurus. Salah satu jalan itu menuju ke kota Semarang. Jika saya menghadap utara maka jalan yang ke kiri dan belakang saya adalah jalan yang menuju ke tempat lain. Jalan yang tepat di hadapan saya menuju ke Laut Jawa. Jalan mananakah yang menuju Semarang?
+A. Ke Barat
+B. Ke Utara
+C. Jawaban A, B, C, D salah
+D. Ke Timur
+E. Ke Selatan
+
+==================================================
+
+Soal 8:
+P, Q, R, S, T adalah lima orang diplomat.
+P hanya dapat berbicara bahasa Inggris dan Jerman. Q hanya berbicara dalam bahasa Prancis, Jepang, dan Cina. R hanya dapat berbicara bahasa Jerman. S hanya berbicara dalam bahasa Inggris, Jepang, dan Cina. T hanya dapat berbicara dalam bahasa Prancis dan Jerman. Satu-satunya pasangan diplomat yang harus menggunakan penerjemah dalam berkomunikasi adalah ...
+A. R dan T
+B. P dan T
+C. P dan R
+D. Q dan S
+E. Q dan R
+
+==================================================
+
+Soal 9:
+Film "Bundaku Tersayang" memecahkan rekor paling banyak ditonton orang. Sementara film "Pencuri yang Baik Hati" memperoleh 4 buah piala Citra, antara lain sutradara dan peran utama pria terbaik. Film "Rinduku Terpaut di Awan" tidak ditonton sebanyak orang dibandingkan dengan film terdahulu, tetapi mendapat piala Citra dua lebih banyak dari film "Pencuri Yang Baik Hati" merupakan film dokumenter terbaik. Film "Tersanjung" merupakan film yang laris di bioskop. Film "Kisah Klasik" mendapatkan 5 piala citra. Manakah film terbaik berdasarkan piala Citra yang diperolehnya?
+A. Bundaku Tersayang
+B. Rinduku Terpaut di Awan
+C. Tersanjung
+D. Pencuri Yang Baik Hati
+E. Kisah Klasik
+
+==================================================
+
+Soal 10:
+Ketika Ayah pulang dari kios penjahit, sepatunya berlumpur dan topinya banyak kena tepung. Tempat-tempat yang mungkin dilaluinya adalah Kampung Iping, Lapangan Badak, Taman Muda, dan Jalan Sumbing. Dia tidak mempunyai cukup waktu untuk mengunjungi lebih dari satu daerah dari daerah-daerah itu. Di jalan-jalan sama sekali tidak ada lumpur, kecuali di jalan-jalan yang aspalnya dibongkar untuk diperbaiki. Kampung Iping didiami oleh penjahit, demikian pula Jalan Sumbing, dan Taman Muda. Yang ada perusahaan roti adalah Jalan Sumbing, lapangan Badak, dan Kampung Iping. Saya tahu bahwa jalanan di Kampung Iping tidak sedang diperbaiki, tetapi mungkin sekali ada perbaikan jalan di tempat-tempat lain. Jalan manakah Ayah pulang ke rumah?
+A. Tidak ada jawaban yang benar
+B. Lapangan Badak
+C. Jalan Sumbing
+D. Kampung Iping
+E. Taman Muda
+
+==================================================
+
+Soal 11:
+Ibu Dina ingin memberi polis asuransi jiwa dengan premi termurah. Setelah meneliti puluhan perusahaan asuransi, terpilihlah lima asuransi yang kredibilitasnya cukup meyakinkan. Harga polis Asuransi Bahagia cukup murah, tetapi premi yang harus dibayar per bulannya lebih mahal dari Asuransi Asal Selamet, meski tetap lebih murah dibandingkan dengan Asuransi Seger Waras. Premi yang harus dibayar untuk Asuransi Ayem Tentrem tiap bulannya lebih murah dibandingkan dengan Asuransi Asal Selamet., tetapi masih kalah murah dengan Asuransi Timbang Apes. Polis Asuransi mana yang memenuhi kriteria Ibu Dina?
+A. Asuransi Timbang Apes
+B. Asuransi Asal Selamet
+C. Asuransi Seger Waras
+D. Asuransi Ayem Tentrem
+E. Asuransi Bahagia
+
+==================================================
+
+Soal 12:
+Jarak antara kota A dan B adalah dua kali jarak antara kota C dan D. Kota E terletak di tengah-tengah antara kota C dan D. Selanjutnya, diketahui bahwa jarak kota C ke kota A sama dengan jarak kota D ke kota B, yaitu setengah jarak kota A ke kota E. Dua kota di bawah ini yang jaraknya paling jauh adalah ...
+A. Kota A dan B
+B. Kota B dan D
+C. Kota C dan B
+D. Kota B dan E
+E. Kota A dan E
+
+==================================================
+
+Soal 13:
+X lebih tua dari N, E lebih muda dari A, T lebih muda dari N, X lebih muda dari E, N lebih tua dari T maka yang termuda adalah ...
+A. N
+B. T
+C. X
+D. E
+E. A
+
+==================================================
+
+Soal 14:
+Yang terbaik tumbuh pada iklim dingin adalah wortel, kentang, dan kubis. Pada iklim sedang banyak sekali padang rumput dan di sana tumbuh ketela serta jagung. Pada iklim subtropis terdapat gandum, buah zaitun, dan kebun anggur. Pada iklim tropis tumbuh kelapa sawit dan padi. Bangsa X terutama hidup dari roti dan minyak sebagai pengganti mentega. Mereka minum anggur dan makan buah anggur. Pada iklim manakah mareka hidup?
+A. Jawaban A, B, C, D salah semua
+B. Pada iklim tropis
+C. Pada iklim subtropis
+D. Pada iklim sedang
+E. Pada iklim dingin
+
+==================================================
+
+Soal 15:
+Suatu keluarga mempunyai empat anak yang bergelar sarjana, A memperoleh gelar sarjana sesudah C, B memperoleh kesarjanaan sebelum D dan bersamaan dengan A. Urutan yang benar dalam memperoleh kesarjanaan adalah ...
+A. A memperoleh gelar sarjana bersamaan dengan D
+B. B mendapatkan sarjana sebelum C
+C. A memperoleh gelar sarjana sesudah D
+D. C memperoleh gelar sarjana sebelum D
+E. D memperoleh gelar sarjana sebelum C
+
+==================================================
+
+Soal 16:
+Dalam suatu ujian, nilai Rara lebih tinggi daripada Sita. Reni mendapat nilai tertinggi. Nilai Joko lebih tinggi daripada Rara. Sinta mendapat nilai lebih rendah dibandingkan dengan Rara, tetapi lebih tinggi daripada Sita.
+Urutan kelima anak berdasarkan nilai dimulai dari yang tertinggi adalah ....
+A. Reni, Joko, Sinta, Rara, Sita
+B. Reni, Joko, Rara, Sinta, Sita
+C. Rara, Sita, Sinta. Joko, Reni
+D. Sinta, Sita, Rara, Joko, Reni
+E. Sita, Sinta, Rara, Joko, Reni
+
+==================================================
+
+Soal 17:
+Dalam suatu ujian, nilai Rara lebih tinggi daripada Sita. Reni mendapat nilai tertinggi. Nilai Joko lebih tinggi daripada Rara. Sinta mendapat nilai lebih rendah dibandingkan dengan Rara, tetapi lebih tinggi daripada Sita.
+Jika ada siswa tambahan, Tono dan nilainya di antara Rara dan Sinta maka yang berada di urutan keempat adalah ....
+A. Sinta
+B. Joko
+C. Tono
+D. Sita
+E. Tono
+
+==================================================
+
+Soal 18:
+Enam mahasiswa duduk berurutan dalam ujian wawancara. Tini tidak bersebelahan dengan Salim atau Tia. Nila duduk di dekat Tia. Tini duduk di dekat Jufri dan Jufri duduk di sebelah Nila. Salim tidak ingin didahului Harto dan Harto bersebelahan dengan Tini. Tia duduk di urutan terakhir.
+Siapakah yang duduk di urutan keempat?
+A. Tia
+B. Nila
+C. Salim
+D. Tini
+E. Jufri
+
+==================================================
+
+Soal 19:
+Enam mahasiswa duduk berurutan dalam ujian wawancara. Tini tidak bersebelahan dengan Salim atau Tia. Nila duduk di dekat Tia. Tini duduk di dekat Jufri dan Jufri duduk di sebelah Nila. Salim tidak ingin didahului Harto dan Harto bersebelahan dengan Tini. Tia duduk di urutan terakhir.
+Urutan tempat duduk dari pertama adalah ...
+A. Jufri, Harto, Salim, Tini, Nila, Tia
+B. Salim, Harto, Jufri, Tini, Nila, Tia
+C. Salim, Harto, Tini, Nila, Jufri, Tia
+D. Salim, Harto, Tini, Jufri, Nila, Tia
+E. Harto, Nila, Tini, Jufri, Salim, Tia
+
+==================================================
+
+Soal 20:
+Setiap upacara bendera di sekolah dasar, pengaturan baris dilakukan sebagai berikut:
+Kelas yang bertindak sebagai petugas upacara berbaris menghadap barat.
+Kelas yang tertua akan berbaris menghadap matahari tebit, sedang sisa kelas yang lain menghadap tiang bendera ke arah Utara.
+Barisan kelas yang menghadap Utara diatur sedemikian rupa sehingga Barat ke Timur berturut-turut adalah kelas termuda sampai kelas tertua.
+Jika petugas upacara hari ini adalah kelas III maka urutan yang menghadap Utara dari Barat ke Timur adalah ...
+A. V - IV - II - I
+B. VI - V - IV - II
+C. III - V - IV - II
+D. I - II - IV - V
+E. VI - V- IV – II
+
+==================================================
+
+Soal 21:
+Setiap upacara bendera di sekolah dasar, pengaturan baris dilakukan sebagai berikut:
+Kelas yang bertindak sebagai petugas upacara berbaris menghadap barat.
+Kelas yang tertua akan berbaris menghadap matahari tebit, sedang sisa kelas yang lain menghadap tiang bendera ke arah Utara.
+Barisan kelas yang menghadap Utara diatur sedemikian rupa sehingga Barat ke Timur berturut-turut adalah kelas termuda sampai kelas tertua.
+Jika petugas upacara hari ini adalah kelas VI maka urutan yang menghadap Utara dari Timur ke Barat adalah ...
+A. III - I - IV - II
+B. III - IV - V - VI
+C. VI - V - III - II
+D. IV - III - II – I
+E. I - III – IV - V
+
+==================================================
+
+Soal 22:
+Tujuh mahasiswa menunggu giliran presentasi. Seno presentasi sebelum Kukuh. Ludin sebelum Bayu dan Dhany. Sedangkan, Ganda sebelum Kukuh dan Bayu. Irvan maju pertama, Kukuh tepat sesudah Ludin dan Bayu tepat sesudah kukuh. Di antara Bayu dan Dhany tidak ada yang maju. Giliran Ganda tepat di antara Seno dan Ludin. Giliran Bayu sebelum Dhany.
+Ludin mendapat giliran ke ....
+A. 2
+B. 3
+C. 5
+D. 6
+E. 4
+
+==================================================
+
+Soal 23:
+Tujuh mahasiswa menunggu giliran presentasi. Seno presentasi sebelum Kukuh. Ludin sebelum Bayu dan Dhany. Sedangkan, Ganda sebelum Kukuh dan Bayu. Irvan maju pertama, Kukuh tepat sesudah Ludin dan Bayu tepat sesudah kukuh. Di antara Bayu dan Dhany tidak ada yang maju. Giliran Ganda tepat di antara Seno dan Ludin. Giliran Bayu sebelum Dhany.
+Yang berada di urutan terakhir adalah ...
+A. Ganda
+B. Bayu
+C. Seno
+D. Dhany
+E. Kukuh
+
+==================================================
+
+Soal 24:
+Tujuh mahasiswa menunggu giliran presentasi. Seno presentasi sebelum Kukuh. Ludin sebelum Bayu dan Dhany. Sedangkan, Ganda sebelum Kukuh dan Bayu. Irvan maju pertama, Kukuh tepat sesudah Ludin dan Bayu tepat sesudah kukuh. Di antara Bayu dan Dhany tidak ada yang maju. Giliran Ganda tepat di antara Seno dan Ludin. Giliran Bayu sebelum Dhany.
+Urutan dari paling awal ....
+A. Irvan - Ludin - Ganda - Seno - Kukuh - Bayu - Dhany
+B. Irvan - Ganda - Seno - Ludin - Kukuh - Dhany - Bayu
+C. Irvan - Seno - Dhany - Kukuh - Ludin - Bayu - Ganda
+D. Irvan Seno Ganda - Ludin - Kukuh - Bayu - Dhany
+E. Irvan - Ludin Ganda Seno - Dhany - Bayu - Kukuh
+
+==================================================
+
+Soal 25:
+Hasil survei menunjukkan bahwa lagu keroncong lebih disukai daripada lagu klasik. Lagu rock dan dangdut sama-sama disukai, namun lagu keroncong lebih disukai daripada lagu rock dan dangdut. Lagu pop lebih disukai daripada keroncong. Lagu rock lebih disenangi daripada lagu klasik.
+Urutan jenis lagu-lagu yang paling digemari sampai yang paling tidak digemari adalah ...
+A. Keroncong, pop, rock/dangdut, klasik.
+B. Pop, rock/dangdut, keroncong, klasik.
+C. Pop, keroncong, rock/dangdut, klasik.
+D. Pop, rock/dangdut, klasik, keroncong.
+E. Klasik, pop, rock/dangdut, keroncong.
+
+==================================================
+
+Soal 26:
+Hasil survei menunjukkan bahwa lagu keroncong lebih disukai daripada lagu klasik. Lagu rock dan dangdut sama-sama disukai, namun lagu keroncong lebih disukai daripada lagu rock dan dangdut. Lagu pop lebih disukai daripada keroncong. Lagu rock lebih disenangi daripada lagu klasik.
+Jenis lagu yang paling sedikit penggemarnya adalah ...
+A. Keroncong
+B. Klasik
+C. Rock
+D. Dangdut
+E. Pop
+
+==================================================
+
+Soal 27:
+Seorang wiraniaga harus memasarkan barang dagangan di lima kota H, I, J, K, dan L masing-masing sekali. Jadwal kunjungan kelima kota tadi sedemikian rupa sehingga:
+Kota H harus dikunjungi sebelum kota-kota J dan K.
+Kota L harus dikunjungi sesudah kunjungan ke kota J dan sebelumnya ke kota K
+Urutan kota yang harus dikunjungi wiraniaga tersebut adalah ...
+A. L, J, K, H dan I
+B. J, L, K, H, dan I
+C. K, J, L, I, dan H
+D. H, I, J, K dan L
+E. I, H, K, J, dan L
+
+==================================================
+
+Soal 28:
+Seorang wiraniaga harus memasarkan barang dagangan di lima kota H, I, J, K, dan L masing-masing sekali. Jadwal kunjungan kelima kota tadi sedemikian rupa sehingga:
+Kota H harus dikunjungi sebelum kota-kota J dan K.
+Kota L harus dikunjungi sesudah kunjungan ke kota J dan sebelumnya ke kota K
+Jika I dikunjungi setelah K dan sebelum J, kota yang dikunjungi pada urutan ketiga adalah ...
+A. K
+B. I
+C. L
+D. H
+E. J
+
+==================================================
+
+Soal 29:
+A, B, C, D, dan E adalah lima pekerja yang mencalonkan diri menjadi ketua serikat pekerja. Ada tiga program yang diajukan para calon, yaitu
+(i) program peningkatan keterampilan pekerja oleh A, B, dan C;
+(ii) program olahraga oleh B, C, dan D;
+(iii) program peningkatan kesejahteraan oleh D, E, dan A.
+Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya. Hasil pemungutan suara adalah sebagai berikut.
+(a) 60 pekerja memilih program peningkatan keterampilan kerja:
+(b) 45 pekerja memilih program olahraga.
+(C) 90 pekerja memilih program peningkatan kesejahteraan.
+(d) Jumlah suara terbagi sama besar pada
+calon-calon yang memiliki program sama.
+Calon yang memperoleh suara terbanyak adalah ...
+A. B
+B. D
+C. E
+D. A
+E. C
+
+==================================================
+
+Soal 30:
+A, B, C, D, dan E adalah lima pekerja yang mencalonkan diri menjadi ketua serikat pekerja. Ada tiga program yang diajukan para calon, yaitu
+(i) program peningkatan keterampilan pekerja oleh A, B, dan C;
+(ii) program olahraga oleh B, C, dan D;
+(iii) program peningkatan kesejahteraan oleh D, E, dan A.
+Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya. Hasil pemungutan suara adalah sebagai berikut.
+(a) 60 pekerja memilih program peningkatan keterampilan kerja:
+(b) 45 pekerja memilih program olahraga.
+(C) 90 pekerja memilih program peningkatan kesejahteraan.
+(d) Jumlah suara terbagi sama besar pada
+calon-calon yang memiliki program sama.
+Calon yang memperoleh suara tersedikit
+adalah ...
+A. A
+B. C
+C. D
+D. E
+E. B
+
+==================================================
+
+Soal 31:
+A, B, C, D, dan E adalah lima pekerja yang mencalonkan diri menjadi ketua serikat pekerja. Ada tiga program yang diajukan para calon, yaitu
+(i) program peningkatan keterampilan pekerja oleh A, B, dan C;
+(ii) program olahraga oleh B, C, dan D;
+(iii) program peningkatan kesejahteraan oleh D, E, dan A.
+Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya. Hasil pemungutan suara adalah sebagai berikut.
+(a) 60 pekerja memilih program peningkatan keterampilan kerja:
+(b) 45 pekerja memilih program olahraga.
+(C) 90 pekerja memilih program peningkatan kesejahteraan.
+(d) Jumlah suara terbagi sama besar pada
+calon-calon yang memiliki program sama.
+A dan B memiliki perbedaan perolehan suara sebanyak ... suara.
+A. 25
+B. 10
+C. 15
+D. 20
+E. 5
+
+==================================================
+
+Soal 32:
+A, B, C, D, dan E adalah lima pekerja yang mencalonkan diri menjadi ketua serikat pekerja. Ada tiga program yang diajukan para calon, yaitu
+(i) program peningkatan keterampilan pekerja oleh A, B, dan C;
+(ii) program olahraga oleh B, C, dan D;
+(iii) program peningkatan kesejahteraan oleh D, E, dan A.
+Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya. Hasil pemungutan suara adalah sebagai berikut.
+(a) 60 pekerja memilih program peningkatan keterampilan kerja:
+(b) 45 pekerja memilih program olahraga.
+(C) 90 pekerja memilih program peningkatan kesejahteraan.
+(d) Jumlah suara terbagi sama besar pada
+calon-calon yang memiliki program sama.
+Urutan dengan perolehan tiga suara terbanyak, dimulai dari yang terbanyak, adalah ...
+A. CAB
+B. DBE
+C. ECA
+D. ABC
+E. ADC
+
+==================================================
+
+Soal 33:
+A, B, C, D, dan E adalah lima pekerja yang mencalonkan diri menjadi ketua serikat pekerja. Ada tiga program yang diajukan para calon, yaitu
+(i) program peningkatan keterampilan pekerja oleh A, B, dan C;
+(ii) program olahraga oleh B, C, dan D;
+(iii) program peningkatan kesejahteraan oleh D, E, dan A.
+Setiap warga hanya diperkenankan memilih satu calon berdasarkan programnya. Hasil pemungutan suara adalah sebagai berikut.
+(a) 60 pekerja memilih program peningkatan keterampilan kerja:
+(b) 45 pekerja memilih program olahraga.
+(C) 90 pekerja memilih program peningkatan kesejahteraan.
+(d) Jumlah suara terbagi sama besar pada
+calon-calon yang memiliki program sama.
+Jika ketua terpilih mengangkat ketua seksi olahraga dari calon yang memperoleh suara terbanyak dan mengajukan program olahraga maka yang menjadi ketua seksi olahraga adalah ...
+A. D
+B. C
+C. A
+D. E
+E. B
+
+==================================================
+
+Soal 34:
+Adi, Beti, dan Yunus sebaya. Ayah mereka mulai bekerja pada usia 25 tahun di perusahaan yang sama. Perusahaan tersebut mengharuskan pagawai yang usianya 60 tahun untuk pensiun.
+(a) Tahun ini usia ayah Adi tiga kali usia Adi.
+(b) Tahun ini usia ibu Beti tiga kali usia Beti, tiga tahun lebih muda daripada usia ayah Beti
+(c) Tiga tahun yang lalu perbandingan antara usia Yunus dan usia ayah Yunus sama dengan perbandingan antara usia Adi dan ayah Adi tahun ini.
+(d) Tahun ini ayah Adi memasuki masa pensiun.
+Berapa tahun usia ketiga anak tersebut tahun lalu?
+A. 20
+B. 21
+C. 22
+D. 18
+E. 19
+
+==================================================
+
+Soal 35:
+Adi, Beti, dan Yunus sebaya. Ayah mereka mulai bekerja pada usia 25 tahun di perusahaan yang sama. Perusahaan tersebut mengharuskan pagawai yang usianya 60 tahun untuk pensiun.
+(a) Tahun ini usia ayah Adi tiga kali usia Adi.
+(b) Tahun ini usia ibu Beti tiga kali usia Beti, tiga tahun lebih muda daripada usia ayah Beti
+(c) Tiga tahun yang lalu perbandingan antara usia Yunus dan usia ayah Yunus sama dengan perbandingan antara usia Adi dan ayah Adi tahun ini.
+(d) Tahun ini ayah Adi memasuki masa pensiun.
+Urutan ketiga anak tersebut berdasarkan usia ayahnya dari usia termuda adalah ...
+A. Beti, Adi, Yunus
+B. Adi, Beti, Yunus
+C. Yunus, Adi, Beti
+D. Yunus, Beti, Adi
+E. Beti, Yunus, Adi
+
+==================================================
+

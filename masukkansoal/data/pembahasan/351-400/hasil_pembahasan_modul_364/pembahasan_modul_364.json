@@ -1,0 +1,428 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nROMANTIKA : LIKA-LIKU = ... : ...",
+        "pilihan": [
+            "Laki-laki : Perempuan",
+            "Markas : Tujuan",
+            "Polos : Garis",
+            "Melik : Ingin Memiliki",
+            "Buldan : Perumahan"
+        ],
+        "jawaban_benar": "Melik : Ingin Memiliki",
+        "pembahasan": "ROMANTIKA adalah LIKA-LIKU. MELIK berarti INGIN MEMILIKI."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nYogyakarta : kota pelajar = Aceh : ...",
+        "pilihan": [
+            "Barat",
+            "Luar",
+            "Serambi Mekah",
+            "Ujung Banda",
+            "Daerah Istimewa"
+        ],
+        "jawaban_benar": "Serambi Mekah",
+        "pembahasan": "Yogyakarta mendapat sebutan kota pelajar.\nKalimat tersebut akan sepadan dengan Aceh mendapat sebutan Serambi Mekah."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nJika Dina tidak sakit, maka ia berangkat mengaji.\nJika Dina berangkat mengaji, maka ia akan diantar oleh ibunya.\nKesimpulannya adalah ...",
+        "pilihan": [
+            "Jika Dina sakit maka ia akan diantar oleh ibunya",
+            "Jika Dina tidak sakit maka ia tidak akan diantar oleh ibunya",
+            "Jika Dina sakit maka ia tidak akan diantar oleh ibunya",
+            "Jika Dina tidak sakit maka ia akan diantar oleh ibunya",
+            "Dina tidak sakit dan ia akan diantar oleh ibunya"
+        ],
+        "jawaban_benar": "Jika Dina tidak sakit maka ia akan diantar oleh ibunya",
+        "pembahasan": "Dua premis tersebut dihubungkan dengan kalimat “Dina berangkat mengaji”\nMisalkan:\nP = Dina tidak sakit\nQ = Dina berangkat mengaji\nR = Dina akan diantar oleh ibunya\nP ⇒ Q\nQ ⇒ R\n\\\nP ⇒ R\nMaka kesimpulannya adalah jika Dina tidak sakit maka ia akan diantar oleh ibunya."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nJika udara dingin, maka warga akan menyalakan kayu bakar di dalam perapian rumahnya.\nUdara dingin.\nKesimpulannya adalah ...",
+        "pilihan": [
+            "Warga tidak akan menyalakan kayu bakar di dalam perapian rumahnya",
+            "Warga tidak akan menyalakan kayu bakar tidak di dalam perapian rumahnya",
+            "Warga akan menyalakan kayu bakar di dalam perapian rumahnya karena udara dingin",
+            "Warga akan menyalakan kayu bakar di dalam perapian rumahnya dan udara dingin",
+            "Warga akan menyalakan kayu bakar di dalam perapian rumahnya"
+        ],
+        "jawaban_benar": "Warga akan menyalakan kayu bakar di dalam perapian rumahnya",
+        "pembahasan": "P = Udara dingin\nQ = Warga akan menyalakan kayu bakar di dalam perapian rumahnya.\nP ⇒ Q\nP\n\\\nQ\nMaka kesimpulannya adalah warga akan menyalakan kayu bakar di dalam perapian rumahnya."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nTeks untuk menjawab soal nomor 35 - 37!\nIntan memiliki pulpen dengan 5 warna yaitu hitam, merah, hijau, ungu, dan biru. Pulpen tersebut ia gunakan untuk menulis mata pelajaran yang ia pelajari. Untuk matematika Ia suka menggunakan warna biru, ia tidak akan menggunakan warna hijau untuk pelajaran bahasa Inggris dan kimia. Mungkin ia akan menggunakan warna ungu untuk pelajaran bahasa Inggris atau fisika. Dalam buku tulis kimia nya tidak ada satu huruf pun yang ia tulis dengan warna hitam. Warna hitam hanya ia gunakan untuk menulis buku geografi.\nPasangan pelajaran dan warna pulpen yang Intan gunakan berikut ini, yaitu ...",
+        "pilihan": [
+            "Matematika dan pulpen merah",
+            "Kimia dan pulpen biru",
+            "Geografi dan pulpen merah",
+            "Bahasa Inggris dan pulpen ungu",
+            "Fisika dan pulpen hitam"
+        ],
+        "jawaban_benar": "Bahasa Inggris dan pulpen ungu",
+        "pembahasan": "Berikut tabel pasangan mata pelajaran dan warna pulpen yang Intan miliki:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_5_pemb_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_5_pemb_img2.png]\nJadi pasangan mata pelajaran dan warna pulpen yang Intan gunakan yang benar adalah Bahasa Inggris dan Pulpen ungu."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nJadwal besok di kelas Intan tidak ada pelajaran bahasa Inggris dan fisika, maka ia tidak perlu membawa pulpen berwarna ...",
+        "pilihan": [
+            "Merah dan ungu",
+            "Hijau dan biru",
+            "Hijau dan ungu",
+            "Merah dan biru",
+            "Hitam dan ungu"
+        ],
+        "jawaban_benar": "Hijau dan ungu",
+        "pembahasan": "Jika besok jadwal di kelas Intan tidak ada mata pelajaran Bahasa Inggris dan Fisika, maka ia tidak perlu membawa pulpen berwarna hijau dan ungu."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nHari Jumat Intan membawa pulpen berwarna merah dan biru. Namun ia tidak menggunakan pulpen warna biru dan hanya menggunakan pulpen yang berwarna merah. Artinya pada hari Jumat di kelas Intan ada pelajaran ...",
+        "pilihan": [
+            "Fisika",
+            "Matematika",
+            "Kimia",
+            "Bahasa Inggris",
+            "Geografi"
+        ],
+        "jawaban_benar": "Kimia",
+        "pembahasan": "Jika Intan hanya menggunakan pulpen warna merah maka di kelasnya ada pelajaran Kimia."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nJika nilai x terletak antara a dan b, sedangkan b < y, maka ...",
+        "pilihan": [
+            "x < y",
+            "x = y",
+            "x > y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x = 2y"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "Nilai x terletak antara a dan b, maka\na < x < b\nsedangkan b < y, maka hubungannya jelas bahwa:\na < x < b < y\nJadi, x < y"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nJika xy = 3 dan x\n2\n+ y\n2\n= 16, maka pernyataan berikut yang benar adalah ...",
+        "pilihan": [
+            "1 0",
+            "Hubungan x dan y tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "1 0",
+        "pembahasan": "Diketahui xy = 3 dan x\n2\n+ y\n2\n= 16, sehingga\n(x - y)\n2\n= (x - y)(x - y)\n(x - y)\n2\n= x\n2\n- xy - xy + y\n2\n(x - y)\n2\n= x\n2\n+ y\n2\n- 2xy\n(x - y)\n2\n= 16 - 2·3\n(x - y)\n2\n= 16 - 6\n(x - y)\n2\n= 10"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nSeorang peternak memiliki sejumlah sapi. Jika ia memasukan lima ekor sapi ke dalam setiap kandang, maka jumlah kandang yang dibutuhkan empat buah lebih banyak dibandingkan apabila setiap kandang diisi enam ekor sapi. Berapa banyak sapi yang dimiliki peternak tersebut?",
+        "pilihan": [
+            "100",
+            "110",
+            "120"
+        ],
+        "jawaban_benar": "120",
+        "pembahasan": "Misal, banyak kandang yang digunakan jika setiap kandang berisi 6 ekor = K\nMaka, 5(K + 4) = 6.K\n5.K + 20 = 6.K\n20 = K\nSehingga banyak sapi yang dimiliki oleh peternak adalah:\n6 x 20 = 120 ekor."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nAyu menjual parcel berisi 2 kg mangga, 2 kg jeruk, dan 1 kg anggur dengan harga Rp157.000 sedangkan parcel yang berisi 1 kg mangga, 2 kg jeruk dan 2 kg anggur dihargai Rp178.000. Jika parcel yang berisi 2 kg mangga, 2 kg jeruk, dan 3 kg anggur dijual dengan harga Rp247.000, berapa harga parcel yang berisi 2 kg mangga dan 2 kg anggur?",
+        "pilihan": [
+            "Rp138.000",
+            "Rp93.000",
+            "Rp114.000",
+            "Rp117.000",
+            "Rp159.000"
+        ],
+        "jawaban_benar": "Rp138.000",
+        "pembahasan": "Misalnya\n:\nHarga 1 kg mangga = M\nHarga 1 kg jeruk = J\nHarga 1 kg anggur = A\nSehingga dari informasi soal dapat dibuat persamaannya sebagai berikut (dalam ribuan):\n2M + 2J +   A = 157 …(i)\nM + 2J + 2A = 178 …(ii)\n2M + 2J + 3A = 247 …(iii)\nDitanya:\nHarga 2kg mangga + 2kg anggur (2M + 2A)\nJawab:\nEliminasi J, dari persamaan (ii) dan (iii):\nM + 2J + 2A = 178\n2M + 2J + 3A = 247\n-\nM +   A = 69\nMaka, harga dari parcel berisi 2 kg mangga dan 2 kg anggur adalah:\n= 2M + 2A\n= 2(M + A)\n= 2(69)\n= 138\nMaka, harganya = Rp138.000"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nJika a = p+11, b = q+11, dengan p < q, maka nilai a - b + 5 adalah ...",
+        "pilihan": [
+            "> 11",
+            "< 11",
+            "< 5",
+            "> 5",
+            "< 0"
+        ],
+        "jawaban_benar": "< 5",
+        "pembahasan": "a = p+11\nb = q+11\np < q\nmisalkan p=1 dan q=2 (karna p)\na = 1+11 = 12\nb = 2+11 = 13\na - b = -1\nmaka, a - b < 0\nSehingga jika a - b + 5, nilainya akan kurang dari 5.\nJadi, a - b + 5 < 5."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nSebuah kedai kopi yang baru saja dibuka selama seminggu sedang melakukan pengecekan terhadap hasil penjualan berbagai jenis minumannya selama seminggu.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_13_img1.png]\nJika setiap pembelian Espresso dan Americano diberikan diskon sebesar 10%, sementara Moccacino, Cafe Latte dan Macchiato diberikan diskon sebesar 20%, menu apakah yang memberikan keuntungan paling banyak bagi kedai kopi tersebut?",
+        "pilihan": [
+            "Espresso",
+            "Americano",
+            "Moccacino",
+            "Cafe Latte",
+            "Macchiato"
+        ],
+        "jawaban_benar": "Espresso",
+        "pembahasan": "Perhatikan tabel berikut.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_13_pemb_img1.png]\nDari tabel tersebut, dapat dilihat dengan jelas bahwa keuntungan terbesar didapat dari penjualan kopi jenis espresso, dengan keuntungan Rp3.000 x 110 = Rp330.000"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nHarga jagung dari bulan April 2014 - Agustus 2014 disajikan pada diagram berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_14_img1.png]\nPersentase kenaikan harga jagung dari bulan Mei - Juni adalah 25%. Harga jagung di bulan Mei adalah ...",
+        "pilihan": [
+            "Rp4.520",
+            "Rp4.600",
+            "Rp4.800",
+            "Rp5.040",
+            "Rp5.260"
+        ],
+        "jawaban_benar": "Rp5.040",
+        "pembahasan": "Karena terjadi kenaikan, maka untuk mencari harga jagung pada bulan Mei bisa dihitung sebagai berikut:\nHarga bulan Mei = 100%\nHarga bulan Juni = 100% + 25% = 125%\nHarga jagung bulan Juni = 6300\nHarga Mei = 100% / 125% x 6300\n= 4/5 x 6300\nJadi, dari perhitungan diperoleh harga jagung pada bulan Mei adalah sebesar Rp5.040."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nPerhatikan persegi ABCD pada gambar berikut!\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_15_img1.png]\nPanjang BE = EC = CF\nJika persegi ABCD memiliki luas satu satuan luas, maka luas daerah AEF adalah … satuan luas.",
+        "pilihan": [
+            "1/2",
+            "1/4",
+            "3/8",
+            "1/8",
+            "5/16"
+        ],
+        "jawaban_benar": "3/8",
+        "pembahasan": "Persegi ABCD memiliki satu satuan luas, maka:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_15_pemb_img1.png]\nLuas ABE = 1/2 x 1 x 1/2 = 1/4\nLuas ECF = 1/2 x 1/2 x 1/2 = 1/8\nLuas FDA = 1/2 x 1 x/ 1/2 = 1/4\nLuas AEF = luas persegi ABCD - luas ABE - luas ECF - luas FDA\n= 1 - 1/4 - 1/8 - 1/4\n= 8/8 - 2/8 - 1/8 - 2/8\n= 3/8 satuan luas"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nJam masuk suatu minimarket adalah pukul 07.30 dan berakhir pada pukul 16.20. Jika setiap hari terdapat tiga shift dengan masing-masing jeda adalah 10 menit, berapa menitkah masing-masing periode shift tersebut berlangsung?",
+        "pilihan": [
+            "408,5 menit",
+            "480 menit",
+            "310,8 menit",
+            "207 menit",
+            "170 menit"
+        ],
+        "jawaban_benar": "170 menit",
+        "pembahasan": "Total waktu keseluruhan: 16.20 - 07.30 = 8 jam 50 menit = 530 menit\nJika terdapat tiga shift, maka jedanya sebanyak dua kali: 2 x 10 menit = 20 menit\nTotal waktu untuk semua shift: 530 menit - 20 menit = 510 menit\nWaktu untuk masing-masing shift: 510/3 = 170 menit"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nAndi mendapatkan nilai 73, 78, 84, dan 92 untuk empat kali ulangan Biologinya. Berapakah nilai yang dibutuhkan Andi untuk ulangan yang kelima jika dia ingin memperoleh nilai rata-rata 85?",
+        "pilihan": [
+            "98"
+        ],
+        "jawaban_benar": "98",
+        "pembahasan": "Nilai yang dicari (X) = (Nilai rata-rata yang diinginkan dikali dengan banyaknya nilai) - (total nilai yang diketahui).\nSehingga:\nX = (85 x 5) - ( 73 + 78 + 84 + 92)\nX = 425 - 327\nX = 98\nJadi, nilai yang dibutuhkan Andi untuk ulangan yang kelimanya adalah 98."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSebuah bilangan terdiri dari 4 buah angka yang berbeda. Jumlah keempat Angka adalah 12. Angka pertama ditambah angka ketiga sama dengan angka keempat dikurangi angka kedua. Angka ketiga sama dengan selisih angka kedua dan pertama. Angka keempat dibagi angka kedua sama dengan angka pertama dibagi angka ketiga. Bilangan tersebut adalah ...",
+        "pilihan": [
+            "1236",
+            "1326",
+            "1632",
+            "2136",
+            "2316"
+        ],
+        "jawaban_benar": "2316",
+        "pembahasan": "Misal, bilangan itu adalah ABCD\nA + B + C + D = 12 …(i)\nA + C = D - B …(ii)\nC = B - A …(iii)\nD/B = A/C …(iv)\nDengan mensubstitusikan persamaan (ii) ke (i), maka:\nA + C + B + D = 12\n⇒ D - B + B + D = 12\n⇒ 2D = 12 ⇒ D = 6\nDengan mensubstitusikan persamaan (iii) ke (ii), maka:\nA + (B-A) = D - B\nB = D - B ⇒ 2B = D\nDengan hasil D = 6, maka: B = 3\nDari persamaan (iv), maka:\nD/B = A/C ⇒ 6/3 = A/C ⇒ A/C = 2/1\nDari persamaan (ii) A + C = 6 - 3 = 3, dan hasil perbandingan di atas, maka:\nA/C = 2/1 ⇒ C = 1/2 x A\n⇒C =1/2 X (3 - C)\n⇒C = 3/2 - 1/2C\n⇒3/2C = 3/2\n⇒C = 1\nNilai A = A = B - C = 3 - 1 = 2\nJadi, bilangan ABCD yang dimaksud adalah 2316."
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nKecepatan 72.000 cm/detik setara dengan … m/detik",
+        "pilihan": [
+            "7.200",
+            "720",
+            "7,2",
+            "0,72"
+        ],
+        "jawaban_benar": "720",
+        "pembahasan": "72.000cm / 1 detik = 720m / 1 detik = 720 m/detik"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nSebuah bus berangkat dari Magelang pukul 09.40 WIB menuju Jakarta. Jarak antara Magelang - Jakarta adalah 760 km. Jika bus tiba di kota Jakarta pukul 19.10 WIB, kecepatan rata-rata bus adalah … km/jam",
+        "pilihan": [
+            "80"
+        ],
+        "jawaban_benar": "80",
+        "pembahasan": "Berangkat = 09.40 WIB\nTiba = 19.10 WIB\nJarak = 760 km\nwaktu\n= 19.10 - 09.40\n= 9 jam 30 menit\n= 9,5 jam\nkecepatan\nkec = jarak / waktu\n= 760/9,5\n= 80 km/jam"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nDimas bersepeda selama 3 jam dengan kecepatan rata-rata 15 km/jam. Jarak yang telah ditempuh Dimas adalah … km.",
+        "pilihan": [
+            "45"
+        ],
+        "jawaban_benar": "45",
+        "pembahasan": "Waktu = 3 jam\nKecepatan = 15 km/jam\nJarak = kecepatan x waktu\n= 15 km/jam x 3 jam\n= 45 km"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nHasil dari 17 - (3 x (-8)) adalah ...",
+        "pilihan": [
+            "-49",
+            "-41",
+            "41"
+        ],
+        "jawaban_benar": "41",
+        "pembahasan": "= 17 - (3 x (-8))\n= 17 - (-24)\n= 17 + 24\n= 41\nJadi, dari perhitungan dapat disimpulkan bahwa hasil dari 17 - (3 x (-8)) = 41"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nUrutkan pecahan berikut dari yang terkecil ke terbesar!\n0,65; 2 ⅖; 45%; 4/5",
+        "pilihan": [
+            "0,65; 2 ⅖; 45%; 4/5",
+            "2 ⅖; 4/5; 0,65; 45%",
+            "4/5; 0,65; 45%; 2 ⅖",
+            "45%; 0,65; 4/5; 2 ⅖",
+            "45%; 0,65; 2 ⅖; 4/5"
+        ],
+        "jawaban_benar": "45%; 0,65; 4/5; 2 ⅖",
+        "pembahasan": "Untuk mengurutkan pecahan dapat dilakukan dengan menyamakan penyebut semua pecahan. Selanjutnya tinggal mengamati nilai dari pembilangnya, sehingga pecahan di atas dapat ditentukan sebagai berikut:\n0,65 = 65/100\n2 ⅖ = 12/5 = 240/100\n45% = 45/100\n4/5 = 80/100\nUrutan pembilang dari terkecil ke terbesar adalah:\n45; 65; 80; 240\nJadi, dari perhitungan dapat disimpulkan urutan pecahan dari terkecil ke terbesar adalah:\n45%; 0,65; 4/5; 2 ⅖"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n29, 28, 27, ..., 23, ..., 17",
+        "pilihan": [
+            "18 dan 21",
+            "25 dan 20",
+            "20 dan 24",
+            "21 dan 21",
+            "28 dan 21"
+        ],
+        "jawaban_benar": "25 dan 20",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_24_pemb_img1.png]"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n1, 4, 9, ..., 25, 36, 49",
+        "pilihan": [
+            "16"
+        ],
+        "jawaban_benar": "16",
+        "pembahasan": "Pola yang digunakan:\nUn = n\n2\nSuku ke-4:\nUn = n\n2\nU4 = 4\n2\nU4 = 16"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nC, E, F, F, ..., I, I",
+        "pilihan": [
+            "H"
+        ],
+        "jawaban_benar": "H",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_364/gambar/soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Elemen terdalam diperbesar dan menjadi elemen terluar.\nElemen terluar diperkecil dan diletakkan di sisi kanan bawah elemen yang lebih besar."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Menebak bangun dasar dari elemen sebelumnya, lalu menambahkan garis horizontal di bawah bangun tersebut dari ujung kiri ke arah kanan."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Bangun pertama (yang bertanda silang) ditimpa dengan bangun yang baru tanpa mengubah posisi garis silangnya."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar yang lain!",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Garis diagonal di dalam elemen love pada pilihan D berbeda dengan pilihan lain."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar yang lain!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Setiap panah mengarah ke sudut kotak, kecuali pilihan A."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar yang lain!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Letak bintang di dalam elemen kotak pada pilihan B berbeda dengan pilihan yang lain."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Elemen diputar berlawanan arah jarum jam sebesar 45 derajat pada tiap tahap.\nElemen love hitam dan love putih berubah secara bergantian."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Elemen lingkaran semakin mendekat satu sama lain.\nElemen belah ketupat semakin menjauh satu sama lain.\nElemen garis dalam kotak berubah dari (x) ke (+) secara bergantian pada tiap tahap."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Garis selalu bertambah (+1) dan bergerak mengikuti putaran N (90 derajat berlawanan arah jarum jam).\nLingkaran putih selalu bertambah (+1) secara zig zag mengikuti N."
+    }
+]

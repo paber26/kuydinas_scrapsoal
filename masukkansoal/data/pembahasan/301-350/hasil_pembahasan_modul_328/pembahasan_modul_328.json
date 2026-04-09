@@ -1,0 +1,456 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nTelekomunikasi Indonesia (Persero) Tbk : TLKM = … : …",
+        "pilihan": [
+            "Bank Central Asia Tbk : BCAS",
+            "Gudang Garam Tbk : GGRM",
+            "Aneka Tambang Tbk : ANTA",
+            "XL Axiata Tbk : XLAX",
+            "Perusahaan Gas Negara Tbk : PGAN"
+        ],
+        "jawaban_benar": "Gudang Garam Tbk : GGRM",
+        "pembahasan": "Hubungan analogi pada soal tersebut adalah nama perusahaan dengan kode \nsahamnya. Telekomunikasi Indonesia (Persero) Tbk memiliki kode saham \nTLKM. Hal tersebut analog dengan opsi B, di mana Gudang Garam Tbk \nmemiliki kode saham GGRM. Kode saham yang lain:\n1. Bank Central Asia Tbk = BBCA.\n2. Aneka Tambang Tbk = ANTM.\n3. XL Axiata Tbk = EXCL.\n4. Perusahaan Gas Negara Tbk = PGAS"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nP : M = … : …",
+        "pilihan": [
+            "O : M",
+            "U : S",
+            "N : R",
+            "X : U",
+            "H : L"
+        ],
+        "jawaban_benar": "X : U",
+        "pembahasan": "Hubungan analogi pada soal tersebut adalah huruf ketiga sebelum huruf P \nadalah huruf M. Hal tersebut analog dengan opsi D, dimana huruf ketiga \nsebelum huruf X adalah huruf U."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nRahib : Petapa = … : …",
+        "pilihan": [
+            "Rendezvous : Pertemuan",
+            "Bura : Serap",
+            "Dekadensi : Kemajuan",
+            "Jumantara : Tanah",
+            "Demagog : Pengikut"
+        ],
+        "jawaban_benar": "Rendezvous : Pertemuan",
+        "pembahasan": "Hubungan analogi pada soal tersebut adalah sinonim. Sinonim dari rahib \nadalah petapa. Hal tersebut analog dengan opsi A, di mana Rendezvous \nmerupakan sinonim dari pertemuan. Opsi jawaban lain menunjukkan hubungan\n analogi antonim."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nKulminasi : Dasar = … : …",
+        "pilihan": [
+            "Flegmatis : Bertempramen lamban",
+            "Mayapada : Dunia",
+            "Tambun : Gemuk",
+            "Lancung : Palsu",
+            "Latif : Kasar"
+        ],
+        "jawaban_benar": "Latif : Kasar",
+        "pembahasan": "Hubungan analogi pada soal tersebut adalah antonim. Antonim dari \nKulminasi yaitu Dasar, hal tersebut analog dengan opsi E, di mana Latif \nmerupakan antonim dari Kasar. Opsi lain menunjukkan hubungan analogi \nsinonim."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\n2018 : Prancis = … : …",
+        "pilihan": [
+            "2014 : Rusia",
+            "2010 : Afrika Selatan",
+            "2006 : Jerman",
+            "2002 : Brazil",
+            "1998 : Amerika Serikat"
+        ],
+        "jawaban_benar": "2002 : Brazil",
+        "pembahasan": "Hubungan analogi pada soal tersebut adalah tahun kejuaraan piala dunia \nsuatu negara. Prancis pernah mejadi juara Piala Dunia di tahun 2018, hal\n tersebut analog dengan opsi D, di mana Brazil pernah menjadi juara \nPiala Dunia di tahun 2002."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nSemua penipu pandai bicara dan ramah. Tuan M tidak ramah, tetapi pandai bicara. Simpulan?",
+        "pilihan": [
+            "Tuan M seorang penipu yang pandai bicara",
+            "Tuan M seorang penipu yang tidak ramah",
+            "Tuan M seorang penipu yang pandai bicara dan tidak ramah",
+            "Tuan M bukan seorang penipu, meskipun pandai bicara",
+            "Tuan M bukan seorang penipu yang ramah"
+        ],
+        "jawaban_benar": "Tuan M bukan seorang penipu, meskipun pandai bicara",
+        "pembahasan": "Syarat seseorang disebut penipu ada 2 (dua), yaitu pandai bicara dan \nramah. Kata hubung \"dan\" pada pernyataan tersebut menunjukkan bahwa \nkedua syarat untuk menjadi penipu harus dipenuhi semua, tidak boleh \nhanya salah satu saja. Jika salah satu syarat saja tidak dipenuhi maka \norang tersebut bukanlah penipu."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nBila naik kereta api harus membayar kontan atau memakai tiket abonemen. \nBadu naik kereta api padahal tidak membayar kontan. Simpulan?",
+        "pilihan": [
+            "Badu tidak membayar untuk naik kereta api",
+            "Badu membayar kontan untuk naik kereta api",
+            "Badu membayar dengan tiket abonemen",
+            "Badu tidak mempunyai tiket abonemen",
+            "Badu tidak mempunyai uang kontan"
+        ],
+        "jawaban_benar": "Badu membayar dengan tiket abonemen",
+        "pembahasan": "Untuk naik kereta api dapat menggunakan salah satu dari 2 (dua) cara, \nyaitu membayar kontan atau memakai tiket abonemen. Kata hubung \"atau\" \npada pernyataan tersebut menunjukkan bahwa hanya membutuhkan salah satu \ncara saja untuk naik kereta api. Jika Badu tidak membayar kontan berarti\n dia membayar dengan tiket abonemen."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nKorban yang memiliki tabungan kurang dari tiga juta rupiah mendapat \nbantuan dan hadiah. Yusuf menerima bantuan, tetapi tidak menerima \nhadiah. Simpulan?",
+        "pilihan": [
+            "Yusuf adalah korban yang tabungannya lebih dari tiga juta rupiah",
+            "Yusuf adalah korban yang tabungannya kurang dari tiga juta rupiah",
+            "Yusuf adalah korban yang berhak menerima hadiah",
+            "Yusuf adalah bukan korban yang berhak menerima hadiah",
+            "Yusuf adalah korban yang tabungannya tiga juta rupiah"
+        ],
+        "jawaban_benar": "Yusuf adalah korban yang tabungannya lebih dari tiga juta rupiah",
+        "pembahasan": "Seseorang disebut korban yang memiliki tabungan kurang dari tiga juta \nrupiah ada 2 (dua), yaitu mendapatkan bantuan dan hadiah. Jika hanya \nmenerima salah satu saja maka dia bukanlah seorang korban yang \ntabungannya kurang dari 3 juta rupiah. Catatan : Predikat dari premis \nini adalah jumlah tabungannya, bukan korban, jadi Yusuf tetap merupakan \nkorban, tetapi jumlah tabungannya lebih dari 3 juta."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nJika M=N, maka M=C. M berbeda dengan C atau N=Q.Kesimpulannya?",
+        "pilihan": [
+            "Jika M berbeda dengan N, maka N=Q",
+            "Jika M=N, maka N=Q",
+            "Jika M=N, maka N berbeda dengan Q",
+            "Tidak dapat ditarik kesimpulan",
+            "Terdapat kesimpulan ganda"
+        ],
+        "jawaban_benar": "Jika M=N, maka N=Q",
+        "pembahasan": "Apabila ada dua pernyataan:\nP1: p -> q\nP2: q -> r\nMaka dapat ditarik kesimpulan p -> r\nPernyataan \"M berbeda dengan C atau N=Q\" dapat dilambangkan ~q v r. \nPernyataan \"M berbeda dengan C atau N=Q\" adalah bentuk disjungsi. Kita \nubah dulu dalam bentuk implikasi.\nBerikut caranya:\nIngkaran pernyataan ~q v r yaitu q ^ ~r. Kemudian, pernyataan q ^ ~r \nsebenarnya Ingkaran dari implikasi q -> r. Sehingga, dapat ditarik \nkesimpulan bahwa pernyataan \"M berbeda dengan C atau N=Q\" (~q v r) \nsetara dengan pernyataan \"Jika M=C, maka N=Q\" (q -> r).\nPenarikan kesimpulannya:\nP1: Jika M=N, maka M=C (p -> q)\nP2: Jika M=C, maka N=Q (q -> r)\nKesimpulan: Jika M=N, maka N=Q (p -> r)."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nPihak fakultas memberikan penghargaan bagi mahasiswa yang lulus dengan \npredikat memuaskan. Si Zen lulus dengan predikat memuaskan. Jadi : Si \nZen tidak perlu mendapatkan penghargaan dari fakultas . Penalaran di \natas itu ...",
+        "pilihan": [
+            "benar",
+            "salah pada premis mayor",
+            "salah pada premis minor",
+            "salah pada kesimpulan",
+            "tidak dapat ditentukan, benar atau salah"
+        ],
+        "jawaban_benar": "salah pada kesimpulan",
+        "pembahasan": "Premis mayor dan minor sudah benar, namun salah pada penarikan \nkesimpulan. Seharusnya Zen perlu mendapatkan penghargaan dari fakultas"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nSuatu kelompok pemuda terdiri dari enam orang yaitu Andy, Bebe, Cani, \nDedy, Eni, dan Fahri. Andy lebih gemuk daripada Fahri dan lebih tinggi \ndaripada Dedy. Bebe lebih kurus daripada Eni dan lebih pendek daripada \nFahri. Cani lebih gemuk daripada Andy dan lebih pendek daripada Bebe. \nDedy lebih kurus daripada Fahri dan lebih tinggi daripada Bebe. Eni \nlebih kurus daripada Dedy dan lebih tinggi daripada Andy. Fahri lebih \ngemuk daripada Dedy dan lebih pendek daripada Andy. Siapa di antara \npemuda-pemuda berikut ini yang lebih gemuk dan sekaligus lebih pendek \ndaripada Fahri?",
+        "pilihan": [
+            "Andy",
+            "Bebe",
+            "Cani",
+            "Dedy dan Bebe",
+            "Eni"
+        ],
+        "jawaban_benar": "Cani",
+        "pembahasan": "Berat Badan : Andy lebih gemuk daripada Fahri. Bebe lebih kurus daripada\n Eni. Cani lebih gemuk daripada Andy. Dedy lebih kurus daripada Fahri. \nEni lebih kurus daripada Dedy. Fahri lebih gemuk daripada Dedy. Tinggi \nBadan : Andy lebih tinggi daripada Dedy. Bebe lebih pendek daripada \nFahri. Cani lebih pendek daripada Bebe. Dedy lebih tinggi daripada Bebe.\n Eni lebih tinggi daripada Andy. Fahri lebih pendek daripada Andy. Jadi,\n yang lebih gemuk dan sekaligus lebih pendek daripada Fahri adalah Cani."
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nSuatu kelompok pemuda terdiri dari enam orang yaitu Andy, Bebe, Cani, \nDedy, Eni, dan Fahri. Andy lebih gemuk daripada Fahri dan lebih tinggi \ndaripada Dedy. Bebe lebih kurus daripada Eni dan lebih pendek daripada \nFahri. Cani lebih gemuk daripada Andy dan lebih pendek daripada Bebe. \nDedy lebih kurus daripada Fahri dan lebih tinggi daripada Bebe. Eni \nlebih kurus daripada Dedy dan lebih tinggi daripada Andy. Fahri lebih \ngemuk daripada Dedy dan lebih pendek daripada Andy. Siapa di antara \npemuda berikut ini yang lebih kurus dan sekaligus lebih pendek daripada \nDedy?",
+        "pilihan": [
+            "Andy",
+            "Bebe",
+            "Cani",
+            "Eni",
+            "Fahri"
+        ],
+        "jawaban_benar": "Bebe",
+        "pembahasan": "Berat Badan : Andy lebih gemuk daripada Fahri. Bebe lebih kurus daripada\n Eni. Cani lebih gemuk daripada Andy. Dedy lebih kurus daripada Fahri. \nEni lebih kurus daripada Dedy. Fahri lebih gemuk daripada Dedy. Tinggi \nBadan : Andy lebih tinggi daripada Dedy. Bebe lebih pendek daripada \nFahri. Cani lebih pendek daripada Bebe. Dedy lebih tinggi daripada Bebe.\n Eni lebih tinggi daripada Andy. Fahri lebih pendek daripada Andy. \nJadi,yang lebih kurus dan sekaligus lebih pendek daripada Dedy adalah \nBebe"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nRiko memiliki sebuah tali yang kemudian dipotong menjadi 7 bagian. \nPanjang tali terpendek adalah 6 cm. Sedangkan panjang tali terpanjang \nadalah 384 cm. Jika seluruh potongan tali memiliki panjang yang \nmembentuk barisan geometri, maka panjang seluruh tali adalah ... cm.",
+        "pilihan": [
+            "378",
+            "390",
+            "570",
+            "762",
+            "1.530"
+        ],
+        "jawaban_benar": "762",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_13_pemb_img1.png]"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nHani memiliki 20 kue lapis dan 25 kue cubit. Ia berencana membagikan kue\n tersebut kepada temannya. Setiap temannya mendapat jumlah kue lapis dan\n kue cubit yang sama banyak. Berapa jumlah maksimal teman yang bisa \nmendapat kue dari Hani? Lalu berapa jumlah kue lapis dan kue cubit yang \ndidapat oleh setiap teman Hani?",
+        "pilihan": [
+            "5 orang, 5 kue lapis, 4 kue cubit",
+            "5 orang, 4 kue lapis, 5 kue cubit",
+            "4 orang, 5 kue lapis, 4 kue cubit",
+            "4 orang, 4 kue lapis, 5 kue cubit",
+            "3 orang, 4 kue lapis, 5 kue cubit"
+        ],
+        "jawaban_benar": "5 orang, 4 kue lapis, 5 kue cubit",
+        "pembahasan": "Soal tersebut menggunakan konsep Faktor Persekutuan Terbesar (FPB). \nIstilah simpelnya, FPB merupakan bilangan terbesar yang dapat membagi 2 \natau lebih bilangan. FPB dari 20 dan 25 adalah 5. Sehingga, banyak teman\n maksimal yang bisa mendapat kue dari Hani adalah 5 orang. Di mana \nsetiap orang akan mendapat 4 kue lapis (20 dibagi 5) dan 5 kue cubit (25\n dibagi 5)."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nJika 0< ab <1 dan a > 0, manakah ungkapan berikut ini yang pasti benar?",
+        "pilihan": [
+            "0 < b < 1/a",
+            "b > 1",
+            "b < 1",
+            "0 < b < 1",
+            "1/a < b < 1"
+        ],
+        "jawaban_benar": "0 < b < 1/a",
+        "pembahasan": "a positif, maka jika pertidaksamaan 0 < ab < 1 dibagi dengan a,  akan menghasilkan 0 < b < 1/a"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nJika x lebih kecil dari y, manakah bilangan berikut ini yang pasti nilainya lebih besar dari 2x tetapi lebih kecil dari 2y?",
+        "pilihan": [
+            "y – x",
+            "xy/2",
+            "y² - x²",
+            "2x – y",
+            "x + y"
+        ],
+        "jawaban_benar": "x + y",
+        "pembahasan": "x + y lebih besar dari 2x dan lebih kecil dari 2y. Pembuktian melalui contoh berikut:\nMisal x = 1, y =2, maka nilai 2x = 2x1 = 2, nilai 2y = 2x2 = 4, x + y = 1+2 = 3.\nx+y = 3\n2x=2\n2y=4\nTerbukti bahwa  x + y lebih besar dari 2x dan lebih kecil dari 2y."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nAndre seorang pengendara sepeda. Dalam suatu perjalanan ia mempunyai \ntarget harus menempuh perjalanan sejauh 117 km dalam waktu 6,5 jam untuk\n sampai ke tempat tujuan. Saat ini, ia telah berjalan selama 2,75 jam \nsejauh 57 km. Penurunan kecepatan yang harus dilakukan Andre agar tiba \npada tempat tujuan tepat waktu adalah ... km/jam.",
+        "pilihan": [
+            "4 6/11",
+            "4 7/11",
+            "4 8/11",
+            "4 9/11",
+            "4 10/11"
+        ],
+        "jawaban_benar": "4 8/11",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_17_pemb_img1.png]"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSebuah prisma tegak alasnya berbentuk belah ketupat dengan panjang \ndiagonal 12 cm dan 16 cm. Jika luas seluruh permukaan prisma 392 cm2, \nvolume prisma adalah ...",
+        "pilihan": [
+            "392 cm3",
+            "480 cm3",
+            "584 cm3",
+            "4500 cm3",
+            "960 cm3"
+        ],
+        "jawaban_benar": "480 cm3",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_18_pemb_img1.png]"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nJumlah 101 bilangan genap berurutan adalah 13130. jumlah 3 bilangan \nterkecil yang pertama dari bilangan-bilangan genap tersebut adalah …..",
+        "pilihan": [
+            "96",
+            "102",
+            "108",
+            "114",
+            "120"
+        ],
+        "jawaban_benar": "96",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_19_pemb_img1.png]"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "-3"
+        ],
+        "jawaban_benar": "-3",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_20_pemb_img1.png]"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_21_img1.png]",
+        "pilihan": [
+            "3:16",
+            "3:8",
+            "7:16",
+            "5:8",
+            "11:16"
+        ],
+        "jawaban_benar": "3:8",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_21_pemb_img1.png]"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nDiketahui perbandingan uang Bela dan Nita 4:7,sedangkan perbandingan \nuang  Nita dan Keanu adalah 3:5, jika selisih uang Nita dan Bela Rp \n36.000,00. Maka jumlah uang Bela dan Keanu adalah…",
+        "pilihan": [
+            "Rp186.000,-",
+            "Rp188.000,-",
+            "Rp190.000,-",
+            "Rp192.000,-",
+            "Rp194.000,-"
+        ],
+        "jawaban_benar": "Rp188.000,-",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_22_pemb_img1.png]"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_23_img1.png]",
+        "pilihan": [
+            "√100",
+            "√52",
+            "11√2",
+            "4√2"
+        ],
+        "jawaban_benar": "4√2",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_23_pemb_img1.png]"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_24_img1.png]",
+        "pilihan": [
+            "70 derajat",
+            "60 derajat",
+            "50 derajat",
+            "40 derajat",
+            "30 derajat"
+        ],
+        "jawaban_benar": "60 derajat",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_24_pemb_img1.png]"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nAda 3 orang, yaitu kakek, bapak, dan anak. Usia kakek bilangan genap. \nJika usia kakek dibalik akan diperoleh usia bapak. Jika angka - angka \nusia bapak dijumlahkan akan diperoleh usia anak. Jumlah usia ketiga \norang tersebut adalah 144. Jika usia kakek kurang dari 100 tahun, maka \nusia kakek yang paling mungkin adalah ….",
+        "pilihan": [
+            "84",
+            "tak dapat dicari"
+        ],
+        "jawaban_benar": "84",
+        "pembahasan": "Misal usia kakek adalah xy.\nK = 10x + y\nB = yx = 10y + x\nA = x + y\nMaka, K + B + A = 144\n(10x + y) + (10y + x) + x + y = 144\n12x + 12y = 144\nx + y = 12\nLihat pilihan yang tersedia yang berjumlah 12. Jadi, usia kakek yang paling mungkin adalah 84 (8 + 4 = 12)."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nJika jumlah 101 bilangan kelipatan tiga yang berurutan adalah 18180, \nmaka jumlah tiga bilangan terkecil yang pertama dari bilangan-bilangan \ntersebut adalah …",
+        "pilihan": [
+            "99"
+        ],
+        "jawaban_benar": "99",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\n-8271, 16542, 24813, -8270, 16540, 24810, -8269, ..., ...",
+        "pilihan": [
+            "16538, 24813",
+            "16538, 24807",
+            "-16542, 24807",
+            "16542, 24813",
+            "16542, -24807"
+        ],
+        "jawaban_benar": "16538, 24807",
+        "pembahasan": "Polanya adalah bilangan pertama dan kedua ditambahkan, hasilnya bilangan\n ketiga, abaikan tanda negatif. Maka selanjutnya adalah -8269, 16538, \n24807."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nB, C, E, H, I, K, N, O, ... , …",
+        "pilihan": [
+            "Q, T",
+            "R, U",
+            "S, V",
+            "P, S",
+            "T, W"
+        ],
+        "jawaban_benar": "Q, T",
+        "pembahasan": "[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_28_pemb_img1.png]"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nDiketahui suatu garis lurus mengikuti persamaan ax + 0,5y = 6. \nKemiringan garis tersebut yaitu (38/3)% dari 18,033. Maka, nilai a \nyaitu…",
+        "pilihan": [
+            "2,28418",
+            "-1,14209",
+            "3,28418",
+            "-1,64209",
+            "6,56836"
+        ],
+        "jawaban_benar": "-1,14209",
+        "pembahasan": "Kemiringan garis tersebut yaitu (38/3)% x 18,033 = (38/300) x 18,033 = 2,28418.\nApabila diketahui suatu persamaan garis mengikuti bentuk ax + by = c, maka kemiringan garis tersebut yaitu m = (-a) / b.\n-> m = (-a) / b\n-> 2,28418 = (-a) / 0,5\n-> 2,28418 x 0,5 = -a\n-> a = -1,14209"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_30_img1.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Trik utama: Perhatikan bahwa opsi A, B, C, dan E memiliki segitiga yang \nmenyentuh lingkaran. Hanya opsi D yang segitiganya tidak menyentuh \nlingkaran. Sehingga, gambar yang paling berbeda yaitu opsi D"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_31_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Trik utama: Bayangkan semua posisi gambar seperti gambar A. Jika \ndiperhatikan seksama, dari opsi B sampai E, pergerakan dari garis dengan\n ujung lingkaran hingga garis dengan ujung segitiga adalah dari kanan ke\n kiri. Hanya opsi A yang pergerakannya dari kiri ke kanan. Sehingga, \ngambar yang paling berbeda yaitu gambar A."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_32_img1.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Trik utama:\n1. Setiap baris terdapat bangun segitiga, persegi panjang, dan lingkaran.\n2. Setiap baris harus terdapat 2 bangun berwarna hitam, dan 1 bangun dengan arsiran.\nDi\n baris ketiga, belum ada bangung persegi panjang dan belum ada bangun \ndengan arsiran. Sehingga, lanjutan gambar yang tepat yaitu persegi \npanjang dengan arsiran."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_33_img1.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Trik utama:\n1. Bangun luar pada setiap baris selalu sama.\n2. Setiap baris harus terdapat bangun yang memiliki warna hitam, putih, dan arsiran.\n3. Bangun paling tengah pada setiap baris harus terdiri dari 2 lingkaran dan 1 segi empat\nDi\n baris ketiga, belum ada bangun berwarna hitam. Lalu bangun di tengah \nhanya terdiri dari 1 lingkaran dan 1 segi empat Sehingga, lanjutan \ngambar tersebut adalah segi enam dengan warna hitam, dan memiliki bangun\n lingkaran di tengahnya."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_34_img1.png]",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Perubahan yang terjadi dari gambar (1) menjadi gambar (2) salah satunya \ndapat dilihat dari perubahan objek terbesar pada kedua gambar ini. \nGambar terbesar yang ada pada gambar (1) mengalami perubahan warna dari \nhitam menjadi putih pada gambar (2). Dari posisi objek lingkaran kecil \npada gambar (1), dapat diketahui bahwa gambar (2) merupakan pencerminan \ngambar (1), namun terdapat perubahan objek belah ketupat di gambar (1) \nmenjadi segilima di gambar (2), yang juga dapat dilihat sebagai adanya \npenambahan jumlah sudut pada objek.\nIni berarti, untuk gambar (3) menjadi gambar (4) harus memenuhi syarat \nperubahan gambar (1) menjadi gambar (2). Objek terbesar yang ada pada \nkotak (4) akan berubah warna. Pada gambar (4) nantinya objek terbesar \nini berwarna hitam, kemudian gambar tangan pada gambar (4) merupakan \npencerminan gambar (3), yang mana gambar tangan akan terbalik. Sementara\n itu, objek bintang dengan 3 sudut pada gambar (3) akan berubah menjadi \nbintang dengan empat sudut pada gambar (4). Jadi, gambar yang tepat \nadalah pilihan B."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\n[GAMBAR: d:\\Kuy Dinas 2026\\data\\pembahasan\\hasil_pembahasan_modul_328\\gambar\\soal_35_img1.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Perubahan gambar (1) menjadi gambar (2) diperoleh dari hasil pencerminan. Artinya, gambar (2) merupakan pencerminan gambar (1).\nHal ini berarti, untuk gambar (4) juga berlaku syarat yang sama yaitu \npencerminan. Jadi, gambar yang paling tepat untuk gambar (4) sebagai \nhasil pencerminan dari gambar (3) adalah E."
+    }
+]

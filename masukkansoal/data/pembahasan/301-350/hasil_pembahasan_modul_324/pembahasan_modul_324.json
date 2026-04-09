@@ -1,0 +1,418 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nBangsa Indonesia melakukan hubungan dan kerjasama yang baik dengan negara lain di dunia. Hal ini merupakan cerminan sila ...",
+        "pilihan": [
+            "Pertama",
+            "Kedua",
+            "Ketiga",
+            "Keempat",
+            "Kelima"
+        ],
+        "jawaban_benar": "Kedua",
+        "pembahasan": "Sila Pertama --> Ketuhanan, kebebasan beragama\nSila Kedua --> Kemanusiaan, hubungan antarbangsa dan negara, HAM, kebudayaan, iptek.\nSila Ketiga --> persatuan, keutuhan bangsa, NKRI harga mati, kebhinnekatunggalikaan\nSila Keempat --> musyawarah, demokrasi, mengutamakan kepentingan bangsa dan negara atas kepentingan pribadi dan golongan\nSila Kelima --> pembangunan bangsa Indonesia, keadilan sosial bagi bangsa Indonesia"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nSecara etimologis, kata filsafat berasal dari bahasa Yunani yang berasal dari kata philos dan Sophia. Perpaduan kata tersebut mengandung arti ...",
+        "pilihan": [
+            "Cinta kebijaksanaan",
+            "Teman dari kebijakan",
+            "Kumpulan orang bijaksana",
+            "Pemikiran yang selalu menginginkan kebijakan",
+            "Cinta keadilan"
+        ],
+        "jawaban_benar": "Cinta kebijaksanaan",
+        "pembahasan": "Philos = cinta, sophia = kebijaksanaan"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nFungsi pembukaan UUD 1945 alinea IV, yang mencantumkan dasar negara yang tersusun secara hierarki dan piramida di Indonesia menjadi....",
+        "pilihan": [
+            "Filter bagi masuknya budaya asing",
+            "Sumber budaya bangsa",
+            "Petunjuk pelaksanaan peraturan",
+            "Sumber hukum yang berlaku",
+            "Ciri dan karakteristik bangsa"
+        ],
+        "jawaban_benar": "Ciri dan karakteristik bangsa",
+        "pembahasan": "Fungsi pembukaan UUD 1945 alinea IV, yang mencantumkan dasar negara yang tersusun secara hierarki dan piramida di Indonesia menjadi ciri dan karakteristik bangsa."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nHubungan antara dasar Negara dengan konstitusi adalah…",
+        "pilihan": [
+            "Konstitusi merupakan sumber bagi dasar negara",
+            "Dasar Negara merupakan penjabaran konstitusi",
+            "Konstitusi merupakan penjabaran dari dasar negara",
+            "Dasar Negara sama dengan konstitusi",
+            "Dasar Negara tidak berhubungan dengan konstitusi"
+        ],
+        "jawaban_benar": "Konstitusi merupakan penjabaran dari dasar negara",
+        "pembahasan": "Dasar negara = Pancasila, konstitusi = UUD 1945. Konstitusi merupakan salah satu nilai instrumental (penjabaran) yang fungsinya adalah untuk menjabarkan nilai fundamental bangsa Indonesia (Pancasila)."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nApa maksud dari isi Pancasila bersifat khusus konkret ?",
+        "pilihan": [
+            "Isi arti Pancasila dalam realisasi praktis di berbagai bidang kehidupan bersifat khusus, konkret dan dinamis",
+            "Akar pengetahuan Pancasila adalah khusus dan nyata",
+            "Hanya khusus diberlakukan di Indonesia saja",
+            "Merupakan gabungan nilai-nilai luhur beberapa bangsa pilihan di dunia",
+            "Merupakan keunikan yang nyata"
+        ],
+        "jawaban_benar": "Isi arti Pancasila dalam realisasi praktis di berbagai bidang kehidupan bersifat khusus, konkret dan dinamis",
+        "pembahasan": "Maksudnya adalah isi arti Pancasila dalam realisasi praktis di berbagai bidang kehidupan bersifat khusus, konkret dan dinamis"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nPasal 1 ayat 1 UUD 1945 berbunyi ...",
+        "pilihan": [
+            "Negara Indonesia adalah negara kesatuan",
+            "Negara Indonesia adalah negara republik",
+            "Negara Indonesia adalah negara kesatuan sekaligus republik",
+            "Negara Indonesia adalah negara kesatuan berbentuk republik",
+            "Negara Indonesia adalah negara kesatuan bercirikan nusantara"
+        ],
+        "jawaban_benar": "Negara Indonesia adalah negara kesatuan berbentuk republik",
+        "pembahasan": "Beradasarkan Pasal 1 ayat 1 UUD 1945, Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nYang menjadi warga Negara Indonesia menurut UUD 1945 pasal 26 adalah…",
+        "pilihan": [
+            "Hanya orang bangsa Indonesia asli",
+            "Orang Indonesia asli dan orang lain yang disahkan dengan undang-undang sebagai warga negara",
+            "Pribumi saja",
+            "Pribumi dan inlander",
+            "Orang bangsa Indonesia dan keturunannya saja"
+        ],
+        "jawaban_benar": "Orang Indonesia asli dan orang lain yang disahkan dengan undang-undang sebagai warga negara",
+        "pembahasan": "Berdasarkan Pasal 26 ayat 1 UUD 1945 dinyatakan bahwa yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nBerkenaan dengan perubahan isi dari UUD 1945, sebenarnya telah diatur oleh TAP MPR No. IV/MPR/1983 tentang…",
+        "pilihan": [
+            "Interpelasi",
+            "Budget",
+            "Angket",
+            "Mosi tidak percaya",
+            "Referendum"
+        ],
+        "jawaban_benar": "Referendum",
+        "pembahasan": "Perubahan isi dari UUD 1945 sebenarnya telah diatur oleh TAP MPR No. IV/MPR/1983 tentang Referendum"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nNegara menghormati dan memelihara bahasa daerah sebagai kekayaan budaya nasional. Hal ini disebutkan dalam UUD 1945 ...",
+        "pilihan": [
+            "Pasal 32",
+            "Pasal 33",
+            "Pasal 34",
+            "Pasal 35",
+            "Pasal 36"
+        ],
+        "jawaban_benar": "Pasal 32",
+        "pembahasan": "Di dalam Pasal 32 ayat 2 UUD 1945 dinyatakan bahwa Negara menghormati dan memelihara bahasa daerah sebagai kekayaan budaya nasional."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nAluk Rampe Matampu’ dan aluk rampe matallo adalah upacara adat yang dilaksanakan oleh masyarakat...",
+        "pilihan": [
+            "Bugis",
+            "Anak Dalam",
+            "Batak",
+            "Toraja",
+            "Minahasa"
+        ],
+        "jawaban_benar": "Toraja",
+        "pembahasan": "Aluk Rampe Matampu’ (Rambu Solo) dan aluk rampe matallo (rambu tuka) adalah upacara adat yang dilaksanakan oleh pengikut kepercayaan Aluk Todolo yang banyak dianut oleh masyarakat Toraja sebelum masuknya Eropa. Walaupun saat ini banyak masyarakat Toraja yang memeluk agama Kristen, tetapi upacara-upacara kepercayaan Aluk Todolo masih banyak dilaksanakan masyarakat Toraja sebagai bagian dari kebudayaan masyarakat Toraja."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nTradisi berburu paus merupakan salah satu tradisi turun-temurun yang hingga kini tetap dipertahankan oleh masyarakat...",
+        "pilihan": [
+            "Sasak",
+            "Lamalera",
+            "Manggarai",
+            "Mentawai",
+            "Orang Laut"
+        ],
+        "jawaban_benar": "Lamalera",
+        "pembahasan": "Tradisi berburu paus merupakan salah satu tradisi turun-temurun yang hingga kini tetap dipertahankan oleh masyarakat Lamalera, Nusa Tenggara Timur."
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nAdat basandi syarak, syarak basandi kitabullah merupakan salah satu filosofi hidup yang dipegang kuat oleh masyarakat...",
+        "pilihan": [
+            "Minangkabau",
+            "Melayu",
+            "Aceh",
+            "Palembang",
+            "Bugis"
+        ],
+        "jawaban_benar": "Minangkabau",
+        "pembahasan": "Adat basandi syarak, syarak basandi kitabullah yang berarti Adat berdasarkan syariat, dan syariat berdasarkan Kitabullah merupakan salah satu filosofi hidup yang dipegang kuat oleh masyarakat Minangkabau hingga saat ini."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nMonumen Yesus Memberkati adalah sebuah monumen yang mirip dengan monumen Christ the Redeemer di Rio de Janeiro, Brazil. Monumen tersebut terletak di provinsi...",
+        "pilihan": [
+            "Nusa Tenggara Timur",
+            "Papua Barat",
+            "Papua",
+            "Maluku",
+            "Sulawesi Utara"
+        ],
+        "jawaban_benar": "Sulawesi Utara",
+        "pembahasan": "Monumen Yesus Memberkati adalah sebuah monumen Yesus Kristus yang terletak di kota Manado, Sulawesi Utara. Monumen ini memiliki tinggi 50 m dari permukaan tanah, dimana patungnya sendiri memiliki tinggi 30 meter dan 20 meter adalah tinggi penopangnya. Monumen ini terbuat dari 25 ton besi fibre dan 35 ton besi baja dan terletak pada bukit tertinggi di daerah perumahan Citraland Manado."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nRuang lingkup  kerja Komisi DPR yang bergerak dalam  bidang hukum dan keamanan adalah ...",
+        "pilihan": [
+            "Komisi I",
+            "Komisi II",
+            "Komisi III",
+            "Komisi IV",
+            "Komisi V"
+        ],
+        "jawaban_benar": "Komisi III",
+        "pembahasan": "Pada periode 2014–2019, DPR mempunyai 11 komisi dengan ruang lingkup tugas dan pasangan kerja masing-masing. Adapun ruang lingkup kerja Komisi DPR yang bergerak dalam bidang hukum dan keamanan adalah Komisi III."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nMenurut UU No. 12 Tahun 2003, pemilu diselenggarakan oleh Komisi Pemilihan Umum (KPU) yang bersifat…",
+        "pilihan": [
+            "Nasional, tetap, dan peduli",
+            "Nasional, tetap, dan bersih",
+            "Nasional, tetap, dan tegas",
+            "Nasional, tetap, dan mandiri",
+            "Nasional, tetap, dan siaga"
+        ],
+        "jawaban_benar": "Nasional, tetap, dan mandiri",
+        "pembahasan": "Menurut UU No. 12 Tahun 2003, pemilu diselenggarakan oleh Komisi Pemilihan Umum (KPU) yang bersifat nasional, tetap, dan mandiri."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nPeserta Pemilu 2014 diikuti oleh…",
+        "pilihan": [
+            "12 Partai Nasional dan 3 Partai Lokal Aceh",
+            "12 Partai Nasional dan 2 Partai Lokal Aceh",
+            "12 Partai Nasional",
+            "13 Partai Nasional",
+            "14 Partai Nasional"
+        ],
+        "jawaban_benar": "12 Partai Nasional dan 3 Partai Lokal Aceh",
+        "pembahasan": "Jumlah peserta Pemilu 2014 adalah 12 partai nasional dan 3 partai lokal Aceh (Partai Damai Aceh, Partai Nasional Aceh, dan Partai Aceh)."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nMembantu presiden dalam mengoordinasikan perencanaan dan penyusunan kebijakan, serta menyamakan pandangan tentang pelaksanaan kebijakan antardepartemen merupakan tugas…",
+        "pilihan": [
+            "Menteri Koordinator",
+            "Menteri Negara yang Memimpin Departemen",
+            "Menteri Negara Non departemen",
+            "Pejabat Tinggi Negara Setingkat Menteri",
+            "Wakil Presiden"
+        ],
+        "jawaban_benar": "Menteri Koordinator",
+        "pembahasan": "Menteri Koordinator (saat ini ada 4, yaitu Menko Bidang Perekonomian, Menko Bidang Politik, Hukum dan Keamanan, Menko Bidang Kemaritiman, dan Menko Bidang Pembangunan Manusia dan Kebudayaan) adalah menteri yang bertugas membantu presiden dalam mengoordinasikan perencanaan dan penyusunan kebijakan, serta menyamakan pandangan tentang pelaksanaan kebijakan antarkementerian."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nDi bawah ini yang merupakan tokoh empat serangkai, kecuali…",
+        "pilihan": [
+            "Moh. Hatta",
+            "Ir. Soekarno",
+            "Ki HajarDewantara",
+            "Kyai Haji Mas Mansur",
+            "Achmad Soebarjo"
+        ],
+        "jawaban_benar": "Achmad Soebarjo",
+        "pembahasan": "Empat Serangkai adalah pemimpin Pusat Tenaga Rakyat (Putera), sebuah organisasi yang dibentuk Jepang pada tanggal 16 April 1943. Adapun Empat Serangkai terdiri dari Ir.Soekarno, M.Hatta, Ki Hajar Dewantoro dan K.H Mas Mansyur."
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nPenindasan Jepang terhadap rakyat Indonesia menimbulkan banyaknya pergolakan di tanah air, kecuali…",
+        "pilihan": [
+            "Perlawanan Zainal Mustafa di Tasikmalaya",
+            "Perang Sambil di desa Cidempet",
+            "Pemberontakan Peta di Blitar",
+            "Perlawanan rakyat di Sukamanah",
+            "Perlawanan Pangeran Diponegoro"
+        ],
+        "jawaban_benar": "Perlawanan Pangeran Diponegoro",
+        "pembahasan": "Perlawanan Pangeran Diponegoro, atau biasa dikenal dengan Perang Diponegoro, adalah perlawanan yang terjadi pada masa penjajahan Belanda. Perang tersebut terjadi selama sekitar 5 tahun, yaitu 1825 – 1830."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nDampak luas dari peristiwa G 30 S/PKI tahun 1965, kecuali…",
+        "pilihan": [
+            "Jatuhnya kedudukan Presiden Soekarno",
+            "Dibubarkannya PKI beserta ormas-ormasnya",
+            "Larangan ajaran Marxisme-Leninisme di Indonesia",
+            "Berkembangnya ormas-ormas Islam",
+            "Menguatnya posisi politik TNI, khususnya TNI AD"
+        ],
+        "jawaban_benar": "Berkembangnya ormas-ormas Islam",
+        "pembahasan": "Salah satu dampak yang terjadi setelah peristiwa G30S/PKI antara lain adalah:\na. Jatuhnya kedudukan Presiden Soekarno\nb. Dibubarkannya PKI beserta ormas-ormasnya\nc. Larangan ajaran Marxisme-Leninisme di Indonesia\nd. Menguatnya posisi politik TNI, khususnya TNI AD."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSoeharto menyatakan berhenti dari jabatannya sebagai Presiden pada tanggal....",
+        "pilihan": [
+            "18 Mei 1998",
+            "19 Mei 1998",
+            "20 Mei 1998",
+            "21 Mei 1998",
+            "22 Mei 1998"
+        ],
+        "jawaban_benar": "21 Mei 1998",
+        "pembahasan": "Presiden Soeharto mengundurkan diri melalui pidato pengunduran diri yang dibacakan pada hari Kamis, 21 Mei 1998."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSalah satu proyek bersama ASEAN dengan membentuk proyek industri tembaga terdapat di negara…",
+        "pilihan": [
+            "Singapura",
+            "Filipina",
+            "Indonesia",
+            "Malaysia",
+            "Thailand"
+        ],
+        "jawaban_benar": "Filipina",
+        "pembahasan": "ASEAN menyelenggarakan kerja sama di bidang industri untuk meningkatkan perekonomian kawasan ASEAN. Adapun salah satu bentuk kerja samanya antara lain adalah:\n1) proyek pabrik pupuk urea ammonia di Aceh, Indonesia (ASEAN Aceh Fertilizer Project).\n2) proyek pabrik urea di Malaysia (ASEAN Urea Project).\n3) proyek industri tembaga di Filipina (ASEAN Copper Fabrication Project).\n4) proyek pabrik vaksin di Singapura (ASEAN Vaccine Project).\n5) proyek abu soda di Muangthai (Rock Salt Soda Ash Project)."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nLatar belakang lahirnya Organisasi Konferensi Islam (OKI) adalah…",
+        "pilihan": [
+            "Terjadi pembantaian umat Islam Sunni di Iran",
+            "Adanya perpecahan diantara negara-negara Islam",
+            "Pembakaran Masjid Al Aqshooleh Israel",
+            "Merosotnya akhlak umat Islam dunia",
+            "Banyaknya negara-negara yang menganut Islam tetapi masih terjajah secara ekonomi"
+        ],
+        "jawaban_benar": "Pembakaran Masjid Al Aqshooleh Israel",
+        "pembahasan": "Organisasi Kerja Sama Islam (dahulu Organisasi Konferensi Islam) (OKI) adalah sebuah organisasi internasional dengan 57 negara anggota yang memiliki seorang perwakilan tetap di Perserikatan Bangsa-Bangsa. OKI didirikan di Rabat, Maroko pada 12 Rajab 1389 H (25 September 1969) dalam Pertemuan Pertama para Pemimpin Dunia Islam yang diselenggarakan sebagai reaksi terhadap terjadinya peristiwa pembakaran Masjid Al Aqsa pada 21 Agustus 1969 oleh pengikut fanatik Kristen dan Yahudi di Yerusalem. OKI mengubah namanya dari sebelumnya Organisasi Konferensi Islam pada 28 Juni 2011."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nLatar belakang berdirinya OPEC adalah ...",
+        "pilihan": [
+            "Negara penghasil minyak kesulitan dalam menjual hasil minyaknya",
+            "Tindakan sewenang-wenangnya kelompok negara maju yang tergabung dalam The Seven Major dalam masalah monopoli dan penentuan harga minyak dunia",
+            "Negara berkembang menjadikan minyak sebagai senjata politik",
+            "Terjadinya booming minyak di negara-negara penghasil minyak",
+            "Minyak menjadi hal yang langka di dunia"
+        ],
+        "jawaban_benar": "Tindakan sewenang-wenangnya kelompok negara maju yang tergabung dalam The Seven Major dalam masalah monopoli dan penentuan harga minyak dunia",
+        "pembahasan": "Salah satu latar belakang terbentuknya Organisasi Pengekspor Minyak (OPEC) adalah tindakan sewenang-wenangnya kelompok negara maju yang tergabung dalam The Seven Major dalam masalah monopoli dan penentuan harga minyak dunia."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nIndonesia pada tahun 1950 bergabung dengan PBB, lalu pada tahun 1960-an Indonesia keluar dari PBB. Alasan utama Indonesia keluar dari PBB adalah…",
+        "pilihan": [
+            "Protes keras Indonesia terhadap bergabungnya negara Malaysia yang dianggap boneka Inggris",
+            "Indonesia tidak menerima bantuan apapun dalam PBB",
+            "Terdapat krisis serius di dalam Indonesia",
+            "Indonesia menganut sistem yang berbeda dengan PBB",
+            "PBB berada di bawah pengaruh imperialisme dan kolonialisme"
+        ],
+        "jawaban_benar": "Protes keras Indonesia terhadap bergabungnya negara Malaysia yang dianggap boneka Inggris",
+        "pembahasan": "Indonesia pada tahun 1950 bergabung dengan PBB, lalu pada tahun 1960-an Indonesia keluar dari PBB. Alasan utama Indonesia keluar dari PBB adalah protes keras Indonesia terhadap bergabungnya negara Malaysia yang dianggap boneka Inggris"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nGagasan pertama mengenai pemberian nama Pedoman Penghayatan dan Pengamalan Pancasila dengan “Eka Prasetya Pancakarsa” dikemukakan oleh Presiden Soeharto pada pidato…",
+        "pilihan": [
+            "Menyambut peringatan ulang tahun ke-25 Gajah Mada pada tanggal 19 Desember 1972",
+            "Di dalam raker Kwartir Nasional Gerakan Pramuka pada tanggal 12 April 1976",
+            "Pidato kenegaraan di hadapan sidang DPR tanggal 16 Agustus 1975",
+            "Pidato kenegaraan dalam rangka sidang umum MPR tahun 1978",
+            "Proklamasi kemerdekaan"
+        ],
+        "jawaban_benar": "Di dalam raker Kwartir Nasional Gerakan Pramuka pada tanggal 12 April 1976",
+        "pembahasan": "Pemberian nama Eka Praseyta Pancakarsa dikemukakan oleh Presiden Soeharto pada pidato pembukaan Musyawarah Kerja Kwartir Nasional Gerakan Pramuka pada tanggal 12 April 1976"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nOrganisasi parlemen internasional untuk melawan korupsi adalah…",
+        "pilihan": [
+            "GOPAC",
+            "KPK",
+            "UNODC",
+            "COPRA",
+            "GRECO"
+        ],
+        "jawaban_benar": "GOPAC",
+        "pembahasan": "GOPAC adalah sebuah organisasi yang cukup prestisius dan besar pengaruhnya di dunia internasional dan bahkan di beberapa organisasi interparlementari union dan organisasi lain. GOPAC menjadi salah satu tempat bagi parlemen untuk membicarakan dan menghadapi pemberantasan korupsi. GOPAC yang bermarkas di Ottawa, Kanada itu juga dibagi per regional seperti untuk Asia Tenggara ini adalah SEAPAC, yang ketuanya adalah Indonesia, begitu juga untuk Afrika, Midle East, Oceania yang dipimpin oleh Australia."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nBertanggung jawab melaksanakan keputusan merupakan perwujudan sila…",
+        "pilihan": [
+            "4"
+        ],
+        "jawaban_benar": "4",
+        "pembahasan": "Bertanggung jawab melaksanakan keputusan merupakan perwujudan sila k-4"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nBacalah paragraf berikut dengan saksama!\nKilat boleh dikatakan ponsel sejuta umat. Dengan harga yang murah, ponsel ini lumayan laku di pasaran terutama untuk pemula yang tidak membutuhkan fitur yang berlebihan. Untuk itu, pada bahasan clinic kali ini, Tabloid Pulsa mengangkat tema trouble shooting pada ponsel Kilat terutama mengenai masalah signal.\nInti paragraf tersebut adalah ....",
+        "pilihan": [
+            "Ponsel Kilat banyak diminati oleh pemula.",
+            "Kilat laku di pasaran karena harganya murah.",
+            "Kilat termasuk ponsel sejuta umat karena murah.",
+            "Pulsa membahas masalah signal pada ponsel Kilat.",
+            "Ponsel Kilat memiliki fitur ala kadarnya."
+        ],
+        "jawaban_benar": "Kilat laku di pasaran karena harganya murah.",
+        "pembahasan": "Inti atau simpulan dari paragraf yang tepat adalah Kilat laku di pasaran karena harganya murah."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TWK",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nPenulisan nomor surat yang benar adalah ....",
+        "pilihan": [
+            "Nomor: 671/Kanwil/TU/Kp.01.02/ VII/2019",
+            "Nomor: 671/Kanwil/TU/Kp.01.02/VII/2019.",
+            "Nomor: 671/Kanwil/TU/Kp.01.02/ VII/19",
+            "Nomor: 671/Kanwil/TU/Kp.01.02/ VII/19.",
+            "Nomor: 671/Kanwil/Tata Usaha/Kp.01.02/VII/19"
+        ],
+        "jawaban_benar": "Nomor: 671/Kanwil/TU/Kp.01.02/ VII/2019",
+        "pembahasan": "Penulisan nomor surat yang benar adalah:\nmencantumkan nomor surat berdasarkan urutan surat yang dikeluarkan instansi terkait\nnama instansi\nnama bagian struktur kepengurusan dalam instansi terkait\nJenis surat; surat keputusan, surat perjanjian, dsb.\nNomor ketetapan yang disesuaikan dengan ketentuan instansi\ntahun surat tersebut dikeluarkan, ditulis lengkap."
+    }
+]

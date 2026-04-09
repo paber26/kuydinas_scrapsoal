@@ -1,0 +1,438 @@
+Soal 1:
+Kegiatan peramalan permintaan penjualan untuk bulan yang akan datang, yang
+dilakukan oleh perusahaan disebut :
+A. Publishing
+B. Forcasting
+C. Marketing
+D. Capacity Controlling
+E. Resource Planning
+
+==================================================
+
+Soal 2:
+Karakter dan ciri dari industri tipe Make to Stock adalah dibawah ini kecuali:
+A. Memiliki safety stock produk
+B. Memiliki harga yang relatif wajar
+C. Rentan terhadap fluktuasi
+D. Produk dibuat secara terus menerus,
+E. Standard Item, dengan jumlah produksi tinggi
+
+==================================================
+
+Soal 3:
+Jumlah item yang direncanakan untuk di pesan agar memenuhi perencanaan pada
+masa yang akan datang atau order produksi yang dapat dilepas untuk dimanufaktur
+disebut
+A. Planned Order Receipt
+B. Planned Order Releases
+C. Safety Stock
+D. Begin Inventory
+E. Schedule Receipts
+
+==================================================
+
+Soal 4:
+Sebuah kumpulan dari material (bahan) yang dibangun membentuk satu Item Barang
+tertentu disebut :
+A. Engineering Orders
+B. Capacity Resource Planning
+C. Master Demand Schedule
+D. Bill Of Material (BOM)
+E. Master Production Schedule
+
+==================================================
+
+Soal 5:
+Merupakan jadwal permintaan atau jadwal pengiriman pesanan, yang secara garis
+besar terdiri dari forecast maupun actual sales order, yaitu
+A. Master Production Schedule
+B. Capacity Resource Planning
+C. Master Demand Schedule
+D. Production Charge Schedule
+E. Engineering Change Orders
+
+==================================================
+
+Soal 6:
+Model pengendalian persediaan bahan baku berupa komponen tertentu yang
+diproduksi secara massal dan dipakai sendiri sebagai sub komponen, disebut
+A. Economic Lot Size
+B. Safety Stock
+C. Exponential Smoothing
+D. Shop Floor Control
+E. Economic Order Quantity
+
+==================================================
+
+Soal 7:
+.... yang menunjukkan jadwal harian produksi di level Finished Good.
+A. Schedule Receipts
+B. Production Charge
+C. Master Production Schedule
+D. Master Demand Schedule
+E. Engineering Change Orders
+
+==================================================
+
+Soal 8:
+Perencanaan dalam menentukan kebutuhan kapasitas yang diperlukan untuk
+melaksanakan Jadwal Induk Produksi :
+A. Master Production Schedulling
+B. Rough-Cut Capacity Planning
+C. Capacity Requirement Planning
+D. Capacity Resource Planning
+E. Material Requirement Planning
+
+==================================================
+
+Soal 9:
+Perencanaan yang berfungsi untuk menentukan, mengukur, dan menyesuaikan
+tingkat kapasitas atau proses untuk menentukan jumlah tenaga kerja dan sumber daya
+mesin yang diperlukan untuk melaksanakan produksi, yaitu :
+A. Capacity Requirement Planning
+B. Master Production Schedulling
+C. Capacity Resource Planning
+D. Rough-Cut Capacity Planning
+E. Material Requirement Planning
+
+==================================================
+
+Soal 10:
+Master Production Schedule memiliki fungsi seperti dibawah ini, kecuali
+A. Menentukan masukan data sistem perencanaan kebutuhan material
+B. Mengontrol tingkat persediaan bahan baku produksi
+C. Sebagai dasar penentuan kebutuhan sumber daya, seperti tenaga kerja, jam mesin, atau energi melalui perhitungan perencanaan kapasitas kasar
+D. Menjadwalkan produksi dan pembelian material untuk produk
+E. Sebagai dasar penentuan jadwal produksi, kapan, jumlah, dan due date produk harus dibuat.
+
+==================================================
+
+Soal 11:
+Salah satu tujuan utama perencanaan kebutuhan material (Material Requirement
+Planning) yaitu :
+A. Menentukan kebutuhan sumber daya
+B. Menjadwalkan produksi dan pembelian material untuk produk.
+C. Menentukan prioritas berdasarkan batas pemesanan dengan berubahnya sistem.
+D. Sebagai dasar penentuan kebutuhan sumber daya, seperti tenaga kerja, jam mesin, atau energi melalui perhitungan perencanaan kapasitas kasar
+E. Menentukan masukan data sistem perencanaan kebutuhan material
+
+==================================================
+
+Soal 12:
+Yang bukan karakteristik Material Requirement Planning yaitu :
+A. Berorientasi masa depan
+B. Meliputi manajemen waktu, kapan suatu komponen dibutuhkan
+C. Berdasarkan perhitungan dan ekspektasi produksi dan penjualan.
+D. Meliputi perencanaan-perencanaan prioritas, kendala material, dan kapasitas.
+E. Berorientasi produk dengan perhitungan kebutuhan komponen dan perakitan.
+
+==================================================
+
+Soal 13:
+Dibawah ini merupakan prosedur pelaksanaan Perencanaan Kebutuhan Material
+(MRP), kecuali :
+A. Menghitung kebutuhan kotor terhadap persediaan yang diproyeksikan dan jadwal penerimaan material/produk.
+B. Menentukan tindakan-tindakan yang diperlukan untuk pemakai
+C. Menentukan jadwal produksi dan pembelian material untuk produk
+D. Mengkonversikan kebutuhan bersih menjadi jumlah kebutuhan yang direncanakan menggunakan ukuran lot.
+E. Menempatkan rencana order pada periode yang tepat menggunakan penjadwalan ke belakang dari tanggal dibutuhkan dikurangi waktu siklus
+
+==================================================
+
+Soal 14:
+Langkah yang bertujuan agar kebutuhan komponen dapat tersedia tepat pada saat
+dibutuhkan dengan memperhitungkan lead time pengadaan komponen :
+A. Explosion
+B. Netting
+C. Offsetting
+D. Lotting
+E. Convert
+
+==================================================
+
+Soal 15:
+Tujuan dilakukan Lotting dalam proses Material Requirement Planning adalah :
+A. Memenuhi kebutuhan komponen agar dapat tersedia tepat pada saat dibutuhkan
+B. Menentukan kebutuhan sumberdaya dan kapasitas kasar
+C. Menentukan besarnya pesanan individu yang optimal berdasarkan hasil dari perhitungan bersih
+D. Menghitung kebutuhan kotor untuk tingkat item pada level produksi
+E. Menentukan dasar perhitungan ekspektasi produksi dan penjualan
+
+==================================================
+
+Soal 16:
+Penentuan Ukuran Lot dengan jalan membandingkan ongkos part period yang
+ditimbulkan oleh setiap ukuran lot yang akan dilaksanakan :
+A. Output Total Cost
+B. Lot for Lot
+C. Least Total Cost
+D. Part Period Balancing
+E. Least Unit Cost
+
+==================================================
+
+Soal 17:
+Proses yang terputus, karena memproduksi produk-produk yang memiliki spesifikasi
+yang berbeda-beda, sehingga memerlukan waktu set up yang relatif lama disebut :
+A. Intermittent Process
+B. Individual Process
+C. Continous Process
+D. Repetitif Process
+E. Numerous Process
+
+==================================================
+
+Soal 18:
+Penggabungan elemen-elemen operasi kerja yang tujuannya untuk mendapatkan
+rasio delay / idle (menganggur) yang serendah mungkin :
+A. Line Efficiency
+B. Completion
+C. Moving Average
+D. Line Balancing
+E. Assembly
+
+==================================================
+
+Soal 19:
+Ukuran dari ketidakefisienan lintasan yang dihasilkan dari waktu mengganggur
+sebenarnya yang disebabkan karena pengalokasian yang kurang sempurna di antara
+stasiun-stasiun kerja disebut
+A. Indeks kelancaran (Smoothest Indeks)
+B. Keseimbangan Waktu Senggang (Balance Delay)
+C. Efisiensi Stasiun Kerja (Work Station)
+D. Waktu Menganggur (Idle Time)
+E. Efisiensi Lintasan Produksi (Line Efficiency)
+
+==================================================
+
+Soal 20:
+Untuk memperoleh beban kerja yang optimal dalam lintasan produksi, dapat
+dilakukan dengan cara dibawah ini, kecuali :
+A. Penggerakkan operator
+B. Pemecahan elemen kerja
+C. Penetapan target produksi
+D. Perbaikan operasi
+E. Penumpukkan material
+
+==================================================
+
+Soal 21:
+Titik kritis dari lintasan produksi yang memiliki capasitas produksi terkecil, sehingga
+menyebabkan waktu proses yang paling panjang dibanding stasiun kerja lainnya :
+A. Line balancing
+B. Bottle Neck
+C. Delay
+D. Completion
+E. Tardiness
+
+==================================================
+
+Soal 22:
+Masyarakat harus dipersiapkan dengan peningkatan kemampuan dan kompetensinya
+sehingga tidak tertinggal dan tergilas oleh modernisasi dan industrialisasi, hal ini
+merupakan konsep dari
+A. Ethical value model of development concept
+B. Economic development concept
+C. Environment social value
+D. Economic growth and social change model development concept
+E. Growth model development concept
+
+==================================================
+
+Soal 23:
+Penetapan hukum industri selain meningkatkan perekonomian tetapi juga untuk
+mengatur penggunaan sumber daya alam yang optimal tanpa merugikan negara,
+seimbang dan terpadu dengan peningkatan peran serta masyarakat, sesuai dengan
+Undang-undang :
+A. Undang-Undang Nomor 9 Tahun 1984
+B. Undang-Undang Nomor 8 Tahun 1984
+C. Undang-Undang Nomor 5 Tahun 1984
+D. Undang-Undang Nomor 6 Tahun 1984
+E. Undang-Undang Nomor 7 Tahun 1984
+
+==================================================
+
+Soal 24:
+Peran serta masyarakat baik dari swasta dan koperasi dalam bidang industri
+berlandaskan pada demokrasi ekonomi, sesuai dengan undang-undang pemerintah...
+A. pasal 2 UU no 5 tahun 1985
+B. pasal 2 UU no 5 tahun 1984
+C. pasal 2 UU no 5 tahun 1974
+D. pasal 2 UU no 5 tahun 1973
+E. pasal 2 UU no 5 tahun 1972
+
+==================================================
+
+Soal 25:
+Tujuan dari pembangunan industri pembangunan industri yakni untuk meningkatkan
+kemakmuran rakyat, hal ini diatur dalam undang-undang
+A. pasal 2 UU no 5 tahun 1984
+B. pasal 3 UU no 5 tahun 1984
+C. pasal 2 UU no 5 tahun 1983
+D. pasal 4 UU no 5 tahun 1985
+E. pasal 2 UU no 5 tahun 1985
+
+==================================================
+
+Soal 26:
+Peraturan pemerintah tentang standarisasi industri yang meliputi definisi, cara
+mengolah, hingga hasil-hasil industri, tertuang dalam ...
+A. Peraturan Pemerintah Nomor 9 Tahun 1964
+B. Peraturan Pemerintah Nomor 9 Tahun 1968
+C. Peraturan Pemerintah Nomor 9 Tahun 1966
+D. Peraturan Pemerintah Nomor 9 Tahun 1965
+E. Peraturan Pemerintah Nomor 9 Tahun 1967
+
+==================================================
+
+Soal 27:
+Salah satu tujuan diberlakukannya peraturan standarisasi industri adalah untuk :
+A. Melakukan penyeragaman dalam penetapan harga produk
+B. Mempercepat prosedur transaksi didalam perdagangan
+C. Menghindarkan variasi produk dalam bidang industri
+D. Menyeragamkan tingkat produksi antar perusahaan
+E. Mempercepat terjadinya transaksi antar industri
+
+==================================================
+
+Soal 28:
+Salah satu indikator dari telah dicapainya kesejahteraan konsumen adalah dengan
+diakui dan dilindunginya hak-hak konsumen, sebagaimana diatur dalam
+A. pasal 3 UU No.8 Tahun 1999
+B. pasal 5 UU No.8 Tahun 1999
+C. pasal 4 UU No.8 Tahun 1999
+D. pasal 2 UU No.8 Tahun 1999
+E. pasal 6 UU No.8 Tahun 1999
+
+==================================================
+
+Soal 29:
+AMDAL merupakan kajian mengenai dampak besar dan penting pada lingkungan
+hidup, yang dibuat pada tahap perencanaan dan digunakan untuk pengambilan
+keputusan tentang penyelenggaraan suatu usaha dan atau kegiatan, hal ini diatur
+dalam...
+A. PP No.28 tahun 1999
+B. PP No.30 tahun 1999
+C. PP No.27 tahun 1999
+D. PP No.29 tahun 1999
+E. PP No.26 tahun 1999
+
+==================================================
+
+Soal 30:
+Sesuai dengan Pasal 4 Undang-undang Perlindungan Konsumen (UUPK), Hak-hak
+Konsumen adalah sebagai berikut, kecuali
+A. Hak untuk menjual kembali barang dan/atau jasa sesuai dengan nilai tukar dan kondisi serta jaminan yang sama
+B. Hak atas kenyamanan, keamanan dan keselamatan dalam mengkonsumsi barang dan/atau jasa
+C. Hak atas informasi yang benar, jelas dan jujur mengenai kondisi dan jaminan barang dan/atau jasa yang dibeli
+D. Hak untuk mendapat pembinaan dan pendidikan konsumen
+E. Hak untuk memilih barang dan/atau jasa serta mendapatkan barang dan/atau jasa tersebut sesuai dengan nilai tukar dan kondisi serta jaminan yang dijanjikan
+
+==================================================
+
+Soal 31:
+Salah satu ciri dari Resource-based industry yaitu :
+A. Bersifat jangka pendek
+B. Kaku terhadap perubahan
+C. Rawan terhadap kerusakan lingkungan
+D. Memiliki peta persaingan yang luas
+E. Inovasi produk yang cepat dan berkelanjutan
+
+==================================================
+
+Soal 32:
+Faktor-faktor yang berpengaruh dalam menentukan lokasi industri adalah sebagai
+berikut, kecuali :
+A. Modal
+B. Tenaga kerja
+C. Bahan baku
+D. Permintaan
+E. Pemasaran
+
+==================================================
+
+Soal 33:
+Berikut merupakan masalah-masalah pokok pertumbuhan industri di Indonesia,
+kecuali:
+A. Struktur industri hanya didominasi oleh beberapa cabang industri
+B. Terlalu banyaknya kelompok industri kecil yang mendominasi sektor perekonomian.
+C. Keterkaitan antara sektor industri dengan sektor ekonomi lainnya relatif masih lemah.
+D. Ketergantungan yang tinggi terhadap impor baik berupa bahan baku, bahan penolong, barang setengah jadi dan komponen.
+E. Industri masih terpusat di Pulau Jawa.
+
+==================================================
+
+Soal 34:
+Yang BUKAN merupakan visi dan misi dari sektor industri nasional adalah :
+A. Penciptaan lapangan pekerjaan dan pemenuhan kebutuhan masyarakat.
+B. Menjadi pengembang wawasan budaya masyarakat;
+C. Menjadi pengganda kegiatan usaha produktif di sektor riil dan keuangan;
+D. Menjadi salah satu pilar penopang penting bagi pertahanan negara
+E. Menjadi penunjang pertumbuhan ekonomi nasional
+
+==================================================
+
+Soal 35:
+Pembangunan sektor industri mengacu kepada Azas-azas Pembangunan sebagai
+berikut kecuali :
+A. Peningkatan dan pengutamaan kerjasama yang sinergi dengan industri kecil
+B. Optimalisasi pendayagunaan sumber daya nasional
+C. Keberlanjutan pembangunan dan kelestarian lingkungan hidup
+D. Kemitraan ekonomi global dengan pihak asing yang saling menguntungkan
+E. Kompetensi, profesionalisme, dan semangat kompetisi dan pembaruan
+
+==================================================
+
+Soal 36:
+Salah satu dari strategi pokok dalam melakukan pengembangan industri adalah :
+A. Pengembangan kemampuan inovasi teknologi.
+B. Pengembangan dengan pendekatan klaster,
+C. Penetapan prioritas industri dan penyebarannya,
+D. Menumbuh-kembangkan lingkungan bisnis yang nyaman dan kondusif
+E. Menumbuh-kembangkan Industri Kecil dan Menengah.
+
+==================================================
+
+Soal 37:
+Salah satu sasaran pembangunan sektor industri dalam pembangunan jangka panjang
+adalah :
+A. Memberikan sumbangan nyata dalam peningkatan kesejahteraan masyarakat luas secara adil dan merata
+B. Dapat membangun karakter budaya bangsa yang kondusif terhadap proses industrialisasi
+C. Dapat memegang peranan penting dalam pembangunan nasional pada sektor nonmigas
+D. Meningkatkan kegiatan usaha produktif di sektor riil bagi masyarakat
+E. Menciptakan industri yang memiliki daya saing yang berkelanjutan sehingga menjadi industri kelas dunia
+
+==================================================
+
+Soal 38:
+Asean Economic Community bertujuan meningkatkan kerjasama ekonomi ASEAN,
+dan merupakan hasil dari pertemuan yang dilaksanakan di
+A. Indonesia
+B. Brunei
+C. Filipina
+D. Thailand
+E. Malaysia
+
+==================================================
+
+Soal 39:
+Yang bukan kendala dalam menghadapi kerjasama Masyarakat Ekonomi ASEAN
+(MEA) atau ASEAN Economic Community adalah:
+A. Biaya logistik yang masih tinggi bagi industri
+B. Masih kurangnya infrastruktur yang memadai
+C. Kebijakan kenaikan harga BBM bersubsidi
+D. Produk masih kurang memiliki daya saing
+E. Tingkat konsumsi masyarakat yang tinggi
+
+==================================================
+
+Soal 40:
+Berikut ini adalah sifat-sifat khusus dari industri pariwisata kecuali :
+A. Sangat peka terhadap perubahan situasi politik
+B. Produksi dan konsumsi terjadi pada saat yang sama.
+C. Produk nya tidak dapat dipindahkan.
+D. Memiliki resiko yang besar dan rentan terhadap fluktuasi ekonomi
+E. Memiliki standar ukuran yang objektif.
+
+==================================================
+

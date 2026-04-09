@@ -1,0 +1,533 @@
+Soal 1:
+Statistik yang pemanfaatannya ditujukan untuk memenuhi kebutuhan instansi tertentu
+dalam rangka penyelenggaraan tugas-tugas pemerintahan dan pembangunan yang
+merupakan tugas pokok instansi yang bersangkutan disebut .....
+A. Statistik sektoral
+B. Statistik dasar
+C. Sensus
+D. Sistem Statistik Nasional
+E. Statistik khusus
+
+==================================================
+
+Soal 2:
+Tindakan yang meliputi upaya penyediaan dan penyebarluasan data, upaya
+pengembangan ilmu statistik, dan upaya yang mengarah pada berkembangnya Sistem
+Statistik Nasional disebut .....
+A. Kegiatan statistik
+B. Unit Observasi
+C. Survei Statistik
+D. Unit Analisa Statistik
+E. Sensus
+
+==================================================
+
+Soal 3:
+Data yang dinyatakan dalam bentuk kelompok disebut ....
+A. Data Kualitatif
+B. Data Ordinal
+C. Data Interval
+D. Data Nominal
+E. Data Rasio
+
+==================================================
+
+Soal 4:
+Data Kualitatif adalah .....
+A. data yang memiliki jarak yang sama dan dapat dilakukan penghitungan aritmatika serta memiliki nilai nol mutlak.
+B. data yang dinyatakan dalam bentuk bukan angka, data bentuk kalimat, kata. gambar atau bagan.
+C. data yang dinyatakan dalam bentuk kelompok
+D. data yang dinyatakan dalam bentuk angka
+E. data yang dinyatakan dalam bentuk kelompok yang menunjukkan peringkat/urutan/tingkatan tertentu.
+
+==================================================
+
+Soal 5:
+Data yang memiliki jarak yang sama dan bukan hasil pengelompokkan sehingga dapat
+dilakukan penghitungan aritmatika namun tidak memiliki nilai nol mutlak disebut .....
+A. Data Ordinal
+B. Data Rasio
+C. Data Kualitatif
+D. Data Interval
+E. Data Kuantitatif
+
+==================================================
+
+Soal 6:
+Contoh dari data interval yaitu ....
+A. pengukuran suhu udara
+B. pengukuran berat
+C. pengukuran nilai siswa A, B, C dalam suautu kelas
+D. pengukuran tinggi badan
+E. pengukuran data keuangan
+
+==================================================
+
+Soal 7:
+Analisis data yaitu .....
+A. proses mengolah data dan menginterpretasikan hasil data.
+B. kegiatan yang dilakukan secara sitematis, terencana dan mengikuti konsep ilmiah untuk mendapatkan sesuatu yang objektif dan rasional tentang sutu hal.
+C. proses pengolahan data-data statistik
+D. pengujian yang bertujuan untuk mengetahui apakah kesimpulan pada sampel dapat berlaku untuk populasi (dapat digeneralisasikan ke populasi).
+E. Kegiatan menganalisis dan mengamati data-data secara sistematis
+
+==================================================
+
+Soal 8:
+Analisis data yang menekankan pada hubungan antar variabel dengan melakukan
+pengujian hipotesis dan menyimpulkan hasil penelitian dinamakan ......
+A. Analisis parametrik
+B. Analisis independen
+C. Analisis non parametrik
+D. Analisis subjektif
+E. Analisis deskriptif
+
+==================================================
+
+Soal 9:
+Hipotesis yang menyatakan bahwa tidak terdapat hubungan antara variabel yang
+diteliti disebut .....
+A. Hipotesis nol (Ho)
+B. Hipotesis alternatif (Ha)
+C. Uji Hipotesis
+D. Signifikan
+E. Taraf signifikansi (alpha)
+
+==================================================
+
+Soal 10:
+Derajat kebebasan (Degree of Freedom) adalah ......
+A. derajat ketergantungan terhadap peluang munculnya kejadian.
+B. derajat ketergantungan banyaknya observasi dan banyaknya variabel independen yang digunakan untuk menentukan nilai kritis.
+C. derajat ketergantungan pada sampel yang berlaku untuk populasi (dapat digeneralisasikan ke populasi).
+D. derajat ketergantungan terhadap hubungan antara variabel yang diteliti.
+E. derajat ketergantungan besarnya pelauang melakukan kesalahan.
+
+==================================================
+
+Soal 11:
+Yang dimaksud dengan variabel adalah .....
+A. keseluruhan dari objek penelitian.
+B. data yang secara langsung diambil dari objek penelitian oleh peneliti perorangan maupun organisasi.
+C. ciri yang membedakan satu objek penelitian dengan objek penelitian yang lain.
+D. suatu atribut yang akan diteliti dan bervariasi antar satu subjek/objek lainnya.
+E. hasil pengukuran yang bisa memberikan gambaran suatu keadaan.
+
+==================================================
+
+Soal 12:
+Contoh variabel kualitatif Dichotomous adalah ....
+A. jumlah barang
+B. jenis kelamin
+C. pekerjaan
+D. ketebalan pipa
+E. tingkat pendidikan
+
+==================================================
+
+Soal 13:
+Teknik sampling judgment (pertimbangan) dalam pengambilan sampel dan populasi
+termasuk ....
+A. Teknik sampling convenience (seadanya)
+B. Teknik sampling Klasifikasi
+C. Teknik sampling Stratifikasi
+D. Teknik sampling berdasarkan peluang
+E. Teknik sampling tidak berdasarkan peluang
+
+==================================================
+
+Soal 14:
+Penelitian yang dilakukan dalam lingkungan / kondisi tertentu dengan tujuan khusus
+untuk memecahkan masalah yang terjadi disebut .....
+A. Basic Research (penelitian dasar)
+B. ANOVA
+C. Action research
+D. Applied Research
+E. Ambiguos Question
+
+==================================================
+
+Soal 15:
+Behavioral Factor yaitu ......
+A. Perilaku aktual karyawan di tempat erja, seperti keterlambatan, ketekunan, atau berhenti
+B. penelitian yang dilakukan untuk menghasilkan pengetahuan dan memahami fenomena (dalam lingkungan kerja) yang akan menambah kumpulan pengetahuan yang telah ada
+C. estimasi probabilitas mengenai berapa banyak keyakinan yang dapat diberikan pada hasil penelitian
+D. kesalahan (error) yang terjadi dalam data. Bias dapat ditimbulkan oleh peneliti, responden, instrumen penelitian, sampel dan penyebab lainnya
+E. teknik pengambilan sampel dimana setiap unit observasi dalam populasi tidak mempunyai kesempatan yang sama untuk terpilih menjadi sampel
+
+==================================================
+
+Soal 16:
+Penelitian yang dilakukan untuk membuktikan hubungan sebab akibat yang terjadi
+pada variabel yang digunakan dalam penelitian disebut .....
+A. Category Scale
+B. Causal study
+C. Cross-sectional study
+D. Causal analysis
+E. Case Study
+
+==================================================
+
+Soal 17:
+Variabel eksogen atau asing yang dapat mempengaruhi hubungan sebab akibat, tetapi
+pengaruhnya dapat dikontrol melalui proses randomisasi disebut .....
+A. Controlled Variable (variabel kontrol)
+B. continue Variable
+C. Contruct Validity (validitas konstruk)
+D. Diskrit Variable
+E. Content validity (validitas isi)
+
+==================================================
+
+Soal 18:
+Validitas yang terbukti jika skor yang diperoleh oleh dua instrumen yang mengukur
+konsep yang sama, atau mengukur konsep dengan metode berbeda memiliki korelasi
+yang tinggi disebut ......
+A. Chi-Square Test
+B. Convenience Sampling Design
+C. Content validity (validitas isi)
+D. Contruct Validity (validitas konstruk)
+E. Convergent validity (validitas konvergen)
+
+==================================================
+
+Soal 19:
+Pembagian jenis data berdasarkan sifat data itu sendiri terdiri dari ....
+A. Data Rasio dan Data Ordinal
+B. Data Kuantitatif dan Data Kualitatif
+C. Data Diskrit dan Data Kontinyu
+D. Data Primer dan Data Sekunder
+E. Data Internal dan Data Eksternal
+
+==================================================
+
+Soal 20:
+Jenis-jenis data menurut tingkatan pengukuran yaitu .....
+A. Data Primer dan Data Sekunder
+B. Data Rasio dan Data Interval
+C. Data Kuantitatif dan Data Kualitatif
+D. Data Cross Section dan Data Time Series/Berkala
+E. Data Diskrit dan Data Kontinyu
+
+==================================================
+
+Soal 21:
+Undang-undang yang maengatur tentang Statistik adalah .....
+A. Peraturan Pemerintah Pengganti Undang-undang No. 10 tahun 1960
+B. Peraturan Presiden Republik Indonesia Nomor 86 Tahun 2007 Undang-Undang Nomor 10 Tahun 2008
+C. Undang-Undang No.19 Tahun 2008
+D. Undang-Undang Nomor 10 Tahun 2008
+E. Undang-undang No.16/1997
+
+==================================================
+
+Soal 22:
+Dalam kaitannya dengan ilmu statistika, maka dibentuk Sekolah Tinggi Ilmu Statistik.
+Hal ini juga diatur dalam .....
+A. Peraturan Kepala Badan Pusat Statistik Nomor 7 Tahun 2008
+B. Peraturan Presiden Republik Indonesia Nomor 90 Tahun 2007
+C. Peraturan Presiden Republik Indonesia Nomor 86 Tahun 2007
+D. Peraturan Pemerintah No 54 Tahun 2009
+E. Keputusan Presiden Republik Indonesia Nomor 163 Tahun 1998
+
+==================================================
+
+Soal 23:
+Peraturan Presiden Republik Indonesia No.86 Tahun 2007 menjelaskan mengenai .....
+A. Organisasi dan Tata Kerja Badan Pusat Statistik
+B. Sekolah Tinggi Ilmu Statistik
+C. Hukum dan Prinsip Tentang Statistik
+D. Badan Pusat Statistik
+E. Statistik
+
+==================================================
+
+Soal 24:
+Dalam Undang Undang No 16 Tahun 1997 Pasal 3 disebutkan kegiatan statistik
+diarahkan untuk hal berikut kecuali ......
+A. mengumpulkan, pengolahan, penyajian, dan analisis data yang didasarkan pada catatan administrasi yang ada pada pemerintah dan atau masyarakat.
+B. mendukung pembangunan nasional
+C. mengembangkan Sistem Statistik Nasional yang andal, efektif, dan efisien
+D. meningkatkan kesadaran masyarakat akan arti dan kegunaan statistik
+E. mendukung pengembangan ilmu pengetahuan dan teknologi.
+
+==================================================
+
+Soal 25:
+Sesuai perundang-undangan tentang Statistik, maka statistik diselenggarakan melalui
+pengumpulan data yang dilakukan dengan cara berikut kecuali ....
+A. survei
+B. cara lain sesuai dengan perkembangan ilmu pengetahuan dan teknologi
+C. sensus
+D. kompilasi produk administrasi
+E. Pendataan manual
+
+==================================================
+
+Soal 26:
+Fungsi Badan Pusat Statistik sesuai Peraturan Kepala Badan Statistik Nomor 7 tahun
+2008 adalah sebagai berikut kecuali .....
+A. pembinaan dan fasilitasi terhadap kegiatan instansi pemerintah di bidang kegiatan statistik
+B. pengkajian, penyusunan, dan perumusan kebijakan di bidang statistik
+C. penetapan dan penyelenggaraan statistik dasar
+D. penetapan sistem statistik nasional
+E. pengkoordinasian dalam penyusunan laporan BPS
+
+==================================================
+
+Soal 27:
+Yang tidak termasuk susunan organisasi BPS adalah .....
+A. Instansi Vertikal
+B. Deputi Bidang Statistik Sosial
+C. Inspektorat Utama
+D. Deputi Bidang Statistik Produksi
+E. Instansi Horisontal
+
+==================================================
+
+Soal 28:
+Peraturan Kepala Badan Pusat Statistik nomor 1 tahun 2012 memmbahas tentang ....
+A. Jenis dan Tarif atas Jenis Penerimaan Negara Bukan Pajak yang Berlaku pada Badan Pusat Statistik
+B. Persyaratan dan tata cara pengenaan tatrif Rp 0,00 (nol rupiah) terhadap pihak tertentu atas penerimaan negara bukan pajak yang berlaku pada BPS
+C. Organisasi Badan Pusat Statistik
+D. Penerirnaan Negara Bukan Pajak
+E. Jenis dan Penyetoran Penerimaal Negara Bukan Pajak
+
+==================================================
+
+Soal 29:
+Organisasi dan Tata Kerja Perwakilan Badan Pusat Statistik di Daerah ditetapkan
+dalam .....
+A. Peraturan Pemerintah Nomor 54 Tahun 2009
+B. Keputusan Kepala Badan Pusat Statistik Nomor 121 Tahun 2001
+C. Peraturan Presiden Nomor 86 Tahun 2007
+D. Peraturan Pemerintah Nomor 22 Tahun 1997
+E. Peraturan Kepala Badan Pusat Statistik Nomor 7 Tahun 2008
+
+==================================================
+
+Soal 30:
+Undang-undang yang membahas mengenai Pendidikan dan Pelatihan Jabatan
+Pegawai Negeri Sipil di BPS adalah .....
+A. Peraturan Pemerintah Nomor 99 Tahun 2000
+B. Peraturan Pemerintah Nomor 101 Tahun 2000
+C. Peraturan Pemerintah Nomor 9 Tahun 2003
+D. Undang-undang nomor 8 tahun 1974
+E. Peraturan Pemerintah Nomor 16 Tahun 1994
+
+==================================================
+
+Soal 31:
+Salah satu Asosiasi Internasional yang didirikan pada Sidang ke-41 dari ISI pada
+tahun 1977 adalah ....
+A. International Association for Statistical Education (IASE)
+B. International Environmetrics Society (IES)
+C. International Statistical Institute (ISI)
+D. International Chinese Statistical Association (ICSA)
+E. Asosiasi Internasional untuk Statistik Computing (IASC)
+
+==================================================
+
+Soal 32:
+Sebuah asosiasi profesional statistik yang didirikan pada tahun 1885 adalah ....
+A. International Association for Statistical Computing (IASC)
+B. International Association for Statistics Education (IASE)
+C. The International Statistical Institute (ISI)
+D. International Association of Survey Statisticians (IASS)
+E. International Society for Business and Industrial Statistics (ISBIS)
+
+==================================================
+
+Soal 33:
+The International Statistical Institute (ISI) berkantor pusat di ....
+A. Kantor Balai Pusat Statistik di Bandung, Indonesia
+B. Gedung Pusat Statistik Amerika Serikat, USA
+C. Gedung Da Nang, Vietnam
+D. Gedung Statistik Manila, Filipina
+E. Gedung Statistik Belanda di Leidschenveen (Den Haag), Belanda
+
+==================================================
+
+Soal 34:
+Salah satu agen statistik nasional yang berada di Amerika Serikat bernama ....
+A. Office for National Statistics (ONS)
+B. Bureau of Labor Statistics
+C. National Institute of Statistics and Censuses (INDEC)
+D. National Statistical Coordination Board (NSCB)
+E. Central Department of Statistics
+
+==================================================
+
+Soal 35:
+National Institute for Statistics and Economic Studies (INSEE) adalah sebuah agen
+statistik nasional yang terdapat di negara .....
+A. Kolombia
+B. Perancis
+C. Yunani
+D. Jerman
+E. Finlandia
+
+==================================================
+
+Soal 36:
+Lembaga/asosiasi statistik internasional yang didalamnya meliputi pendidikan, ilmu
+pengetahuan dan teknologi, budaya, dan komunikasi bagi lebih dari 200 negara dan
+teritori yaitu .....
+A. PBB - Divisi Statistik
+B. Worldwide statistical sources
+C. OECD - Divisi Statistik
+D. International Association for Official Statistics (IAOS)
+E. UNESCO Institute for Statistics (UIS)
+
+==================================================
+
+Soal 37:
+National Statistical Service of Greece merupakan lembaga statisitik nasional
+negara .....
+A. Italia
+B. Yunani
+C. Denmark
+D. India
+E. Thailand
+
+==================================================
+
+Soal 38:
+Badan statistika nasional di negara Belanda dikenal dengan nama .....
+A. Institut National d'Études Démographiques
+B. Istituto Nazionale di Statistica
+C. Statistisches Bundesamt
+D. Centraal Bureau voor de Statistiek
+E. Instituto Nacional de Estatística
+
+==================================================
+
+Soal 39:
+Badan milik Komisi Eropa yang menyediakan data untuk Uni Eropa serta memajukan
+kerjasama penggunaan metode statistika di negara-negara anggotanya yaitu .....
+A. Institut Statistik UNESCO
+B. OECD
+C. Worldwide statistical sources
+D. Statistical Office of the European Communities (Eurostat)
+E. International Association for Official Statistics (IAOS)
+
+==================================================
+
+Soal 40:
+Menyediakan data makroekonomi yang membantu Bank Sentral Eropa dalam
+membuat kebijakan moneter mata uang Euro merupakan peran dari .....
+A. Institut Statistik UNESCO
+B. Worldwide statistical sources
+C. Statistical Office of the European Communities (Eurostat)
+D. International Association for Official Statistics (IAOS)
+E. National Institute for Statistics and Economic Studies (INSEE)
+
+==================================================
+
+Soal 41:
+Organisasi statistik di Australia yang didirikan tahun 1962, dan bergerak pada bidang
+pembuatan jurnal statistik, pertemuan dengan sesama anggota, dan sebagainya disebut ....
+A. Statistics Australia
+B. Australian Bureau of Statistics (ABS)
+C. The Statistical Society of Australia Inc (SSAI)
+D. National Statistics Australia
+E. Statistical Society of Australia
+
+==================================================
+
+Soal 42:
+Tempat penyelenggaraan berbagai workshop tentang statistik, yang sudah diadakan
+lebih dari 14 tahun, baik di Eropa ataupun di Amerika Serikat yaitu dikenal dengan ....
+A. International Statistic Institute (ISI)
+B. American Statistical Association (ASA)
+C. The International Workshop on Statistical Modelling (IWSM)
+D. The Statistical Society of Australia Inc (SSAI)
+E. Greek Statisticians Worldwide (GRSTATS)
+
+==================================================
+
+Soal 43:
+Berikut ini termasuk asosiasi statistik, lembaga statistik dan biro riset bidang statistik
+di berbagai negara kecuali .....
+A. Biomathematics and Statistics Scotlands (BioSS)
+B. CTI Statistics
+C. Annals of Statistics
+D. Current Index to Statistics
+E. American Society for Quality, Statistics Divisions
+
+==================================================
+
+Soal 44:
+Salah satu permasalahan dasar dalam statistika yaitu ....
+A. permasalahan tentang rata-rata
+B. permasalahan tentang hubungan timbal balik
+C. permasalahan ekonomi suatu negara terkait data-data pokok
+D. permasalahan tentang jumlah nilai data
+E. permasalahan mengenai variabel-variabel data
+
+==================================================
+
+Soal 45:
+Salah satu ciri khusus statistika yaitu bersifat universal, artinya ....
+A. ruang lingkup dan bidang garapan statistik tidaklah sempit, dapat digunakan hampir semua cabang kegiatan hidup manusia
+B. statistika selalu bekerja dengan angka atau bilangan
+C. statistika selalu terbuka terhadap perkembangan dunia global
+D. statistika dalam melaksanakan tugasnya memeerlukan bahan keterangan yang bersifat universal
+E. statistik selalu bekerja menurut objeknya
+
+==================================================
+
+Soal 46:
+Korelasi yang digunakan untuk mengetahui hubungan antara dua variabel data yang
+berskala ordinal yaitu .....
+A. Asosiasi ETA
+B. Koefisien Korelasi Rank Spearman dan Kendall's Tau
+C. Koefisien Kontigency C (Cramer's V)
+D. Korelasi Pearson
+E. Measure of Agreement Cohen's Kappa
+
+==================================================
+
+Soal 47:
+Measure of Agreement Cohen's Kappa adalah ....
+A. Korelasi yang digunakan untuk mengetahui hubungan antara dua variabel data yang berskala ordinal.
+B. Asosiasi yang digunakan untuk mengetahui besarnya hubungan antara variabel data yang berskala nominal dan interval.
+C. Korelasi yang digunakan untuk mengetahui hubungan antara variabel yang berskala nominal.
+D. Korelasi yang digunakan untuk mengukur kesesuaian antara hasil evaluasi dua buah alat ukur ketika alat ukur tersebut digunakan untuk subyek yang sama.
+E. Korelasi yang digunakan untuk mengetahui hubungan antara dua variabel yang berskalan interval.
+
+==================================================
+
+Soal 48:
+Peranan yang harus dijalankan oleh BPS adalah sebagai berikut kecuali .....
+A. Menyediakan kebutuhan data bagi pemerintah dan masyarakat. Data ini didapatkan dari sensus atau survey yang dilakukan sendiri dan juga dari departemen atau lembaga pemerintahan lainnya sebagai data sekunder
+B. Membantu kegiatan statistik di departemen, lembaga pemerintah atau institusi lainnya, dalam membangun sistem perstatistikan nasional.
+C. Mengembangkan dan mempromosikan standar teknik dan metodologi statistik, dan menyediakan pelayanan pada bidang pendidikan dan pelatihan statistik.
+D. menampung aspirasi masyarakat statistik, yang bertugas memberikan saran dan pertimbangan kepada BPS.
+E. Membangun kerjasama dengan institusi internasional dan negara lain untuk kepentingan perkembangan statistik Indonesia.
+
+==================================================
+
+Soal 49:
+Beberapa kesalahan sistematis yang sering terjadi dalam analisis statistik diantaranya
+sebagai berikut kecuali ....
+A. data tidak komparabel
+B. asumsi tidak tepat
+C. sampling tidak tepat
+D. perbandingan dengan variabel data dan metode tidak tepat
+E. Bias atau kesalahan dalam penggunaan analisis statistik berupa penyimpangan
+
+==================================================
+
+Soal 50:
+Permasalahan yang dihadapi dalam meningkatkan kualitas data statistik mencakup
+permasalahan internal maupun eksternal. Adapun yang termasuk contoh permasalahan
+internal yaitu ....
+A. tidak tercapainya target sampel yang disebabkan oleh keengganan untuk dijadikan responden
+B. rendahnya kesadaran responden dalam memberikan informasi dengan jujur
+C. belum terpenuhinya peningkatan kebutuhan ragam data dan informasi statistik wilayah kecil (small area statistics)
+D. terbatasnya SDM statistik yang professional dan kompeten sesuai dengan bidang tugas
+E. kurangnya pemahaman masyarakat tentang tugas pokok dan fungsi BPS
+
+==================================================
+

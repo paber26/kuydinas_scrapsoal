@@ -1,0 +1,920 @@
+Soal 1:
+Berikut manakah yang merupakan standar IEEE untuk wireless LAN (WLAN)?
+A. 802.1
+B. 802.11
+C. 802.15
+D. 802.3
+
+==================================================
+
+Soal 2:
+Berikut manakah yang merupakan standar IEEE untuk Ethernet
+(CSMA/CD)?
+A. 802.20
+B. 802.11
+C. 802.3
+D. 802.15
+
+==================================================
+
+Soal 3:
+Tampilkan rata-rata gaji dari semua karyawan dengan kolom alias "RATA-RATA GAJI" ...
+A. SQL> select on avg(salary) as "RATA - RATA GAJI " from employees
+B. SQL> select avg(salary) as "RATA-RATA GAJI " from employees
+C. SQL> select table avg(salary) as "RATA - RATA GAJI " from employees
+D. SQL> select from table avg(salary) as "RATA - RATA GAJI " from employees
+
+==================================================
+
+Soal 4:
+Berikut manakah yang merupakan tipe seri Android mobile OS?
+A. Fromo
+B. Kitkat
+C. OS X
+D. iOpen
+
+==================================================
+
+Soal 5:
+Untuk mendapatkan nilai record database dengan kondisi dalam range tertentu, maka kita gunakan perintah SQL?
+A. UPDATE
+B. AFTER
+C. IN RANGE
+D. BETWEEN
+
+==================================================
+
+Soal 6:
+Berapakah kecepatan maksimal dari protokol wireless 802.11g?
+A. 54 Mbps
+B. 100 Mbps
+C. 24 Mbps
+D. 11 Mbps
+
+==================================================
+
+Soal 7:
+Untuk menghapus hak akses delete dari user sosa adalah ...
+A. Revoke delete on karyawan from sosa
+B. Revoke delete karyawan from sosa
+C. Revoke delete on karyawan sosa
+D. Revoke delete karyawan from
+
+==================================================
+
+Soal 8:
+Berikut yang bukan merupakan sub unsur dari Implementasi TI Jabatan Fungsional Pranata Komputer adalah?
+A. Penerapan Sistem Komputer
+B. Pemrograman mahir
+C. Pemrograman lanjutan
+D. Pemrograman dasar
+
+==================================================
+
+Soal 9:
+Pada jaringan dengan topologi full mesh, berapakah jumlah koneksi
+yang harus dibuat untuk menghubungkan 5 komputer?
+A. 25
+B. 15
+C. 20
+D. 10
+
+==================================================
+
+Soal 10:
+Kesatuan yang terdiri dari komputer, database, sumber daya manusia, sistem jaringan dan prosedur yang dioperasikan secara terpadu untuk menghasilkan informasi, merupakan pengertian?
+A. Software
+B. Database
+C. Sistem Informasi
+D. Sistem Manajemen
+
+==================================================
+
+Soal 11:
+Berikut yang bukan merupakan komponen dasar dalam sebuah processor adalah?
+A. Register
+B. Internal caches
+C. Jumper
+D. Control unit
+
+==================================================
+
+Soal 12:
+Berikut yang merupakan aturan yang mengatur Sistem Pemerintahan Berbasis Elektronik (SPBE) yaitu?
+A. UU Nomor 11 tahun 2008
+B. UU Nomor 19 Tahun 2016
+C. Peraturan Presiden Nomor 95 Tahun 2018
+D. Peraturan Pemerintah Nomor 82 Tahun 2012
+
+==================================================
+
+Soal 13:
+Tempat penyimpanan data sementara yang sering digunakan ketika
+transmisi data harus mengambil tempat pada kecepatan yang berbeda merupakan pengertian dari?
+A. Buffer
+B. Broadband
+C. Download
+D. Forward
+
+==================================================
+
+Soal 14:
+Berikut merupakan bilangan biner dari alamat IP 19.200.60.6?
+A. 11000000. 11001000.00111100.00000110
+B. 00010011. 11001000.00111100.00000110
+C. 00010011. 11001000.00111100.00001100
+D. 11000000 11001000.00111100.00001100
+
+==================================================
+
+Soal 15:
+Berikut merupakan IP address falid ...
+A. 192.168.13.255
+B. 192.168.256.1
+C. 255.255.255.255
+D. 0.192.256.1
+
+==================================================
+
+Soal 16:
+Pranata Komputer dengan kualifikasi teknis atau penunjang professional yang pelaksanaan tugas dan fungsinya mensyaratkan penguasaan pengetahuan teknis di bidang komputer, yaitu?
+A. Pranata komputer tingkat madya
+B. Pranata komputer tingkat pelaksana
+C. Pranata komputer tingkat ahli
+D. Pranata komputer tingkat terampil
+
+==================================================
+
+Soal 17:
+Untuk memulai editor VI pada LINUX kita dapat mengetikan perintah ...
+A. @>vi namafile.txt
+B. #>vi namafile.txt
+C. *>vi namafile.txt
+D. $>vi namafile.txt
+
+==================================================
+
+Soal 18:
+Perangkat Lunak (Software) yang digunakan untuk mengelola kumpulan atau koleksi data, dimana data tersebut diorganisasikan atau disusun ke dalam suatu model data disebut ...
+A. Field
+B. DBMS
+C. Tabel
+D. Record
+
+==================================================
+
+Soal 19:
+Perintah yang digunakan untuk memanipulasi data adalah ...
+A. Report
+B. Form
+C. Query
+D. Tabel
+
+==================================================
+
+Soal 20:
+Buatlah kolom NIP sebagai primary key pada tabel karyawan ...
+A. SQL> alter table karyawan ad constraint pk_nip primary key (nip)
+B. SQL> alter table karyawan add constraint pk_nip primary key (nip);
+C. SQL> alter table karyawan add constraint pk nip primary key (nip)
+D. SQL> alter table karyawan add constraint pk_nip primary key nip
+
+==================================================
+
+Soal 21:
+Port berapakah yang digunakan oleh Protokol RDP?
+A. 143
+B. 3389
+C. 389
+D. 53
+
+==================================================
+
+Soal 22:
+Ketika anda bekerja dengan suatu program, tidak selamanya program tersebut bekerja dengan baik. Ada kalanya program tersebut tidak berfungsi sebagaimana mestinya, sehingga tidak dapat menerima perintah-perintah dari pemakai. Dalam keadaan ini dikatakan bahwa program itu telah membeku atau biasa kita sebut dengan istilah ...
+A. Hang
+B. Shoutdown
+C. Standby
+D. Restart
+
+==================================================
+
+Soal 23:
+Cara membaca IP Address kelas A, misalnya 113.46.5.6 adalah ...
+A. Network ID = 0 Host ID = 113.46.5.6
+B. Network ID = 113.46.5.6 Host ID = 0
+C. Network ID = 113.46 Host ID = 5.6
+D. Network ID = 113 Host ID = 46.5.6
+
+==================================================
+
+Soal 24:
+Proses menjalankan processor, memori, motherboard, atau video
+card pada tingkatan/konfigurasi yang lebih cepat/lebih tinggi dibandingkan rekomendasi pabrik pembuatan disebut?
+A. Overspeed
+B. Unlocked
+C. Overclocking
+D. Virtual Machine
+
+==================================================
+
+Soal 25:
+Domain Name System (DNS) adalah suatu sistem yang memungkinkan nama suatu host pada jaringan komputer atau internet ditranslasikan menjadi ...
+A. home ID
+B. broadcast address
+C. host ID
+D. IP address
+
+==================================================
+
+Soal 26:
+Isikanlah sebuah recordke dalam tabel barang seperti tampilan berikut: KODE_BARANG NAMA_ BARANG SATUAN_BARANG STOK_BARANG KPR-1 KULKAS BUAH 20
+A. insert barang_values('KPR-01','KULKAS','BUAH','20');
+B. insert into_barang values ('KPR-01','KULKAS','BUAH','20');
+C. insert into barang values ('KPR-01','KULKAS','BUAH','20');
+D. insert into barang values (KPR-01,KULKAS,BUAH,20);
+
+==================================================
+
+Soal 27:
+Berikut yang bukan merupakan OS untuk mobile device?
+A. Windows Phone
+B. Java Micro Edition
+C. Symbian
+D. iOpen
+
+==================================================
+
+Soal 28:
+Metode akses pengiriman dan penerimaan data yang digunakan
+dalam Wireless LAN adalah?
+A. SSID
+B. CSMA/CA
+C. DSSS
+D. CSMA/CD
+
+==================================================
+
+Soal 29:
+Buatlah user baru pada table karyawan dengan user = setya dan password = hoki
+Ketika Anda dapat perintah seperti di atas, bagiaman caranya?
+A. SQL> create user identified by hoki
+B. SQL create user setya identified by hoki
+C. SQL> create user setya by hoki
+D. SQL> create user setya identified by hoki
+
+==================================================
+
+Soal 30:
+Sebuah jalur yang menyediakan jalur koneksi sebesar 64 bit antara processor Intel dan north bridge pada motherboard adalah?
+A. Chipset
+B. DDR RAM
+C. Front Side Bus
+D. Procesor
+
+==================================================
+
+Soal 31:
+Protokol yang digunakan pada saat menjalankan perintah ping ...
+A. Macaddress
+B. VPN
+C. UDP
+D. ICMP
+
+==================================================
+
+Soal 32:
+Sebuah IP address memiliki subnet /25 jika ditulis lengkap subnetnya adalah ...
+A. 255.255.255.128
+B. 255.255.255.0
+C. 255.255.0.0
+D. 255.255.255.192
+
+==================================================
+
+Soal 33:
+Data yang menggambarkan kumpulan karakteristik suatu entitas ...
+A. Field
+B. Database
+C. DBMS
+D. Record
+
+==================================================
+
+Soal 34:
+Berikut ini yang dapat dilakukan situs speedtest.net kecuali ....
+A. Mengukur kecepatan komputer yang digunakan untuk akses internet
+B. Mengukur kecepatan download dan upload
+C. Melihat rata-rata kecepatan akses internet ISP yang digunakan
+D. Membandingkan kecepatan akses ISP yang digunakan dengan kecepatan ISP yang lain
+
+==================================================
+
+Soal 35:
+C7 (16) Bilangan Heksadesimal dikonversikan ke sistem biner mempunyai nilai ...
+A. 11000111(2)
+B. 11001111(2)
+C. 11111000(2)
+D. 11111101(2)
+
+==================================================
+
+Soal 36:
+Virus yang meniru program antivirus dan menampilkan aktivitas layaknya antivirus normal, dan memberikan peringatan-peringatan palsu tentang adanya virus. Tujuannya adalah agar pengguna membeli dan mengaktivasi program antivirus palsu. Virus ini dikategorikan jenis ....
+A. Virus worm
+B. Virus Trojan
+C. Virus Rogue
+D. Virus Spyware
+
+==================================================
+
+Soal 37:
+Setelah diperiksa ketersediaan memori dan scanning antivirus, sistem komputer dinyatakan baik-baik saja, tetapi komputer tiba-tiba sering restart sendiri, yang bisa menjadi penyebab adalah?
+A. Pasta pendingin pada processor sudah kering
+B. Kerusakan pada bootable system yang ada di harddisk
+C. Windows tidak kompatible
+D. Processor tidak kompatible
+
+==================================================
+
+Soal 38:
+Sebuah perusahaan multinasional telah merubah kebijakan akses jaringan dengan cara memperbolehkan karyawan mengakses jaringan perusahaan menggunakan laptop atau smartphone pribadi. Apakah nama trend akses seperti ini?
+A. Bring your own device
+B. OwnDevices
+C. Cloud computing
+D. Teleconference
+
+==================================================
+
+Soal 39:
+Berikut merupakan kemungkinan penyebab utama hasil POST yang menunjukkan DISK BOOT FAILURE, INSERT SYSTEM DISK AND PRESS ENTER?
+A. Kerusakan pada BIOS
+B. Kerusakan pada graphic card
+C. Kerusakan pada harddisk atau sistem pada harddisk hilang
+D. Kerusakan pada RAM yang tidak bisa load
+
+==================================================
+
+Soal 40:
+Tukang bangunan secara tidak sengaja memutuskan salah satu sambungan kabel
+fiber optic yang menghubungkan 2 gedung perkantoran. Meskipun demikian, hanya
+sebentar saja terjadi gangguan, setelahnya layanan jaringan komputer kembali seperti
+biasa. Apakah karektristik yang diterapkan dalam membangun arsitektur jaringan
+seperti skenario di atas?
+A. Integrity
+B. Fault tolerance
+C. Scalability
+D. Quality of Services
+
+==================================================
+
+Soal 41:
+Host ID untuk IP Address kelas C adalah ...
+A. 18 bit terakhir
+B. 24 bit terakhir
+C. 8 bit terakhir
+D. 12 bit terakhir
+
+==================================================
+
+Soal 42:
+Selain standar 802.11, manakah metode komunikasi wireless berikut yang bekerja dalam frekuensi 2,4 GHz?
+A. Cellular
+B. Satelite
+C. Infrared
+D. Blueotooth
+
+==================================================
+
+Soal 43:
+Newgroup dan mailing list mempunyai fungsi yang hampir sama, tetapi yang membedakan adalah ....
+A. mailing list bisa dilihat oleh siapa saja dan berlaku bagi umum
+B. newsgroup lebih cepat pengirimannya dari pada mailing list
+C. mailing list lebih cepat pengirimannya dari pada newgroup
+D. mailing list diperuntukan bagi pelanggan list saja
+
+==================================================
+
+Soal 44:
+Menurut UU ITE Nomor 11 Tahun 2008, Pemanfaatan TI dan transaksi elektronik dilaksanakan
+berdasar atas asas-asas berikut, kecuali ?
+A. Kemudahan
+B. Kepastian hukum
+C. Manfaat
+D. Itikad baik
+
+==================================================
+
+Soal 45:
+Manakah socket CPU Intel berikut yang menggantikan Intel socket H?
+A. LGA 1366
+B. LGA 1155
+C. LGA 775
+D. LGA 1156
+
+==================================================
+
+Soal 46:
+Apakah perintah SQL untuk menampilkan record berikut dari tabel Customers?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_447/soal_46_img1.png)
+A. SELECT CustomerName, City from Customers
+B. SELECT CustomerName && City from Customers;
+C. SELECT CustomerName, City from CustomersName
+D. SELECT from Customers: CustomerName, City
+
+==================================================
+
+Soal 47:
+Apakah nama metode partisi harddisk yang dapat mendukung
+harddisk dengan ukuran hingga 2 TB ke atas pada OS Windows?
+A. FAT32
+B. Master Boot Record (MBR)
+C. NTFS
+D. GUID Partition Table (GPT)
+
+==================================================
+
+Soal 48:
+Instansi Pembina Jabatan Fungsional Pranata Komputer adalah ...
+A. Kementerian Dalam Negeri
+B. Badan Riset & Teknologi
+C. Badan Pusat Statistik
+D. Kementerian Komunikasi & Informatika
+
+==================================================
+
+Soal 49:
+Apakah nama PDU (Protocol Data Unit) untuk layer Transport pada model OSI layers?
+A. Segment
+B. Packet
+C. Frame
+D. Bits
+
+==================================================
+
+Soal 50:
+Virus yang menginfeksi file AUTOXEC Dimana file ini terletak pada directory hardisk dengan kemampuan menginfeksi perangkat eksternal, disebut jenis virus ...
+A. Boot sector virus
+B. Direct action viruses
+C. Overwrite viruses
+D. Macro Virus
+
+==================================================
+
+Soal 51:
+Panjang karakter penanaman suatu file di UNIX umumnya dibatasi hingga ....
+A. 11 karakter
+B. 13 karakter
+C. 14 karakter
+D. 12 karakter
+
+==================================================
+
+Soal 52:
+Id yang terdapat pada setiap perangkat keras disebut sebagai ...
+A. Config address
+B. VPN
+C. IP address
+D. Mac address
+
+==================================================
+
+Soal 53:
+Manakah jenis traffic jaringan berikut yang membutuhkan QoS?
+A. On-line purchasing
+B. Video conferencing
+C. Wiki
+D. Email
+
+==================================================
+
+Soal 54:
+Buatlah kolom email pada tabel pegawai sebagai kolom unique ...
+A. SQL> alter tabel karyawan add constraint uq_email unique (email)
+B. SQL> alter table karyawan add constraint uq_email unique (email)
+C. SQL> alter table karyawan on constraint uq_email unique (email)
+D. SQL> after table karyawan on constraint uq_email unique (email)
+
+==================================================
+
+Soal 55:
+Tanggal dan jam komputer selalu berbeda / tidak sesuai dengan keadaan sekarang setiap komputer dinyalakan kembali. Salah satu hal yang bisa dilakukan untuk menyelesaikan permasalahan tersebut adalah..
+A. Mengganti power supply kompute
+B. Format harddisk
+C. Melakukan update BIOS
+D. Mengganti baterai CMOS
+
+==================================================
+
+Soal 56:
+Sebuah virus menyerang lebih dari sepuluh juta komputer pribadi Windows. Virus mulai menyebar sebagai pesan email yang menyertakan baris subjek "ILOVEYOU" dan memiliki lampiran "LOVE-LETTER-FOR-YOU.txt.vbs". Jika lampiran diklik, virus ini memiliki kemampuan meneruskan ke semua orang di buku alamat korban dan melanjutkan untuk menimpa file dengan sendirinya yang membuat komputer tidak dapat di-boot. Dari kutipan tersebut virus "ILOVEYOU" berjeniskan ...
+A. Virus Rogue
+B. Virus Spyware
+C. Virus Trojan
+D. Virus worm
+
+==================================================
+
+Soal 57:
+Hasil dari penjumlahan bilangan biner 1011(2) + 1101(2) ialah ...
+A. 11001(2)
+B. 11000(2)
+C. 010110(2)
+D. 11100(2)
+
+==================================================
+
+Soal 58:
+Komputer desktop tiba-tiba tidak bisa membaca drive USB Flashdisc. Yang dapat menjadi kemungkinan penyebabnya adalah?
+A. Kerusakan pada system yang ada di harddisk
+B. Kerusakan pada BIOS
+C. OS tidak bisa meload flashdisc
+D. Power supply komputer sudah lemah
+
+==================================================
+
+Soal 59:
+Buatlah barang dengan field kode_barang char(6), nama barang varchar2(25), satuan_barang varchar2(20) dan stok_barang number(4) primary key adalah kode barang ...
+A. create table barang(kode_barang char(6), nama_barang varchar2(25), constraint pk_barang primary key(kode_ barang)
+B. create table barang(kode_barang char(6) nama_barang varchar2(25) satuan_barang varchar2(20) stock_barang number(4) constraint pk_barang primary key(kode_ barang)
+C. create table barang(kode_barang char(6), nama_barang varchar2(25), satuan_barang varchar2(20), stock_barang number(4), constraint pk_barang primary key(kode_ barang)
+D. create table barang(kode_barang char(6), nama_barang varchar2(25), s a t u a n _ b a r a n g varchar2(20),stock_barang number(4), constraint pk_barangprimary key(kode_ barang)
+
+==================================================
+
+Soal 60:
+Tampilkan employee id,last name dan salary untuk karyawan yang mempunyai employee id lebih dari 100 dan salary-nya ditambah 3000 dan urutkan berdasarkan salary-nya ...
+A. SQL>selectfromemployee_ id,last_name,salary+3000 from employees where employee_id>100
+B. SQL> select employee_ id,last_name,salary+3000 from employees where employee_id>100
+C. SQL> select table employee_id,last_name,salary+3000 from employees where employee_id>100
+D. SQL> select on employee_ id,last_name,salary+3000 from employees where employee_id>100
+
+==================================================
+
+Soal 61:
+Apakah yang dimaksud dengan ISP?
+A. Sebuah organisasi yang mengatur individu dan organisasi / perusahaan untuk terkoneksi dengan internet
+B. Sebuah protokol yang mengatur bagaimana komputer berada dalam sebuah jaringan
+C. Sebuah organisasi yang mengembangkan standar pengkabelan dalam jaringan
+D. Sebuah peralatan jaringan untuk menghubungkan beberapa perlatan jaringan lainnya menjadi satu
+
+==================================================
+
+Soal 62:
+Hal yang perlu diperhatikan dalam memilih sistem operasi adalah dibawah ini, kecuali ....
+A. Menyediakan antar muka yang mudah
+B. Mendukung (support) terhadap semua program aplikasi
+C. Kemampuan penyesuaian terhadap hardware atau periferal
+D. Mudah dalam instalasi
+
+==================================================
+
+Soal 63:
+Manakah chipset Intel berikut yang berisi memory dan graphic controller dan berada dalam sebuah unit processor?
+A. HyperThreading
+B. Celeron
+C. Sandy bridge
+D. Platform Controller Hub
+
+==================================================
+
+Soal 64:
+Tampilkan last name dan hire date khusus untuk pegawai yang hire date nya 1993 ...
+A. SQL> select from last_name,hire_date from employees where hire_date like '%93';
+B. SQL> select last_name,hire_date from employees where hire_date like '%93';
+C. SQL> select on last_name,hire_date from employees where hire_date like '%93';
+D. SQL> select table last_name,hire_date from employees where hire_date like '%93';
+
+==================================================
+
+Soal 65:
+Apakah nama protokol TCP/IP yang menggunakan port 80?
+A. HTTP
+B. HTTPS
+C. POP3
+D. TELNET
+
+==================================================
+
+Soal 66:
+Jika kita ingin mengubah struktur tabel maka perintah SQL yang digunakan adalah?
+A. ALTER FIELD
+B. ALTER DATABASE
+C. ALTER RECORD
+D. ALTER TABLE
+
+==================================================
+
+Soal 67:
+Apakah nama komponen pada motherboard yang bekerja bersama
+procesor secara kolektif untuk mengontrol memori, bus pada motherboard, dan beberapa peripheral lainnya?
+A. DDR RAM
+B. Socket
+C. Procesor
+D. Chipset
+
+==================================================
+
+Soal 68:
+Pengguna dapat mengirimkan e-mail, tetapi tidak bisa menerima email. Protokol manakah yang kemungkinan tidak dikonfigurasi dengan baik?
+A. SMTP
+B. SNMP
+C. FTP
+D. POP3
+
+==================================================
+
+Soal 69:
+Perintah SQL untuk mendapatkan record yang memenuhi syarat nilainya cocok dengan kedua tabel yang digabungkan adalah?
+A. LEFT JOIN
+B. RIGHT JOIN
+C. BOTTOM JOIN
+D. INNER JOIN
+
+==================================================
+
+Soal 70:
+Dalam melakukan upaya pencegahan agar perangkat lunak dapat terlindungi hak ciptanya dari pembajakan, maka perusahaan pembuat perangkat lunak melengkapi produknya dengan kode tertentu yang biasa disebut ...
+A. Certificate number
+B. Dial number
+C. Code number
+D. Serial number
+
+==================================================
+
+Soal 71:
+Microsoft Access, Database Oracle adalah salah satu program aplikasi DBMS. Apa singkatan dari DBMS tersebut ...
+A. Database Multiple System
+B. Data Management System
+C. Database
+D. Database Management Supply
+
+==================================================
+
+Soal 72:
+Data dalam Relational Database Mamagement System (RDBMS) disimpan dalam objek database yang disebut dengan?
+A. Column
+B. Row
+C. Tabel
+D. Field
+
+==================================================
+
+Soal 73:
+Peraturan yang mengatur jabatan fungsional terkait pembagian rumpun Jabatan Fungsional PNS yang di dalamnya termasuk rumpun kekomputeran, yaitu?
+A. PerMenPANRB Nomor 41 tahun 2018
+B. PP Nomor 16 Tahun 1994
+C. KepPres Nomor 87 Tahun 1999
+D. UU Nomor 5 Tahun 2014
+
+==================================================
+
+Soal 74:
+Aturan-aturan main yang mengatur komunikasi di antara beberapa komputer didalam sebuah jaringan, termasuk didalamnya petunjuk, cara dan metode mengakses sebuah jaringan, topologi fisik, tipe-tipe kabel dan kecepatan transfer data disebut .....
+A. server
+B. workstation
+C. protocol
+D. topologi
+
+==================================================
+
+Soal 75:
+Manakah penamaan variabel berikut yang salah?
+A. 1
+B. tru3
+C. True
+D. _true
+
+==================================================
+
+Soal 76:
+Berikut manakah yang merupakan fungsi utama dari SSID?
+A. Menjamin komunikasi yang aman antara server dan remote host
+B. Menjamin komunikasi yang aman antara web server dan browser
+C. Sebuah parameter yang digunakan untuk identifikasi sebuah jaringan dan konfigurasi Roneksi wireless
+D. Sebuah jenis password yang digunakan untuk mengamankan koneksi wireless
+
+==================================================
+
+Soal 77:
+Apakah nama perangkat lunak sebagai pengganti standar BIOS yang dapat menjamin secure boot pada saat komputer pertama kali dinyalakan?
+A. Bootable
+B. Socket Programmable
+C. SecureBoot
+D. UEFI
+
+==================================================
+
+Soal 78:
+Tampilkan last name,job id karyawan yang hire date nya antara 20-09-1988 s/d 06-02- 2000 ...
+A. SQL> select last_name,job_ id from employees where hire_date between '28-09- 1988' and '06-02-2000';
+B. SQL> select last_name,job_id to employees where hire_date between '28-09-1988' and '06-02-2000';
+C. SQL> select table from last_name,job_id from employees where hire_date between '28-09-1988' and '06-02-2000';
+D. SQL> select last_name,job_id from table employees where hire_date between '28-09-1988' and '06-02-2000';
+
+==================================================
+
+Soal 79:
+Apakah nama proses dimana mobile device secara rutin mengirimkan posisi fisiknya secara otomatis lewat GPS?
+A. GUI
+B. Geopad
+C. Gestures
+D. Geotracking
+
+==================================================
+
+Soal 80:
+Pada level Quality of Services (QoS) ke berapakah yang didesain untuk menjamin interaksi video dan suara (kurang dari 100 ms latency)?
+A. Level 6
+B. Level 7
+C. Level 4
+D. Level 5
+
+==================================================
+
+Soal 81:
+Manakah jawaban berikut yang merupakan konfirmasi untuk autentikasi yang terkuat/paling aman?
+A. Smart card
+B. Scan retina
+C. Strong password
+D. RSA token
+
+==================================================
+
+Soal 82:
+Berikut yang bukan merupakan unsur jabatan fungsional Pranata Komputer menurut KepMenPAN
+Nomor 32 Tahun 2020 Tentang Jabatan Fungsional Pranata Komputer adalah?
+A. Pengelolaan data
+B. Sistem Informasi dan Multimedia
+C. Tata Kelola dan Tata Laksana Teknologi Informasi
+D. Infrastruktur Teknologi Informasi
+
+==================================================
+
+Soal 83:
+Setiap komputer memiliki sebuah program yang tertanam dalam BIOS untuk melakukan mekanisme diagnosis fungsionalitas hardware dasar saat komputer dinyalakan, yaitu?
+A. TCP
+B. POST
+C. CMOS
+D. DNS
+
+==================================================
+
+Soal 84:
+Perintah dalam UNIX untuk menyalin file adalah ...
+A. $ ls [pilihan] [nama file]
+B. $ cat [nama file]
+C. $ cp [file sumber] [file target]
+D. $ rm [nama file]
+
+==================================================
+
+Soal 85:
+Manakah alamat IP berikut yang tidak bisa digunakan untuk alamat DNS server di Internet?
+A. 18.30.66.254
+B. 172.30.254.200
+C. 11.25.11.33
+D. 155.118.63.11
+
+==================================================
+
+Soal 86:
+Manakah jenis kabel berikut yang bebas dari gangguan elektromagnetik atau radio frequency interference (RFI)?
+A. Kabel fiber optic
+B. Kabel twsited-pair
+C. Kabel broadband coaxial
+D. CSMA/CD
+
+==================================================
+
+Soal 87:
+Tanda "^" pada perintah yang berlaku pada command mode sebagai pengganti tombol ....
+A. Alt
+B. Shit
+C. Ctrl
+D. Fn
+
+==================================================
+
+Soal 88:
+Apakah nama sistem operasi pada mobile device yang didasarkan pada OS Linux?
+A. Android
+B. IOS
+C. Windows Phone
+D. Symbian
+
+==================================================
+
+Soal 89:
+Tampilkan employee id,last name,salary dan salary dikalikan 10% dengan kolom alias "Gaji Baru" yaitu ...
+A. SQL> select employee_id, last_name,salary,salary*0.1 as "Gaji Baru" to employees;
+B. SQL> select employee_id,last_name,salary,salary*0.1 as 'Gaji Baru' from employees;
+C. SQL> select employee_id,last_name,salary,salary*0.1 as "Gaji Baru" on employees;
+D. SQL> select employee_id,last_name,salary,salary*0.1 as "Gaji Baru" from employees;
+
+==================================================
+
+Soal 90:
+Berikut yang bukan merupakan tugas pokok Pranata Komputer adalah?
+A. Merencanakan SI berbasis komputer
+B. Mengurangi si berbasis komputer
+C. Mengembangkan si berbasis komputer
+D. Menganalisis Si berbasis komputer
+
+==================================================
+
+Soal 91:
+Di dalam menginstalasi Sistem Operasi Linux diperlukan minimal 2 partisi yang digunakan, yaitu ...
+A. /root dan /swap
+B. /root dan /home
+C. /home dan /boot
+D. /root dan /boot
+
+==================================================
+
+Soal 92:
+Manakah yang bukan merupakan layer dalam model OSI layers?
+A. Application
+B. Internet
+C. Data Link
+D. Session
+
+==================================================
+
+Soal 93:
+Manakah peralatan network berikut yang bekerja di Layer 3 pada
+model OSI layers?
+A. Router
+B. Hub
+C. Basic Switch
+D. Bridge
+
+==================================================
+
+Soal 94:
+Seorang Pranata Komputer Pelaksana melakukan perekaman data ekspor sebanyak 15000 karakter dalam sehari, melakukan perekaman data impor sebanyak 21000 dokumen dengan menggunakan scanner berkecepatan 2100 dokumen/jam (35 ppm).
+Hal tersebut merupakan kegiatan Pranata Komputer dalam hal?
+A. Melakukan verifikasi perekaman data
+B. Melakukan perekaman data tanpa validasi
+C. Melakukan perekaman data dengan validasi
+D. Melakukan dijitasi data spasial
+
+==================================================
+
+Soal 95:
+Hitunglah jumlah karyawan yang tanggal masuknya antara 20-09-1988 s/d 06-02- 2000 ...
+A. SQL> select from count(last_name) from employees where hire_ date between '20-09-1988' and '06-02-2000';
+B. SQL> select count(last_name) from employees where hire_date between '20-09-1988' and '06-02-2000';
+C. SQL> select to table count(last_name) from employees where hire_date between '20-09-1988' and '06-02-2000';
+D. SQL> select to count(last_name) from employees where hire_date between '20-09-1988' and '06-02-2000';
+
+==================================================
+
+Soal 96:
+Manakah tingkat keamanan tertinggi yang dapat diterapkan saat melakukan konfigurasi keamanan pada wireless router?
+A. WPA (Wi-Fi Protected Access)
+B. 802.11n
+C. WPA2
+D. WEP (Wired Equivalent Privacy)
+
+==================================================
+
+Soal 97:
+Berikut manakah perangkat yang tidak menggunakan iOS?
+A. iTunes
+B. iPod
+C. iPhone
+D. iPad
+
+==================================================
+
+Soal 98:
+Kabel twisted-pair tipe straight dapat menghubungkan perangkat berikut kecuali... ?
+A. Printer ke Switch
+B. PC ke Router
+C. PC ke hub
+D. PC ke switch
+E. Router ke Router
+
+==================================================
+
+Soal 99:
+Yang termasuk Data Definition Language (DDL) adalah...
+A. DELETE
+B. UPDATE
+C. GRANT
+D. CREATE
+E. INSERT
+
+==================================================
+
+Soal 100:
+Yang bukan termasuk Data Control Language (DCL ) adalah ...
+A. ROOLBACK
+B. UPDATE
+C. COMMIT
+D. GRANT
+E. REVOKE
+
+==================================================
+

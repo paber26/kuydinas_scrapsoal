@@ -1,0 +1,416 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nPEDAR = _______",
+        "pilihan": [
+            "Pisah",
+            "Encer",
+            "Getir",
+            "Tajam",
+            "Tandus"
+        ],
+        "jawaban_benar": "Getir",
+        "pembahasan": "Pedar = (1) getir; (2) tengik (tentang rasa dan bau)."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nAGUN =_______",
+        "pilihan": [
+            "Gadai",
+            "Hutang",
+            "Pinjam",
+            "Simpan",
+            "Jual"
+        ],
+        "jawaban_benar": "Gadai",
+        "pembahasan": "Agun = cagar(an); tanggungan; jaminan."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nINGSUT = _______",
+        "pilihan": [
+            "Bergeser",
+            "Keluar",
+            "Jauh",
+            "Perlahan",
+            "Langsung"
+        ],
+        "jawaban_benar": "Bergeser",
+        "pembahasan": "Ingsut = bergeser sedikit."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nINSINUASI > < _______",
+        "pilihan": [
+            "Terang-terangan",
+            "Cacimaki",
+            "Rayuan",
+            "Pujian",
+            "Sapaan"
+        ],
+        "jawaban_benar": "Terang-terangan",
+        "pembahasan": "Insinuasi = tuduhan terselubung, sindiran > < terang-terangan."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nGENERIK > < _______",
+        "pilihan": [
+            "Mahal",
+            "Khusus",
+            "Ampun",
+            "Individu",
+            "Murah"
+        ],
+        "jawaban_benar": "Khusus",
+        "pembahasan": "Generik = umum, lazim >< khusus."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nPUJIAN > < _______",
+        "pilihan": [
+            "Hadiah",
+            "Sanjungan",
+            "Cemoohan",
+            "Cacian",
+            "Apresiasi"
+        ],
+        "jawaban_benar": "Cacian",
+        "pembahasan": "Pujian = pernyataan penghargaan pada sesuatu yang membuatnya keheranan atau takjub; lawannya cacian atau sumpah serapah."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nSINGA : RUSA = ANTISEPTIK : _______",
+        "pilihan": [
+            "Obat",
+            "Hama",
+            "Penyakit",
+            "Kuman",
+            "Kotoran"
+        ],
+        "jawaban_benar": "Kuman",
+        "pembahasan": "Singa membunuh rusa. Antiseptik membunuh kuman."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nPANGGUNG : AKTOR = \t:",
+        "pilihan": [
+            "Perpustakaan : Dosen",
+            "Keamanan : Polisi",
+            "Ring : Petinju",
+            "Musik : Konduktor",
+            "Uang : Mesin"
+        ],
+        "jawaban_benar": "Ring : Petinju",
+        "pembahasan": "Panggung tempat beraksi aktor. Ring tempat beraksi petinju."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nRATA : MULUS=\t:",
+        "pilihan": [
+            "Perahu : Tenggelam",
+            "Jari-Jari : Lingkaran",
+            "Kapak : Pengasah",
+            "Bengkok : Liku",
+            "Terjal : Jurang"
+        ],
+        "jawaban_benar": "Bengkok : Liku",
+        "pembahasan": "Rata = mulus, bengkok = liku"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nKONTRAKTOR : BETON=\t:",
+        "pilihan": [
+            "Pengacara :Hukum",
+            "Sopir : Kendaraan",
+            "Guru : Murid",
+            "Tukang : Kayu",
+            "Penjual : Pedagang"
+        ],
+        "jawaban_benar": "Tukang : Kayu",
+        "pembahasan": "Kontraktor mengolah beton. Tukang mengolah kayu."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nTuan kaya membeli 50 ekor sapi senilai Rp 600.000 per ekor, dan 2 bulan kemudian membeli 25 ekor sapi seharga Rp 560.000 per ekor. Jika tuan kaya menghendaki harga rata-rata sapinya Rp 580.000 per ekor, berapakah harga per ekor yang harus dibayar untuk membeli 25 ekor sapi tambahan?",
+        "pilihan": [
+            "Rp 530.000",
+            "Rp 540.000",
+            "Rp 550.000",
+            "Rp 560.000",
+            "Rp 520.000"
+        ],
+        "jawaban_benar": "Rp 560.000",
+        "pembahasan": "50 × 600.000 = 30.000.000\n25 × 560.000 = 14.000.000\nN = 50 + 25 + 25 = 100,\t\nΧ= (∑total)/100\n580.000=  (∑total)/100  →58.000.000= ∑total\n58.000.000 – 44.000.000 = 14.000 000\n25 × y = 14.000.000\ny = 14.000.000/25 = 560.000"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nHasil panen singkong Pak Sofwan adalah 7,5 ton. Sebanyak 350 kg dijual ke pasar dan 2,5 kuintal dibuat tape. Berapa kg-kah sisa singkong pak Sofwan?",
+        "pilihan": [
+            "6.900 kg",
+            "6.500 kg",
+            "6.950 kg",
+            "6.200 kg",
+            "6.100 kg"
+        ],
+        "jawaban_benar": "6.900 kg",
+        "pembahasan": "(7500 – 350 – 250) kg = 6900 kg"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nPada sebuah pabrik, jumlah produksi rusak pada bulan januari adalah 7% dari seluruh produk yang dihasilkan, dan pada bulan februari adalah 8% dari seluruh produk yang dihasilkan. Jika presentase produk rusak pada kedua bulan tersebut digabungkan adalah 7,8%, berapakah jumlah produk yang dihasilkan pada bulan januari dibandingkan dengan jumlah produk yang dihasilkan pada bulan februari?",
+        "pilihan": [
+            "1/6",
+            "6/5",
+            "1/8",
+            "1/4",
+            "1/3"
+        ],
+        "jawaban_benar": "1/4",
+        "pembahasan": "7/100 x = a , 8/100 y = b\n(a+b)/(x+y) = 7,8/100\n(7/100 x+8/100 y)/(x+y) = 7,8/100\n7x + 8y = 7,8x + 7,8y\n0,8x = 0,2y\nx/y=0,2/0,8=1/4"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nSebuah perusahaan mengurangi jam kerja pegawainya dari 40 jam per minggu menjadi 36 jam per minggu tanpa mengurangi gaji. Jika seorang pegawai tadinya dibayar Rp 90.000 per jam, berapa rupiah gaji per jamnya sekarang?",
+        "pilihan": [
+            "Rp 130.000",
+            "Rp 120.000",
+            "Rp 110.000",
+            "Rp 100.000",
+            "Rp 90.000"
+        ],
+        "jawaban_benar": "Rp 90.000",
+        "pembahasan": "Tanpa mengurangi gaji = Rp 90.000"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nJika x = - (2)8 dan y = (-2)8, manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "x > y",
+            "x = y",
+            "x <y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x = 2y"
+        ],
+        "jawaban_benar": "x = y",
+        "pembahasan": "x = y"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nJika -102x + 17y = 136, maka nilai 66x-11y = ….",
+        "pilihan": [
+            "-88",
+            "-48",
+            "-84"
+        ],
+        "jawaban_benar": "-88",
+        "pembahasan": "-102x +17y = 136\nTiap ruas dikalikan -11/7\n11(6x – y) = 11 (-8)\n66x – 11y = -88"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nBerdasarkan suatu tes, kelas A, B, dan C memperoleh nilai rata-rata berturut 7,2; 7,5; dan 8,0. Jika jumlah siswa A, B, dan C berturut-turut 35 orang, 40 orang, dan 50 orang, maka nilai rata-rata seluruh siswa adalah ....",
+        "pilihan": [
+            "7,560",
+            "7,575",
+            "7,600",
+            "7,628",
+            "7,268"
+        ],
+        "jawaban_benar": "7,600",
+        "pembahasan": "Tabel berikut: n = 35 + 40 + 50 = 125\n\nA\tB\tC\n7,2\t7,5\t8,0\n35\t40\t50\n\n(252+300+400)/125 = 952/125 = 7,6"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSeorang siswa memperoleh nilai 91, 88, 86, dan 78 untuk 4 mata pelajaran. Berapa nilai yang harus diperoleh untuk mata pelajaran kelima agar dia memperoleh nilai rata-rata 85?",
+        "pilihan": [
+            "82"
+        ],
+        "jawaban_benar": "82",
+        "pembahasan": "85 × 5 = 425\n425 – ((91 + 88 + 86 +78)14) = 82"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nSebuah mobil diisi 12 liter bensin. Dengan kecepata rata-rata 48 km/jam, ia bergerak dari kota A ke kota B selama 4 jam (dengan bensin yang tersisa 0,5 liter). Jika dengan kecepatan yang sama, namun di isi dengan bensin sebanyak 37 liter, berapakah waktu yang diperlukan untuk bergerak dari kota A ke kota B?",
+        "pilihan": [
+            "1½jam",
+            "2 jam",
+            "1 ¼jam",
+            "4 jam",
+            "3 jam"
+        ],
+        "jawaban_benar": "4 jam",
+        "pembahasan": "A→B = 4 jam karena masih dengan kecepatan yang sama."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nDodi meninggalkan kota A pada pukul 6:20 dan tiba di kota B pada pukul 11:20. Jika ia mengendarai dengan kecepatan 35 km/jam dan berhenti di jalan selama 1 jam, tentukan jarak dari kota A ke kota B ....",
+        "pilihan": [
+            "150 km",
+            "130 km",
+            "125 km",
+            "140 km",
+            "154 km"
+        ],
+        "jawaban_benar": "140 km",
+        "pembahasan": "6.20 → 11.20 = 5 jam\n5 jam – 1 jam (berhenti) = 4 jam\ns = v × t\ns = 35 km/jam × 4 jam = 140 km"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSebuah sekolah dasar hari pertama tahun ajaran mempunyai 612 murid. Selama tahun ajaran, 31 murid pindah ke sekolah lain. Jika pada akhir tahun ajaran sekolah tersebut mempunyai 654 murid, berapakah murid baru yang masuk selama tahun ajaran?",
+        "pilihan": [
+            "11 orang",
+            "42 orang",
+            "73 orang",
+            "84 orang",
+            "65 orang"
+        ],
+        "jawaban_benar": "73 orang",
+        "pembahasan": "612 – 31 = 581\n654 – 581 = 73"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSekelompok warga ingin menanam pohon palem botol dengan jarak yangsama sepanjang jalan boulevard mulai dari ujung jalan yang satu sampai ke ujung jalan lainnya. Jika panjang jalan tersebut adalah 1560 m, berapa banyak pohon palem yang harus ditanam dengan jarak 12 m?",
+        "pilihan": [
+            "130",
+            "131",
+            "132",
+            "133",
+            "134"
+        ],
+        "jawaban_benar": "130",
+        "pembahasan": "1560 : 12 = 130"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nA  C  C  E  …  …  G  I  I  K",
+        "pilihan": [
+            "E dan G",
+            "G dan H",
+            "H dan I",
+            "G dan J",
+            "E dan J"
+        ],
+        "jawaban_benar": "E dan G",
+        "pembahasan": "A – C – C – E –  E - G – G – I – I – K\nPola: huruf ke-2 dihilangkan, huruf selanjutnya diulang."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n8   12   10   15   12   18  …  …",
+        "pilihan": [
+            "21 dan 18",
+            "18 dan 14",
+            "14 dan 21",
+            "12 dan 14",
+            "18 dan 21"
+        ],
+        "jawaban_benar": "14 dan 21",
+        "pembahasan": "8   12   10   15   12   18   14   21\nAngka yang dicetak tebal masing-masing ditambah 2, angka yang tidak dicetak tebal masing-masing ditambah 3. Jadi, karena letaknya berselang-seling maka jawabannya adalah 12 + 2 = 14 dan 18 + 3 = 21\n\n*angka yang dicetak tebal adalah 8  10  12  14"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nSemua gunung berbatu dan menjulang.\nAnda berada di tempat yang tidak berbatu dan tidak menjulang.",
+        "pilihan": [
+            "Anda berada di gunung berbatu.",
+            "Anda berada di gunung yang tidak menjulang.",
+            "Anda bukan berada di gunung.",
+            "Anda berada di gunung yang tidak berbatu.",
+            "Anda berada di gunung yang tidak berbatu dan tidak menjulang."
+        ],
+        "jawaban_benar": "Anda bukan berada di gunung.",
+        "pembahasan": "Syarat seseorang berada di gunung adalah bahwa tempat itu berbatu dan menjulang. Oleh karena berada di tempat yang tidak  berbatu dan tidak menjulang, maka anda berada di bukan gunung."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nSepatu merah lebih bagus dari sepatu hitam.\nSepatu yang lebih bagus harganya lebih mahal dan banyak dibeli orang.",
+        "pilihan": [
+            "Ada sepatu hitam yang lebih mahal dan lebih banyak dibeli orang.",
+            "Sepatu merah yang tidak lebih bagus dari sepatu hitam harganya murah.",
+            "Sepatu yang lebih banyak dibeli orang belum tentu lebih bagus.",
+            "Sepatu merah lebih banyak dibeli orang walaupun harganya lebih mahal.",
+            "Ada sepatu merah yang harganya lebih mahal tidak banyak dibeli orang."
+        ],
+        "jawaban_benar": "Sepatu merah lebih banyak dibeli orang walaupun harganya lebih mahal.",
+        "pembahasan": "Dapat disimpulkan, sepatu merah lebih banyak dibeli orang walaupun harganya lebih mahal."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nSemua negara berkembang masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi.\nIndonesia adalah negara berkembang.",
+        "pilihan": [
+            "Indonesia tidak bermasalah dengan tingkat pengangguran yang tinggi tapi bermasalah dengan kemiskinan.",
+            "Indonesia bermasalah dengan tingkat kemiskinan yang tinggi tetapi tidak dengan tingkat pengangguran.",
+            "Indonesia tidak bermasalah dengan tingkat pengangguran tetapi dan juga tidak dengan kemiskinan.",
+            "Bisa jadi Indonesia masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi.",
+            "Indonesia masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi."
+        ],
+        "jawaban_benar": "Indonesia masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi.",
+        "pembahasan": "Sesuai hukum silogisme, maka kesimpulannya adalah Indonesia masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nGambar selanjutnya adalah ….",
+        "pilihan": [
+            "Pilihan A.",
+            "Pilihan B.",
+            "Pilihan C.",
+            "Pilihan D.",
+            "Pilihan E."
+        ],
+        "jawaban_benar": "Pilihan C.",
+        "pembahasan": "A = kanan – atas – kiri – bawah\nB = bawah – kanan – atas – kiri\nC = kiri – kanan bawah – kiri atas – kanan\nD = kanan – kiri bawah – kanan atas bawah\nE = kanan – atas – bawah – kanan bawah"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nGambar selanjutnya adalah …..",
+        "pilihan": [
+            "Pilihan A.",
+            "Pilihan B.",
+            "Pilihan C.",
+            "Pilihan D.",
+            "Pilihan E."
+        ],
+        "jawaban_benar": "Pilihan B.",
+        "pembahasan": "Didalam bangun terdapat dua arsiran, yaitu arsiran dalam (berbentuk segitiga dalam bagian bujur sangkar) dan arsiran luar (berbentuk X lingkaran). Arsiran dalam pada bujur sangkar berputar searah jarum jam setiap tahapnya. Sementara itu, arsiran luar berputar berlawanan dengan arah jarum jam setiap tahapnya."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nGambar selanjutnya adalah …",
+        "pilihan": [
+            "Pilihan A.",
+            "Pilihan B.",
+            "Pilihan C.",
+            "Pilihan D.",
+            "Pilihan E."
+        ],
+        "jawaban_benar": "Pilihan C.",
+        "pembahasan": "Masing-masing gambar berputar searah jarum jam dengan sudut rata-rata 45 derajat. Gambar tersebut kemudian ditambah symbol garis yang ujungnya terdapat lingkaran pada setiap pergerakannya."
+    }
+]

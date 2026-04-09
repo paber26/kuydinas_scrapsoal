@@ -1,0 +1,434 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nSabun : Cuci : Badan = Odol : Gosok : ...",
+        "pilihan": [
+            "Gigi",
+            "Bibir",
+            "Mulut",
+            "Sikat",
+            "Tangan"
+        ],
+        "jawaban_benar": "Gigi",
+        "pembahasan": "Sabun digunakan untuk mencuci badan sebagaimana odol digunakan untuk menggosok gigi."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nRedup : Cahaya : Lampu = ... : ... : ...",
+        "pilihan": [
+            "Hampa : Suara : Mic",
+            "Diam : Suara : Mic",
+            "Lirih : Suara : Mic",
+            "Asin : Garam : Laut",
+            "Manis : Gula : Enak"
+        ],
+        "jawaban_benar": "Lirih : Suara : Mic",
+        "pembahasan": "Redup karena hanya ada sedikit cahaya yang bersumber dari lampu sebagaimana lirih karena hanya ada sedikit suara yang bersumber dari mic."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nSemua delegasi dalam suatu pertemuan internasional memiliki kemampuan komunikasi yang baik.\nSebagian delegasi dalam suatu pertemuan internasional memiliki rasa percaya diri yang tinggi.",
+        "pilihan": [
+            "Semua delegasi dalam suatu pertemuan internasional memiliki rasa percaya diri yang tinggi",
+            "Sebagian delegasi dalam suatu pertemuan internasional memiliki rasa percaya diri yang tinggi, namun tidak memiliki kemampuan komunikasi yang baik",
+            "Semua delegasi dalam suatu pertemuan internasional memiliki rasa percaya diri yang tinggi, namun tidak memiliki kemampuan komunikasi yang baik",
+            "Sebagian delegasi dalam suatu pertemuan internasional memiliki rasa percaya diri yang tinggi, dan memiliki kemampuan komunikasi yang baik",
+            "Sebagian delegasi dalam suatu pertemuan internasional yang memiliki kemampuan komunikasi yang tidak baik, memiliki rasa percaya diri yang tinggi"
+        ],
+        "jawaban_benar": "Sebagian delegasi dalam suatu pertemuan internasional memiliki rasa percaya diri yang tinggi, dan memiliki kemampuan komunikasi yang baik",
+        "pembahasan": "Tipe soal SS (P1: semua, P2: sebagian), maka jawabannya diawali dengan kata sebagian.\nP1: Semua delegasi dalam suatu pertemuan internasional memiliki kemampuan komunikasi yang baik\nP2: Sebagian delegasi dalam suatu pertemuan internasional memiliki rasa percaya diri yang tinggi\nK: Sebagian delegasi dalam suatu pertemuan internasional memiliki rasa percaya diri yang tinggi dan memiliki kemampuan komunikasi yang baik"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nJika berpergian ke Timbuktu maka harus datang ke Patena.\nJika datang ke Patena maka harus melalui jembatan Torosi.",
+        "pilihan": [
+            "Sebagian yang datang ke Patena melalui jembatan Torosi",
+            "Sebagian yang pergi ke Timbuktu melalui jembatan Torosi",
+            "Semua yang melalui jembatan Torosi tentu bepergian ke Timbuktu",
+            "Semua yang bepergian ke Timbuktu harus melalui jembatan Torosi",
+            "Semua yang tidak bepergian ke Timbuktu tidak melalui jembatan Torosi"
+        ],
+        "jawaban_benar": "Semua yang bepergian ke Timbuktu harus melalui jembatan Torosi",
+        "pembahasan": "Tipe soal silogisme\nP1: p → q\nP2: q → r\nK: p → r\nKesimpulannya, semua yang bepergian ke Timbuktu harus melalui jembatan Torosi."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nTeks untuk menjawab soal nomor 35 - 37.\nSanti adalah penjual kupat tahu. Sebelum berjualan, Iya akan mempersiapkan segala keperluannya sendiri. Iya akan menggoreng bawang sebelum menyiapkan kecambah. Menanak ketupat adalah hal yang ia lakukan sebelum melakukan persiapan lainnya karena membutuhkan waktu yang lama.\nMembuat kecap juga membutuhkan waktu lama, sehingga Santi akan melakukannya sebelum menyiapkan tahu dan menggoreng bawang. Karena kecambah tidak dapat bertahan lama, maka ia akan menyiapkannya tepat setelah ia menyiapkan tahu. Menyiapkan bumbu akan ia lakukan tepat setelah menggoreng bawang. Setiap hari ia menyiapkan dengan urutan yang sama.\nUrutan kedua yang akan dilakukan untuk persiapan berjualan kupat tahu adalah ...",
+        "pilihan": [
+            "Menggoreng bawang",
+            "Membuat kecap",
+            "Menyiapkan bumbu",
+            "Menyiapkan tahu",
+            "Menyiapkan kecambah"
+        ],
+        "jawaban_benar": "Membuat kecap",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_5_pemb_img1.png]\nUrutannya adalah:\nMenanak ketupat, membuat kecap, menggoreng bawang, menyiapkan bumbu, menyiapkan tahu, menyiapkan kecambah.\nJadi urutan kedua yang akan Santi lakukan untuk persiapan berjualan kupat tahu adalah membuat kecap."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nTeks untuk menjawab soal nomor 35 - 37.\nSanti\n adalah penjual kupat tahu. Sebelum berjualan, Iya akan mempersiapkan \nsegala keperluannya sendiri. Iya akan menggoreng bawang sebelum \nmenyiapkan kecambah. Menanak ketupat adalah hal yang ia lakukan sebelum \nmelakukan persiapan lainnya karena membutuhkan waktu yang lama.\nMembuat\n kecap juga membutuhkan waktu lama, sehingga Santi akan melakukannya \nsebelum menyiapkan tahu dan menggoreng bawang. Karena kecambah tidak \ndapat bertahan lama, maka ia akan menyiapkannya tepat setelah ia \nmenyiapkan tahu. Menyiapkan bumbu akan ia lakukan tepat setelah \nmenggoreng bawang. Setiap hari ia menyiapkan dengan urutan yang sama.\nSekarang Santi sedang menggoreng bawang. Artinya Ia baru saja selesai ...",
+        "pilihan": [
+            "Menanak ketupat",
+            "Menyiapkan bumbu",
+            "Membuat kecap",
+            "Menyiapkan tahu",
+            "Menyiapkan kecambah"
+        ],
+        "jawaban_benar": "Membuat kecap",
+        "pembahasan": "Dari pembahasan soal nomor 35, jika sekarang Santi sedang menggoreng bawang, artinya Ia baru saja selesai membuat kecap."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nTeks untuk menjawab soal nomor 35 - 37.\nSanti\n adalah penjual kupat tahu. Sebelum berjualan, Iya akan mempersiapkan \nsegala keperluannya sendiri. Iya akan menggoreng bawang sebelum \nmenyiapkan kecambah. Menanak ketupat adalah hal yang ia lakukan sebelum \nmelakukan persiapan lainnya karena membutuhkan waktu yang lama.\nMembuat\n kecap juga membutuhkan waktu lama, sehingga Santi akan melakukannya \nsebelum menyiapkan tahu dan menggoreng bawang. Karena kecambah tidak \ndapat bertahan lama, maka ia akan menyiapkannya tepat setelah ia \nmenyiapkan tahu. Menyiapkan bumbu akan ia lakukan tepat setelah \nmenggoreng bawang. Setiap hari ia menyiapkan dengan urutan yang sama.\nKegiatan yang tidak mungkin dilakukan Santi sebelum menyiapkan tahu adalah ...",
+        "pilihan": [
+            "Menanak ketupat",
+            "Membuat kecap",
+            "Menggoreng bawang",
+            "Menyiapkan bumbu",
+            "Menyiapkan kecambah"
+        ],
+        "jawaban_benar": "Menyiapkan kecambah",
+        "pembahasan": "Dari pembahasan soal nomor 35, kegiatan yang tidak mungkin dilakukan Santi sebelum menyiapkan tahu adalah menyiapkan kecambah."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nSuatu grafik fungsi kuadrat f(x) = ax\n2\n+ bx + c memiliki titik puncak (5,-3) yang memotong sumbu x positif dan sumbu x negatif sehingga ...",
+        "pilihan": [
+            "a + c > 0",
+            "a - c > 0",
+            "a - c < 0",
+            "a + c < 0",
+            "a + c = 0"
+        ],
+        "jawaban_benar": "a - c > 0",
+        "pembahasan": "Jika Anda menemukan soal serupa dengan di atas maka berlaku:\nx1 > 0\nx1 < 0\nx1.x2 < 0\nc/a < 0\nSehingga, a > 0 (karena titik puncak di (5,-3) → kuadran IV dan memotong sumbu x) sedangkan c < 0, jadi berlaku a-c > 0"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nPerbandingan tinggi Rahmat dan Boni adalah 2 : 3. Jumlah tinggi keduanya adalah 315 cm. Tinggi Rahmat adalah ...",
+        "pilihan": [
+            "189 cm",
+            "130 cm",
+            "147 cm",
+            "150 cm",
+            "163 cm"
+        ],
+        "jawaban_benar": "189 cm",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_9_pemb_img1.png]\nMaka, pilihan jawaban yang benar adalah A."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nUkuran sebuah rumah dalam suatu peta berskala adalah panjang 14 cm dan lebar 8 cm. Apabila peta tersebut memiliki skala 1 : 120 Maka luas sebenarnya dari rumah tersebut adalah ...",
+        "pilihan": [
+            "126 m2",
+            "1,344 m2",
+            "134,4 m2",
+            "1,26 m2",
+            "0,126 m2"
+        ],
+        "jawaban_benar": "1,344 m2",
+        "pembahasan": "Skala = Luas pada gambar / Luas sebenarnya\n1 / 120 = (14 x 8) / Luas sebenarnya\n1 / 120 = 112 / Luas sebenarnya\nLuas sebenarnya = 112 x 120\nLuas sebenarnya = 13.440 cm\n2\nLuas sebenarnya = 1,344 m\n2\n(perbandingan cm\n2\nke m\n2\nadalah 10.000 : 1)"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nDua buah kubus dimana kubus pertama memiliki panjang sisi x. Kubus kedua memiliki panjang sisi 4 kali lebih panjang daripada kubus pertama. Perbandingan luas permukaan kubus pertama dan kedua adalah ...",
+        "pilihan": [
+            "1 : 3",
+            "1 : 4",
+            "2 : 3",
+            "3 : 16",
+            "1 : 16"
+        ],
+        "jawaban_benar": "1 : 16",
+        "pembahasan": "S1 =x\nS2 = 4x\nPerbandingan luas permukaan kubus pertama dan kedua:\nL1/L2 = S1\n2\n/S2\n2\n= x\n2\n/(4x)\n2\n= x\n2\n/16x\n2\n=1/16"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nUntuk membuat 2 buah lemari baju dibutuhkan 6 m\n2\ntriplek. Jika ada 123 m\n2\ntriplek dapat dibuat lemari sebanyak ...",
+        "pilihan": [
+            "41"
+        ],
+        "jawaban_benar": "41",
+        "pembahasan": "Diketahui:\nBanyak lemari: a = 2 buah\nTriplek: ta = 6 m\n2\nTriplek: tb = 123 m\n2\nDitanya:\nBanyak lemari: b = ...?\nJawab:\n(2 x 123) / 6 = 41\nJadi banyak lemari yang dapat dibuat adalah 41 buah."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nPerhatikan tabel berikut!\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_13_img1.png]\nMedian data di atas adalah ...",
+        "pilihan": [
+            "8,5",
+            "7,5",
+            "7",
+            "6,5"
+        ],
+        "jawaban_benar": "7",
+        "pembahasan": "Median adalah data tengah setelah data diurutkan.\nUntuk menentukan median, maka langkah pertama adalah menentukan frekuensi totalnya sebagai berikut:\nΣf = 2 + 5 + 5 + 6 + 6 + 9 + 5 + 1 = 39\nUntuk data ganjil, maka letak median dapat ditentukan sebagai berikut:\nMe = (Σf + 1)/2 = (39 + 1)/2 = 20\nMedian terletak di data ke-20, yaitu 7."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nDiagram batang di bawah menunjukkan nilai ulangan matematika yang diperoleh 23 anak pada suatu kelas. Banyak siswa yang memperoleh nilai lebih dari 6 adalah ...\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_14_img1.png]",
+        "pilihan": [
+            "21"
+        ],
+        "jawaban_benar": "21",
+        "pembahasan": "Dari diagram di atas dapat diketahui nilai yang lebih dari 6 adalah 7, 8, 9, dan 10.\nJumlah siswa yang mendapat nilai 7 adalah 5 anak.\nSiswa yang mendapat nilai 8 berjumlah 6 anak.\nSiswa yang mendapat nilai 9 berjumlah 7 anak.\nJumlah siswa yang mendapat nilai 10 adalah 3 anak.\nSehingga banyak siswa yang mendapatkan nilai lebih dari 6 adalah:\n5 + 6 + 7 + 3 = 21 anak."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nData banyak pelajar di suatu Kelurahan beserta tingkat pendidikannya disajikan dalam diagram lingkaran berikut.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_15_img1.png]\nJika banyak pelajar seluruhnya 10.800 orang banyak pelajar dengan tingkat pendidikan SMP adalah ...",
+        "pilihan": [
+            "4.200 orang",
+            "3.600 orang",
+            "2.400 orang",
+            "2.100 orang",
+            "1.050 orang"
+        ],
+        "jawaban_benar": "2.100 orang",
+        "pembahasan": "Jumlah pelajar total: n = 10.800\nUntuk menentukan banyak pelajar dengan tingkat pendidikan SMP maka langkah pertama kita harus menentukan besar sudut untuk jenjang SMP.\nSMP = 360º - 40º - 42º - 36º - 32º - 84º - 56º = 70º\nSelanjutnya menentukan jumlah pelajar dengan jenjang pendidikan SMP adalah sebagai berikut:\nn = 70º/360º x 10.800 = 2.100\nJadi, dari perhitungan dapat disimpulkan bahwa banyak pelajar dengan jenjang pendidikan SMP adalah 2.100 anak."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nPak Budiman mengendarai motornya dari kota A ke kota B dengan kecepatan 70 km/jam. Sedangkan Anju mengendarai motornya dari kota B ke kota A dengan kecepatan 80 km/jam. Jika jarak kedua kota adalah 150 km dan keduanya berangkat bersamaan pukul 06.00, maka keduanya akan bertemu pada pukul ...",
+        "pilihan": [
+            "06.30",
+            "07.00",
+            "07.20",
+            "07.30",
+            "08.00"
+        ],
+        "jawaban_benar": "07.00",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_16_pemb_img1.png]"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nNilai yang setara dengan 72 km/jam adalah ... m/menit",
+        "pilihan": [
+            "2.400",
+            "1.200",
+            "240",
+            "180",
+            "120"
+        ],
+        "jawaban_benar": "1.200",
+        "pembahasan": "72 km/1jam = 72.000m/60menit\n= 1.200 m/menit"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nToni naik bus BABLAS dari sebuah halte menuju Magelang. Jika berangkat pukul 07.23 dan tiba pukul jam 08.13. Jika jarak halte ke Magelang adalah 75 km maka kecepatan bus tersebut adalah ...",
+        "pilihan": [
+            "87 km/jam",
+            "89 km/jam",
+            "90 km/jam",
+            "95 km/jam",
+            "102 km/jam"
+        ],
+        "jawaban_benar": "90 km/jam",
+        "pembahasan": "Berangkat = 07.23\nTiba = 08.13 = 07.73\nWaktu perjalanan:\n07.73\n07.23 -\n=00.50\nJadi waktu perjalanannya = 50 menit.\nJarak = 75 km\nKecepatan = jarak/waktu\n= 75 km/ 50 menit\n= 75 km/ (50 x (1/60) jam)\n= 75 x 6/5 km/jam\n= 90 km/jam"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nHasil dari 54 x 512 : 32 adalah ...",
+        "pilihan": [
+            "864",
+            "924",
+            "1.374",
+            "1.554",
+            "1.884"
+        ],
+        "jawaban_benar": "864",
+        "pembahasan": "= 54 x (512 : 32)\n= 54 x 16\n= 864"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nHasil dari 27 + 9 x (-8) = ...",
+        "pilihan": [
+            "288",
+            "-45",
+            "-77",
+            "-99",
+            "-288"
+        ],
+        "jawaban_benar": "-45",
+        "pembahasan": "Untuk menentukan hasil perkalian dan penjumlahan, maka proses perkalian harus dikerjakan terlebih dahulu, sehingga hasil operasi di atas dapat ditentukan sebagai berikut:\n= 27 + (9 x (-8))\n= 27 + (-72)\n= -45"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\n49, 46, 53, ..., 57, 54, ...",
+        "pilihan": [
+            "50 dan 54",
+            "50 dan 56",
+            "50 dan 66",
+            "55 dan 65",
+            "50 dan 61"
+        ],
+        "jawaban_benar": "50 dan 61",
+        "pembahasan": "[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_21_pemb_img1.png]"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\n9, 6, 1, -6, ..., -26",
+        "pilihan": [
+            "-11",
+            "-15",
+            "-16",
+            "-20"
+        ],
+        "jawaban_benar": "-15",
+        "pembahasan": "Pola yang digunakan adalah:\nUn = 10 - n\n2\nSuku kelimanya:\nUn = 10 - n\n2\nU5 = 10 - 5\n2\nU5 = 10 - 25\nU5 = -15"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nF, ..., H, J, J, L, L",
+        "pilihan": [
+            "H"
+        ],
+        "jawaban_benar": "H",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nDiketahui 16x - 9 = 14x - 5, maka nilai x adalah ...",
+        "pilihan": [
+            "2"
+        ],
+        "jawaban_benar": "2",
+        "pembahasan": "16x - 9 = 14x - 5\n16x - 14x = - 5 + 9\n2x = 4\nx = 4/2\nx = 2"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nNilai kuadrat dari solusi persamaan 4x - 9 = 7 adalah ...",
+        "pilihan": [
+            "-16",
+            "-13",
+            "16"
+        ],
+        "jawaban_benar": "16",
+        "pembahasan": "4x - 9 = 7\n4x = 7 + 9\n4x = 16\nx = 16/4\nx = 4\nx\n2\n= 4\n2\nx\n2\n= 16"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nNilai maksimum x bilangan bulat yang memenuhi x - 9 < 8 adalah ...",
+        "pilihan": [
+            "-17",
+            "-16",
+            "16"
+        ],
+        "jawaban_benar": "16",
+        "pembahasan": "x - 9 < 8\nx < 8 + 9\nx < 17\nJadi nilai maksimum x bilangan bulat adalah 16."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_27_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_27_img2.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Warna gambar dibalik (hitam ke putih dan putih ke hitam) lalu ditambahkan garis diagonal untuk menghubungkan ujung-ujung bangun."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_28_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_28_img2.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Gambar berotasi 90 derajat berlawanan arah jarum jam."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nTentukan hubungan yang sesuai antara gambar 3 dan 4 dengan memilih gambar yang sesuai.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_29_img1.png]\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_29_img2.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Gambar dikelilingi sebuah gambar baru dengan jumlah sisi yang bertambah satu, sedemikian rupa sehingga ujung bagian atas dari kedua gambar tersebut bersinggungan."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar lainnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_30_img1.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Hanya pada gambar C jumlah daun di ujung atas gambar tidak sama dengan jumlah daun di ujung bawah gambar."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar lainnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_31_img1.png]",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Hanya pada gambar E, kepala panah di sepanjang keliling lingkaran mengindikasikan gerakan di arah yang berlawanan dengan arah jarum jam."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nTentukan satu gambar yang berbeda dengan keempat gambar lainnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_32_img1.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Pada masing-masing gambar kecuali gambar D elemen tengah memiliki dua simbol serupa di sisi kiri dan hanya satu simbol di sisi kanan."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_33_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Di satu langkah, elemen di tengah berotasi 180 derajat dan di langkah berikutnya, dua elemen yang lain berotasi 180 derajat. Kedua langkah ini diulang secara bergantian."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_34_img1.png]",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Elemen besar berbentuk ‘T’ berotasi 90 derajat searah jarum jam pada setiap tahap. 2 simbol kecil bertukar posisi dan simbol yang sampai di posisi atas digantikan dengan simbol yang baru."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nTentukan gambar yang tepat untuk melanjutkan rangkaian pada gambar sebelumnya.\n[GAMBAR: d:\\KuyDinas2026\\masukkansoal\\data\\pembahasan\\hasil_pembahasan_modul_394\\gambar\\soal_35_img1.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Pada satu tahap, elemen-elemen di dua bagian yang berseberangan di kotak di balik secara vertikal dan bertukar posisi, sementara elemen ketiga bergerak ke bagian yang berseberangan dan digantikan dengan elemen yang baru. Pada tahap berikutnya, semua elemen bergerak satu langkah berlawanan arah jarum jam dan elemen di sudut yang berlawanan arah dengan jarum jam digantikan dengan elemen yang baru."
+    }
+]

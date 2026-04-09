@@ -1,0 +1,632 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nSaya adalah seorang staf administrasi di BPJS Ketenagakerjaan. Seorang pemilik usaha mikro datang untuk mendaftarkan diri untuk mendapatkan dana bantuan BLT UMKM, namun ia tidak membawa persyaratan administrasi yang dibutuhkan. Maka ...",
+        "pilihan": [
+            "Saya memintanya kembali dengan membawa persyaratan yang lengkap\n(Nilai 5)",
+            "Saya menjelaskan secara rinci persyaratan yang harus dibawa\n(Nilai 4)",
+            "Saya menolak memberikan pelayanan dan menjelaskan alasannya\n(Nilai 3)",
+            "Saya menolak memberikan pelayanan dengan mantap\n(Nilai 2)",
+            "Saya langsung memberikan pelayanan kepadanya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nSeorang konsumen menyampaikan keluhannya setelah berbelanja online di toko Anda. Barang yang dikirim tidak sesuai dengan permintaan awalnya, maka sikap Anda ...",
+        "pilihan": [
+            "Meminta maaf dan mengganti barang sesuai dengan yang disepakati\n(Nilai 5)",
+            "Meminta maaf atas keteledoran tersebut\n(Nilai 4)",
+            "Meminta permakluman karena banyaknya konsumen yang harus dilayani\n(Nilai 3)",
+            "Menjelaskan penyebab terjadinya kesalahan pengiriman tersebut\n(Nilai 2)",
+            "Mengatakan bahwa kesalahan tersebut tidak ditanggung seller\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nSeorang tamu merasa sangat puas dengan pelayanan yang Anda berikan sebagai staf hotel selama ia menginap. Ia memberikan bingkisan kepada Anda sebagai ungkapan terima kasih. Padahal peraturan hotel tidak memperbolehkan hal tersebut. Maka ...",
+        "pilihan": [
+            "Saya menolaknya dengan halus dan memberitahukan tentang peraturan hotel\n(Nilai 5)",
+            "Saya menolaknya karena menyalahi aturan\n(Nilai 4)",
+            "Saya menerimanya di luar hotel karena tidak lagi terikat aturan tersebut\n(Nilai 3)",
+            "Saya menghargai pemberiannya dengan menerimanya\n(Nilai 2)",
+            "Saya menerimanya dan membaginya kepada staf yang lain\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nAnda adalah seorang staf medis di suatu klinik swasta. Suatu hari, datang seorang pasien yang ingin memeriksakan kesehatannya. Setelah menanyakan dan melihat gejala fisik yang muncul pada pasien tersebut, Anda kemudian menanyakan kepadanya perihal riwayat perjalanan keluar negeri. Ternyata pasien tersebut baru saja tiba dari luar negeri beberapa hari lalu. Mengetahui hal tersebut, Anda pun menganjurkannya untuk melakukan serangkaian tes, salah satunya cek darah. Namun saat itu, pasien tersebut menolaknya. Maka Anda ...",
+        "pilihan": [
+            "Menjelaskan dan meyakinkan pasien bahwa cek darah dilakukan untuk mengetahui kondisi kesehatan secara keseluruhan dan memastikan apakah ada indikasi infeksi atau radang di saluran pernafasan\n(Nilai 5)",
+            "Melibatkan keluarga pasien untuk membujuknya agar bersedia cek darah sebagai rangkaian awal tes kesehatan\n(Nilai 4)",
+            "Mengatakan bahwa pasien tersebut memenuhi kriteria gejala Covid-19 serta ada riwayat perjalanan ke luar negeri sehingga kondisinya tersebut sangatlah rentan\n(Nilai 3)",
+            "Mengutamakan pasien lain yang bersedia menjalani pemeriksaan darah\n(Nilai 2)",
+            "Tetap mengambil darah pasien tersebut untuk selanjutnya dilakukan pemeriksaan di laboratorium\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nKamu memiliki hambatan di hari pertamamu bekerja sebagai\nfront office\ndi kantor. Selain karena ada beberapa hal mengenai pekerjaan yang belum kamu pahami, kamu juga mendapati salah seorang tamu yang merasa kesal karena pelayananmu yang sangat lambat. Apa yang akan kamu lakukan?",
+        "pilihan": [
+            "Meminta maaf kepada tamu tersebut dan mempercepat penyelesaian tugasmu\n(Nilai 5)",
+            "Tidak ikut terbawa emosi dan tetap melayaninya dengan baik\n(Nilai 4)",
+            "Menjelaskan bahwa pelayanan tersebut membutuhkan waktu\n(Nilai 3)",
+            "Meminta permakluman karena hari ini adalah hari pertamamu bekerja\n(Nilai 2)",
+            "Memintanya untuk menunggu saja dengan sabar\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nSaat Anda sedang berdiskusi dengan rekan kerja mengenai rancangan sebuah proyek, ada seorang tamu yang menghampiri Anda untuk menanyakan suatu tempat di kantor Anda. Maka Anda ...",
+        "pilihan": [
+            "Menjeda pembicaraan untuk mengantarkan tamu tersebut sampai ke tujuan\n(Nilai 5)",
+            "Memberinya petunjuk arah dan mengantarnya apabila tamu tersebut kebingungan\n(Nilai 4)",
+            "Meminta rekan lain yang sedang santai untuk mengantarkannya\n(Nilai 3)",
+            "Menyuruhnya menuju front office saja untuk bertanya\n(Nilai 2)",
+            "Tidak meresponsnya dan tetap fokus berdiskusi mengenai proyek\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nSaat meeting berlangsung, salah satu rekanmu terus mengajakmu mengobrol hal-hal yang tidak berkaitan dengan pekerjaan, maka sikapmu ...",
+        "pilihan": [
+            "Meminta atau menyuruhnya untuk tenang dan tidak ribut saat meeting berlangsung\n(Nilai 5)",
+            "Berbicara dengannya setelah meeting selesai dan memintanya agar tidak mengulangi hal tersebut pada meeting-meeting berikutnya\n(Nilai 4)",
+            "Agak menjauhi posisi duduknya agar tidak terganggu\n(Nilai 3)",
+            "Memberi tahu pemimpin rapat agar segera menegurnya\n(Nilai 2)",
+            "Langsung menegurnya dengan keras saat meeting masih berlangsung\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nKamu adalah pegawai baru di suatu perusahaan. Minggu awal bekerja kamu sudah mulai sibuk menghandle beberapa pekerjaan. Siang ini, atasanmu memberimu pekerjaan tambahan yang harus diselesaikan hari ini. Namun di sisi lain, rekan kerja mengajakmu untuk makan siang bersama. Maka kamu ...",
+        "pilihan": [
+            "Menerima ajakan makan siang bersama sambil mengakrabkan diri bersama rekan kerja baru\n(Nilai 5)",
+            "Menerima ajakan makan siang bersama dan mendahului kembali ke ruang/meja kerja\n(Nilai 4)",
+            "Tidak ikut makan siang bersama dan menjelaskan bahwa ada pekerjaan yang harus segera diselesaikan\n(Nilai 3)",
+            "Lebih mengutamakan pekerjaan dibanding ajakan makan siang tersebut\n(Nilai 2)",
+            "Memilih untuk menolak ajakan tersebut dan makan siang sendiri setelah pekerjaan selesai\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nHari ini atasan menugaskan Anda untuk dinas ke luar kota bersama dua rekan lainnya. Secara tiba-tiba seorang rekan mengabarkan bahwa batal mengikuti dinas tersebut karena alasan yang bagi Anda kurang jelas. Padalah perjalanan dinas itu termasuk agenda kantor yang sangat penting. Sikap Anda ...",
+        "pilihan": [
+            "Memintanya untuk fokus pada pekerjaan dan melaksanakan tanggung jawabnya\n(Nilai 5)",
+            "Menanyakan alasan jelas pembatalan tersebut dan memintanya untuk mencari rekan yang bisa menggantikannya\n(Nilai 4)",
+            "Menegurnya dengan tegas agar lebih profesional dan bertanggung jawab pada pekerjaan\n(Nilai 3)",
+            "Melaporkannya pada atasan karena sikapnya yang kurang profesional\n(Nilai 2)",
+            "Tidak mempercayainya kedepannya apabila ada tugas dinas bersama\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nSaya dipindahkan ke divisi lain di perusahaan dan merasa tidak cocok dengan salah satu rekan kerja di divisi baru saya. Suatu waktu, kepala divisi menugaskan saya untuk bekerja sama bersama rekan tersebut. Maka sikap saya ...",
+        "pilihan": [
+            "Mencoba mengerjakan tugas bersama dan menyelesaikannya dengan baik\n(Nilai 5)",
+            "Mulai mengakrabkan diri dengannya terlebih dahulu sebelum mengerjakan pekerjaan tersebut\n(Nilai 4)",
+            "Tetap bekerja sama dengannya walau dengan terpaksa\n(Nilai 3)",
+            "Mengerjakan tugas sendiri hingga tuntas tanpa melibatkannya\n(Nilai 2)",
+            "Mengutamakan kenyamanan dalam bekerja dengan bekerja sendiri-sendiri\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nKetika meeting berlangsung, rekan kerjamu menyampaikan pandangan yang berbeda yang bagimu itu cukup beresiko tinggi untuk perusahaan. Kamu mencoba untuk menanggapi hal tersebut, namun ia terlihat tidak terima. Kamu akan ...",
+        "pilihan": [
+            "Mengajaknya berdiskusi dan memintanya untuk tetap fokus pada tujuan awal perusahaan\n(Nilai 5)",
+            "Meminta ia untuk memikirkan gagasan atau pandangan yang lebih realistis dengan resiko yang minim terhadap perusahaan\n(Nilai 4)",
+            "Berbicara baik-baik dengannya dan menyarankan untuk memikirkan kembali mengenai pandangannya tersebut\n(Nilai 3)",
+            "Tidak terbawa emosi akan hal tersebut dan memilih untuk setuju terhadap gagasan yang ia miliki\n(Nilai 2)",
+            "Memilih untuk tidak berkomentar atau memberi tanggapan lagi setelah mengetahui respon/reaksinya tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nBos memintamu untuk bergabung dalam sebuah tim proyek setelah melihat kinerjamu yang terbilang sangat baik. Namun kamu merasa beberapa anggota tim terlihat kurang menerima kehadiranmu di tim tersebut. Maka kamu ...",
+        "pilihan": [
+            "Mencoba tetap bersikap baik dengan semua anggota tim dan menyelesaikan proyek dengan baik\n(Nilai 5)",
+            "Tidak memerdulikan hal tersebut dan mementingkan penyelesaian proyek bersama\n(Nilai 4)",
+            "Memaklumi hal tersebut karena kehadiranmu yang tiba-tiba di tim tersebut\n(Nilai 3)",
+            "Menganggap itu sebagai ujian yang harus kamu hadapi saat bekerja\n(Nilai 2)",
+            "Cuek saja karena itu adalah hak mereka untuk menerima kehadiranmu atau tidak\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nKetika saya memiliki rekan kerja yang suka membicarakan rekan kerja lain dan mengarah ke kebiasaannya bergosip di kantor, sikap saya ...",
+        "pilihan": [
+            "Tidak ikut terbawa atau terjerumus dalam kebiasaan buruknya tersebut\n(Nilai 5)",
+            "Berteman dekat dengan rekan lain yang menurut saya biasa-biasa saja\n(Nilai 4)",
+            "Menunggunya untuk sadar sendiri dan mengubahnya sikap buruknya tersebut\n(Nilai 3)",
+            "Mengeluhkan hal tersebut ke rekan kerja yang lain\n(Nilai 2)",
+            "Segera meminta atau menyuruhnya menjauh\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nCara Anda untuk menjalin hubungan yang baik dengan rekan kerja adalah ...",
+        "pilihan": [
+            "Membangun hubungan yang baik dan positif dengan semua rekan kerja\n(Nilai 5)",
+            "Bersikap netral kepada semua rekan kerja di kantor\n(Nilai 4)",
+            "Bergaul lebih dekat dengan rekan kerja yang satu visi dengan saya\n(Nilai 3)",
+            "Mengurangi komunikasi dengan rekan kerja yang membawa pengaruh negatif\n(Nilai 2)",
+            "Dekat dengan rekan-rekan kerja yang memiliki kedekatan dengan atasan di kantor\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nHari ini, ada seorang temanmu yang berbeda agama berkunjung ke rumahmu. Ketika waktu sudah menunjukkan pukul setengah 4 sore, temanmu meminta izin untuk melakukan sholat ashar, maka kamu ...",
+        "pilihan": [
+            "Menyediakan ruangan atau tempat untuk ia beribadah\n(Nilai 5)",
+            "Bersikap toleran dan memberinya waktu untuk beribadah\n(Nilai 4)",
+            "Mempersilahkannya dengan senang hati\n(Nilai 3)",
+            "Memintanya untuk beribadah di ruangan atau tempat ibadahmu\n(Nilai 2)",
+            "Tersinggung dengan permintaan tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nKamu sedang menempuh pendidikan di sekolah negeri dan mayoritas temanmu beragama muslim. Hanya ada segelintir teman yang memeluk kepercayaan berbeda. Teman-temanmu memang tidak pernah berkonflik hebat karena perbedaan itu, namun sesekali ada sekelompok teman yang melontarkan kalimat sinis kepada mereka yang berbeda kepercayaan. Maka kamu ...",
+        "pilihan": [
+            "Menegur kelompok tersebut untuk tidak mengulanginya lagi di kemudian hari\n(Nilai 5)",
+            "Mengingatkan teman-temanmu untuk saling bertoleransi\n(Nilai 4)",
+            "Meminta kelompok tersebut untuk segera meminta maaf kepada mereka\n(Nilai 3)",
+            "Merasa sangat prihatin atas kejadian tersebut\n(Nilai 2)",
+            "Membiarkan saja karena kamu tidak berteman akrab dengan mereka\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nMenjadi minoritas di antara tetangga Anda, apa yang mungkin Anda lakukan ketika merayakan hari raya keagamaan?",
+        "pilihan": [
+            "Membagikan bingkisan makanan kepada tetangga di sekitar\n(Nilai 5)",
+            "Menyelenggarakan gelar griya (open house) sebagai acara silaturahmi\n(Nilai 4)",
+            "Melaksanakan perayaan hari besar keagamaan dengan tidak mengganggu tetangga sekitar\n(Nilai 3)",
+            "Selalu bersikap ramah hanya kepada tetangga yang menghargai Anda ketika sedang merayakan hari raya keagamaan\n(Nilai 2)",
+            "Berharap mendapat ucapan selamat hari raya dari para tetangga\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nTiap bulannya para tetangga di kompleksmu selalu mengadakan acara arisan. Esok hari, arisan tersebut diadakan di salah satu rumah tetangga yang hubungannya tidak baik dengan Anda akhir-akhir ini. Sikap Anda ...",
+        "pilihan": [
+            "Tetap memilih untuk menghadiri arisan tersebut sembari mencari waktu yang tepat untuk memperbaiki hubungan\n(Nilai 5)",
+            "Tetap datang seperti biasa dan cuek saja\n(Nilai 4)",
+            "Menghadiri arisan sebentar, lalu izin untuk mendahului\n(Nilai 3)",
+            "Berpikir ulang untuk menghadiri acara arisan di rumah tetangga tersebut\n(Nilai 2)",
+            "Cepat-cepat meninggalkan tempat arisan sebelum arisan selesai karena tidak nyaman\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nKarena akhir-akhir ini Anda disibukkan dengan pekerjaan kantor yang sangat padat, Anda tidak mengetahui bahwa di sekitar perumahan Anda akan dilaksanakan acara kerja bakti. Hari ini, ketika Anda hendak pergi menuju lokasi untuk bertemu klien, Anda melihat sudah banyak warga yang berkumpul untuk kerja bakti tersebut. Maka sikap Anda ...",
+        "pilihan": [
+            "Berbicara kepada ketua RT setempat dan meminta maaf belum bisa ikut dalam kerja bakti tersebut\n(Nilai 5)",
+            "Mengatakan kepada beberapa warga yang Anda temui bahwa sedang ada urusan pekerjaan yang sangat penting sehingga Anda tidak dapat mengikuti kerja bakti tersebut\n(Nilai 4)",
+            "Berusaha untuk mengikuti kerja bakti yang akan diadakan selanjutnya\n(Nilai 3)",
+            "Khawatir karena ketidakhadiran Anda dalam kerja bakti tersebut, Anda akan mendapat kesan yang buruk dari warga lain\n(Nilai 2)",
+            "Membatalkan janji bersama klien dan memilih untuk mengikuti kerja bakti\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nMenjadi seorang mahasiswa perantau di suatu daerah, sikap saya ...",
+        "pilihan": [
+            "Beradaptasi dengan local wisdom yang berlaku di daerah tersebut\n(Nilai 5)",
+            "Bersedia untuk berinteraksi dengan warga lokal\n(Nilai 4)",
+            "Membatasi pergaulan dan interaksi dengan warga yang memiliki kebiasaan buruk, seperti pemabuk, penjudi, dan lainnya\n(Nilai 3)",
+            "Berusaha fokus untuk menuntut ilmu saja\n(Nilai 2)",
+            "Bersikap eksklusif dengan orang lokal di daerah tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSebagai makhluk sosial, saya ...",
+        "pilihan": [
+            "Menjunjung tinggi sikap kekeluargaan\n(Nilai 5)",
+            "Mengutamakan kepentingan bersama\n(Nilai 4)",
+            "Menomorduakan kepentingan sendiri\n(Nilai 3)",
+            "Fokus pada pencapaian diri\n(Nilai 2)",
+            "Menutup diri dari lingkungan sosial\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nAnda menjadi kepala divisi HR di perusahaan. Menghadapi kemajuan teknologi digital di era ini, sikap Anda ...",
+        "pilihan": [
+            "Memberikan pelatihan berkala untuk seluruh karyawan mengenai teknologi yang akan digunakan di perusahaan\n(Nilai 5)",
+            "Menerapkan kualifikasi terkait kompetensi teknologi saat perekrutan karyawan baru\n(Nilai 4)",
+            "Menggunakan software HR canggih untuk memantau atau mengontrol seluruh aktivitas karyawan\n(Nilai 3)",
+            "Mengharapkan semua karyawan bisa melek teknologi\n(Nilai 2)",
+            "Beranggapan bahwa setiap karyawan sudah tanggap akan kemajuan teknologi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nBagaimana sikap Anda sebagai seorang pimpinan perusahaan untuk menghadapi era revolusi 4.0?",
+        "pilihan": [
+            "Mengadakan training untuk memastikan kemampuan teknologi seluruh SDM\n(Nilai 5)",
+            "Memberi contoh dan motivasi agar semua karyawan terus meningkatkan kemampuan teknologinya\n(Nilai 4)",
+            "Mengajak seluruh karyawan untuk melek terhadap teknologi\n(Nilai 3)",
+            "Mengimbangi penggunaan teknologi dan kerja manual\n(Nilai 2)",
+            "Meminimalisir penggunaan teknologi di perusahaan untuk menekan pengeluaran\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nDewasa ini hampir semua orang menggunakan media sosial sebagai sarana untuk memperoleh informasi atau berita terkini. Sebagai salah satu pengguna media sosial yang bijak, sikap saya ...",
+        "pilihan": [
+            "Memastikan keakuratan setiap berita yang ada\n(Nilai 5)",
+            "Menggunakan media sosial untuk hal-hal yang penting saja\n(Nilai 4)",
+            "Tidak menyebarkan hoax atau berita palsu di media sosial\n(Nilai 3)",
+            "Berhenti menggunakan media sosial karena kurang merasakan manfaatnya\n(Nilai 2)",
+            "Menerima dan mempercayai seluruh berita yang tersebar di media sosial\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nApa yang akan Anda lakukan apabila mendapatkan sebuah berita palsu (hoax) yang cukup membahayakan?",
+        "pilihan": [
+            "Membuat pengaduan ke kominfo terkait berita palsu tersebut\n(Nilai 5)",
+            "Memanfaatkan fitur report untuk menandainya sebagai spam atau konten negatif\n(Nilai 4)",
+            "Tidak ikut terpancing setelah membaca berita tersebut\n(Nilai 3)",
+            "Biasa saja dan mengabaikannya karena tidak ingin ambil pusing\n(Nilai 2)",
+            "Ikut membantu menyebarkannya agar semakin viral\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nSebagai pimpinan di perusahaan, apabila Anda menemui karyawan yang mempergunakan teknologi yang ada di perusahaan untuk hal-hal di luar pekerjaan, maka Anda ...",
+        "pilihan": [
+            "Memastikan penggunaan teknologi setiap karyawan sudah sesuai aturan yang diterapkan oleh perusahaan\n(Nilai 5)",
+            "Menerapkan penggunaan teknologi secara seimbang dan bijak untuk seluruh karyawan di perusahaan\n(Nilai 4)",
+            "Membuat aturan atau batasan mengenai penggunaan teknologi di perusahaan\n(Nilai 3)",
+            "Membiarkannya sesekali sebagai cara untuk menghilangkan kejenuhan selama bekerja\n(Nilai 2)",
+            "Membebaskan penggunaan teknologi perusahaan oleh karyawan secara penuh\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nHari ini kamu tidak berangkat kerja karena sakit. Ketika bos menangih deadline pekerjaanmu hari ini, maka kamu akan ...",
+        "pilihan": [
+            "Meminta izin kepada bos untuk mengumpulkannya secara online\n(Nilai 5)",
+            "Meminta maaf dan kelonggaran waktu pengumpulan\n(Nilai 4)",
+            "Meminta pemakluman dan menjelaskan kondisi saya sebenarnya\n(Nilai 3)",
+            "Meminta maaf kepada bos karena tidak dapat mengumpulkannya hari ini\n(Nilai 2)",
+            "Meminta bos untuk memperpanjang waktu pengumpulan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSaat Anda sedang mengerjakan tugas proyek dengan sebuah program di laptop kantor, tiba-tiba program tersebut error yang membuat Anda tidak dapat melanjutkan pekerjaan tersebut, maka sikap Anda ...",
+        "pilihan": [
+            "Segera menutup program aplikasi tersebut untuk menghindari kehilangan data di laptop\n(Nilai 5)",
+            "Browsing melalui smartphone untuk mencari tahu cara mengatasi program yang error tersebut\n(Nilai 4)",
+            "Bertanya kepada teman yang mengerti IT dan berpengalaman dalam menangani hal tersebut\n(Nilai 3)",
+            "Meminta ahli IT di perusahaan untuk mengatasi atau menyelesaikan permasalahan tersebut\n(Nilai 2)",
+            "Melapor kepada atasan bahwa pekerjaan tersebut harus Anda tunda sementara\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nSetelah menyelesaikan studi S1, kamu mengirimkan lamaran pekerjaan ke banyak perusahaan. Setelah menjalani beberapa tes di beberapa perusahaan, kamu akhirnya mendapat kabar dan dinyatakan lolos di dua perusahaan. Maka kamu ...",
+        "pilihan": [
+            "Membandingkan kedua perusahaan tersebut dari berbagai aspek dan memilih mana yang menjadi prioritas\n(Nilai 5)",
+            "Memilih perusahaan yang lebih dahulu mengabari kelolosan saya\n(Nilai 4)",
+            "Meminta waktu beberapa hari untuk berpikir kepada dua perusahaan tersebut\n(Nilai 3)",
+            "Mengabari perusahaan yang menjadi pilihan saya\n(Nilai 2)",
+            "Bekerja di kedua perusahaan tersebut tanpa perlu memperhatikan kebijakan yang ada\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nApabila keluarga menyarankan Anda untuk berhenti atau resign dari pekerjaan Anda saat ini karena masalah gaji yang tidak sepadan dengan beban kerja Anda, maka sikap Anda ...",
+        "pilihan": [
+            "Memberikan pengertian kepada keluarga bahwa Anda sudah nyaman bekerja di tempat tersebut\n(Nilai 5)",
+            "Menolak saran tersebut dengan halus dan tetap bekerja secara maksimal\n(Nilai 4)",
+            "Mendiskusikannya lebih lanjut bersama keluarga\n(Nilai 3)",
+            "Mempertimbangkan hal tersebut karena apa yang dikatakan oleh keluarga ada benarnya\n(Nilai 2)",
+            "Memilih pekerjaan dibanding keluarga karena sudah terlanjur nyaman\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nSiang ini Anda bertemu dengan seorang klien untuk membahas rencana proyek. Saat diskusi berlangsung, tiba-tiba Anda mendapat sebuah panggilan di handphone. Maka Anda ...",
+        "pilihan": [
+            "Meminta maaf kepada klien dan segera mensilent handphone Anda\n(Nilai 5)",
+            "Segera mematikan handphone agar tidak mengganggu fokus Anda\n(Nilai 4)",
+            "Membiarkan handphone Anda berdering sambil fokus pada diskusi\n(Nilai 3)",
+            "Mengangkat telepon apabila klien tersebut mempersilahkan Anda\n(Nilai 2)",
+            "Mengangkat telepon karena takut ada hal penting\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nSetelah beberapa bulan bekerja di suatu perusahaan, Anda mulai menyadari bahwa gaji yang diberikan tidak sebanding dengan kerja keras Anda selama ini. Namun di sisi lain, perusahaan tersebut memang baru dirintis. Sikap Anda adalah ...",
+        "pilihan": [
+            "Bernegosiasi perihal gaji yang diharapkan dengan menunjukkan kinerja terbaik Anda selama ini\n(Nilai 5)",
+            "Meningkatkan skill dan kemampuan Anda sebelum menuntut hak\n(Nilai 4)",
+            "Menganggap wajar hal tersebut karena kondisi perusahaan dan tetap mempertahankan kinerja Anda\n(Nilai 3)",
+            "Tetap merasa kecewa dan menyesuaikan semangat kerja dengan gaji yang diberikan\n(Nilai 2)",
+            "Memilih untuk berhenti bekerja karena hal tersebut menyiksa Anda secara tidak langsung\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nSebagai seorang pekerja lepas\n(freelance)\nAnda kerap kali mendapatkan proyek dengan bayaran yang kecil. Sikap yang akan Anda ambil untuk proyek seperti tersebut adalah ...",
+        "pilihan": [
+            "Bertanggung jawab dalam menyelesaikan proyek tersebut dengan hasil yang terbaik\n(Nilai 5)",
+            "Tetap berusaha menyelesaikan pekerjaan sesuai waktu yang ditentukan\n(Nilai 4)",
+            "Meminta maaf dan menyatakan pada pemberi proyek bahwa hasil yang diberikan tidak maksimal karena bayaran yang minim\n(Nilai 3)",
+            "Mengeluhkan beban kerja yang diberikan tidak sesuai dengan tingkat kesulitan\n(Nilai 2)",
+            "Meminta kepada pemilik proyek untuk tarif tambahan sesuai kesulitan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nPada suatu waktu, Anda akan mengikuti wawancara di sebuah instansi, di mana Anda diwajibkan hadir 1 jam sebelum dimulai. Di saat yang sama, ada keluarga jauh Anda yang tiba untuk bertamu dan sepertinya tidak ada orang lain yang bisa menemani tamu tersebut. Sikap yang seharusnya dilakukan adalah ...",
+        "pilihan": [
+            "Tetap menuju lokasi wawancara untuk menghindari keterlambatan\n(Nilai 5)",
+            "Meminta maaf karena meminta saudara Anda menunggu hingga akhir wawancara selesai\n(Nilai 4)",
+            "Mengabaikan saudara Anda tersebut karena akan wawancara\n(Nilai 3)",
+            "Tetap menuju lokasi dengan memastikan ada keluarga lain di rumah\n(Nilai 2)",
+            "Menyarankan agar saudara Anda tersebut kembali saat wawancara usai\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nSaat jam makan siang, kolega Anda mengajak Anda untuk makan siang bersama di luar kantor, sekaligus mendiskusikan hal hal lain dalam pekerjaan. Saat tiba di lokasi, secara mendadak atasan Anda menghubungi Anda agar kembali ke kantor secepat mungkin karena ada urusan mendadak yang hanya Anda yang sekiranya bisa. Maka sikap Anda adalah ...",
+        "pilihan": [
+            "Menerima permintaan atasan dan sesegera mungkin menuju kantor setelah minta maaf ke kolega Anda\n(Nilai 5)",
+            "Menolak dengan sopan permintaan atasan Anda, karena sedang dalam jam istirahat untuk Anda\n(Nilai 4)",
+            "Menanyakan tentang urusan apa yang harusnya Anda kerjakan\n(Nilai 3)",
+            "Meminta rekan lain yang ada di kantor untuk mengurusi urusan tersebut\n(Nilai 2)",
+            "Meminta atasan untuk mengatasi masalah tersebut karena posisi sedang istirahat\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 36,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 36\nTidak dijawab\nSuatu hari Anda dimarahi oleh atasan Anda karena telat mengumpulkan laporan kerja, sehingga Anda di nilai kurang bertanggung jawab\ndan membuat image Anda buruk. Sedangkan fakta Anda telat mengumpulkan tugas tersebut karena printer yang akan Anda gunakan bermasalah, sikap Anda adalah ...",
+        "pilihan": [
+            "Minta maaf dan menjelaskan jika keterlambatan Anda karena printer perusahaan yang bermasalah\n(Nilai 5)",
+            "Menjelaskan bahwa printer untuk anda mencetak laporan bermasalah\n(Nilai 4)",
+            "Minta maaf dan menjelaskan bahwa kesalahan tersebut bukan semata mata karena Anda\n(Nilai 3)",
+            "Meminta maaf kepada atasan dan berjanji tidak mengulangi hal yang sama\n(Nilai 2)",
+            "Tidak terima karena seharusnya perusahaan juga memfasilitasi semua sarana penunjang kerja karyawan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 37,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 37\nTidak dijawab\nAnda bekerja sebagai seorang petugas keamanan KRL Jabodetabek. Seorang penumpang mendatangi Anda karena merasa barang\nbawaannya tertinggal dalam rangkaian kereta. Maka yang akan Anda lakukan adalah …",
+        "pilihan": [
+            "Menuliskan nama, nomor HP, dan gerbong kereta yang dinaiki, serta akan menghubunginya apabila barangnya sudah ditemukan\n(Nilai 5)",
+            "Meminta nomor HP-nya dan akan menghubunginya apabila barangnya sudah ditemukan\n(Nilai 4)",
+            "Memintanya untuk duduk menunggu terlebih dahulu di stasiun sampai barangnya ditemukan\n(Nilai 3)",
+            "Menyatakan bahwa pihak KRL Jabodetabek tidak bertanggung jawab atas barang bawaan yang tertinggal karena kelalaian penumpang\n(Nilai 2)",
+            "Menyatakan bahwa perbuatannya salah karena penumpang seharusnya bertanggung jawab dengan barang bawaannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 38,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 38\nTidak dijawab\nAnda merupakan ketua dari tim proyek kewirausahaa sukarela yang terdiri dari 5 orang. Proyek tersebut mengharuskan Anda untuk menciptakan sebuah produk baru, dan kemudian menjual produk tersebut di masyarakat dalam waktu satu tahun sejak pembuatan produk\nsampai penjualan akhir. Dengan angka penjualan yang tinggi, Anda bisa mengikutsertakan proyek Anda ke dalam sebuah kompetisi\nnasional bergengsi. Pada awal proyek dimulai tim Anda sangat solid, pembagian tugas berjalan dengan baik, produk juga sudah dipasarkan melalui media online. Namun pada pertengahan periode, tingkat penjualan tidak kunjung meningkat, kemudian masing-masing dari tim Anda satu-persatu mulai tidak aktif mengelola proyek karena berbagai urusan penting lainnya. Jika proyek dihentikan, tentu perjuangan Anda dan tim selama ini akan sia-sia. Namun jika dilanjutkan, Anda harus berjuang sendiri karena tidak bisa memaksa seluruh anggota tim\nuntuk meluangkan waktu. Apa yang akan Anda lakukan?",
+        "pilihan": [
+            "Mengajak anggota untuk mencari reseller dari rekan-rekan mereka\n(Nilai 5)",
+            "Mengikuti berbagai pameran untuk mempromosikan produk pada hari libur\n(Nilai 4)",
+            "Meminta anggota untuk mempromosikan di media sosialnya\n(Nilai 3)",
+            "Mengajak anggota secara halus untuk meluangkan waktu menjalankan proyek\n(Nilai 2)",
+            "Memberikan tugas kepada seluruh anggota untuk menjual sedikit produk, kemudian anda menjual sisanya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Tim Anda sudah solid diawal dan telah melakukan penjualan secara online namun hasilnya tidak maksimal, artinya Anda memerlukan sebuah\ninovasi strategi pemasaran untuk mendongkrak penjualan. Sebagai ketua kelompok, sebaiknya Anda tetap mendelegasikan tugas kepada\nanggota walaupun disesuaikan dengan kemampuan masing-masing anggota dengan tetap berorientasi pada tujuan akhir yaitu memaksimalkan penjualan untuk mengikuti kompetisi nasional. Sehingga, mengajak anggota mencari reseller dari rekan-rekan mereka adalah strategi terbaik yang dapat dilakukan, karena anggota tidak mempunyai cukup waktu untuk berperan aktif, anggota bisa mengajak teman lainnya untuk menjualkan produk. Dengan begitu, penjualan produk tetap terlaksana disela-sela kesibukan anggota lainnya."
+    },
+    {
+        "nomor": 39,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 39\nTidak dijawab\nHari ini di kantor Anda akan di adakan rapat besar terkait dengan kebijakan yang akan ditempuh oleh perusahaan dalam rangka untuk meningkatkan pelayanan terhadap masyarakat. Semua karyawan yang mewakili divisi masing-masing diminta untuk menyampaikan ide dan gagasan mereka pada saat rapat berlangsung, Anda pun telah menyampaikan ide Anda sebagai perwakilan dari divisi Anda, namun rekan yang lain kurang mendukung ide dan gagasan yang Anda ajukan karena dinilai tidak memiliki perubahan\nsignifikan terhadap perusahaan kedepannya, sikap Anda ...",
+        "pilihan": [
+            "Membicarakan dengan rekan divisi lain untuk memadukan gagasan yang Anda punya\n(Nilai 5)",
+            "Menggantinya dengan ide lain yang lebih baik dan dapat diterima oleh semua perwakilan divisi\n(Nilai 4)",
+            "Merumuskan ide tersebut secara detail agar rekan rekan yang lain mengerti bahwa gagasan yang Anda sampaikan akan berdampak baik bagi kemajuan perusahaan\n(Nilai 3)",
+            "Mencoba membicarakan lebih jauh dengan rekan perwakilan divisi yang lain maksud dari gagasan yang anda ajukan dan dampaknya terhadap perusahaan\n(Nilai 2)",
+            "Mencari dukungan dari ketua rapat, dengan memberikan data-data yang mendukung gagasan Anda agar diterima\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Topik kemampuan bekerjasa sama dalam kelompok, Indikator keterbukaan, saling bekerja sana dan selalu melibatkan orang lain , masalah gagasan Anda dinilai kurang memberikan perubahan signifikan, solusi pertama yang bisa Anda lakukan adalah memadukan gagasan Anda\ndengan rekan yang lain seperi pada opsi \"Membicarakan dengan rekan divisi lain untuk memadukan gagasan yang anda punya\" menunjukkan Anda menerima pendapat orang lain dan berusaha tetap pada prinsip dengan\nkaloborasi dengan rekan yang lain."
+    },
+    {
+        "nomor": 40,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 40\nTidak dijawab\nSaya saat ini bekerja menangani suatu project dari klien. Saya sudah merasa jenuh mengerjakan project ini yang seharusnya sudah selesai bulan kemarin, tetapi masih diperpanjang sampai sekarang karena ada beberapa masalah. Herannya,masalah ini tidak selesai sebab sikap\nProject Manager yang kurang tegas ke pihak klien, sehingga yang merasa kerepotan adalah kami. Dari awal sebenarnya saya sudah menolak dimasukkan dalam project ini, karena saya diberi tugas mengerjakan sesuatu yang sebenarnya bukan kapasitas dan keahlian\nsaya. Akan tetapi, atasan saya di kantor malah mendukung project ini dan saya terseret, sehingga dari awal saya sudah setengah hati berada di project ini. Saya sudah yakin ke belakangnya pasti ada masalah dan ternyata dugaan saya benar. Masalah di project ini seolah\ntidak ada habisnya dan saya merasa tidak tenang. Teman satu tim yang lain juga sudah tidak sabar agar project ini cepat selesai. Tapi\nkenyataannya, jangankan selesai malah masalahnya selalu ada terus, sehingga kami mulai jenuh. Perlahan-lahan mulai banyak yang bolos\nke kantor dengan berbagai alasan. Hal yang lebih parah lagi adalah usaha dan kerja keras kami di sini seolah tidak setara dengan apa\nyang kami dapat.\nUang bonus project yang dari dulu selalu dijanjikan sampai saat ini belum juga diberikan. Sikap saya selanjutnya adalah ...",
+        "pilihan": [
+            "Saya bersama rekan saya yang lain akan membicarakan masalah project ini pada ProjectManager agar segera dituntaskan\n(Nilai 5)",
+            "Saya bersama rekan saya yang lain akan membicarakan masalah project ini pada Project Manager agar segera dihentikan\n(Nilai 4)",
+            "Saya tetap melanjutkan project ini meski saya harus menelan pahitnya mengerjakan project tersebut\n(Nilai 3)",
+            "Saya bersama rekan saya yang lain akan membicarakan masalah bonus project ini pada Project Manager yang belum dibayar\n(Nilai 2)",
+            "Saya menyatakan mundur dari penugasan project tersebut karena sudah tidak tahu kapan batas akhir penyelesaiannya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 41,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 41\nTidak dijawab\nBelakangan saya merasa di kantor sudah tidak ada pekerjaan. Jika ada pun, itu hanya sedikit. Tetapi karena memang tidak ada deadline,\nsaya jadi lebih santai. Ditambah lagi dengan teman seruangan yang juga jadi sama malasnya dengan saya. Kami berdua sehari-hari hanya\nbrowsing di kantor tanpa mengerjakan sisa pekerjaan kami. Selain itu, atasan juga tidak selalu mengawasi bahkan jarang sekali mengawasi,\nsehingga kadang kami sesukanya datang tidak tepat waktu dan pulang sesukanya. Kadang jika di antara kami tidak masuk, kami juga\ntidak merasa perlu repot-repot minta izin pada atasan. Ditambah lagi, kami juga tidak perlu selalu mengisi daftar kehadiran. Hal ini\nsebenarnya tidak membuat saya nyaman. Lama-lama saya jenuh dan jengah juga. Apalagi jika melihat teman kantor di ruangan lain yang\nterlalu sibuk. Saya jadi semakin terlihat malas dan tidak memberikan kontribusi apa-apa untuk kantor. Apalagi jika atasan lewat di depan\nkubikel saya atau ada teman lain yang lewat, hampir selalu mereka melihat saya sedang tidak ada kerjaan. Akhirnya saya khawatir juga\ndan takut\nkalau kontribusi dan hasil kerja saya diam-diam dinilai oleh entah siapa. Entah oleh atasan sendiri atau pihak HRD karena dalam tahun ini memang belum ada hasil kerja saya yang kelihatan. Mungkin ini akibat terlalu sibuk dan sering lembur di akhir tahun kemarin sehingga membuat saya ingin menikmati kerja yang santai seperti sekarang,tetapi ternyata saya malah terlena dan semakin malas bekerja. Saya\ntahu saya harus berubah dan kembali produktif, tetapi saya bingung harus mulai dari mana. Sikap saya selanjutnya adalah ...",
+        "pilihan": [
+            "Saya berusaha menawarkan bantuan jika atasan membutuhkan pertolongan saya dalam hal pekerjaan\n(Nilai 5)",
+            "Saya berusaha menanyakan kepada atasan apakah ada pekerjaan yang bisa saya kerjakan\n(Nilai 4)",
+            "Saya berusaha menawarkan bantuan jika rekan kerja yang lain membutuhkan pertolongan saya dalam hal pekerjaan\n(Nilai 3)",
+            "Saya berusaha menanyakan kepada rekan kerja yang lain apakah ada pekerjaan yang bisa saya kerjakan\n(Nilai 2)",
+            "Saya tidak merasa bersalah karena tahun lalu sudah bersusah payah hingga lembur dan sekarang menikmati santainya bekerja seperti biasa\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 42,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 42\nTidak dijawab\nAnda sudah setahun menjadi ASN di suatu Lembaga pemerintah dan Anda ditempatkan di unit Sekretariat. Unit ini meliputi divisi Human Resource, Organization Development, Public Relation, General Aair, dan Finance. Anda merasakan kurang adanya sinergi dan koordinasi di antara 5 divisi ini karena bekerja sendiri-sendiri dan dipisah tiap lantai. Yang perlu Anda lakukan untuk meningkatkan sinergi tersebut adalah ...",
+        "pilihan": [
+            "Mengajak kepada para pegawai untuk saling mengenal, bersilaturahmi, dan sering berkunjung antar lantai\n(Nilai 5)",
+            "Mengusulkan agar dilakukan rapat kerja membahas permasalahan terkait sinergi dan koordinasi serta solusinya\n(Nilai 4)",
+            "Mengusulkan agar dilakukan kegiatan outbound/team building training secara rutin untuk memperkuat sinergi\n(Nilai 3)",
+            "Menanyakan komitmen pimpinan apakah sanggup membuat sekretariat menjadi supporting unit yang lebih solid\n(Nilai 2)",
+            "Mengusulkan kepada pimpinan agar secretariat dibuat dalam satu lantai saja\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 43,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 43\nTidak dijawab\nSaat ini Anda sedang menjalani latihan dasar prajabatan sebelum diangkat menjadi PNS. Salah satu dari agenda latsar tersebut yaitu pelatihan Mental Fisik Disiplin (MFD). Anda dan rekan-rekan Anda dibagi menjadi kelompok-kelompok. Untuk melatih kekompakan dan jiwa\nkorsa, salah satu pelatih memberikan pernyataan bahwa apabila salah satu anggota dari kelompok melakukan kesalahan, maka setiap\norang dalam kelompok tersebut akan dihukum juga. Mendengar pernyataan tersebut, maka sikap Anda adalah ...",
+        "pilihan": [
+            "Mendengarkan dan menjalankan semua instruksi pelatih tersebut serta mengingatkan kepada yang lain untuk tidak berbuat kesalahan\n(Nilai 5)",
+            "Biasa saja dan mendengarkan semua instruksi pelatih tersebut\n(Nilai 4)",
+            "Menanyakan alasan kenapa jika salah satu anggota dari kelompok melakukan kesalahan maka setiap orang yang tidak bersalah dihukum juga\n(Nilai 3)",
+            "Menyatakan tidak setuju jika salah satu anggota dari kelompok melakukan kesalahan maka setiap orang yang tidak bersalah dihukum juga\n(Nilai 2)",
+            "Melaporkan kepada instansi pelatihan tersebut bahwa hal tersebut sangat merugikan hanya karena satu orang semua kena getahnya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 44,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 44\nTidak dijawab\nSaat ini kantor Anda sedang melakukan transformasi besar-besaran terkait proses bisnis organisasi. Salah satu agenda transformasi\ntersebut yaitu penggunaan open space. Nantinya ruangan menjadi sedikit lebih luas dan tidak ada lagi sekat kubikel antar pegawai serta\nsemua pegawai akan menggunakan laptop. Salah satu dari rekan Anda yang senior tidak setuju dengan kebijakan tersebut karena tidak\nsuka ruang kantor yang lebih terbuka dan mengganggu privasi masing-masing komputer. Maka sikap Anda adalah ...",
+        "pilihan": [
+            "Tetap mendukung kebijakan tersebut\n(Nilai 5)",
+            "Tidak mempermasalahkan hal tersebut karena setiap kebijakan pasti ada yang pro dan ada yang kontra\n(Nilai 4)",
+            "Memberitahukan kepada pegawai tersebut bahwa ini tidak akan mengganggu privasinya\n(Nilai 3)",
+            "Menanyakan kepada pegawai tersebut bentuk privasi apa yang menurutnya terganggu\n(Nilai 2)",
+            "Mengusulkan ruangan tersendiri bagi pegawai tersebut karena tidak suka yang terbuka\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    },
+    {
+        "nomor": 45,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 45\nTidak dijawab\nAnda adalah seorang petugas BPJS yang bekerja disalah satu rumah sakit terbesar dikota Anda, hari itu sangat cerah hingga salah satu\nkeluarga pasien tempat Anda bekerja menghampiri Anda dan menyampaikan sebuah keluhan yang ternyata keluhan tersebut adalah pasien dari keluarga tersebut salah dimasukkan keruangan regular yang seharusnya dimasukkan ke ruangan VIP di rumah sakit tersebut,\nkata keluarga pasien tersebut, dia telah melaporkan hal tersebut beberapa kali di bagian administrasi rumah sakit tempat Anda bekerja, Anda menyadari bahwa hal tersebut seharusnya memiliki prosedur sendiri dan tetap sesuai aturan yang berlaku di rumah sakit tempat Anda bekerja, sebagai seorang petugas BPJS, sikap apa yang Anda ambil?",
+        "pilihan": [
+            "Mencatat seluruh keluhan keluarga pasien tersebut dan mengarahkan keluarga pasien tersebut untuk melengkapi prosedur dan berkas sesuai aturan RS Anda bekerja\n(Nilai 5)",
+            "Menerima, mendengar dan mencatat seluruh keluhan keluarga pasien tersebut dan mencoba mengubungi bagian administrasi kembali hingga mendapatkan respon\n(Nilai 4)",
+            "Menerima, mendengar dan mencatat seluruh keluhan keluarga pasien tersebut dan memberitahukan secara halus agar melaporkan hal tersebut ke pihak yang seharusnya\n(Nilai 3)",
+            "Menerima dan mencatat seluruh keluhan keluarga pasien tersebut dan memberitahukan secara halus agar Anda akan segera melaporkan hal tersebut pada rapat divisi humas\n(Nilai 2)",
+            "Mendengar dan mencatat seluruh keluhan dan tetap bekerja mengingat Anda memiliki banyak tugas penting yang harus dikerjakan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": "Sudah cukup jelas"
+    }
+]

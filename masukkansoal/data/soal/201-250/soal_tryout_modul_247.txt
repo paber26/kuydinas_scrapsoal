@@ -1,0 +1,401 @@
+Soal 1:
+MAWAR : TANAMAN = ... : ...
+A. Anak : Ibu
+B. Kamar : Rumah
+C. Singa : Binatang
+D. Kucing : Tikus
+E. Pohon : Jati
+
+==================================================
+
+Soal 2:
+AIR : UAP = ... : ...
+A. Kabut : Asap
+B. Uap : Beku
+C. Membeku : Menguap
+D. Mendidih : Mencair
+E. Es : Air
+
+==================================================
+
+Soal 3:
+KAYU : ... = BERAS : NASI GORENG
+A. Pasak
+B. Tripleks
+C. Papan
+D. Kursi tamu
+E. Gelondongan
+
+==================================================
+
+Soal 4:
+MIKROSKOP : BAKTERIOLOG = SARUNG TANGAN : ...
+A. Analis
+B. Apoteker
+C. Petinju
+D. Peneliti
+E. Dokter
+
+==================================================
+
+Soal 5:
+BURUNG : SARANG = ... : ...
+A. Rapat : Gedung
+B. Kandang : Kambing
+C. Murid : Sekolah
+D. Dompet : Uang
+E. Orang : Rumah
+
+==================================================
+
+Soal 6:
+SELASA : KAMIS = ... : ...
+A. Mei : Agustus
+B. Januari : Maret
+C. Gelap : Terang
+D. Menit : Jam
+E. Jam : Hari
+
+==================================================
+
+Soal 7:
+52, 53, 56, 61, 68, 77, ...
+A. 85
+B. 93
+C. 91
+D. 87
+E. 88
+
+==================================================
+
+Soal 8:
+6, 12, 13, 18, 27, 30, 48, ...
+A. 54
+B. 48
+C. 52
+D. 50
+E. 56
+
+==================================================
+
+Soal 9:
+3, 4, 9, 8, 21, 16, 39, 28, ...
+A. 48
+B. 54
+C. 30
+D. 34
+E. 63
+
+==================================================
+
+Soal 10:
+95, 77, 61, 47, ...
+A. 38
+B. 32
+C. 35
+D. 34
+E. 36
+
+==================================================
+
+Soal 11:
+Mita adalah karyawan pada perusahaan tekstil yang bertugas menyimpan
+data kenaikan produksi selama 5 periode. Setelah dicari, Mita menemukan
+empat data kenaikan, yaitu 4%, 9%, 7%, dan 5%. Satu data lagi, yaitu data
+ke - 5. Jika Mita hanya ingat bahwa rata - rata hitung dan median dari lima
+data tersebut adalah sama, maka kenaikan produksi yang mungkin pada
+periode kelima adalah berkisar antara ...
+A. 10% sampai 15%
+B. 0 sampai 10%
+C. 15% sampai 20%
+D. 10% sampai 20%
+E. 5% sampai 15%
+
+==================================================
+
+Soal 12:
+﻿
+﻿
+﻿
+Penyelesaian persamaan
+2x^2
++ 4x = -2 adalah
+...
+A. 1
+B. 4
+C. -2
+D. -1
+E. 2
+
+==================================================
+
+Soal 13:
+Diketahui lamanya belajar mandiri siswa sebanding dengan nilai ujian. Jika
+siswa dengan nilai ujian 90 melakukan belajar mandiri 12 jam/ hari, maka
+lamanya belajar mandiri siswa dengan nilai 60 adalah ...
+A. 24 jam/ hari
+B. 8 jam/ hari
+C. 18 jam/ hari
+D. 6 jam/ hari
+E. 112,5 jam/ hari
+
+==================================================
+
+Soal 14:
+Seorang pengrajin merencakan untuk membuat beberapa tas dan keranjang
+dari bahan bambu. Jumlah kedua macam barang tersebut adalahh 48 buah.
+Jumlah keranjang direncanakan tiga kali jumlah tas. Berapakah jumlah
+keranjang yang akan dibuat?
+A. 36
+B. 24
+C. 42
+D. 54
+E. 63
+
+==================================================
+
+Soal 15:
+Ala bisa karena biasa
+Makna peribahasa di atas adalah ...
+A. Kalau kebiasaan yang buruk dipupuk, lama - kelamaan keburukannya itu takkan terasa lagi
+B. Kebiasaan yang baik diteruskan lama - kelamaan orang akan mengikutinya
+C. Sudah lihai karena sering melakukannya
+D. Kebiasaan yang sering dilakukan
+E. Mahir dalam melakukan sesuatu karena berpengalaman
+
+==================================================
+
+Soal 16:
+Jika untuk menggali sebuah sumur selama 7 hari dibutuhkan empat orang
+penggali, berapa orang penggali yang diperlukan untuk menggali sumur
+dalam waktu 1/2 hari?
+A. 58 orang
+B. 56 orang
+C. 50 orang
+D. 28 orang
+E. 14 orang
+
+==================================================
+
+Soal 17:
+Iwan lebih tinggi daripada amir. Amir lebih tinggi daripada Yudi dan Bandi.
+Joko lebih tinggi daripada Amir dan Ridwan. Tidak ada yang tingginya sama.
+Pernyataan yang benar adalah ...
+A. Joko lebih pendek daripada Ridwan
+B. Ridwan lebih tinggi daripada Yudi
+C. Ridwan lebih tinggi daripada Amir
+D. Joko lebih tinggi daripada Bandi
+E. Bandi lebih tinggi daripada Ridwan
+
+==================================================
+
+Soal 18:
+Seorang pembalap mampu melajukan sepeda motornya hingga dapat
+menempuh jarak 1,8 kilometer dalam waktu 30 detik. Berapakah
+kecepatannya dalam hitungan kilometer per jam (km/jam)?
+A. 234 km/jam
+B. 236 km/jam
+C. 226 km/jam
+D. 216 km/jam
+E. 230 km/jam
+
+==================================================
+
+Soal 19:
+Seekor kambing dapat menghabiskan rumput di suatu lapangan dalam
+waktu 4 minggu. Jika seekor sapi mampu menghabiskan rumput di lapangan
+yang sama dalam 3 minggu, berapa lama rumput akan habis jika kambing
+dan sapi makan bersama - sama di lapangan tersebut?
+A. 20 hari
+B. 12 hari
+C. 24 hari
+D. 26 hari
+E. 18 hari
+
+==================================================
+
+Soal 20:
+Masuk kandang kambing mengembik, masuk kandang kerbau menguak.
+Makna peribahasa di atas adalah ...
+A. Haruslah kita menyesuaikan diri dengan adat - istiadat orang di negeri yang kita diami
+B. Belajar kepada orang lain ketika kita berada di negeri orang
+C. Mempercayai orang lain yang lebih tahu daripada kita
+D. Orang yang selalu berkata bohong demi dipercaya oleh orang lain
+E. Haruslah kita menyesuaikan dengan perkataan orang
+
+==================================================
+
+Soal 21:
+Diketahui x = 96 × 33 1/3 % dan y = 224, manakah pernyataan yang sesuai?
+A. y = 6x
+B. y = 7x
+C. y = 4x
+D. y = 3x
+E. y = 5x
+
+==================================================
+
+Soal 22:
+Bangau, bangau, minta aku leher;
+badak, badak, minta aku daging.
+Makna peribahasa di atas adalah ...
+A. Janganlah iri hati dengan kelebihan orang lain
+B. Bekerja keras, maka akan mendapatakan hasil yang lebih banyak
+C. Mengharapkan kekayaan tanpa bekerja keras
+D. Selalu iri dengan kelebihan orang lain
+E. Mengharapkan kekayaan dengan cara yang tidak wajar
+
+==================================================
+
+Soal 23:
+Dalam 3 kali ulangan matematika seorang murid mendapatkan nilai 64,67,
+dan 66. Berapakah nilai yang harus diperoleh murid tersebut pada ulangan
+keempatnya agar nilai rata - ratanya 70?
+A. 84
+B. 83
+C. 80
+D. 82
+E. 86
+
+==================================================
+
+Soal 24:
+Jika - 102x + 17y = 136, maka nilai 66x - 11y = ...
+A. 48
+B. -88
+C. 84
+D. -84
+E. -48
+
+==================================================
+
+Soal 25:
+Paulus berdiri 180 meter lurus di sebelah utara titik P, Fredi berdiri 240
+meter lurus di sebelah barat titik P. Berapakah jarak terdekat antara Fredi
+dan Paulus?
+A. 60 meter
+B. 900 meter
+C. 300 meter
+D. 420 meter
+E. 80 meter
+
+==================================================
+
+Soal 26:
+Seorang padagang menjual satu gulung kain teteron seharga Rp 75.000. Ia
+mendapat laba 50% dari harga beli. Berapakah harga beli kain itu?
+A. Rp35.000
+B. Rp65.500
+C. Rp37.500
+D. Rp50.000
+E. Rp50.500
+
+==================================================
+
+Soal 27:
+Bacaan untuk soal 27-31
+Ada 7 kotak peti, masing-masing diberi nomor 1 sampai 7. Buah jambu,
+melon, semangka, jeruk, mangga dan durian akan dimasukkan kedalam peti-peti
+tersebut dengan aturan sebagai berikut :
+> Durian harus dimasukkan ke peti nomor 4
+> Semangka tidak boleh diletakkan tepat disamping melon
+> Jeruk harus diletakkan disamping mangga
+Jika melon diletakkan di peti nomor 2, maka mana yang tidak boleh
+dilakukan ?
+A. Jeruk diletakkan di peti nomor 5
+B. Semangka diletakkan di nomor 3
+C. Mangga diletakkan di peti nomor 7
+D. Semangka diletakkan di peti nomor 5
+E. Jambu diletakkan di peti nomor 1
+
+==================================================
+
+Soal 28:
+Jika semangka diletakkan di peti nomor 6, dan jambu diletakkan di peti
+nomor 7, maka peti mana yang kosong ?
+A. Peti nomor 5
+B. Peti nomor 2
+C. Peti nomor 3
+D. Peti nomor 4
+E. Peti nomor 1
+
+==================================================
+
+Soal 29:
+Jika semangka diletakkan di peti nomor 5 dan jambu di nomor 6, dan melon
+di nomor 7, maka ada berapa kemungkinan pengaturan letak buah sesuai
+dengan aturan diatas ?
+A. 5
+B. 6
+C. 4
+D. 2
+E. 3
+
+==================================================
+
+Soal 30:
+Jika jambu diletakkan di nomor 1. jeruk di nomor 2, maka manakah yang
+tidak boleh ?
+A. Semangka di nomor 3
+B. Mangga di nomor 3
+C. Melon di nomor 7
+D. Melon di nomor 5
+E. Semangka di nomor 5
+
+==================================================
+
+Soal 31:
+Berapa kemungkinan peletakan buah bila Jeruk diletakkan di nomor 6.
+Jambu nomor 2.
+A. 3
+B. 4
+C. 1
+D. 5
+E. 2
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_247/soal_32_img1.png)
+A. 60
+B. 55
+C. 45
+D. 65
+E. 50
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_247/soal_33_img1.png)
+A. D
+B. A
+C. E
+D. B
+E. C
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_247/soal_34_img1.png)
+A. D
+B. A
+C. B
+D. E
+E. C
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_247/soal_35_img1.png)
+A. C
+B. A
+C. B
+D. D
+E. E
+
+==================================================
+

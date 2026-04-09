@@ -1,0 +1,352 @@
+Soal 1:
+Pada suatu permainan diperlukan beberapa pasangan anak laki-laki dan anak perempuan. Jika diketahui terdapat 8/11 dari 220 anak perempuan tidak mengikuti permainan, dan 2/3 dari 180 anak laki-laki juga tidak mengikuti permainan maka persentase anak perempuan dan laki-laki yang mengikuti permainan adalah ...
+A. 15%
+B. 40%
+C. 10%
+D. 30%
+E. 20%
+
+==================================================
+
+Soal 2:
+Umur Rahmi 3/7 umur ayahnya. Umur ibunya 6/7 kali umur ayahnya. Jika umur Rahmi 21 tahun maka umur ibunya adalah ....
+A. 54 tahun
+B. 36 tahun
+C. 42 tahun
+D. 49 tahun
+E. 45 tahun
+
+==================================================
+
+Soal 3:
+Diketahui dosis pemberian suatu obat sebanding dengan berat badan pasien. Jika dosis untuk pasien dengan berat badan 60 kg adalah 15 mg obat maka dosis yang diberikan kepada pasien dengan berat badan 50 kg adalah ...
+A. 18 mg
+B. 12,5 mg
+C. 6 mg
+D. 14 mg
+E. 8 mg
+
+==================================================
+
+Soal 4:
+Rendi mempunyai permen sebanyak 3 kali banyaknya permen yang dimiliki oleh Sule. Sule mempunyai permen 12 lebih sedikit dari Teguh. Teguh mempunyai permen 4 lebih banyak dari Rendi. Perbandingan banyaknya permen yang dimiliki oleh Rendi, Sule, dan Teguh adalah ...
+A. 3 : 1 : 4
+B. 6 : 2 : 4
+C. 3 : 6 : 2
+D. 1 : 2 : 4
+E. 1 : 3 : 4
+
+==================================================
+
+Soal 5:
+Suatu kotak berisi sejumlah kelereng. Alex mengambil sepertiga dari kelereng di kotak, dan seperempat sisanya diambil oleh Bogi. Jika Cahya mengambil 3/4 dari kelereng sisa di kotak, kemudian menaruh kembali 4 kelereng, sisa kelereng dalam kotak adalah 10. Kelerang semula adalah ...
+A. 30
+B. 18
+C. 12
+D. 24
+E. 48
+
+==================================================
+
+Soal 6:
+Lima tahun yang lalu jumlah usia dua orang bersaudara adalah 26 tahun, sedangkan sekarang perbandingan yang tua dan muda adalah 3 : 1. Sembilan tahun kemudian, perbandingan yang tua muda adalah ...
+A. 3 : 1
+B. 2 : 1
+C. 4 : 3
+D. 3 : 2
+E. 5 : 4
+
+==================================================
+
+Soal 7:
+Diketahui barisan : 2, 5, 8, 11, .... Jumlah 10 suku pertama barisan tersebut adalah ...
+A. 175
+B. 155
+C. 166
+D. 200
+E. 196
+
+==================================================
+
+Soal 8:
+Suatu amoeba membelah 2 kali setiap 20 menit. Jika semula terdapat 50 Amoeba, banyaknya amoeba setelah 2 jam adalah ....
+A. 3.200
+B. 640
+C. 800
+D. 1.000
+E. 1.600
+
+==================================================
+
+Soal 9:
+Anang menabung di bank dengan tabungan bulan pertama 50.000. Tabungan bulan kedua 100.000, ketiga 150.000, dan seterusnya dengan setiap bulan bertambah tetap. Banyak tabungan Anang setelah 12 bulan adalah ...
+A. Rp2.700.000,00
+B. Rp2.000.000,00
+C. Rp3.900.000,00
+D. Rp3.000.000,00
+E. Rp3.500.000,00
+
+==================================================
+
+Soal 10:
+Jumlah 10 suku pertama dari deret : 1, 2, 4, 8, .... adalah ....
+A. 1.023
+B. 2.047
+C. 1.024
+D. 2.048
+E. 512
+
+==================================================
+
+Soal 11:
+Jarak kota Surabaya-Yogyakarta adalah 360 km. Robi berangkat pada pukul 08.00 dengan kecepatan 40 km/jam, sedangkan Irvan berangkat pada pukul 09.00 dengan kecepatan 50 km/jam. Pada pukul berapakah Irvan akan menyusul Robi?
+A. 12.00
+B. 14.00
+C. 11.00
+D. 13.00
+E. 15.00
+
+==================================================
+
+Soal 12:
+Jarak kota A dan B adalah 320 km. Rendra berkendara dari kota A dengan kecepatan 30 km/jam, sedangkan Ansori berkendara dari kota B dengan kecepatan 50 km/jam. Jika mereka berangkat pada jam yang sama, yaitu pukul 08.00, mereka akan berpapasan pada pukul ...
+A. 13.00
+B. 10.00
+C. 14.00
+D. 12.00
+E. 11.00
+
+==================================================
+
+Soal 13:
+Pak Sarto pergi berkendara menggunakan sepeda motor dari kota Yogyakarta ke Solo dengan kecepatan rata-rata 60 km/jam, kemudian pulang dari Solo-Yogyakarta dengan kecepatan rata-rata 50 km/jam. Berapakah rata-rata kecepatan pergi-pulang ...
+A. 55 km/jam
+B. 54,33 km/jam
+C. 48,33 km/jam
+D. 60 km/jam
+E. 54, 54km/jam
+
+==================================================
+
+Soal 14:
+Sebuah truk yang bermuatan 1 1/8 ton gula, masih bisa dimuati lagi sebanyak 400 kg. Banyaknya kapasitas truk tersebut adalah ... pon.
+A. 7.625 pon
+B. 3.050 pon
+C. 1.525 pon
+D. 762,5 pon
+E. 15.250 pon
+
+==================================================
+
+Soal 15:
+Seseorang membeli 4 buah buku dengan harga per buah Rp4.000,00 dan membeli lagi 8 buku dengan harga Rp5.500,00. Rata-rata harga semua keseluruhan buku adalah ...
+A. Rp4.800,00
+B. Rp5.300.00
+C. Rp5.000,00
+D. Rp4.500,00
+E. Rp5.250,00
+
+==================================================
+
+Soal 16:
+Yoga memperoleh hadiah uang dari ayahnya. Jika sepertiganya untuk membeli mainan dan setengah dari sisanya untuk membeli buku maka diperoleh sisa Rp50.000. Banyak uang yang diterima Yoga adalah ....
+A. Rp150.000,00
+B. Rp100.000,00
+C. Rp180.000,00
+D. Rp120.000,00
+E. Rp160.000,00
+
+==================================================
+
+Soal 17:
+Dalam kegiatan kerja bakti. Jika dikerjakan oleh 24 orang maka selesai dalam waktu 4 jam. Jika banyaknya yang datang adalah 36 orang maka banyaknya waktu yang diperlukan adalah ...
+A. 2 jam 45 menit
+B. 3 jam 20 menit
+C. 1 jam 50 menit
+D. 1 jam 30 menit
+E. 2 jam 40 menit
+
+==================================================
+
+Soal 18:
+Seutas tali dipotong menjadi dua bagian dengan bagian yang panjang adalah 1,5 kali bagian yang pendek. Jika bagian yang panjang adalah 18 m maka panjang tali sebelum dipotong adalah ...
+A. 33 m
+B. 39 m
+C. 30 m
+D. 27 m
+E. 36 m
+
+==================================================
+
+Soal 19:
+Diketahui data: 228, 229, 226, 227, 233, 232, 231, 234, 230. Rata-rata data tersebut adalah ...
+A. 232
+B. 230
+C. 231
+D. 229
+E. 233
+
+==================================================
+
+Soal 20:
+Rata-rata penjualan kebab dalam 13 hari adalah 50. Pada hari ke-14 penjualan kebab adalah 64 maka rata-rata penjualan dalam 14 hari adalah ...
+A. 50
+B. 51
+C. 49
+D. 57
+E. 52
+
+==================================================
+
+Soal 21:
+Dalam kegiatan kerja bakti, 20 orang membawa cangkul, 40 orang membawa arit, 10 orang membawa cangkul dan arit. Jika banyaknya orang yang tidak membawa keduanya 15 orang maka banyaknya orang yang ikut kerja bakti adalah ....
+A. 55
+B. 70
+C. 85
+D. 75
+E. 65
+
+==================================================
+
+Soal 22:
+Dalam kegiatan pramuka, sebanyak 50 siswa membawa tongkat dan 65 siswa membawa tali. Jika banyaknya peserta adalah 90 dan tidak ada yang tidak membawa salah satu dari keduanya, maka banyaknya peserta yang membawa tongkat dan tali adalah ...
+A. 38 peserta
+B. 30 peserta
+C. 26 peserta
+D. 25 peserta
+E. 35 peserta
+
+==================================================
+
+Soal 23:
+Nilai rata-rata siswa putra adalah 78 dan nilai rata-rata siswa putri adalah 70. Jika nilai rata-rata siswa dalam kelas adalah 73 maka perbandingan banyaknya siswa putra dengan siswa putri adalah ...
+A. 3 : 4
+B. 5 : 6
+C. 3 : 5
+D. 5 : 3
+E. 4 : 5
+
+==================================================
+
+Soal 24:
+Rata-rata tinggi badan pada suatu kelompok siswa yang terdiri atas 5 orang adalah 155 cm, dan setelah anggota kelompok bertambah satu orang, rata-rata tinggi badan menjadi 156 cm. Tinggi badan siswa yang terakhir masuk ke kelompok tersebut adalah ...
+A. 1,60 m
+B. 1,58 m
+C. 1,57 m
+D. 1,61 m
+E. 1,56 m
+
+==================================================
+
+Soal 25:
+Terdapat pakan 45 kg yang dapat dihabiskan oleh 120 ekor ayam dalam 1 hari. Jika ditambahkan ayam sebanyak 160 ekor, berapakah pakan yang harus ditambah dalam 3 hari?
+A. 45 kg
+B. 180 kg
+C. 60 kg
+D. 135 kg
+E. 120 kg
+
+==================================================
+
+Soal 26:
+Perbandingan uang Soim dan Galih adalah 3 : 5. Jika jumlah uang mereka adalah Rp720.000,00, selisih uang Soim dan Galih adalah ....
+A. Rp100.000,00
+B. Rp150.000,00
+C. Rp180.000,00
+D. Rp120.000,00
+E. Rp90.000,00
+
+==================================================
+
+Soal 27:
+Dalam suatu kelas terdapat 60 siswa. Banyaknya yang gemar sepakbola ada 40 siswa, yang gemar bulu tangkis ada 29 siswa. Jika yang gemar keduanya ada 23 siswa maka banyaknya siswa yang tidak gemar keduanya adalah ....
+A. 20
+B. 16
+C. 14
+D. 10
+E. 18
+
+==================================================
+
+Soal 28:
+Ada 8 orang yang akan duduk di meja melingkar. Banyaknya cara duduk mereka adalah ....
+A. 5040 cara
+B. 120 cara
+C. 49 cara
+D. 343 cara
+E. 840 cara
+
+==================================================
+
+Soal 29:
+Sebotol sirop dapat dibuat 120 gelas minuman jika dilarutkan dalam air dengan perbandingan 1 bagian sirop untuk 5 bagian air. Berapa gelas minuman yang diperoleh dari sebotol sirup jika perbandingan larutannya 1 bagian sirop untuk 4 bagian air?
+A. 90 gelas
+B. 105 gelas
+C. 100 gelas
+D. 120 gelas
+E. 96 gelas
+
+==================================================
+
+Soal 30:
+Umur B tiga kali umur A, sedangkan umur C 6 tahun lebih muda dari umur B. Jika rata-rata umur A, B, dan C adalah sama dengan umur C - 8, berapakah jumlah umur B dan C?
+A. 44
+B. 102
+C. 36
+D. 48
+E. 40
+
+==================================================
+
+Soal 31:
+Suatu kaleng tabung dengan diameter 28 cm dan tinggi 60 cm. Pewangi tersebut akan dituangkan ke dalam botol-botol kecil berbentuk silinder dengan diameter 7 cm dan tingginya 10 cm. Banyak botol kecil yang diperlukan untuk menampung pewangi tersebut adalah ...
+A. 108 botol
+B. 100 botol
+C. 90 botol
+D. 96 botol
+E. 112 botol
+
+==================================================
+
+Soal 32:
+Perhatikan gambar di bawah ini!
+Diketahui diameter alas tabung adalah 21 cm dan tinggi tabung 20 cm. Volume tabung di luar kerucut adalah ...
+A. 4.440 cm kubik
+B. 4.760 cm kubik
+C. 4.320 cm kubik
+D. 4.620 cm kubik
+E. 4.540 cm kubik
+
+==================================================
+
+Soal 33:
+Perhatikan gambar di bawah ini!
+Volume daerah yang diarsir adalah ....
+A. 8,360 liter
+B. 7,880 liter
+C. 10,240 liter
+D. 9,240 liter
+E. 8,880 liter
+
+==================================================
+
+Soal 34:
+Dodi akan membuat kotak berbentuk balok dengan perbandingan panjang : lebar : tinggi = 4 : 2 : 3. Jika panjang kotak 12 cm, luas seluruh permukaan kotak adalah ...
+A. 688 cm persegi
+B. 468 cm persegi
+C. 624 cm persegi
+D. 576 cm persegi
+E. 516 cm persegi
+
+==================================================
+
+Soal 35:
+Sebuah tempat air berbentuk balok dibuat model berukuran 8 cm x 6 cm x 2 cm menggunakan skala 1:100. Volume tempat air tersebut adalah ...
+A. 960.000 liter
+B. 96 liter
+C. 9.600 liter
+D. 96.000 liter
+E. 9.600 liter
+
+==================================================
+
