@@ -1,0 +1,406 @@
+Soal 1:
+Mudun = ....
+A. Referensi
+B. Setuju
+C. Beradab
+D. Turun
+E. Mujur
+
+==================================================
+
+Soal 2:
+Monoton >< ....
+A. Seragam
+B. Homogen
+C. Dinamis
+D. Statis
+E. Kreatif
+
+==================================================
+
+Soal 3:
+SEHAT : SAKIT = .... : ....
+A. Kelok : Lurus
+B. Segitiga : Segiempat
+C. Maju : Mundur
+D. Kuman : Obat
+E. Truk : Bus
+
+==================================================
+
+Soal 4:
+PAUS : LAUT = .... : ....
+A. Virus : Air
+B. Kijang : Lapangan
+C. Burung : Udara
+D. Sapi : Kandang
+E. Bandeng : Tambak
+
+==================================================
+
+Soal 5:
+Sebuah bak air berisi air 3/5 bagian. Apabila kedalam bak air tersebut
+dituangkan 5 liter minyak maka drum itu menjadi 4/6 bagian. Kapasitas
+drum tersebut adalah ….. liter
+A. 25
+B. 225
+C. 15
+D. 50
+E. 75
+
+==================================================
+
+Soal 6:
+Bakrie memiliki sebidang tanah. 2/5 bagian dari tanah yang dimilikinya dia
+bangun menjadi gudang, 1/4 nya dia jadikan kolam renang dan 2/3 dari sisa
+tanahnya dijadikan pekarangan. Jika luas pekarangan bakrie 112 m2,
+berapa m2 luas tanah bakrie seluruhnya?
+A. 300
+B. 336
+C. 480
+D. 280
+E. 320
+
+==================================================
+
+Soal 7:
+X = 1/17 dan Y = 0,17, maka hubungan X dan Y?
+A. x = 2y
+B. x = y
+C. x > y
+D. Hubungan x dan y tak dapat ditentukan
+E. x < y
+
+==================================================
+
+Soal 8:
+Peluang dadu yang muncul berjumlah 11 jika 2 buah dadu dilempar secara
+bersama-sama adalah ....
+A. 0,25
+B. 0,056
+C. 0,625
+D. 0,75
+E. 0,125
+
+==================================================
+
+Soal 9:
+Banyaknya himpunan x yang ada pada 10 < x < 78 yang habis dibagi 5
+adalah....
+A. 16
+B. 15
+C. 13
+D. 17
+E. 14
+
+==================================================
+
+Soal 10:
+Banyaknya bilangan yang habis dibagi 7 dari himpunan bilangan asli kurang
+dari 77 adalah ...
+A. 9
+B. 8
+C. 7
+D. 10
+E. 11
+
+==================================================
+
+Soal 11:
+Pada sebuah peta jarak 1 sentimeter mewakili 240 kilometer. Berarti jarak
+3,75 sentimeter pada peta mewakili ...
+A. 700
+B. 900
+C. 850
+D. 800
+E. 750
+
+==================================================
+
+Soal 12:
+Dua buah bilangan apabila dijumlahkan maka jumlahnya 155. Selisih kedua
+bilangan tersebut adalah 13. Bilangan pertama lebih besar daripada
+bilangan kedua. Berapa nilai bilangan kedua ?
+A. 69
+B. 73
+C. 75
+D. 76
+E. 71
+
+==================================================
+
+Soal 13:
+40% dari penduduk Indonesia adalah laki-laki. Jika ada 30% yang sudah
+menikah maka jumlah laki-laki yang belum menikah adalah ...
+A. 28%
+B. 35%
+C. 45%
+D. 60%
+E. 20%
+
+==================================================
+
+Soal 14:
+Seorang pedagang menjual sebuah barang dengan harga Rp50.000. Dari
+hasil penjualannya ia memperoleh untung 25%. Jika ia ingin memperoleh
+untung menjadi 30% berapakah harga baru barang tersebut?
+A. Rp. 60.000,-
+B. Rp. 55.000,-
+C. Rp. 54.000,-
+D. Rp. 52.000,-
+E. Rp. 62.000,-
+
+==================================================
+
+Soal 15:
+Jarak kota Surabaya dengan Jakarta di peta adalah 9 cm. Jika jarak
+sesungguhnya adalah 900 km. Berapa skala peta tersebut ?
+A. 1 : 1000
+B. 1 : 10.000
+C. 1 : 100
+D. 1 : 1.000.000
+E. 1 : 10.000.000
+
+==================================================
+
+Soal 16:
+Seorang siswa mengikuti kuis dan tidak dapat menjawab 45 soal. Jika siswa
+tersebut memporeleh skor 71,875%, maka berapa jumlah semua soal ?
+A. 100
+B. 160
+C. 115
+D. 90
+E. 120
+
+==================================================
+
+Soal 17:
+Seseorang mengendarai motor dari titik x ke titik y. berangkat dari titik x
+menuju ke timur sepanjang 20 km, lalu belok ke utara 20 km, lalu belok ke
+timur 10 km, lalu belok ke utara 10 km, dan terakhir belok ke timur 10 km
+sampai titik y. berapa km jauh dari titik x ke titik y?
+A. 50
+B. 80
+C. 60
+D. 90
+E. 70
+
+==================================================
+
+Soal 18:
+Sebuah bejana berbentuk silinder berisi 1/5 nya. Jika ditambahkan 6 liter
+lagi, bejana ini menjadi berisi 1/2 nya. Berapa liter kapasitas bejana
+tersebut?
+A. 20
+B. 24
+C. 22
+D. 18
+E. 28
+
+==================================================
+
+Soal 19:
+Bacaan utuk soal 19-23
+Dalam sebuah keluarga A, B, C, D, E, F, G, secara acak adalah ayah, ibu,
+istri, adik perempuan, adik laki-laki, anak laki-laki, dan anak perempuan
+dari X. Beberapa hal mengenai mereka adalah sebagai berikut :
+X seumuran dengan istrinya
+A adalah perempuan
+E dan D lebih muda dari F
+B dan G lebih muda dari A
+B adalah laki-laki
+A. A dan D benar
+B. A adalah anak perempuan
+C. G adalah istri
+D. B adalah adik perempuan
+E. C adalah ayah
+
+==================================================
+
+Soal 20:
+Jika D dan B adalah adik, maka pernyataan yang salah adalah ….
+A. Tidak ada pernyataan yang salah
+B. E adalah anak laki-laki
+C. A adalah istri
+D. F adalah istri
+E. C adalah anak laki-laki
+
+==================================================
+
+Soal 21:
+Jika E dan G adalah wanita, maka pernyataan yang benar adalah ….
+A. D adalah anak perempuan
+B. F adalah ibu
+C. A dan D benar
+D. A adalah adik perempuan X
+E. B adalah ayah X
+
+==================================================
+
+Soal 22:
+Bila B adalah adik, maka yang salah adalah ....
+A. C adalah anak laki-laki
+B. A adalah istri
+C. G adalah ibu
+D. Tidak ada jawaban yang benar
+E. F adalah istri
+
+==================================================
+
+Soal 23:
+Jika D adalah istri dan C adalah ayah, maka yang benar adalah .…
+A. B dan C benar
+B. E adalah adik perempuan
+C. F adalah adik perempuan
+D. A adalah adik perempuan
+E. G adalah adik perempuan
+
+==================================================
+
+Soal 24:
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_24_img1.png)
+A. 1/4
+B. 1/3
+C. 1/2
+D. 1
+E. 2/3
+
+==================================================
+
+Soal 25:
+3 (94) 8
+5 (26) 1
+7 (68) 5
+6 (….) 2
+A. 34
+B. 36
+C. 38
+D. 37
+E. 35
+
+==================================================
+
+Soal 26:
+Seri huruf c, e, g, e, k, e, o selanjutnya adalah …
+A. o, p
+B. s, e
+C. o, g
+D. n, o
+E. e, s
+
+==================================================
+
+Soal 27:
+Seri huruf f, j, n, r selanjutnya adalah …
+A. t
+B. s
+C. v
+D. z
+E. o
+
+==================================================
+
+Soal 28:
+Pengurus panti asuhan seharusnya berjiwa sosial. Sebagian caleg pernah
+menjadi pengurus panti asuhan.
+A. Semua orang yang pernah menjadi caleg adalah pengurus panti asuhan
+B. Sebagian pengurus panti asuhan ingin menjadi caleg
+C. Semua pengurus panti asuhan berjiwa sosial
+D. Caleg itu selalu berjiwa social
+E. Sebagian caleg seharusnya berjiwa social
+
+==================================================
+
+Soal 29:
+Semua kertas HVS sangat berguna. Sebagian kertas yang sangat berguna
+harganya murah
+A. Sebagian kertas harganya murah-murah
+B. Kertas yang murah sangat berguna
+C. Semua kertas yang sangat berharga adalah kertas HVS
+D. Semua kertas yang harganya murah adalah kertas HVS
+E. Semua kertas HVS harganya murah
+
+==================================================
+
+Soal 30:
+Sebuah belah ketupat memiliki 2 diagonal. Jika diagonal pertama diperbesar
+sebesar 6 kali dan diagonal kedua diperbesar sebesar 8 kali. Berapa
+perbandingan luas belah ketupat sebelum diperbesar dan setelah diperbesar?
+A. 1 : 48
+B. 1 : 36
+C. 1 : 14
+D. 1 : 30
+E. 1 : 50
+
+==================================================
+
+Soal 31:
+Manakah gambar yang tidak sepola dengan gambar yang lain?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_31_img1.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_31_img2.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_31_img3.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_31_img4.png)
+A. D
+B. B
+C. C
+D. E
+E. A
+
+==================================================
+
+Soal 32:
+Manakah gambar yang tidak sepola dengan gambar yang lain?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_32_img1.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_32_img2.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_32_img3.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_32_img4.png)
+A. E
+B. A
+C. B
+D. C
+E. D
+
+==================================================
+
+Soal 33:
+Manakah gambar yang tidak sepola dengan gambar yang lain?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_33_img1.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_33_img2.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_33_img3.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_33_img4.png)
+A. E
+B. B
+C. D
+D. C
+E. A
+
+==================================================
+
+Soal 34:
+Manakah gambar yang tidak sepola dengan gambar yang lain?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_34_img1.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_34_img2.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_34_img3.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_34_img4.png)
+A. E
+B. D
+C. C
+D. A
+E. B
+
+==================================================
+
+Soal 35:
+Manakah gambar yang tidak sepola dengan gambar yang lain?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_35_img1.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_35_img2.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_35_img3.png)
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_172/soal_35_img4.png)
+A. A
+B. C
+C. D
+D. B
+E. E
+
+==================================================
+

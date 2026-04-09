@@ -1,0 +1,445 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nJAYA WIJAYA : INDONESIA = ... : NEPAL",
+        "pilihan": [
+            "Ghobi",
+            "Amazone",
+            "Everest",
+            "Sahara",
+            "Mekong"
+        ],
+        "jawaban_benar": "Everest",
+        "pembahasan": "Jaya Wijaya adalah gunung tertinggi yang dimiliki indonesia. Kata yang analog dengan pernyataan tersebut adalah gunung Everest merupakan gunung tertinggi di Nepal."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nMANIS : GULA = ... : GARAM",
+        "pilihan": [
+            "Asin",
+            "Keju",
+            "Air laut",
+            "Jamu",
+            "Cuka"
+        ],
+        "jawaban_benar": "Asin",
+        "pembahasan": "Rasa manis diperoleh dari adanya kan dungan gula. Kata yang analog dengan pernyataan tersebut adalah rasa asin diperoleh karena adanya kandungan garam."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nKARDIOLOGI: JANTUNG= ... : ...",
+        "pilihan": [
+            "Akuntansi : Perusahaan",
+            "Teknologi : Alat",
+            "Biologi : Umum",
+            "Farmakologi : Obat-obatan",
+            "Phatologi : Peta"
+        ],
+        "jawaban_benar": "Farmakologi : Obat-obatan",
+        "pembahasan": "ilmu kardiologi mempelajari tentang jantung sedangkan ilmu farmakologi mempelajari tentang obat-obatan. Jadi, padanan hubungan kata (analogi) dari Kardiologi : Jantung adalah Farmakologi : Obat-obatan."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nBAWANG : SIUNG = ... : ...",
+        "pilihan": [
+            "Pakaian : Kodi",
+            "Kain : Meter",
+            "Telur : Butir",
+            "Kertas : Kilogram",
+            "Buku : Lembar"
+        ],
+        "jawaban_benar": "Telur : Butir",
+        "pembahasan": "Satuan bawang adalah siung, sedang kan satuan telur adalah butir. Jadi, padanan hubungan kata (analogi) dari Bawang: Siung adalah Telur : Butir."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nRambut : Botak = Gigi : …",
+        "pilihan": [
+            "Ompong",
+            "Taring",
+            "Putih",
+            "Tanggal",
+            "Tua"
+        ],
+        "jawaban_benar": "Ompong",
+        "pembahasan": "Tidak ada rambut menjadi botak, sebagaimana tidak ada gigi menjadi\nompong."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nSANGKURIANG : SUNDA = ... : ...",
+        "pilihan": [
+            "Oedipus : Yunani",
+            "Ranggawarsita : Jawa",
+            "Himalaya : Nepal",
+            "Gangga : India",
+            "Tengsin : Tibet"
+        ],
+        "jawaban_benar": "Oedipus : Yunani",
+        "pembahasan": "SANGKURIANG : SUNDA = Oedipus : Yunani"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nSemua siswa yang lulus ujian pasti pandai.\nSebagian siswa kelas 12 bukan siswa yang pandai.\nKesimpulan yang benar adalah …",
+        "pilihan": [
+            "Semua yang lulus ujian adalah siswa kelas 12",
+            "Sebagian siswa yang pandai tidak lulus ujian",
+            "Semua siswa yang pandai adalah siswa kelas 12",
+            "Sebagian siswa kelas 12 tidak mengikuti ujian",
+            "Sebagian siswa kelas 12 tidak lulus ujian"
+        ],
+        "jawaban_benar": "Sebagian siswa kelas 12 tidak lulus ujian",
+        "pembahasan": "Semua siswa yang lulus ujian pasti pandai.\nSebagian siswa kelas 12 bukan siswa yang pandai.\nKesimpulan : Sebagian siswa kelas 12 tidak lulus ujian"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nKejujuran S tidak sebaik D. Terkadang M kurang jujur,\ntapi sesungguhnya dia masih lebih jujur daripada R. B\nlebih suka berbohong daripada H. D cukup jujur, tapi\nsecara umum M lebih jujur daripada D. Dan I sama\njujurnya dengan K. D lebih jujur daripada H dan K.\nSiapakah diantara mereka yang paling jujur?",
+        "pilihan": [
+            "M"
+        ],
+        "jawaban_benar": "M",
+        "pembahasan": "Yang paling jujur adalah M"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nHasil survei di Jakarta menunjukkan bahwa makanan\nItalia lebih disukai daripada makanan Thailand. Makanan Jepang dan Vietnam sama-sama disukai\nnamun makanan Italia lebih disukai daripada makanan\nJepang dan Vietnam. Makanan Korea lebih disukai\ndaripada makanan Italia, makanan Jepang lebih\ndisukai daripada makanan Thailand.Urutan makanan yang\npaling tidak disukai hingga yang paling disukai adalah ...",
+        "pilihan": [
+            "Makanan Tailand, makanan Jepang/Vietnam, makanan Korea, makanan Italia",
+            "Makanan Thailand, makanan Jepang/Vietnam, makanan Italia, makanan Korea",
+            "Makanan Jepang/Vietnam, makanan Thailand, makanan Italia, makanan Korea",
+            "Makanan Italia, makanan Korea, makanan Thailand, makanan Jepang/Vietnam",
+            "Makanan Korea, makanan Italia, makanan Jepang/Vietnam, makanan Thailand"
+        ],
+        "jawaban_benar": "Makanan Thailand, makanan Jepang/Vietnam, makanan Italia, makanan Korea",
+        "pembahasan": "Dari soal, dapat dibuat daftar berikut :\n1) Makanan Italia lebih disukai daripada makanan Thailand\n2) Makanan Jepang dan Vietnam sama-sama disukai\n3) Makanan Italia lebih disukai daripada makanan Jepang dan\nVietnam.\n4) Makanan Korea lebih disukai daripada makanan Italia\n5) Makanan Jepang lebih disukai daripada makanan Thailand\nDaftar 1), 3), dan 4) menunjukkan bahwa makanan Korea yang\npaling disukai, baru kemudian makanan Italia.\nDaftar 3) dan 5) menunjukkan bahwa makanan Thailand adalah makanan yang paling tidak disukai dari kelima jenis makanan.\nMaka, urutan jenis makanan dari yang paling tidak disukai adalah \nmakanan Thailand, makanan Jepang/Vietnam, makanan Italia, makanan \nKorea."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_10_img1.png]",
+        "pilihan": [
+            "2 1/2",
+            "6 3/16",
+            "6 5/8",
+            "36/44",
+            "99/16"
+        ],
+        "jawaban_benar": "99/16",
+        "pembahasan": "9/4 x 11/4 = 99/16"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\n√72 − √8 + √2 = ...",
+        "pilihan": [
+            "5 √2",
+            "4 √2",
+            "3 √3",
+            "3 √2",
+            "2 √2"
+        ],
+        "jawaban_benar": "5 √2",
+        "pembahasan": "√72 − √8 + √2 = 6 √6 − 2 √2 + √2 = (6 − 2 + 1) √2 = 5 √2"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nSebuah populasi yang terdiri dari 4.800 orang\nmengalami pertumbuhan sebesar 20%. Berapa jumlah\norang setelah terjadi pertumbuhan?",
+        "pilihan": [
+            "5.500 orang",
+            "5.650 orang",
+            "5.700 orang",
+            "5.760 orang",
+            "5.800 orang"
+        ],
+        "jawaban_benar": "5.760 orang",
+        "pembahasan": "Pertumbuhan = 100% + 20% = 120% > 120% = 1,2\n1,2 x 4.800 = 5.760 orang"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\n0, 575 : 0, 025=...",
+        "pilihan": [
+            "23"
+        ],
+        "jawaban_benar": "23",
+        "pembahasan": "Kedua ruas dikalikan dengan 1000\n0, 575 : 0, 025 = 575 : 25 = 23"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\n56 − 12 × 32% = ...",
+        "pilihan": [
+            "52,16",
+            "56,16"
+        ],
+        "jawaban_benar": "52,16",
+        "pembahasan": "32% mendekati 33%, dan nilai 33% nilainya adalah sekitar 1/3\nMaka 12 x 32% adalah sekitar 4\n56 dikurangi sekitar 4, hasilnya sekitar 52.\nJadi jawaban yang mendekati adalah 52,16"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nJika x = berat total kotak yang masing-masing\nberatnya q kg.\nJika y = berat total q yang masing-masing beratnya p kg, maka ...",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "2x = 2y",
+            "x dan y tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "x = y",
+        "pembahasan": "x = p × q = pq\ny = q × p = qp\nkarena pq = qp maka x = y\nBukit =\nmisal p = 5 dan q = 2\nx = p kotak . q kg\nx = 5 kotak . 2 kg\nx = 10 kg\ny = q kotak . q kg\ny = 2 kotak . 5 kg\ny = 10 kg\nkarena x dan y sama 10 kg maka diperoleh x = y"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nJadi p = 3, q = 1 dan x =\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_16_img1.png]\nserta y = pq + q\n³ maka ...",
+        "pilihan": [
+            "x > y",
+            "x  < y",
+            "x = y",
+            "x > 2y",
+            "hubungan antara x dan y tak dapat ditentukan"
+        ],
+        "jawaban_benar": "x = y",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_16_pemb_img1.png]"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nJika 214ab + 3 = 315, maka 428ab = …",
+        "pilihan": [
+            "611",
+            "624",
+            "636",
+            "676",
+            "693"
+        ],
+        "jawaban_benar": "624",
+        "pembahasan": "214ab + 3 = 315 ⇔ 418ab + 6 = 630\n418ab = 630 − 6\n418ab = 624"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nDasawarsa + 3 lustrum- windu = ...",
+        "pilihan": [
+            "23 tahun",
+            "20 tahun",
+            "17 tahun",
+            "13 tahun",
+            "10 tahun"
+        ],
+        "jawaban_benar": "17 tahun",
+        "pembahasan": "1 Dasawarsa + 3 lustrum - 1 Windu = 10(3 x 5) - 8 = 17 tahun"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nUmur Melly 7 tahun lebih muda dari umur Ayu. Jumlah\numur mereka adalah 43 tahun. Umur Ayu adalah …",
+        "pilihan": [
+            "25"
+        ],
+        "jawaban_benar": "25",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_19_pemb_img1.png]"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nBu Intan memiliki ladang yang ditanami pohon sengon\ndan pohon jati dengan rata-rata tinggi pohon adalah\n530 cm. Rata-rata tinggi pohon sengon adalah 420 cm\ndan pohon jati 560 cm. Jika m adalah jumlah pohon\nsengon dan n jumlah pohon jati maka …",
+        "pilihan": [
+            "m < n",
+            "m = n",
+            "hubungan m dan n tidak dapat diprediksi",
+            "m = n²",
+            "m > n"
+        ],
+        "jawaban_benar": "m > n",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_20_pemb_img1.png]"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika tabung P tingginya dua kali tabung Q dan Panjang jari-jarinya setengah dari\nPanjang jari-jari tabung Q, Berapakah perbandingan isi tabung P terhadap isi tabung\n?",
+        "pilihan": [
+            "1 : 4",
+            "1 : 2",
+            "1 : 1",
+            "2 : 1",
+            "4 : 1"
+        ],
+        "jawaban_benar": "1 : 2",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_21_pemb_img1.png]"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSebuah kubus memiliki volume 216 cm³ . Panjang\ndiagonal ruang kubus itu adalah …",
+        "pilihan": [
+            "8 √3 cm",
+            "6 √3 cm",
+            "6 √2 cm",
+            "9 √2 cm",
+            "9 √3 cm"
+        ],
+        "jawaban_benar": "6 √3 cm",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_22_pemb_img1.png]"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_23_img1.png]",
+        "pilihan": [
+            "156",
+            "194",
+            "312",
+            "144"
+        ],
+        "jawaban_benar": "156",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_23_pemb_img1.png]"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nSuku ke-5 sebuah deret aritmetika adalah 11 dan jumlah\nsuku ke-12 sama dengan 52. Jumlah 8 suku pertama\nderet tersebut adalah …",
+        "pilihan": [
+            "76"
+        ],
+        "jawaban_benar": "76",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_24_pemb_img1.png]"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n1, 0, 6, 2, 1, 7, 3, 2, …",
+        "pilihan": [
+            "8"
+        ],
+        "jawaban_benar": "8",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_25_pemb_img1.png]"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\n2, 3, 6, 9, 18, 27, … , …",
+        "pilihan": [
+            "54 dan 34",
+            "32 dan 28",
+            "27 dan 36",
+            "54 dan 81"
+        ],
+        "jawaban_benar": "54 dan 81",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nX, W, U, V, T, S, Q, R, P, O, … , …",
+        "pilihan": [
+            "N dan L",
+            "L dan M",
+            "N dan M",
+            "M dan N",
+            "M dan L"
+        ],
+        "jawaban_benar": "M dan N",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_27_pemb_img1.png]"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nEmpat orang membangun jembatan untuk sungai dan\nselesai dalam 15 hari. Jika jembatan ingin diselesaikan\ndalam 6 hari, berapa orang yang diperlukan untuk\nmenyelesaikannya?",
+        "pilihan": [
+            "12 orang",
+            "10 orang",
+            "8 orang",
+            "4 orang",
+            "6 orang"
+        ],
+        "jawaban_benar": "10 orang",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_28_pemb_img1.png]"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nBerat dari empat buah paket masing-masing 20, 60, 80,\ndan 140 kg. manakah dari total berat berikut (dalam kg)\nyang bukan merupakan berat kombinasi yang dapat\ndibuat dari empat buah paket tersebut?",
+        "pilihan": [
+            "200",
+            "240",
+            "260",
+            "280",
+            "220"
+        ],
+        "jawaban_benar": "260",
+        "pembahasan": "Pilihan A : 200 = 140 + 60\nPilihan B : 240 = 140 + 80 + 20\nPilihan C : 260 (tidak dapat dibuat kombinasi berat dari empat paket\ntersebut)\nPilihan D : 280 = 140 + 80 + 60\nPilihan E : 220 = 140 + 80"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nJika sebuah dadu dilempar sekali, maka peluang\nmunculnya mata dadu 6 adalah ..",
+        "pilihan": [
+            "1/6",
+            "1/5",
+            "1/4",
+            "1/3",
+            "1/2"
+        ],
+        "jawaban_benar": "1/6",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_30_pemb_img1.png]"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nSebuah kantong terdiri dari 4 kelereng merah, 3\nkelereng biru, dan 5 kelereng hijau. Dari kelerengkelereng tersebut akan diambil satu kelereng. Peluang\nterambilnya kelereng berwarna biru adalah …",
+        "pilihan": [
+            "1/4",
+            "2/4",
+            "3/5"
+        ],
+        "jawaban_benar": "1/4",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_31_pemb_img1.png]"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_32_pemb_img1.png]"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nCarilah gambar yang berbeda",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_33_pemb_img1.png]"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nManakah gambar yang tidak sepola dengan gambar yang lain?\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_34_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_34_img2.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_34_img3.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_34_img4.png]",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "﻿\nJawaban yang paling tepat adalah Opsi A yaitu\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_34_pemb_img1.png]\nPola yang dibentuk pada gambar A tidak memiliki sudut 90 derajat atau siku-siku, karena di dalamnya terdiri dari susunan gambar segilima. Opsi lain terdiri dari susunan gambar segiempat."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nManakah gambar yang tidak sepola dengan gambar yang lain?\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_35_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_35_img2.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_35_img3.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_35_img4.png]",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Jawaban yang paling tepat adalah Opsi C yaitu\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_340/gambar/soal_35_pemb_img1.png]\nPada tiap-tiap gambar terdapat 2 atau lebih buah persegi, namun tidak untuk pilihan C yang hanya memiliki sebuah persegi."
+    }
+]

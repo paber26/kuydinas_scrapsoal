@@ -1,0 +1,414 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nGANCU =  ________",
+        "pilihan": [
+            "Serokan",
+            "Karung",
+            "Timbangan",
+            "Pengait",
+            "Jangkar"
+        ],
+        "jawaban_benar": "Pengait",
+        "pembahasan": "Gancu = sejenis alat terbuat dari batang besi yang ujungnya diberi pengait. Alat ini biasanya digunakan untuk menarik karung beras."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nKUNYUK =  ________",
+        "pilihan": [
+            "Sial",
+            "Macan",
+            "Gorilla",
+            "Kera kecil",
+            "Kancil"
+        ],
+        "jawaban_benar": "Kera kecil",
+        "pembahasan": "Kunyuk = kera kecil, monyet; kata sindiran untuk menyatakan orang yang tidak tahu aturan (adat) atau orang bodoh."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nKONVENSI =  ________",
+        "pilihan": [
+            "Musyawarah",
+            "Kesepakatan",
+            "Ketentuan",
+            "Perundingan",
+            "Syarat"
+        ],
+        "jawaban_benar": "Kesepakatan",
+        "pembahasan": "Konvensi = kesepakatan umum terutama mengenai bentuk-bentuk tata krama; adat istiadat atau kebiasaan yang berdasarkan kesepakatan umum."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nPERLOP > <  ________",
+        "pilihan": [
+            "Masuk",
+            "Kerja",
+            "Dating",
+            "Absen",
+            "Pulang"
+        ],
+        "jawaban_benar": "Kerja",
+        "pembahasan": "Perlop = cuti (berhenti kerja beberapa lama untuk istirahat/ rehat, karena sakit, dsb.). Lawannya adalah kerja."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nTESIS > <  ________",
+        "pilihan": [
+            "Sintesis",
+            "Hipotesis",
+            "Epitesis",
+            "Antitesis",
+            "Paratesis"
+        ],
+        "jawaban_benar": "Antitesis",
+        "pembahasan": "Tesis adalah pernyataan atau teori untuk dikemukakan dan didukung oleh argumen- argumen. Lawannya adalah antitesis = pernyataan yang bertentangan dengan kebenaran (biasanya tidak didukung teori atau argumen-argumen)."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nPEMUPUKAN > <  ________",
+        "pilihan": [
+            "Reboisasi.",
+            "Defertilisasi.",
+            "Renovasi.",
+            "Rehabilitasi.",
+            "Fertilisasi."
+        ],
+        "jawaban_benar": "Defertilisasi.",
+        "pembahasan": "Pemupukan = tindakan menyuburkan tanah dengan pupuk (rabuk). Lawannya adalah defertilisasi = keadaan tidak subur (kurang pupuk)."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nACEH : SERAMBI MEKAH =  ________ : ________",
+        "pilihan": [
+            "Michael Jackson : King Of Pop",
+            "Michael Schumacer : Pembalap",
+            "Michael Gorbachev : Pemimpin Soviet",
+            "Madona : Seksi",
+            "Agnes Monica : Penyanyi"
+        ],
+        "jawaban_benar": "Michael Jackson : King Of Pop",
+        "pembahasan": "Julukan untuk Aceh adalah Serambi Mekah. Julukan untuk Michael Jackson adalah King of pop."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nDOKTOR : DISERTASI =  ________ : ________",
+        "pilihan": [
+            "Buruh : Upah",
+            "Menteri : Kepmen",
+            "Kyai : Jamaah",
+            "Sarjana : Skripsi",
+            "Penyanyi : Lagu"
+        ],
+        "jawaban_benar": "Sarjana : Skripsi",
+        "pembahasan": "Syarat menjadi doktor adalah membuat disertasi. Syarat menjadi sarjana adalah membuat skripsi."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nGEMPA : RITCHER =  ________ : ________",
+        "pilihan": [
+            "Suhu : Fahrenheit",
+            "Ombak : Knot",
+            "Jarak : Dinamo",
+            "Banjir : Air",
+            "Panas : Derajat"
+        ],
+        "jawaban_benar": "Suhu : Fahrenheit",
+        "pembahasan": "Gempa diukur dengan skala Ritcher. Suhu diukur dengan skala Fahrenheit."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nPARI : IKAN =  ________ : ________",
+        "pilihan": [
+            "Gandum : Teri",
+            "Bayam : Sayur",
+            "Mangga : Manis",
+            "Burung : Ayam",
+            "Jambu : Biji"
+        ],
+        "jawaban_benar": "Bayam : Sayur",
+        "pembahasan": "Pari merupakan jenis ikan. Bayam merupakan jenis sayur."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nDella membeli gaun pesta seharga Rp 156.000. Ia mendapat diskon sebesar 5%. Berapa rupiah yang harus dibayar Della?",
+        "pilihan": [
+            "Rp 150.000",
+            "Rp 146.700",
+            "Rp 148.200",
+            "Rp 148.400",
+            "Rp 148.600"
+        ],
+        "jawaban_benar": "Rp 148.200",
+        "pembahasan": "Besarnya diskon\n= 5% × Rp 156.000 = Rp 7800\nJadi, yang harus dibayar Della adalah Rp 156.000 – Rp 7800 = Rp 148.200"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nJumlah yang harus dibayar untuk satu tiket dewasa dan dua tiket anak-anak adalah Rp 165.000. jika harga sebuah tiket dewasa adalah Rp 30.000 lebih mahal daripada sebuah tiket anak-anak, berapakah harga sebuah tiket anak-anak?",
+        "pilihan": [
+            "Rp 55.000",
+            "Rp 60,000",
+            "Rp 25.000",
+            "Rp 45.000",
+            "Rp 50.000"
+        ],
+        "jawaban_benar": "Rp 45.000",
+        "pembahasan": "Misalkan: \nHarga tiket dewasa = x\nHarga tiket anak-anak = y\nHarga tiket dewasa = y + R 30.000\nKalimat matematukanya menjadi:\nx + 2y\t\t         = 165.000\n(y + 30.000) + 2y\t = 165.000\n3y + 30.000\t         = 165.000\n3y\t\t\t         = 135.000\ny\t\t\t\t = 45.000\njadi, tiket anak-anak adalah Rp 45.000"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nJika x = 1/16  dan y = 16%, manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x ≠ y"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "X/Y=1/16:16/100=1/16×100/16\nJika x dan y kita bagi 4, maka:\n100/16.16=25/64\nSehingga x < y."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nSeorang petani dengan cara manual dapat menggarap sawah seluas 600 m2 selama 6 jam dan jika menggunakan traktor, waktu yang dibutuhkan hanya 3 jam saja. Pada suatu saat, setelah menggunakan traktor selama 1 jam 30 menit, traktor tersebut rusak dan petani tersebut harus menyelesaikan secara manual dengan menggunakan cangkul. Berapa lama waktu yang diperlukan untuk menyelesaikan pekerjaan tersebut?",
+        "pilihan": [
+            "3 jam 0 menit",
+            "1 jam 30 menit",
+            "2 jam 30 menit",
+            "6 jam 0 menit",
+            "4 jam 30 menit"
+        ],
+        "jawaban_benar": "3 jam 0 menit",
+        "pembahasan": "Setelah dikerjakan dengan traktor selama 1.30, maka lahan yang tinggal 300 m2. Waktu yang diperlukan untuk menyelesaikannya adalah 300m2/100 = 3 jam."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nSeorang anak yang tingginya 150 cm difoto dalam ukuran kecil dengan skala 1 : 30. Foto tersebut kemudian ukurannya diperbesar dengan skala 4 : 1. Tinggi anak dalam foto yang terakhir adalah ....",
+        "pilihan": [
+            "30 cm",
+            "20 cm",
+            "40 cm",
+            "50 cm",
+            "60 cm"
+        ],
+        "jawaban_benar": "20 cm",
+        "pembahasan": "Tinggi sebenarnya = 150 cm, skala 1:30, maka tinggi difoto = 150 cm/30 = 5 cm. Diperbesar dengan skala 4 : 1, sehingga:\n4 × 5 cm = 20 cm."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSebuah gedung memiliki lima lantai. Salah satu diantara kelima lantai tersebut hanya memiliki dua ruangan. Empat lantai lainnya masing-masing memiliki empat ruangan. Jika A= tiga kali jumlah lantai gedung, dan B = jumlah ruangan di dalam gedung, maka ...",
+        "pilihan": [
+            "A sama dengan B",
+            "Hubungan antara A dengan B tidak dapat ditentukan",
+            "A lebih besar daripada B",
+            "A lebih kecil daripada B",
+            "A tidak sama dengan B"
+        ],
+        "jawaban_benar": "Hubungan antara A dengan B tidak dapat ditentukan",
+        "pembahasan": "A = 3 × jumlah lantai = 3 × 5 = 15\nB = jumlah ruangan = (4 × 4) + 2 = 18"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nUsia rata-rata sekelompok orang yang terdiri atas akuntan dan pengacara adalah 40 tahun. Jika usia rata-rata para akuntan adalah 35 tahun dan usia rata-rata para pengacara adalah 5 tahun, berapakah perbandingan antara jumlah akuntan dan jumlah pengacara?",
+        "pilihan": [
+            "2 : 3",
+            "2 : 1",
+            "3 : 2",
+            "3 : 1",
+            "1 : 3"
+        ],
+        "jawaban_benar": "2 : 1",
+        "pembahasan": "Dengan mencoba tiap option, didaptakan perbandingan 2 : 1, sehingga jika dihitung [(2 × 35) + 50]/3 = 40."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nMita adalah karyawan pada perusahaan tekstil yang bertugas menyimpan data kenaikan produksi selama 5 periode. Setelah dicari, Mita menemukan empat data kenaikan, yaitu 4%, 9%, 7%, dan 5%. Satu data lagi, yaitu data ke-5. Jika Mita hanya ingat bahwa rata-rata hitung dan median dari lima data tersebut adalah sama, maka kenaikan produksi yang mungkin pada periode kelima adalah berkisar antara ...",
+        "pilihan": [
+            "0 sampai 10%",
+            "5% sampai 15%",
+            "10% sampai 15%",
+            "10% sampai 20%",
+            "15% sampai 20%"
+        ],
+        "jawaban_benar": "0 sampai 10%",
+        "pembahasan": "x=  (4+9+7+5+y)/5=Me\n\n5×1/5=Me\nMin. 5 + 1/5 x = 5, x = 5\nMax. 5 + 1/5x = 7, x = 10"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nSeseorang mengendarai motornya sejauh 40 km ke tempat kerjanya setiap hari dalam waktu 55 menit. Pada suatu hari ia berangkat terlambat 7 menit. Dengan kecepatan berapakah ia harus berkendaraan agar sampai pada waktu yang sama dengan waktu biasanya?",
+        "pilihan": [
+            "48 km/jam",
+            "50 km/jam",
+            "80 km/jam",
+            "60 km/jam",
+            "65 km/jam"
+        ],
+        "jawaban_benar": "50 km/jam",
+        "pembahasan": "Terlambat 7 menit berarti waktu tempuh tinggal 48 menit, sehingga:\nv=40/(48/60)=40.60/48=40.10/8=5.10/1=50 km/jam"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nWilson menempuh perjalanan 70 km dalam 2 ½ jam. Agar bisa sampai di tujuan ½ jam lebih cepat, berapa seharusnya kecepatan Wilson?",
+        "pilihan": [
+            "12 km/jam",
+            "35 km/jam",
+            "27 km/jam",
+            "28 km/jam",
+            "29 km/jam"
+        ],
+        "jawaban_benar": "35 km/jam",
+        "pembahasan": "Jika 70 km ditempuh dalam waktu 2 ½ jam maka kecepatannya (v1) = 70 : 2 ½ = 28 km/jam.\nJika ingin tiba ½ jam (0,5) lebih cepat maka kecepatannya harus:\nv2= 70/((2,5-0,5))=35 km/jam"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSebuah survei yang dilakukan pada 50 orang di sebuah btoko kaset menghasilkan:\n\t25 orang suka musik pop\n\t27 orang suka musik rock\n4 orang tidak suka musik pop atau rock Berapa orang yang hanya suka satu jenis musik?",
+        "pilihan": [
+            "40"
+        ],
+        "jawaban_benar": "40",
+        "pembahasan": "S + D = L\n50 + D = 25 + 27 + 4\n50 + D = 56\nD = 6\nJadi,jumlah orang yang suka music pop saja = 25 orang – 6 = 21 orang\nJumlah orang yang hanya suka satu jenis music = 19 + 21 = 40 orang."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\n1/8 dari seluruh siswa mengikuti tiga ekstrakulikuler: renang, basket dan senam. ½ siswa mengikuti ekskul renang, 5/7 mengikuti ekskul senam, dan ¾ siswa ikut ekskul basket. Jika semua siswa wajib mengikuti ekskul, berapa bagianb dari siswa tersebut yang hanya mengikuti dua ekskul saja?",
+        "pilihan": [
+            "19/56",
+            "56/112",
+            "39/112",
+            "89/112",
+            "89/56"
+        ],
+        "jawaban_benar": "89/112",
+        "pembahasan": "Dilogikakan, maka diperoleh:\n1/2-a-b-1/8+3/4-a-c-1/8+5/7-b-c-1/8+(a+b+c)+1/8=1\n1/2+3/4+5/7-(a+b+c)-2/8=1\n1/2+1/2+5/7-(a+b+c)=1\n1-1+ 5/7=(a+b+c)\n(a+b+c)=5/7"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nAngka ketujuh dari sederetan angka adalah 45. Selisih angka pertama adalah 7, demikian pula angka-angka selanjutnya mempunyai selisih 7 dari angka sebelumnya. Berapakah nilai angka yang berada pada urutan keempat?",
+        "pilihan": [
+            "122",
+            "66"
+        ],
+        "jawaban_benar": "66",
+        "pembahasan": "Rumus bentuk aritmatika deret itu adalah\nUn = a + (n-1)b\nDimana:\nUn = suku ke-n\na = suku pertama\nb = beda\ndiketahui: U7 = 45, n = 7 dan b = -7 maka:\nU7 = a + (7-1) (-7)\n45 = a – 42\na = 87\njadi, nilai suku ke-4:\nU4 = 87 + (4-1) (-7)\n      = 87 – 21 = 66"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nA B C F E D G H I L K J M ...",
+        "pilihan": [
+            "O dan M",
+            "O dan U",
+            "P dan U",
+            "N dan O"
+        ],
+        "jawaban_benar": "N dan O",
+        "pembahasan": "ABC   FED   GHI    LKJ   M\nPola setiap tiga huruf, urutannya dibalik (huruf yang bergaris bawah).\n\n*huruf yang bergaris bawah : FED   LKJ"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n18, 16, 21, 19, 24, 22, 27, ...",
+        "pilihan": [
+            "22, 33",
+            "23, 32",
+            "24, 31",
+            "25, 30",
+            "26, 29"
+        ],
+        "jawaban_benar": "25, 30",
+        "pembahasan": "25.\t18   16   21    19    24    22    27   25   30\nAngka yang dihitamkan di tambah 3, angka yang tidak dihitamkan ditambah 3.\n\n*angka yang dihitamkan : 16   19   22   25"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nBahan katun lebih baik daripada bahan nilon.\nBahan yang lebih baik, lebih tahan lama dan lebih mahal. \nKesimpulan yang tepat adalah ...",
+        "pilihan": [
+            "Bahan nilon lebih tahan lama dan lebih mahal daripada bahan katun.",
+            "Bahan nilon tidak lebih tahan lama,. Tetapi lebih mahal daripada bahan katun.",
+            "Bahan nilon tidak lebih tahan lama dan tidak lebih mahal daripada bahan katun.",
+            "Bahan nilon lebih tahan lama, tetapi tidak lebih mahal daripada bahan katun.",
+            "Bahan nilon sama tahan lama dan sama mahalnya dengan bahan katun."
+        ],
+        "jawaban_benar": "Bahan nilon tidak lebih tahan lama dan tidak lebih mahal daripada bahan katun.",
+        "pembahasan": "- Bahan yang lebih baik lebih tahan lama dan lebih mahal.\n- Bahan katun lebih baik daripada bahan nilon.\nMaka bahan nilon tidak lebih tahan lama dan tidak  lebih mahal  daripada bahan katun."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nSemua yang berbunga adalah tanaman. \nSebagian tanaman warnanya indah.\nKesimpulan yang tepat adalah ...",
+        "pilihan": [
+            "Semua yang berbunga warnanya tidak indah.",
+            "Semua yang warnanya tidak indah adalah tanaman.",
+            "Semua tanaman adalah berbunga.",
+            "Sebagian yang berbunga warnanya tidak indah.",
+            "Semua yang warnanya tidak indah, tidak berbunga."
+        ],
+        "jawaban_benar": "Sebagian yang berbunga warnanya tidak indah.",
+        "pembahasan": "Sebagian tanaman warnanya indah, artinya sebagian tanaman warnanya tidak indah. Semua yang berbunga adalah tanaman, maka sebagian yang berbunga warnanya tidak indah."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSemua penipu pandai bicara dan ramah. \nTuan M tidak ramah, tetapi pandai bicara. \nKesimpulan yang tepat adalah ...",
+        "pilihan": [
+            "Tuan M seorang penipu yang pandai bicara.",
+            "Tuan M seorang penipu yang tidak ramah.",
+            "Tuan M seorang penipu yang pandai bicara dan tidak ramah.",
+            "Tuan M bukan seorang penipu, meskipun pandai bicara.",
+            "Tuan M buka seorang penipu yang ramah."
+        ],
+        "jawaban_benar": "Tuan M bukan seorang penipu, meskipun pandai bicara.",
+        "pembahasan": "Syarat seseorang disebut penipu ada 2 (dua) yaitu pandai bicara dan ramah. Jika salah satu syarat tidak terpenuhi, maka orang tersebut bukanlah penipu."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nBau malaikat lalu.\nMakna peribahasa di atas adalah ...",
+        "pilihan": [
+            "Sangat busuk dan membuat orang risih dengan baunya.",
+            "Sangat harum atau wangi sekali dan yang menyenangkan persaan orang yang menciumnya.",
+            "Perbuatan yang baik.",
+            "Perbuatan yang baik, sehingga membuat orang selalu teringat akan kebaikannya.",
+            "Membuat orang selalu senang."
+        ],
+        "jawaban_benar": "Sangat harum atau wangi sekali dan yang menyenangkan persaan orang yang menciumnya.",
+        "pembahasan": "Bau malaikat lalu atau lewat itu diumpamakan dengan bau harum sekali, sangat wangi, terutama tentang wanita.\nWanita, terutama wanita muda, yang memakai harum-haruman atau bau-bauan yang sangat enak baunya, bila lewat di hadapan kita tentu akan menyebarkan bau yang sangat menyenangkan perasaan. Kadang-kdang juga dikatakan: Bau malaikat terempas."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nSudah gaharu, cendana pula. Makna peribahasa di atas adalah ...",
+        "pilihan": [
+            "Selalu bertingkah ceroboh.",
+            "Berlaku sopan dan baik.",
+            "Berlaku seperti orang yang pintar.",
+            "Sangat mahal sehingga tidak sanggup dibeli orang lain.",
+            "Berlaku seperti orang pander atau orang bodoh."
+        ],
+        "jawaban_benar": "Berlaku seperti orang pander atau orang bodoh.",
+        "pembahasan": "Gaharu dan cendana nama dua jenis pohon yang sama-sama kayunya harum. Kalimat peribahasa di atas sebenarnya dipakai sebagai sampiran pantun dua seuntai (pantun dua baris).\nSudah gaharu cendana pula, sudah tahu bertanya pula. Jadi, peribahasa di atas mengiaskan seseorang yang pandir (seperti orang bodoh). Apa gunanya menanyakan sesuatu yang sebenarnya sudah diketehui jawabannya.\n“Berlaku seperti orang pandir atau orang bodoh”"
+    }
+]

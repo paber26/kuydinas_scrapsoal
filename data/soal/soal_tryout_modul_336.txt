@@ -1,0 +1,795 @@
+Soal 1:
+Istilah untuk bagian jalan yang ditinggikan berupa tambahan aspal atau semen yang
+dipasang melintang di jalan untuk pertanda memperlambat laju/kecepatan kendaraan
+disebut dengan ......
+A. Marka jalan
+B. Pembatas jalan
+C. Bahu jalan
+D. Gundukan
+E. Polisi tidur
+
+==================================================
+
+Soal 2:
+Area pada suatu kaki persimpangan untuk antrian kendaraan sebelum melewati garis
+henti (apabila lalu lintas belok kiri atau kanan terpisah, satu kaki persimpangan dapat
+terdiri dari dua atau lebih pendekat) disebut ......
+A. Pendekat
+B. Hambatan samping
+C. Faktor koreksi
+D. Antrian
+E. Hambatan persimpangan
+
+==================================================
+
+Soal 3:
+Faktor penyesuian dari kondisi ideal ke kondisi sebenarnya untuk suatu variable
+tertentu dalam istilah perhubungan disebut .....
+A. Persimpangan
+B. Hambatan persimpangan
+C. Antrian
+D. Pendekat
+E. Faktor koreksi
+
+==================================================
+
+Soal 4:
+"toll booth" adalah sebutan untuk .......
+A. Jalan tol
+B. Pembatas pada jalan tol
+C. Jalan raya
+D. Gardu tol
+E. Gerbang masuk jalan tol
+
+==================================================
+
+Soal 5:
+Istilah untuk menyebut telepon genggam dalam dunia perhubungan adalah ......
+A. Air telephone
+B. Pager telephone
+C. Telephone cable
+D. Handset telephone
+E. Telephone celular
+
+==================================================
+
+Soal 6:
+Istilah lain untuk menyebut "jalan raya" adalah ......
+A. airworthy
+B. fairway
+C. standby
+D. Airway
+E. highway
+
+==================================================
+
+Soal 7:
+Mabuk udara juga biasa disebut dengan istilah .....
+A. airstrip
+B. airworthy
+C. shoreline
+D. airproof
+E. airsick
+
+==================================================
+
+Soal 8:
+Dalam dunia perhubungan udara atau penerbangan, lapangan terbang perintis/padang
+terbang disebut .......
+A. shoreline
+B. airstrip
+C. airproof
+D. airsick
+E. airworthy
+
+==================================================
+
+Soal 9:
+DLLAJR merupakan singkatan dari .......
+A. Dewan Lalu Lintas dan Anggaran Jembatan Raya
+B. Dinas Perhubungan Lalu Lintas dan Angkutan Jalan Raya
+C. Dinas Lalu Lintas dan Angkutan Jalan Raya
+D. Direktur Lalu Lintas dan Angkutan Jalan Raya
+E. Dewan Lalu Lintas dan Anggaran Jalan Raya
+
+==================================================
+
+Soal 10:
+Istilah lain untuk menyebut bongkar muat adalah .....
+A. Ground service
+B. Offroad
+C. Shoreline
+D. offload
+E. Offer load
+
+==================================================
+
+Soal 11:
+Lintasan tertentu dari pesawat udara didaerah pergerakan bandar udara dalam kondisi
+angin tertentu disebut dengan istilah .....
+A. Sirkuit lalu lintas bandara
+B. Lalu lintas bandara
+C. Elevasi bandara
+D. Zona lalu lintas bandara
+E. Sirkuit taxi di bandara
+
+==================================================
+
+Soal 12:
+Airborne adalah .....
+A. Sistem dalam pesawat udara berdasarkan sinyal radar pengamat sekunder,
+B. Setiap alat yang dapat dukungan di atmosfer dari reaksi udara yang bukan reaksi udara terhadap permukaan bumi.
+C. Sebuah pesawat udara yang dalam kondisi terbang atau sedang terbang setelah tinggal landas tatkala semua roda-rodanya telah lepas dari permukaan landasan pacu.
+D. Suatu stasiun dalam pelayanan telekomunikasi penerbangan.
+E. Tingkat resiko dari kedekatan pesawat udara dalam hal resiko tabrakan yang serius telah terjadi.
+
+==================================================
+
+Soal 13:
+FIC dalam dunia penerbangan merupakan singkatan dari ......
+A. Flight International Circuit
+B. Flight Information Control
+C. Flight Information and Circuit
+D. Flight Information Centre
+E. Flight International Centre
+
+==================================================
+
+Soal 14:
+APILL adalah singkatan dari .....
+A. Alat Peringatan dan Isyarat Lalu Lintas
+B. Alat Pemantau Isyarat Lalu Lintas
+C. Alat Pemberitahuan Isyarat Lalu Lintas
+D. Alat Penunjuk Isyarat Lalu Lintas
+E. Alat Pemberi Isyarat Lalu Lintas
+
+==================================================
+
+Soal 15:
+Fungsi APILL adalah sebagai berikut kecuali .....
+A. meningkatkan keteraturan arus lalu lintas
+B. meningkatkan kapasitas dari persimpangan
+C. mengatur pemakaian ruang persimpangan
+D. Memberikan petunjuk arah bagi para pengguna jalan
+E. mengurangi kecelakaan dalam arah tegak lurus
+
+==================================================
+
+Soal 16:
+Hak agunan kebendaan atas kapal yang terdaftar untuk menjamin pelunasan utang
+tertentu yang memberikan kedudukan yang diutamakan kepada kreditor tertentu terhadap
+kreditor lain disebut ......
+A. Pelayaran-Perintis
+B. Hipotek kapal
+C. Limidasi kapal
+D. Trayek
+E. Agen Umum
+
+==================================================
+
+Soal 17:
+Lembaga pemerintah di pelabuhan sebagai otoritas yang melaksanakan fungsi
+pengaturan, pengendalian, dan pengawasan kegiatan kepelabuhanan yang diusahakan
+secara komersial adalah ......
+A. Badan Usaha Pelabuhan
+B. Daerah Lingkungan kepentingan (DLKp)
+C. Rencana Induk Pelabuhan
+D. Daerah Lingkungan Kerja (DLKr)
+E. Otoritas Pelabuhan (Port Authority)
+
+==================================================
+
+Soal 18:
+Proses mengarahkan gerak kapal dari satu titik ke titik yang lain dengan aman dan
+lancar serta untuk menghindari bahaya dan/atau rintanganpelayaran disebut .....
+A. Reklamasi
+B. Navigasi
+C. Navigator
+D. Telekomunikasi-Pelayaran
+E. Salvage
+
+==================================================
+
+Soal 19:
+Pejabat pemerintah di pelabuhan yang diangkat oleh Menteri dan memiliki
+kewenangan tertinggi untuk menjalankan dan melakukan pengawasan terhadap
+dipenuhinya ketentuan peraturan perundang-undangan untuk menjamin keselamatan dan
+keamanan pelayaran disebut .....
+A. Begawan
+B. Mahkamah Pelayaran
+C. Pamong publik
+D. Syahbandar
+E. Salvager
+
+==================================================
+
+Soal 20:
+Pelayaran diselenggarakan berdasarkan asas-asas berikut kecuali.......
+A. asas usaha bersama dan kekeluargaan
+B. asas manfaat
+C. asas persaingan sehat
+D. asas kemaritiman
+E. asas adil dan merata tanpa diskriminasi
+
+==================================================
+
+Soal 21:
+Angkutan laut terdiri atas hal berikut kecuali .....
+A. angkutan laut dalam negeri
+B. angkutan laut luar negeri
+C. angkutan laut lintas pulau
+D. angkutan laut pelayaran-rakyat
+E. angkutan laut khusus
+
+==================================================
+
+Soal 22:
+Pelabuhan memiliki peran sebagai berikut kecuali .....
+A. simpul dalam jaringan transportasi sesuai dengan hierarkinya
+B. penunjang kegiatan industri dan/atau perdagangan
+C. pintu gerbang kegiatan perekonomian
+D. tempat kegiatan alih moda transportasi
+E. Tempat transaksasi jual beli hasil laut
+
+==================================================
+
+Soal 23:
+Sistem informasi angkutan di perairan memuat .....
+A. armada dan kapasitas ruang kapal nasional
+B. Rencana Induk Pelabuhan dan/atau rencana pembangunan pelabuhan
+C. kinerja pelabuhan
+D. tarif jasa kepelabuhanan
+E. operator terminal di pelabuhan
+
+==================================================
+
+Soal 24:
+Sistem informasi sumber daya manusia dan peran serta masyarakat di bidang
+pelayaran paling sedikit memuat .......
+A. kebijakan yang diterbitkan oleh Pemerintah di bidang pelayaran
+B. keberadaan bangunan di bawah air (kabel laut dan pipa laut)
+C. lalu lintas kapal di perairan.
+D. lokasi pembuangan limbah
+E. lokasi penutuhan kapal
+
+==================================================
+
+Soal 25:
+Sistem informasi pelabuhan paling sedikit memuat hal berikut kecuali .....
+A. arus lalu lintas kapal di pelabuhan
+B. kapasitas dan kondisi fasilitas pelabuhan
+C. kedalaman alur dan kolam pelabuhan
+D. arus peti kemas, barang, dan penumpang di pelabuhan
+E. daftar kapal berbendera Indonesia
+
+==================================================
+
+Soal 26:
+Berikut ini tugas penjaga laut dan pantai kecuali ....
+A. melakukan pengawasan, pencegahan, dan penanggulangan pencemaran di laut
+B. menyusun kebijakan dan standar prosedur operasi penegakan hukum di laut secara terpadu
+C. pengawasan dan penertiban kegiatan serta lalu lintas kapal
+D. melakukan pengawasan keselamatan dan keamanan pelayaran
+E. pengawasan dan penertiban kegiatan salvage, pekerjaan bawah air, serta eksplorasi dan eksploitasi
+
+==================================================
+
+Soal 27:
+Undang-undang yang mengatur tentang Tarif Angkutan Penyeberangan Lintas Antar
+Provinsi adalah ......
+A. Peraturan Menteri Perhubungan Nomor PM 80 tahun 2012
+B. Peraturan Menteri Perhubungan Nomor PM 26 tahun 2012
+C. Peraturan Menteri Perhubungan Nomor PM 12 tahun 2012
+D. Peraturan Menteri Perhubungan Nomor PM 19 tahun 2012
+E. Peraturan Menteri Perhubungan Nomor PM 52 tahun 2012
+
+==================================================
+
+Soal 28:
+Peraturan Menteri Perhubungan Nomor PM 9 tahun 2012 mengatur tentang ......
+A. Petunjuk Teknis Penggunaan Dana Alokasi Khusus Bidang Keselamatan Transportasi Darat
+B. Program Dekade Aksi Keselamatan Jalan
+C. Tata Cara Pemeriksaan Kendaraan Bermotor Di Jalan Dan Penindakan Pelanggaran Lalu Lintas Dan Angkutan Jalan
+D. Penyelenggaraan Angkutan Penyeberangan
+E. Alur Pelayaran Sungai dan Danau
+
+==================================================
+
+Soal 29:
+Penggunaan Bahan Bakar Gas Jenis Compressed Natural Gas (CNG) Pada Kendaraan
+Bermotor diatur dalam .....
+A. Peraturan Menteri Perhubungan Nomor PM 37 tahun 2012
+B. Peraturan Menteri Perhubungan Nomor PM 39 tahun 2012
+C. Peraturan Menteri Perhubungan Nomor PM 56 tahun 2012
+D. Peraturan Menteri Perhubungan Nomor PM 10 tahun 2012
+E. Peraturan Menteri Perhubungan Nomor PM 29 tahun 2012
+
+==================================================
+
+Soal 30:
+Persyaratan Teknis Jalur Kereta Api yang telah disahkan pada Maret 2013 lalu diatur
+dalam ......
+A. Peraturan MenHub nomor PM 60 Tahun 2012
+B. Peraturan MenHub nomor PM 82 Tahun 2012
+C. Peraturan MenHub nomor PM 70 Tahun 2012
+D. Peraturan MenHub nomor PM 56 Tahun 2012
+E. Peraturan MenHub nomor PM 20 Tahun 2012
+
+==================================================
+
+Soal 31:
+Undang-undang tentang Lalu Lintas dan Angkutan Jalan ditetapkan dalam ......
+A. Undang-undang RI nomor 22 tahun 2009
+B. Undang-undang RI nomor 1 tahun 2009
+C. Undang-undang RI nomor 17 tahun 2009
+D. Undang-undang RI nomor 27 tahun 2009
+E. Undang-undang RI nomor 23 tahun 2009
+
+==================================================
+
+Soal 32:
+Undang-undang mengenai penerbangan diatur dalam ......
+A. Undang-undang RI nomor 23 tahun 2009
+B. Undang-undang RI nomor 27 tahun 2009
+C. Undang-undang RI nomor 17 tahun 2009
+D. Undang-undang RI nomor 22 tahun 2009
+E. Undang-undang RI nomor 1 tahun 2009
+
+==================================================
+
+Soal 33:
+Undang-undang RI nomor 17 tahun 2008 mengatur tentang ......
+A. Pelayaran
+B. Kelautan
+C. Perkeretaapian
+D. Lalu lintas dan Angkutan Jalan
+E. Penerbangan
+
+==================================================
+
+Soal 34:
+Adapun Undang-undang RI nomor 23 tahun 2007 mengatur tentang ......
+A. Pelayaran
+B. Penerbangan
+C. Lalu lintas dan Angkutan Jalan
+D. Perkeretaapian
+E. Kelautan
+
+==================================================
+
+Soal 35:
+Peraturan Presiden Republik Indonesia Nomor 2 Tahun 2012 yang disahkakn pada
+tanggal 05 Januari 2012 mengatur mengenai ....
+A. Angkutan Multimoda
+B. Komite Nasional Keselamatan Transportasi
+C. Sumber Daya Manusia Di Bidang Transportasi
+D. Kendaraan
+E. Forum Lalu Lintas dan Angkutan Jalan
+
+==================================================
+
+Soal 36:
+Tata Cara Pemeriksaan Kendaraan Bermotor Di Jalan dan Penindakan Pelanggaran
+Lalu Lintas dan Angkutan Jalan yang mulai berlaku tanggal 15 Oktober 2012 lalu diatur
+dalam ......
+A. Peraturan Pemerintah Republik Indonesia Nomor 56 Tahun 2012
+B. Peraturan Pemerintah Republik Indonesia Nomor 80 Tahun 2012
+C. Peraturan Pemerintah Republik Indonesia Nomor 80 Tahun 2011
+D. Peraturan Pemerintah Republik Indonesia Nomor 56 Tahun 2011
+E. Peraturan Pemerintah Republik Indonesia Nomor 51 Tahun 2012
+
+==================================================
+
+Soal 37:
+Peraturan terbaru mengenai Komponen Biaya Yang Dapat Diperhitungkan Dalam
+Penyelenggaraan Angkutan Kewajiban Pelayanan Publik Dan Angkutan Perintis
+Perkeretaapian ditetapkan dalam ......
+A. Peraturan Menteri Perhubungan No PM 82 Tahun 2013
+B. Peraturan Menteri Perhubungan No PM 47 Tahun 2013
+C. Peraturan Menteri Perhubungan No PM 51 Tahun 2013
+D. Peraturan Menteri Perhubungan No PM 11 Tahun 2013
+E. Peraturan Menteri Perhubungan No PM 56 Tahun 2013
+
+==================================================
+
+Soal 38:
+Penyelenggaraan Kewajiban Pelayanan Umum Bidang Angkutan Laut Untuk
+Penumpang Kelas Ekonomi Tahun Anggaran 2013 yang disahkan dalam Peraturan
+Menteri Perhubungan No PM 57 Tahun 2013 mulai berlaku pada .....
+A. 27 Agustus 2013
+B. 23 Mei 2013
+C. 25 Mei 2013
+D. 17 Agustus 2013
+E. 15 Mei 2013
+
+==================================================
+
+Soal 39:
+Keputusan Menteri Perhubungan Nomor KM 24 Tahun 2001 mengatur tentang ......
+A. Kepelabuhan Nasional
+B. Susunan Organisasi dan Tugas Departemen
+C. Organisasi dan Tata Kerja Departemen Perhubungan
+D. kedudukan Tugas, Fungsi Kewenangan, Susunan Organisasi dan Tata Kerja Departemen
+E. Angkutan di Perairan
+
+==================================================
+
+Soal 40:
+Berikut ini merupakan kebijakan Transportasi Darat dalam Otonomi Daerah
+kecuali .....
+A. Mendorong daerah untuk menyusun perencanaan transportasi darat yang sinergis dengan rencana transportasi nasional.
+B. Pelayanan keperintisan LLAJ dan LLASDP.
+C. Penyesuaian rencana transportasi nasional dengan kebijakan perencanaan transportasi di daerah.
+D. Menjadi pedoman bagi perencanaan transportasi daerah.
+E. Mendorong dan memfasilitasi terbentuknya forum kerjasama antar daerah dalam rangka perencanaan transportasi nasional.
+
+==================================================
+
+Soal 41:
+Adapun Kebijakan Dinas Perhubungan Darat dalam Investasi Meningkatkan Peran
+Swasta adalah sebagai berikut kecuali ......
+A. Kebijakan tarif komersil untuk kelas non ekonomi diserahkan pada mekanisme pasar (operator).
+B. Rute angkutan perintis yang sudah menguntungkan diserahkan dan diatur oleh swasta.
+C. Peningkatan Sumber Daya Manusia sesuai kualifikasi dan kompetensi.
+D. Merevisi Undang-undang dalam memberikan kesempatan yang seluas-luasnya pada sektor swasta untuk berinvestasi di sektor Perhubungan Darat.
+E. Di masa depan pembangunan infrastruktur yang memberikan manfaat ekonomi yang,menguntungkan dimungkinkan untuk diatur oleh swasta.
+
+==================================================
+
+Soal 42:
+Strategi yang dilaksanakan oleh Dinas Perhubungan diantaranya adalah ......
+A. Menindaklanjuti harmonisasi dan standarisasi peraturan perundangan di bidang Transportasi Jalan sesuai kesepakatan regional dan internasional (AFTA 2003, APEC 2010).
+B. Melakukan tindakan koreksi terhadap Perda-Perda dibidang LLAJ yang bertentangan dengan peraturan perundangan yang berlaku.
+C. Mempersiapkan peraturan-peraturan dalam rangka mendukung kerja sama internasional dan melakukan sosialisasi kesepakatan internasional kepada daerah dan swasta.
+D. Mengembangkan dan mengoptimalkan sarana prasarana dan fasilitas Perhubungan yang handal, terjangkau, berkelanjutan dalam upaya memudahkan akses pelayanan kepada masyarakat.
+E. Mendukung kerja sama dan pelaksanaan angkutan lintas batas negara RI - Malaysia - Brunei, RI - PNG dan daerah lain yang memerlukan.
+
+==================================================
+
+Soal 43:
+Adapun arah kebijakan yang ditetapkan dalam mencapai Visi, Misi, Tujuan dan
+Sasaran Dinas Perhubungan lima tahun ke depan adalah kecuali ......
+A. Peningkatan kapasitas sumber daya aparatur Perhubungan
+B. Pemantapan partisipasi Dinas Perhubungan dalam mengaktualisasikan perencanaan, pelayanan, koordinasi dan pengendalian pembangunan di bidang Perhubungan
+C. Peningkatan tertib administrasi kendaraan bermotor
+D. Peningkatan pengawasan dan pengendalian kelaikan pengoperasian kendaraan bermotor
+E. Peningkatan sarana prasarana dan fasilitas perkantoran pendukung kerja aparatur
+
+==================================================
+
+Soal 44:
+Regulasi Ditjen Perhubungan Darat adalahl sebagai berikut kecuali .......
+A. Melakukan tindakan koreksi terhadap Perda-Perda dibidang LLAJ yang bertentangan dengan peraturan perundangan yang berlaku
+B. Penegakan hukum harus secara konsisten sebagai tindak lanjut penetapan regulasi.
+C. Penyesuaian Peraturan Perundang-undangan dibidang LLAJ dengan penekanan pada  keselamatan dan pelayanan transportasi jalan dengan memperhatikan isue-isue globalisasi, Otonomi Daerah dan lingkungan
+D. Mengacu kepada tata urutan perundang-undangan yang diatur dalam Tap MPR 2000, perlu diterbitkan Keputusan Presiden (Keppres) untuk memayungi Keputusan Menteri Perhubungan yang mengatur Petunjuk Teknis Penyelenggaraan Transportasi Jalan
+E. Memantapkan penyamaan presepsi tentang visi, misi dan sasaran dalam penyelenggaraan transportasi jalan.
+
+==================================================
+
+Soal 45:
+Dinas Perhubungan darat memiliki kewenangan sebagai berikut kecuali ....
+A. Memberikan izin usaha bengkel umum kendaraan bermotor
+B. Menyiapkan kebijakan tataran dan perizinan transportasi dalam kabupaten
+C. Melakukan bimbingan keselamatan, analisis daerah rawan kecelakaan lalu lintas serta program penanggulangan kecelakaan lalu lintas.
+D. Menyiapkan penyusunan, penetapan jaringan transportasi jalan raya dalam kabupaten
+E. Melakukan tugas penyiapan penetapan perizinan, pelayanan dan pengendalian kelebihan muatan
+
+==================================================
+
+Soal 46:
+Tugas kementerian perhubungan adalah sebagai berikut kecuali .....
+A. sebagai badan yang mengelola milik atau kekayaan negara atau inventaris negara
+B. sebagai pelaksana urusan pemerintah bidang perhubungan
+C. melaksanakan kerjasama melalui restrukturisasi dan pembenahan sarana dan prasarana perhubungan
+D. merumuskan berbagai kebijakan nasional
+E. melaporkan hasil, evaluasi, saran di bidang perhubungan kemudian mempertanggungjawabkannya kepada presiden
+
+==================================================
+
+Soal 47:
+Penetapan tata cara berlalu lintas di laut harus mempertimbangkan hal berikut
+kecuali......
+A. Kondisi pelabuhan
+B. Kondisi alur-pelayaran
+C. Kepadatan lalul intas
+D. kondisi, ukuran dan sarat (draught) kapal
+E. Arus dan pasang surut
+
+==================================================
+
+Soal 48:
+Daerah lalu lintas pedalaman (inshore traffic zones) dalam pelayaran laut ditetapkan
+berdasarkan ......
+A. Bahaya-bahaya navigasi
+B. lokasi yang dilindungi
+C. kapal dalam kondisi tidak beroperasi dengan baik
+D. lokasi labuh jangkar
+E. kondisi dasar laut yang tertera di peta laut
+
+==================================================
+
+Soal 49:
+Daerah kewaspadaan disebut juga dengan istilah ....
+A. traffic separation scheme
+B. precaution areas
+C. areas to be avoided
+D. roundabouts
+E. inshore traffic zones
+
+==================================================
+
+Soal 50:
+Daerah-daerah putaran kapal ketika dalam pelayaran ditetapkan berdasarkan hal-hal
+berikut kecuali .......
+A. dimensi kapal
+B. kondisi lebar alur-pelayaran
+C. sifat-sifat khusus kapal
+D. kepadatan lalu lintas berlayar
+E. daerah joint kapal untuk masuk ke bagan pemisah
+
+==================================================
+
+Soal 51:
+Berikut ini adalah sistem rute kapal (ship's routeing system) kecuali ....
+A. rute dua arah(two way routes)
+B. area yang harus dihindari (areas to be voided)
+C. jalur yang direkomendasikan (recommended tracks)
+D. bagan pemisah lalu lintas
+E. Arus pasang dan surut laut
+
+==================================================
+
+Soal 52:
+Tata cara berlalu lintas di alur pelayaran meliputi pengaturan sebagai berikut
+kecuali ....
+A. penyusulan
+B. kecepatan aman
+C. tindakan untuk menghindari tubrukan
+D. situasi memotong
+E. kebimbangan kapal
+
+==================================================
+
+Soal 53:
+Kegiatan angkutan udara yang harus memiliki persetujuan terbang (flight approval)
+terdiri atas hal berikut kecuali ....
+A. penerbangan tanpa penumpang umum (ferry flight) untuk ke dan luar negeri
+B. penerbangan lintas wilayah udara Indonesia (overflying) oleh pesawat udara asing
+C. angkutan udara niaga berjadwal dalam negeri dan luar negeri yang dilaksanakan diluar persetujuan yang telah diterbitkan
+D. angkutan udara bukan berniaga (general aviation) luar negeri
+E. pandaratan teknis (technical landing) untuk tujuan komersial oleh pesawat udara asing
+
+==================================================
+
+Soal 54:
+Salah satu strategi kebijakan dalam perhubungan udara adalah ....
+A. Meningkatkan kualitas dan produktifitas pelayanan jasa transportasi udara melalui penerapan manajemen mutu dalam rangka memenuhi kebutuhan (demand) jasa transportasi udara
+B. Memberikan bimbingan teknis dan evaluasi di bidang perhubungan udara
+C. Melaksanakan administrasi Direktorat Jenderal Perhubungan Udara
+D. Merumuskan kebijakan di bidang perhubungan udara
+E. Menyusun norma, standar, prosedur dan kriteria di bidang perhubungan udara
+
+==================================================
+
+Soal 55:
+Fungsi Direktorat Jenderal Perhubungan Udara berdasarkan Peraturan Menteri
+Perhubungan No KM 60 Tahun 2010 adalah sebagai berikut kecuali ......
+A. Pelaksanaan kebijakan di bidang perhubungan udara
+B. Penyusunan norma, standar, prosedur dan kriteria di bidang perhubungan udara
+C. Pelaksanaan pemberian bimbingan teknis dan evaluasi di bidang perhubungan udara
+D. Penetapan peraturan lalu lintas perhubungan
+E. Pelaksanaan administrasi Direktorat Jenderal Perhubungan Udara
+
+==================================================
+
+Soal 56:
+Kebijakan angkutan udara international Indonesia secara umum diarahkan agar .......
+A. Pertukaran traffic rights di dasarkan atas prinsip timbal balik dan saling menguntungkan tanpa mengorbankan kepentingan national.
+B. Evaluasi dan penetapan rute-rute penerbangan international dapat berjalan tanpa harus mempertimbangkan aspek komersial dan politik.
+C. Proteksi pemerintah menjadi lebih baik
+D. Maskapai penerbangan Indonesia dapat sejajar dengan maskapai terbaik dunia
+E. Perusahaan angkutan udara swasta dapat bersaing dengan maskapai internasional
+
+==================================================
+
+Soal 57:
+Di Eropa negara-negara yang telah menerapkan kebijakan Open Sky adalah sebagai
+berikut kecuali ......
+A. Swiss
+B. Belgia
+C. Luxemburg
+D. Belanda
+E. Hongkong
+
+==================================================
+
+Soal 58:
+Sedangkan negara di Asia berikut ini yang telah menerapkan kebijakan Open Sky
+kecuali .....
+A. Korea Selatan
+B. Thailand
+C. Singapura
+D. Indonesia
+E. Malaysia
+
+==================================================
+
+Soal 59:
+Kewajiban Pemerintah Daerah dalam pengembangan sistem angkutan umum
+perkotaan antara lain sebagai berikut kecuali ....
+A. Menyediakan dan mengatur biaya operasi
+B. Menyediakan sistem tiket
+C. Membangun prasarana seperti jalan, shelter, marka/rambu, dan lain-lain
+D. Menyusun master plan transportasi
+E. Mengupayakan adanya over laping trayek
+
+==================================================
+
+Soal 60:
+Beberapa permasalahan yang sering dihadapi dalam perhubungan darat adalah kecuali
+....
+A. Pengembangan sering tidak sesuai dengan yang direncanakan
+B. Masalah sosial menghadapi angkot/operator eksisting eksisting time consuming
+C. Pergantian pejabat dengan visi misi yang sama sehingga kemajuan dishub terjaga
+D. Masalah sosial dan sulitnya lahan dalam pembangunan shelter-shelter
+E. Kemampuan daerah dalam melakukan manajemen
+
+==================================================
+
+Soal 61:
+Visi dari Kemeneterian Perhubungan di Indonesia adalah .....
+A. Mempertahankan tingkat jasa pelayanan sarana dan prasarana perhubungan
+B. Melaksanakan konsolidasi melalui restrukturisasi dan reformasi di bidang sarana dan prasarana perhubungan
+C. Meningkatkan kualitas pelayanan jasa perhubungan yang layak
+D. Meningkatkan aksesibilitas masyarakat terhadap pelayanan jasa perhubungan
+E. Terwujudnya penyelenggaraan pelayanan perhubungan yang handal, berdaya saing dan memberikan nilai tambah
+
+==================================================
+
+Soal 62:
+Departemen Perhubungan terdiri dari 4 Direktorat Jenderal kecuali ......
+A. Direktorat Jenderal Perkeretaapian
+B. Jenderal Perhubungan Darat
+C. Direktorat Jendera Perhubungan Laut
+D. Direktorat Jenderal Perhubungan Udara
+E. Jenderal Perhubungan Lalu Lintas
+
+==================================================
+
+Soal 63:
+Berikut ini yang tidak termasuk sistem transportasi mikro adalah ......
+A. Sistem Angkutan jalan
+B. Sistem Pergerakan (Lalu Lintas/ Traffic)
+C. Sistem Kegiatan (Transport Demand)
+D. Sistem Kelembagaan
+E. Sistem Jaringan (Prasarana Transportasi/Transport Supply)
+
+==================================================
+
+Soal 64:
+Kewenangan dalam Penyelenggaraan Perkeretaapian meliputi hal berikut kecuali ....
+A. Pengusahaan prasarana perkeretaapian umum yang tidak dilaksanakan oleh badan usaha prasarana kereta api
+B. Penetapan Rencana Induk Perkeretaapian Provinsi; Penetapan izin penyelenggaraan perkeretaapian khusus
+C. Penutupan perlintasan untuk keselamatan perjalanan kereta api dan pemakai jalan perlintasan
+D. Penetapan jaringan pelayanan kereta api antarkota melebihi satu Kabupaten/Kota dalam satu Provinsi
+E. Penetapan jaringan pelayanan kereta api perkotaan tidak harus melampaui satu Kabupaten/Kota dalam satu Provinsi
+
+==================================================
+
+Soal 65:
+Seksi Jaringan dan Simpul Pelayanan Angkutan mempunyai tugas pokok yaitu .....
+A. melaksanakan penyiapan bahan kebijakan penetapan wilayah operasi angkutan orang di jalan
+B. menyusun bahan kebijakan teknis dan fasilitasi simpul pelayanan angkutan
+C. melaksanakan penyusunan bahan telaahan staf sebagai bahan pertimbangan pengambilan kebijakan
+D. melaksanakan penyusunan program kerja Seksi Jaringan dan Simpul Pelayanan Angkutan
+E. melaksanakan penyiapan bahan kebijakan penetapan jalur kereta api khusus lintas Kabupaten/Kota
+
+==================================================
+
+Soal 66:
+Kepala Perhubungan Udara mempunyai tugas sebagai berikut kecuali .....
+A. Melaporkan bahan evaluasi pada menteri perhubungan
+B. melaksanakan penyiapan bahan koordinasi dengan instansi terkait dalam pelaksanaan tugas
+C. menyusun rencana kerja seksi
+D. melaksanakan penyiapan bahan usulan bandar udara yang terbuka melayani angkutan udara ke/dari luar negeri pada bandara provinsi
+E. melaksanakan penyiapan bahan pemberian rekomendasi penetapan lokasi Bandar udara umum dan bandar udara khusus
+
+==================================================
+
+Soal 67:
+Berikut ini adalah permasalahan-permasalahan di daerah perkotaan khususnya
+masalah transportasi Perkotaan kecuali .....
+A. Kemacetan Lalu Lintas
+B. Pelayanan Angkutan Umum Kurang Memadai
+C. Jumlah pengguna kendaraan pribadi berkurang
+D. Jumlah kejadian Kecelakaan Semakin Meningkat
+E. Polusi Akibat Kendaraan Bermotor
+
+==================================================
+
+Soal 68:
+Yang bukan sebab dari masalah polusi kendaraan bermotor adalah ......
+A. Usia kendaraan yang rata-rata ‘tua’.
+B. Penggunaan bahan bakar yang tidak ramah lingkungan
+C. Kurangnya perawatan kendaraan bermotor
+D. Penyimpanan terhadap standar spesifikasi teknis kendaraan bermotor
+E. Terlalu banyaknya kendaraan bermotor
+
+==================================================
+
+Soal 69:
+Kemacetan Lalu Lintas terutama disebabkan karena hal-hal berikut kecuali .....
+A. Dominannya penggunaan angkutan pribadi
+B. Pengembangan tata guna lahan yang cukup konsisten
+C. Rendahnya disiplin berlalu lintas
+D. Pemanfaatan jalan dan fasilitas LLAJ diluar kepentingan lalu lintas.
+E. Meningkatnya permintaan perjalanan
+
+==================================================
+
+Soal 70:
+Kebijakan pengembangan Sarana Angkutan Umum Massal (SAUM) yang
+dikeluarkan pemerintah mempunyai keunggulan sebagai berikut kecuali ....
+A. Biaya Operasional penumpang per km lebih murah
+B. Optimasi pemakaian ruang jalan
+C. Arah pembangunan lebih fleksibel
+D. Pembangunan cepat dan murah
+E. Pembangunan agak lama tetapi hasilnya bisa dipakai dalam jangka panjang
+
+==================================================
+
+Soal 71:
+Adapun salah satu kelemahan pembangunan SAUM adalah .....
+A. Pembayaran tiket tidak dapat dilakukan di halte bus
+B. Perpindahan penumpang kurang aman
+C. Tidak dapat diterapkan untuk penyandang cacat
+D. Penurunan pangsa pasar/pendapatan bagi operator angkutan umum regular
+E. Kendaraan yang digunakan ramah lingkungan
+
+==================================================
+
+Soal 72:
+Peran pemerintah dalah pembangunan di sektor transportasi adalah sebagai berikut
+kecuali .....
+A. Pelaksana operasi
+B. Pengendali langsung
+C. Pemantau arus transportasi di setiap terminal
+D. Pemberi pengaruh langsung
+E. Pengendali tidak langsung
+
+==================================================
+
+Soal 73:
+Kereta commuter tersibuk di Amerika yang melayani sekitar 303.000 orang per
+harinya dan sekitar 81 juta penumpang setiap tahunnya dinamakan .....
+A. MTA Buses
+B. Surface Transport
+C. Jetblue Airlines
+D. Long Island Railroad
+E. Freight Unit
+
+==================================================
+
+Soal 74:
+Rekor kemacetan sepanjang 166 mil (266 km) dari total 522 mil 9835 km) yang
+berhasil dicatat pada tanggal 9 Mei 2008 terjadi di kota ....
+A. Kairo, Mesir
+B. Jakarta, Indonesia
+C. Bangkok, Thailand
+D. Mumbai, India
+E. San Paolo, Brazil
+
+==================================================
+
+Soal 75:
+Program Lingkungan Hidup PBB (UNEP) telah menempatkan Jakarta sebagai kota
+ketiga paling polutan di dunia setelah kota ....
+A. Mosko dan Mumbai
+B. Mexico City dan Bangkok
+C. Kairo dan Bangkok
+D. Mosko dan Mexico City
+E. Manila dan Shanghai
+
+==================================================
+

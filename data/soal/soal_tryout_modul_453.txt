@@ -1,0 +1,1000 @@
+Soal 1:
+Subnet Mask dari Nilai CIDR dari /16 adalah  ....
+A. 255.255.248.0
+B. 255.255.0.0
+C. 255.255.255.240
+D. 255.255.255.0
+E. 255.128.0.0
+
+==================================================
+
+Soal 2:
+Jenis diklat pada jabatan fungsional pranata Komputer adalah...
+A. Diklat teknis dan diklat komputer
+B. Diklat teknis dan diklat komputer
+C. Diklat teknikal dan diklat teknis
+D. Diklat penjejangan dan diklat teknikal
+E. Diklat teknis dan diklat penjejangan
+
+==================================================
+
+Soal 3:
+Dalam komponen GIS yang berfungsi untuk menyimpan, menganalisa dan memperagakan informasi adalah ...
+A. Proses data
+B. Perangkat keras
+C. Perangkat lunak
+D. Data geografi
+E. Input data
+
+==================================================
+
+Soal 4:
+Berikut yang merupakan komponen Sistem Basis Data adalah ...
+A. DBMS
+B. Operating System
+C. Database
+D. Optional Software
+E. Semua Jawaban benar
+
+==================================================
+
+Soal 5:
+Jaringan komputer yang dibuat dengan tujuan untuk sharing resources, dengan jangkauan kurang dari 5 Km, dimiliki dan dikelola sendiri oleh instansi pengguna disebut …
+A. Wide Area Network
+B. Metropolitan Area Network
+C. Campus Area Network
+D. Local Area Network
+E. Personal Area Network
+
+==================================================
+
+Soal 6:
+Alat penyimpanan/memori utama disebut juga dengan ....
+A. main memory
+B. CU
+C. register
+D. secondary storage
+E. ALU
+
+==================================================
+
+Soal 7:
+Data dapat di akses dalam waktu bersamaan untuk aplikasi yang berbeda adalah pengertian dari...
+A. Data Redundancy
+B. Data Group
+C. Data Shared
+D. Data User
+E. Data Independen
+
+==================================================
+
+Soal 8:
+Kejahatan dengan memasukkan data atau informasi ke internet tentang sesuatu hal yang tidak benar, tidak etis dan dapat dianggap melanggar hukum atau mengganggu ketertiban umum, disebut dengan…
+A. hacking
+B. illegal content
+C. spywere
+D. malware
+E. cracking
+
+==================================================
+
+Soal 9:
+Dibawah ini merupakan salah satu contoh SOJ pure, kecuali….
+A. freeBSD
+B. linux debian
+C. windows XP black edition
+D. fedora
+E. tidak ada jawaban yang benar
+
+==================================================
+
+Soal 10:
+Bahasa pemrograman PASCAL termasuk kategori bahasa pemrograman ...
+A. high level language
+B. middle level language
+C. objek oriented procedure
+D. objek oriented language
+E. Low Level Language
+
+==================================================
+
+Soal 11:
+Bilangan biner adalah bilangan yang berbasis...
+A. Bilangan yang berbasis 16 yaitu 0 - 15
+B. Bilangan yang berbasis 2 yaitu 0 dan 1
+C. Bilangan yang berbasis 10 yaitu 0 – 9
+D. Bilangan yang berbasis 8 yaitu 0 – 7
+E. Bilangan yang berbasis 2 yaitu 1 dan 2
+
+==================================================
+
+Soal 12:
+Tampilkan seluruh field yang berada di dalam tabel barang ...
+A. SQL>select*from barang
+B. SQL>select * barang
+C. SQL>select*from tabel barang
+D. SQL>select*to barang
+E. SQL>select * new barang
+
+==================================================
+
+Soal 13:
+Beberapa aturan dalam program PASCAL adalah Sebagai berikut, kecuali  ....
+A. semua benar
+B. Baris komentar diletakkan diantara tanda * dan * atau diantara tanda { dan }
+C. Beberapa statement boleh ditulis menjadi satu baris dipisahkan dengan tanda baca titik dua (:)
+D. Akhir sebuah program PASCAL ditandai dengan tanda baca titik (.) setelah END yang paling akhir.
+E. Beberapa statement boleh ditulis menjadi satu baris dipisahkan dengan tanda baca titik koma (;)
+
+==================================================
+
+Soal 14:
+Hapus tabel barang ...
+A. SQL> drop from table barang;
+B. SQL> drop table barang;
+C. SQL> drop to table barang;
+D. SQL> drop where table barang;
+E. SQL> drop on table barang;
+
+==================================================
+
+Soal 15:
+Terdiri dari database security, data security, dan device security. Merupakan keamanan komputer level..
+A. Level 0
+B. Level 3
+C. Level 1
+D. Level 2
+E. Level 4
+
+==================================================
+
+Soal 16:
+Buatlah user baru pada table karyawan dengan user = luna dan password nya = maya ....
+A. SQL>create user luna identified by maya;
+B. SQL>create user luna password maya;
+C. SQL>create user luna identified maya
+D. SQL>create user luna password by maya
+E. SQL>create user luna password by maya;
+
+==================================================
+
+Soal 17:
+Karakteristik dunia maya menurut dysson :
+A. Beroperasi didunia nyata
+B. Dunia maya tidak mengenal batas-batas teritorial
+C. jawaban a dan c benar
+D. Informasi bersifat public
+E. Transaksi dilakukan dengan menunjukan identitas asli
+
+==================================================
+
+Soal 18:
+Koneksi Internet berikut ini termasuk kategori dial-up, kecuali …
+A. Telkomnet@instan
+B. Modem ADSL
+C. Modem CDMA
+D. Modem GSM
+E. Modem 3G
+
+==================================================
+
+Soal 19:
+Apakah kepanjangan dari DHCP....
+A. Dinamis Host Configurasi Protocol
+B. Dynamic Host Configuration Protocol
+C. Dynamic Hosting Confidenci Protocol
+D. Dinamic Host Confidenci Protocol
+E. Dynamic Hosting Configuration Protocol
+
+==================================================
+
+Soal 20:
+Standar susunan urutan kabel straight adalah ....
+A. Putih Coklat-Coklat-Putih Biru-Biru-Putih Hijau-Hijau-Putih Oranye-Oranye
+B. Putih Oranye-Oranye-Putih Hijau-Hijau-Putih Biru-Biru-Putih Coklat-Coklat
+C. Oranye-Putih Oranye-Hijau-Putih Hijau-Biru-Putih Biru-Coklat- Putih Coklat
+D. Coklat-Putih Coklat-Biru-Putih Biru-Hijau-Putih Hijau-Oranye-Putih Oranye
+E. Oranye-Biru-Hijau-Coklat-Putih Oranye-Putih Hijau-Putih Biru-Putih Coklat
+
+==================================================
+
+Soal 21:
+Manusia dengan tenaga dan ilmu pengetahuan yang digunakan untuk mengoperasikan serta mengatur sistem komputer adalah ....
+A. mailwere
+B. brainware
+C. werewer
+D. softwere
+E. hardwere
+
+==================================================
+
+Soal 22:
+Teknik pengkodean data yang berguna untuk menjaga data / file baik di dalam komputer maupun pada jalur komunikasi dari pemakai yang tidak dikehendaki disebut ….
+A. Autentifikasi
+B. Security
+C. Enkripsi
+D. Konfirmasi
+E. Deskripsi
+
+==================================================
+
+Soal 23:
+Deklarasi yang digunakan untuk mengidentifikasikan data yang nilainya sudah ditentukan dan pasti,tidak dapat dirubah dalam program disebut deklarasi…
+A. deklarasi tipe
+B. deklarasi prosedur
+C. deklarasi variabel
+D. deklarasi konstanta
+E. deklasrasi label
+
+==================================================
+
+Soal 24:
+Bilangan Desimal adalah bilangan yang berbasis...
+A. Bilangan yang berbasis 10 yaitu 0 – 9
+B. Bilangan yang berbasis 16 yaitu 0 - 15
+C. Bilangan yang berbasis 8 yaitu 0 – 7
+D. Bilangan yang berbasis 10 yaitu 0 dan 10
+E. Bilangan yang berbasis 2 yaitu 0 dan 1
+
+==================================================
+
+Soal 25:
+Jaringan internet secara sederhana dapat didefinisikan sebagai....
+A. Komunikasi tanpa kabel yang bisa mengakses jaringan di sejumlah fasilitas koneksi jaringan nirkabel
+B. Peralatan komputer yang memiliki modem yang mampu menghubungkan penggunaan lain di berbagai tempat
+C. Kumpulan pengguna komputer yang memiliki beragam situs atau lokasi suatu jaringan untuk mencari, memperoleh, dan berbagi informasi sesuai keperluan
+D. Sebuah jaringan yang saling berkaitan antara satu komputer dengan komputer lainnya yang mampu melakukan hubungan telekomunikasi dan atau mengakses informasi
+E. Gabungan atau sekumpulan perangkat komputer yang memiliki akses dalam jangkauan yang luas.
+
+==================================================
+
+Soal 26:
+1 Megapixel (MP) berarti menyimpan … titik cahaya/pixel
+A. 3240
+B. 3000
+C. 1240
+D. 1000
+E. 1024
+
+==================================================
+
+Soal 27:
+media penyimpanan internal CPU yang digunakan saat proses pengolahan data, yaitu pengertian dari…..
+A. fetching
+B. execute
+C. CPU
+D. processor
+E. register
+
+==================================================
+
+Soal 28:
+Urutan dalam tahapan kerja SIG yang benar adalah ...
+A. Input, Manipulation, Output
+B. Input, Proses, Output
+C. Output, Proses, input
+D. Atribut, Input, Output
+E. Atribut, Input, Manipulation
+
+==================================================
+
+Soal 29:
+Tampilan folder yang menyajikan nama file, ukuran file, dan keterangan program dapat anda peroleh jika memilih tampilan dengan pilihan…
+A. Details
+B. List
+C. Tiles
+D. Ikon
+E. Content
+
+==================================================
+
+Soal 30:
+Alat yang digunakan untuk memancakan kembali signal adalah ....
+A. kabel UTP
+B. thethering
+C. router
+D. wifi
+E. repeater
+
+==================================================
+
+Soal 31:
+Dalam menyusun suatu program, langkah pertama yang harus di lakukan adalah ....
+A. Membuat Algoritma
+B. Proses
+C. Membuat program
+D. Mempelajari program
+E. Membeli komputer
+
+==================================================
+
+Soal 32:
+Kepanjangan HTML adalah ...
+A. Hyper Text Mark-up List
+B. Hypno Terminal Maximal List
+C. Horizon Terminal Mark-up List
+D. Hypertext Markup Language
+E. Hyper Text Manual Language
+
+==================================================
+
+Soal 33:
+Secara umum, dalam design grafis warna terbagi menjadi 2. yaitu ...
+A. Semua jawaban salah
+B. RGB dan CMYK
+C. RMB dan CMYB
+D. RYB dan CMYK
+E. RGB dan CMBY
+
+==================================================
+
+Soal 34:
+Virus komputer yang biasanya bersembunyi di penyimpanan data pribadi. Mempunyai kemampuan menyembunyikan file kita sehingga seakan akan file tersebut hilang Adalah virus…
+A. Companion
+B. FAT
+C. Worm
+D. Trojan
+E. Directory
+
+==================================================
+
+Soal 35:
+Komputer digital digunakan untuk …
+A. Mengatur software
+B. Mengolah data kualitatif
+C. Mengolah data kuantitatif
+D. Mengolah input jadi output
+E. Mengolah data kuantitatif dan kualitatif
+
+==================================================
+
+Soal 36:
+Komputer yang digunakan untuk mengolah data kualitalif adalah…
+A. Computer micro
+B. Computer digital
+C. Computer analog
+D. Computer longhibrid
+E. Computer mini
+
+==================================================
+
+Soal 37:
+Tanda { dalam program C++ berfungsi untuk....
+A. Tidak memiliki argumen
+B. Memberi Komentar
+C. Mengawali Program
+D. Mengakhiri Program
+E. Cetak
+
+==================================================
+
+Soal 38:
+Dibawah ini yang bukan termasuk Bahasa pemrograman, yaitu …
+A. C++
+B. PASCAL
+C. WINDOWS
+D. COBOL
+E. FORTRAN
+
+==================================================
+
+Soal 39:
+Cara membaca Ip Address kelas A, misalnya 134.48.5.8 adalah ...
+A. Network Id = 0 dan Host Id 134.48.5.8
+B. Network Id = 134.48.5 dan Host Id = 8
+C. Network Id = 134.48 dan Host Id = 5.8
+D. Network Id = 134 dan Host Id = 48.5.8
+E. Network Id = 134.48.5.8. dan Host Id = 0
+
+==================================================
+
+Soal 40:
+Untuk mengetahui MAC Address pada NIC komputer yang kita pasang, digunakan perintah…
+A. Ping
+B. Run
+C. Mkdir
+D. Cmd
+E. IpConfig
+
+==================================================
+
+Soal 41:
+Berikut adalah Beberapa alasan mengapa internet memberikan dampak besar dalam segala aspek kehidupan, kecuali ...
+A. informasi internet di akses 24 jam
+B. dapat di akses secara terbatas
+C. biaya mahal
+D. Kemudahan akses informasi dalam melakukan transaksi
+E. Materi dapat di up-date dengan mudah
+
+==================================================
+
+Soal 42:
+Dibawah ini yang termasuk Bahasa pemrograman Tingkat Rendah, yaitu ...
+A. BASIC dan COBOL
+B. BASIC dan FORTRAN
+C. ASSEMBLY LANGUAGE dan RPG
+D. COBOL dan PASCAL
+E. C++ dan COBOL
+
+==================================================
+
+Soal 43:
+Central node pada topologi star berupa …..
+A. Repeater
+B. Switch/hub
+C. Kabel
+D. Konektor
+E. Router
+
+==================================================
+
+Soal 44:
+Dibawah ini yang bukan termasuk Sistem Operasi, yaitu …
+A. DOS
+B. windows
+C. UNIX
+D. visual basic
+E. linux
+
+==================================================
+
+Soal 45:
+Berikut yang termasuk perangkat keras adalah, kecuali…
+A. printer
+B. mouse
+C. Flash Disk
+D. speaker
+E. software
+
+==================================================
+
+Soal 46:
+Sistem Keamanan Jaringan Komputer, yang mengacu kepada peretas yaitu mereka yang menerobos keamanan sistem komputer tanpa ijin, umumnya dengan maksud untuk mengakses komputer-komputer yang yang terkoneksi ke jaringa tersebut adalah istilah dari...
+A. Black Hat
+B. Cracker
+C. Hacker
+D. Security Hole
+E. White Hat
+
+==================================================
+
+Soal 47:
+Bagian yang terhubung dengan komponen pelaksanaan dan interkoneksi antar komponen sistem komputer dalam pelaksanaan aspek arsitektur yang disebut….
+A. Organisasi Komputer
+B. Instalasi Komputer
+C. Aplikasi Komputer
+D. Arsitektur Komputer
+E. Sistem Komputer
+
+==================================================
+
+Soal 48:
+Sekumpulan data yang menyimpan sekumpulan elemen yang bertipe sama disebut ...
+A. Fungsi
+B. Prosedur
+C. Array
+D. Type
+E. Variabel
+
+==================================================
+
+Soal 49:
+Standar 802.11a memiliki kecepatan ...
+A. 54 Mbps
+B. 11 Mbps
+C. 1 Gbps
+D. 300 Mbps
+E. 2 Mbps
+
+==================================================
+
+Soal 50:
+Dibawah ini yang bukan termasuk program Format-format digital multimedia, yaitu …
+A. MP3
+B. MPEG
+C. AVI
+D. Harvard Publisher
+E. MIDI
+
+==================================================
+
+Soal 51:
+Bilangan heksadesimal adalah bilangan yang berbasis...
+A. Bilangan yang berbasis 16 yaitu 0 - 15
+B. Bilangan yang berbasis 16 yaitu 0 dan 17
+C. Bilangan yang berbasis 8 yaitu 0 – 7
+D. Bilangan yang berbasis 2 yaitu 0 dan 1
+E. Bilangan yang berbasis 10 yaitu 0 – 9
+
+==================================================
+
+Soal 52:
+Dibawah ini yang termasuk sistem operasi berbasis GUI kecuali...
+A. ubuntu
+B. macintosh
+C. Android
+D. windows
+E. mikrotik
+
+==================================================
+
+Soal 53:
+Andi adalah admin jaringan, di kantornya ada masalah. Router yg dia konfigurasi tidak bisa melakukan ping terhadap situs apapun. Padahal router tsb dapat melakukan ping terhadap ip modem/ip internet nya. Apa yg harus dikonfigurasi oleh Andi ?
+A. IP Address
+B. DNS
+C. Nat
+D. Firewall
+E. Gateway
+
+==================================================
+
+Soal 54:
+Untuk memanggil salah satu atau beberapa perintah SQL secara otomatis sebelum atau sesudah terjadi proses INSERT, UPDATE, atau DELETE dari suatu tabel adalah fungsi dari…
+A. Union
+B. Extract
+C. Views
+D. Having
+E. Trigger
+
+==================================================
+
+Soal 55:
+Kejahatan di dunia maya disebut juga dengan ...
+A. cybertalk
+B. cybercrime
+C. cybershoot
+D. cyberspace
+E. cyberlaw
+
+==================================================
+
+Soal 56:
+Berdasarkan surat Presiden RI. No.R./70/Pres/9/2005 tanggal 5 September 2005, naskah UU ITE secara resmi disampaikan kepada DPR RI. Dan disahkan pada …
+A. 2008-04-01 00:00:00
+B. 2008-04-21 00:00:00
+C. 2008-04-11 00:00:00
+D. 2008-04-28 00:00:00
+E. 2008-04-10 00:00:00
+
+==================================================
+
+Soal 57:
+Hukum yang digunakan di dunia cyber (dunia maya) yang umumnya diasosiasikan dengan internet. Disebut dengan …
+A. cybershoot
+B. Cybercrime
+C. cyberlaw
+D. cyberspace
+E. cybernet
+
+==================================================
+
+Soal 58:
+Array yang sangat banyak elemen nol-nya, dikenal sebagai ...
+A. sprase array
+B. lower tringular array
+C. one dimensional array
+D. multi dimensional array
+E. upper tringular array
+
+==================================================
+
+Soal 59:
+Alat-alat dibawah ini yang termasuk sebagai perangkat keras suatu komputer, kecuali…
+A. Monitor
+B. Processor
+C. Memory
+D. Mouse
+E. VCD Cutter
+
+==================================================
+
+Soal 60:
+Jenis jaringan komputer yang hanya mencakup ruangan kecil atau dalam 1 ruangan saja adalah…
+A. MAN
+B. Intranet
+C. LAN
+D. Internet
+E. WAN
+
+==================================================
+
+Soal 61:
+Jenis kabel dibawah ini yang digunakan pada topologi bus adalah ……
+A. STP
+B. kabel data
+C. fiber optic
+D. UTP
+E. coaxial
+
+==================================================
+
+Soal 62:
+Ip address terdiri dari 2 bagian yaitu ...
+A. Network Id dan Host Id
+B. Host Id dan Subnet Mask
+C. Network Id dan Broadcast Id
+D. Subnet Mask dan Network Id
+E. bit dan nyble
+
+==================================================
+
+Soal 63:
+Dibawah ini yang bukan termasuk program Layout Artikel, yaitu …
+A. hardvard publisher
+B. pro design
+C. ventura
+D. page marker
+E. newmater
+
+==================================================
+
+Soal 64:
+==,
+A. vbitwise
+B. unary
+C. binary
+D. relasi
+E. aritmatika
+
+==================================================
+
+Soal 65:
+Berikut ini adalah contoh-contoh media transmisi yang menggunakan kabel, kecuali….
+A. wireless
+B. STP
+C. BNC
+D. fiber optik
+E. coaxial/coax
+
+==================================================
+
+Soal 66:
+Dibawah ini yang termasuk Bahasa pemrogramman Tingkat Tinggi, yaitu …
+A. ASSEMBLY LANGUAGE, COBOL dan FORTRAN
+B. BASIC, RPG dan FORTRAN
+C. COBOL, BASIC dan PASCAL
+D. BASIC, ASSEMBLY LANGUAGE dan COBOL
+E. ASSEMBLY LANGUAGE, RPG, dan COBOL
+
+==================================================
+
+Soal 67:
+11111111.11111111.1110000.00000000 adalah subnet binary dari ...
+A. 255.255.128.0
+B. 255.255.224.0
+C. 255.255.248.0
+D. 255.255.240.0
+E. 255.255.192.0
+
+==================================================
+
+Soal 68:
+Simbol dalam E-R Diagram yang digunakan untuk menunjukan objek dasar adalah ...
+A. Persegi panjang
+B. Persegi
+C. Elips
+D. Belah ketupat
+E. Lingkaran
+
+==================================================
+
+Soal 69:
+Shortcut yang digunakan untuk menutup suatu dokumen Microsoft Word adalah…
+A. CTRL+P
+B. CTRL+C
+C. CTRL+W
+D. CTRL+D
+E. CTRL+Z
+
+==================================================
+
+Soal 70:
+Sistem operasi Windows yang pertama kali bisa memenuhi kebutuhan pengguna yang ingin berhubungan dengan jaringan network atau server adalah jenis Windows....
+A. 2000
+B. NT
+C. 98
+D. XP
+E. ME
+
+==================================================
+
+Soal 71:
+Anda harus mengenal sebuah baris judul dari program Microsoft Word yang berisikan informasi yang disebut dengan…
+A. Restore
+B. Tool bar
+C. Menu bar
+D. Menu option
+E. Title bar
+
+==================================================
+
+Soal 72:
+Bila anda harus menghapus huruf E pada kata "KERUPUK", maka anda dapat melakukannya dengan cara meletakkan kursosr didepan huruf E tersebut dan setelah itu menekan tombol keyboard yang dinamakan…
+A. Black space
+B. Caps lock
+C. Enter
+D. F4
+E. Tab
+
+==================================================
+
+Soal 73:
+Dari pernyataan dibawah ini yang merupakan kekurangan dari topologi bus adalah….
+A. Jika satu node putus maka koneksi jaringan tidak akan berfungsi
+B. tidak ada jawaban yang benar
+C. Membutuhkan konsentrator
+D. Sulit dalam pengelolaan
+E. Konfigurasi dan pengkabelan cukup sulit
+
+==================================================
+
+Soal 74:
+Dibawah ini yang merupakan struktur utama di dalam komputer , kecuali . . . .
+A. input perangkat
+B. output perangkat
+C. memori
+D. CPU
+E. jaringan
+
+==================================================
+
+Soal 75:
+Di bawah ini adalah jenis-jenis sistem operasi, kecuali...
+A. mac OS
+B. cytrix
+C. windows XP
+D. red hat
+E. ubuntu
+
+==================================================
+
+Soal 76:
+Jika anda ingin menggunakan themes pada Microsoft PowerPoint, langkah pertama yang harus anda lakukan adalah memiliki tab … pada toolbar.
+A. Animation
+B. Design
+C. Transition
+D. File
+E. Insert
+
+==================================================
+
+Soal 77:
+Bilangan yang mengadung pecahan ,paling sedikit harus ada satu digit sebelum dan sesudah titik desimal termasuk dalm tipe data…
+A. longint
+B. byte
+C. boolean
+D. real
+E. integer
+
+==================================================
+
+Soal 78:
+Kelebihan gambar berbasis vektor adalah ….
+A. Kualitas grafis tidak tergantung dari banyaknya pixel
+B. Tidak dapat diubah dalam berbagai tampilan tiga dimensi
+C. Tersusun atas titik-titik/dot
+D. Dapat menampilkan gambar dan gradasi secara realistis atau natural
+E. Ukuran file yang dihasilkan besar
+
+==================================================
+
+Soal 79:
+Data hasil pengamatan atau pengukuran yang dinyatakan dalam bentuk bilangan adalah data ...
+A. Kurva
+B. Interval
+C. Kuantitatif
+D. Rasio
+E. Kualitatif
+
+==================================================
+
+Soal 80:
+Bilangan oktal adalah bilangan yang berbasis....
+A. Bilangan yang berbasis 8 yaitu 0 dan 8
+B. Bilangan yang berbasis 2 yaitu 0 dan 1
+C. Bilangan yang berbasis 16 yaitu 0 - 15
+D. Bilangan yang berbasis 10 yaitu 0 – 9
+E. Bilangan yang berbasis 8 yaitu 0 – 7
+
+==================================================
+
+Soal 81:
+Apakah kegunaan Revoke ?
+A. Mengganti password user
+B. Menarik hak akses user
+C. Mengubah password user
+D. Mengatur hak akses user
+E. Menghapus hak akses user
+
+==================================================
+
+Soal 82:
+Intelligent terminal biasanya digunakan untuk sistem komputer yang berbentuk…
+A. line
+B. network
+C. visual display
+D. netbook
+E. internal memory
+
+==================================================
+
+Soal 83:
+255.255.248.0 adalah subnet mask dari nilai cidr…
+A. /16
+B. /18
+C. /9
+D. /21
+E. /27
+
+==================================================
+
+Soal 84:
+int x = 3.05; tipe data yang digunakan adalah ....
+A. Integer
+B. String
+C. Boolean
+D. Dec
+E. Float
+
+==================================================
+
+Soal 85:
+Server yang dapat membuat sistem berbasi Unix (seperti Linux) untuk melakukan sharing resource dengan system berbasis windows adalah ....
+A. Squirel
+B. Samba
+C. Squad
+D. Apache
+E. Proxy
+
+==================================================
+
+Soal 86:
+Berikut ini yang termasuk operator aritmatika yaitu ….
+A. semua salah
+B. semua benar
+C. %
+D. *
+E. /
+
+==================================================
+
+Soal 87:
+Dalam ruang lingkup cyberlaw Fitnah, Penistaan, Penghinaan, disebut juga …
+A. dutycare
+B. hate speech
+C. defamation
+D. copyright
+E. trademark
+
+==================================================
+
+Soal 88:
+Bila Anda ingin memunculkan dokumen Anda yang berisi gambar-gambar, maka Anda harus menentukan drive tempat dokumen tersebut dengan cara klik tombol....
+A. Open
+B. Insert Picture
+C. Show picture
+D. Drop down look in
+E. Toolbar Picture
+
+==================================================
+
+Soal 89:
+Bagaimana pengaruh terhadap komputer lain apabila salah satu konektor BNC putus?
+A. Tidak ada pengaruh
+B. Kecepatan transfer data menurun
+C. Kecepatan transfer data meningkat
+D. Tidak dapat terkoneksi ke jaringan
+E. Terjadi kerusakan pada NIC
+
+==================================================
+
+Soal 90:
+Jenis malware yang bisa merelikasikan diri sendiri tanpa campur tangan user adalah ...
+A. Adware
+B. Worm
+C. Trojan Horse
+D. Virus
+E. Keylogger
+
+==================================================
+
+Soal 91:
+Jabatan yang termasuk brainware adalah ....
+A. Technical Support
+B. Webmaster
+C. CCNA
+D. Package Software
+E. MCP
+
+==================================================
+
+Soal 92:
+Dibawah ini yang bukan termasuk program CAD, yaitu …
+A. autocad
+B. pro design
+C. corel draw
+D. Page maker
+E. adobe photoshop
+
+==================================================
+
+Soal 93:
+Istilah yang digunakan untuk menyebut alamat internet adalah…
+A. URL
+B. ISP
+C. Domain
+D. WWW
+E. Browser
+
+==================================================
+
+Soal 94:
+Apakah kepanjangan dari HTML ?
+A. Hyper Text Machine Language
+B. Hyper Tax Markup Language
+C. Hyper Text Markup Language
+D. Hyper Task Markup Language
+E. Hyper Tax Mark Language
+
+==================================================
+
+Soal 95:
+Tempat dimana kita dapat mengisi atau mengosongkan nilainya dan memanggil kembali apabila dibutuhkan adalah pengertian dari ...
+A. Fungsi
+B. Variabel
+C. Konstanta
+D. Kelas
+E. Tipe data
+
+==================================================
+
+Soal 96:
+Konsep perencanaan dan struktur dasar dari suatu sistem komputer disebut ....
+A. Arsitektur Komputer
+B. Organisasi Komputer
+C. Sistem Komputer
+D. Instalasi Komputer
+E. Aplikasi Komputer
+
+==================================================
+
+Soal 97:
+Shortcut keyboard untuk memformat sel waktu saat ini adalah ...
+A. CTRL + SHIFT + Titik dua (:)
+B. CTRL + SHIFT + Titik koma (;)
+C. CTRL + Titik koma (;)
+D. SHIFT + F2
+E. CTRL + Titik dua (:)
+
+==================================================
+
+Soal 98:
+Kepanjangan dari JSON adalah ...
+A. Javascrip Object Native
+B. Javascrip Oriented Native
+C. Javascript Oriented Navigation
+D. Javascrip Oriented Notation
+E. Javascript Object Notation
+
+==================================================
+
+Soal 99:
+Cara merubah arah putaran objek yang telah anda buat dapat dilakukan dengan menggunakan toolbar drawing, memilih toolbar draw, dan kemudian memilih menu…
+A. Semua jawaban salah
+B. Flip horizontal
+C. Rotate 90 derajat
+D. Rotate of flip
+E. Free rotate
+
+==================================================
+
+Soal 100:
+Jika melakukan publishing ke internet dokumen presentasi Microsoft Powerpoint kamu akan mendapat file berekstensi ...
+A. .doc
+B. .com
+C. .net
+D. .pub
+E. .htm
+
+==================================================
+

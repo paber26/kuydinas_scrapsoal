@@ -1,0 +1,448 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nBumbu digunakan untuk masakan.\nHubungan objek yang setara dengan kalimat di atas adalah ....",
+        "pilihan": [
+            "Pertalite digunakan untuk bahan bakar",
+            "Skincare digunakan untuk kecantikan",
+            "Antibiotik digunakan untuk kesehatan",
+            "Nutrisi digunakan untuk tubuh",
+            "Roda digunakan untuk berjalan"
+        ],
+        "jawaban_benar": "Nutrisi digunakan untuk tubuh",
+        "pembahasan": "Pupuk digunakan untuk tanaman => benda digunakan untuk benda.\nPertalite digunakan untuk bahan bakar. => salah karena benda digunakan untuk hal (bahan bakar.)\nSkincare digunakan untuk kecantikan. => salah karena benda digunakan untuk sifat(kecantikan)\nAntibiotik digunakan untuk kesehatan => salah karena benda digunakan untuk sifat (kesehatan)\nNutrisi digunakan untuk tubuh=> benar\nRoda digunakan untuk berjalan.=> salah karena benda digunakan untuk kegiatan (berjalan)"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nKlorofil pada daun berfungsi untuk menyerap energi dari sinar matahari. Kalimat yang memiliki analogi yang sama dengan kalimat tersebut adalah .…",
+        "pilihan": [
+            "Kursi pada rumah berfungsi sebagai tempat duduk",
+            "Gedung pada ruang kelas berfungsi sebagai tempat belajar",
+            "Vitamin C pada buah jeruk berfungsi untuk memperkuat daya tahan tubuh",
+            "Vitamin A pada wortel berfungsi sebagai antioksidan",
+            "Gula pada jus jeruk berfungsi sebagai pemanis"
+        ],
+        "jawaban_benar": "Vitamin C pada buah jeruk berfungsi untuk memperkuat daya tahan tubuh",
+        "pembahasan": "Klorofil pada daun berfungsi untuk menyerap energi dari sinar matahari\nKursi pada rumah berfungsi sebagai tempat duduk (salah, karena disoal berfungsi untuk, tapi dikalimat ini berfungsi sebagai)\nGedung pada ruang kelas berfungsi sebagai tempat belajar. (salah, karena disoal berfungsi untuk, tapi dikalimat ini berfungsi sebagai)\nVitamin C pada buah jeruk berfungsi untuk memperkuat daya tahan tubuh.(benar)\nVitamin A pada wortel berfungsi sebagai antioksidan (salah, karena disoal berfungsi untuk, tapi dikalimat ini berfungsi sebagai)\nGula pada jus jeruk berfungsi sebagai pemanis (salah, karena disoal berfungsi untuk, tapi dikalimat ini berfungsi sebagai)"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nBatu dan pasir terdapat di pantai. Hubungan objek yang memiliki analogi yang sama dengan kalimat diatas adalah .…",
+        "pilihan": [
+            "Rambutan dan langsat terdapat di kebun",
+            "Monyet dan harimau terdapat di hutan",
+            "Reels dan story terdapat di instagram",
+            "Air dan timba terdapat di kamar mandi",
+            "Egy dan Witan terdapat di Timnas"
+        ],
+        "jawaban_benar": "Reels dan story terdapat di instagram",
+        "pembahasan": "Batu dan pasir terdapat di pantai. (Batu dan pasir sudah pasti selalu ada di pantai)\nRambutan dan langsat terdapat di kebun. (salah, tidak semua kebun ada rambutan dan langsat)\nMonyet dan harimau terdapat di hutan. (salah, tidak semua hutan ada monyet dan harimau)\nReels dan story terdapat di instagram. (benar, di instagram manapun selalu ada reels dan story)\nAir dan timba terdapat di kamar mandi (salah, air dan timba tidak selalu ada di kamar mandi)\nEgy dan Witan terdapat di Timnas (salah, egy dan witan tidak selalu ada di timnas)"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\n103, 96, 88, 79, ..., ....",
+        "pilihan": [
+            "62, 53",
+            "63, 52",
+            "68, 56",
+            "69, 58",
+            "72, 66"
+        ],
+        "jawaban_benar": "69, 58",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_4_pemb_img1.png]"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\n12, 12, 10, 14, 8, 16, .…",
+        "pilihan": [
+            "6"
+        ],
+        "jawaban_benar": "6",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_5_pemb_img1.png]"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\n7, 8, 8, 7, 9, 6, ..., .…",
+        "pilihan": [
+            "9, 9",
+            "6, 9",
+            "10, 8",
+            "10, 5",
+            "8, 9"
+        ],
+        "jawaban_benar": "10, 5",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_6_pemb_img1.png]"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nAlex membeli sepatu di mall seharga Rp 300.000. Di tag harga tertera diskon 15%. Saat membayar ke kasir, Alex mendapatkan tambahan diskon sebesar 50% karena hari ulang tahun mall. Harga yang harus dibayar oleh Alex adalah .…",
+        "pilihan": [
+            "Rp195.000",
+            "Rp180.000",
+            "Rp135.000",
+            "Rp225.500",
+            "Rp127.500"
+        ],
+        "jawaban_benar": "Rp127.500",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_7_pemb_img1.png]"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nJosep bekerja setiap hari selama 7 jam. Jika pada hari ini ia bekerja sampai 16.15 dari pukul 08.00. Maka ia sudah bekerja ... menit lebih lama daripada yang seharusnya.",
+        "pilihan": [
+            "75 menit",
+            "85 menit",
+            "95 menit",
+            "105 menit",
+            "115 menit"
+        ],
+        "jawaban_benar": "75 menit",
+        "pembahasan": "08.00 + 7 jam = 15.00\nMaka 16.15 - 15.00 = 1 jam 15 menit = 75 menit"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nSuatu perbaikan rumah mewah dapat diselesaikan selama 36 hari oleh 12 pekerja. Jika perbaikan rumah mewah tersebut ingin dipercepat dalam 18 hari. Maka banyaknya pekerja yang harus ditambahkan adalah .…",
+        "pilihan": [
+            "5 pekerja",
+            "7 pekerja",
+            "8 pekerja",
+            "11 pekerja",
+            "12 pekerja"
+        ],
+        "jawaban_benar": "12 pekerja",
+        "pembahasan": "36 hari = 12 pekerja\n18 hari = X pekerja\nMaka, gunakan perbandingan berbalik nilai\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_9_pemb_img1.png]\nJadi, pekerja yang harus ditambahkan adalan X - 12 = 24 - 12 = 12 pekerja"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nSiregar sedang menuju tempat latihan golf menggunakan mobil yang dikemudikan oleh sopirnya selama 75 menit dengan jarak 70 km. Jika Siregar terlambat berangkat 15 menit dari biasanya, maka kecepatan mobil yang ditumpangi Siregar agar sampai di tempat latihan golf tepat waktu seperti biasanya adalah ....",
+        "pilihan": [
+            "70"
+        ],
+        "jawaban_benar": "70",
+        "pembahasan": "Kecepatan mobil = jarak : waktu = 70 km : 75 menit = 70 km : 1,25 jam = 56 km/jam\nSaat terlambat, maka sisa waktu akan berkurang menjadi = 75 menit - 15 menit = 60 menit = 1 jam\nSehingga kecepatannya menjadi:\n70 km / 1 jam = 70 km/jam"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nRos sedang berada dalam perjalanan kereta api sejak 5 jam yang lalu. Kereta tersebut akan tiba di kota tujuan Ros pada pukul 11.35 WIB. Jika kereta yang ditumpangi Ros akan sampai di kota tujuan dalam dua setengah jam lagi, pukul berapakah Ros berangkat dari kota asalnya?",
+        "pilihan": [
+            "04.00 WIB",
+            "04.05 WIB",
+            "04.15 WIB",
+            "05.05 WIB",
+            "05.15 WIB"
+        ],
+        "jawaban_benar": "04.05 WIB",
+        "pembahasan": "Lama perjalanan yang ditempuh = 5 jam + 2,5 jam = 7,5 jam\nJam pemberangkatan = jam tiba– lama perjalanan = 11.35 WIB– 7,5 jam = 04.05 WIB"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nPutra menyelesaikan ujian pukul 11.36 WIB. Lalu Putra ingin menyusul Putri yang telah pulang ke rumah dengan berlari. Putri kembali ke rumah pada pukul 11.30 WIB. Jika kecepatan Putra dalam berlari adalah 3x kecepatan Putri berjalan, maka pada pukul berapa Putra dalam menyusul Putri?",
+        "pilihan": [
+            "11.39 WIB",
+            "11.42 WIB",
+            "11.45 WIB",
+            "11.49 WIB",
+            "11.52 WIB"
+        ],
+        "jawaban_benar": "11.39 WIB",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_12_pemb_img1.png]\nMaka waktu saat Putra berhasil menyusul Putri pada pukul 13.36 + 3 menit = 13.39"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nPak Ibnu adalah agen yang menjual beberapa bahan dapur seperti bawang merah, bawang putih, cabai, dan tomat. Ia berhasil menjual 80 kg bawang merah, 3/4 kuintal bawang putih, dan 85 kg cabai. Jika pak ibnu ditargetkan memiliki rata-rata penjualan 83, Berapakah tomat yang harus terjual?",
+        "pilihan": [
+            "92"
+        ],
+        "jawaban_benar": "92",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_13_pemb_img1.png]"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nKarena lelah bekerja, Angga ingin berlibur untuk menghilangkan penat dan lelahnya. Terdapat beberapa pilihan paket liburan yang ditawarkan oleh temannya, yaitu paket A, paket B, paket C, paket D, dan paket E.\nTiga paket berjenis\nprivate\ntrip dan dua paket lainnya open trip\nAda dua paket yang destinasinya wilayah pegunungan dan tiga destinasinya wilayah pantai\nPaket A dan C memiliki jenis trip yang sama\nPaket D dan E memiliki jenis trip yang berbeda\nPaket B dan E memiliki destinasi yang sama\nPaket C dan D memiliki destinasi yang berbeda\nAngga memilih paket dengan destinasi wisata wilayah pegunungan dengan jenis open trip\nPaket yang berjenis open trip adalah ....",
+        "pilihan": [
+            "Paket A dan Paket D",
+            "Paket A dan Paket C",
+            "Paket B dan Paket C",
+            "Paket E dan Paket C",
+            "Paket B dan Paket D"
+        ],
+        "jawaban_benar": "Paket B dan Paket D",
+        "pembahasan": "Dari pernyataan 3 dan 4 diperoleh bahwa Paket A dan Paket C berjenis private trip, paket B berjenis open trip\nDari pernyataan 7 diperoleh bahwa paket D berjenis open trip, kemudian pernyataan 4 menjelaskan bahwa D dan E memiliki jenis trip yang berbeda, sehingga Paket E berjenis private trip\nJadi yang berjenis open trip adalah paket D dan B"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nManakah hubungan yang paling tepat antara X dan Y adalah .…",
+        "pilihan": [
+            "X = 2Y",
+            "X < Y",
+            "X = Y",
+            "X > Y",
+            "Tidak ada jawaban yang benar"
+        ],
+        "jawaban_benar": "X = Y",
+        "pembahasan": "Langkah penyelesaiannya yaitu dengan p/a menyederhanakan bentuknya dengan pemisalan.\nMisal 842 = 1,843 = 2,844 = 3 (urutan dari terkecil terbesar)\nMisal 53 = 1,54 = 2,55 = 3\nMaka\nX = 2^2 - 1 × 3 = 4 - 3 = 1\nY = 3 × 1 - 2^2 + 2 = 3 - 4 + 2 = 1\nmaka X = Y"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nJika p > q dengan p dan q adalah bilangan asli, maka hubungan yang selalu benar adalah …",
+        "pilihan": [
+            "x > y",
+            "y > x",
+            "y = 2x",
+            "2y = x",
+            "tidak ada jawaban yang benar"
+        ],
+        "jawaban_benar": "y > x",
+        "pembahasan": "x = 100% dari 1 = 1\ny = p/q\njika p > q dengan p dan q adalah bilangan asli, maka sudah pasti y > 1. Dengan demikian y > x"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nJ, K, L, I, H, G, D, E, F, C, ..., …",
+        "pilihan": [
+            "K J",
+            "J K",
+            "B A",
+            "M N",
+            "I H"
+        ],
+        "jawaban_benar": "B A",
+        "pembahasan": "10, 11, 12 | 9, 8, 7 | 4, 5, 6 | 3,\n2\n,\n1\nJadi abjad yang urutan 2 dan 1 adalah B dan A"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nHasil dari …",
+        "pilihan": [
+            "3,12",
+            "4,12",
+            "4,2",
+            "5,12",
+            "5,2"
+        ],
+        "jawaban_benar": "5,2",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_18_pemb_img1.png]"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nSelisih dari …",
+        "pilihan": [
+            "10,125",
+            "3,075",
+            "5,425",
+            "5,74",
+            "3,22"
+        ],
+        "jawaban_benar": "5,425",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_19_pemb_img1.png]"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nHasil dari …",
+        "pilihan": [
+            "10 61/135",
+            "10 71/135",
+            "10 81/135",
+            "11 61/135",
+            "10 1/135"
+        ],
+        "jawaban_benar": "10 71/135",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_20_pemb_img1.png]"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nHasil operasi …",
+        "pilihan": [
+            "1,875",
+            "1,250",
+            "6,000",
+            "7,875",
+            "8,500"
+        ],
+        "jawaban_benar": "6,000",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_21_pemb_img1.png]"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nPaket A dan C memiliki jenis trip yang sama\nPaket D dan E memiliki jenis trip yang berbeda\nPaket B dan E memiliki destinasi yang sama\nPaket C dan D memiliki destinasi yang berbeda\nAngga memilih paket dengan destinasi wisata wilayah pegunungan dengan jenis open trip\nPernyataan berikut yang benar adalah ....",
+        "pilihan": [
+            "Paket A memiliki destinasi pegunungan dan berjenis private trip",
+            "Paket B memiliki destinasi pantai dan berjenis private trip",
+            "Paket C memiliki destinasi pantai dan berjenis open trip",
+            "Paket D memiliki destinasi pantai dan berjenis open trip",
+            "Paket E memiliki destinasi pegunungan dan berjenis private trip"
+        ],
+        "jawaban_benar": "Paket A memiliki destinasi pegunungan dan berjenis private trip",
+        "pembahasan": "Dari pernyataan pernyataan diperoleh informasi sebagai berikut:\nBerjenis private trip : Paket A, C, dan E\nBerjenis open trip: Paket B dan D\nDestinasi pegunungan : Paket A dan D\nDestinasi pantai : Paket B, C, dan E\nDiantara kelima opsi jawaban, opsi yang paling benar adalah A."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSebagai pengusaha catering, Bu Rini membuat berbagai macam kue, antara lain kue X, Y, Z, K, dan L. Setiap kue mempunyai resep masing-masing. Bu Rini akan memakai tepung pada setiap kue yang dibuatnya. Telur tidak akan dipakai pada kue X. Gula tidak dibutuhkan pada kue Y dan L, sedangkan mentega tidak akan dipakai pada kue K dan L. Suatu hari Bu Rini hanya memerlukan telur dan tepung. Kue apakah yang tidak dibuat Bu Rini?",
+        "pilihan": [
+            "Kue X",
+            "Kue Y",
+            "Kue Z",
+            "Kue K",
+            "Kue L"
+        ],
+        "jawaban_benar": "Kue X",
+        "pembahasan": "Biasakan baca cepat dan fokuslah pada pertanyaan. Yang ditanyakan dalam soal ini adalah \"Kue apakah yang TIDAK dibuat oleh Bu Rini jika ia tidak menggunakan telur dan tepung\". Pada kalimat keempat dikatakan bahawa kue X tidak menggunakan telur."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nEnam pelamar duduk berurutan dalam ujian wawancara. Tian tidak bersebelahan dengan Sasa atau Lulu. Nora duduk di dekat Lulu. Tian duduk di dekat Jojo dan Jojo duduk di sebelah Nora. Sasa tidak ingin didahului Gaga dan Gaga bersebelahan dengan Tian. Lulu duduk di urutan terakhir. Siapakah yang berada di urutan kedua?",
+        "pilihan": [
+            "Gaga",
+            "Tian",
+            "Jojo",
+            "Nora",
+            "Sasa"
+        ],
+        "jawaban_benar": "Gaga",
+        "pembahasan": "Posisi duduk keenam pelamar tersebut dapat dijelaskan dalam gambar berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_24_pemb_img1.png]\nBiasanya kata kunci terletak pada kalimat terakhir. Tempatkan Lulus pada urutan keenam, selanjutnya temukan kalimat yang memuat nama Lulus. Teruskan hingga diperoleh gambar di atas. Jadi yang berada pada urutan kedua adalah Gaga."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nKegiatan berkumpul staf perusahaan dimeriahkan dengan permainan membentuk lingkaran dengan tujuh pemain. Amir ingin berdekatan dengan Rani, seperti Edi yang ingin berdekatan dengan Gita. Nani selalu ingin diapit oleh Rani dan Gita. Posisi Dito berdekatan dengan Amir. Di antara siapakah Fika berada?",
+        "pilihan": [
+            "Rani dan Nani",
+            "Dito dan Nani",
+            "Gita dan Edi",
+            "Nani dan Edi",
+            "Edi dan Dito"
+        ],
+        "jawaban_benar": "Edi dan Dito",
+        "pembahasan": "Bentuk soal posisi duduk melingkar harus diselesaikan dengan menggambar deskripsinya. Posisinya dapat dijelaskan pada gambar berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_1058/gambar/soal_25_pemb_img1.png]\nBiasanya kata kunci berada pada akhir kalimat. Langkah paling pertama adalah tempatkan Nani yang diapit oleh Rani dan Gita. Selanjutnya ikuti petunjuk! Dari gambar di atas dapat dilihat bahwa posisi Fika berada di antara Edi dan Dito."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nTidak ada warga di kampung Duku yang menjadi anggota koperasi unit desa. Semua remaja RT 09 adalah anggota koperasi unit desa.\nSimpulan yang tepat adalah .…",
+        "pilihan": [
+            "Beberapa warga di kampung Duku menjadi anggota koperasi unit desa.",
+            "Semua anggota koperasi unit desa adalah warga kampung lain.",
+            "Sebagian anggota koperasi unit desa adalah remaja RT 09.",
+            "Semua anggota koperasi unit desa adalah remaja RT 09.",
+            "Tidak ada remaja RT 09 yang menjadi warga di kampung Duku."
+        ],
+        "jawaban_benar": "Tidak ada remaja RT 09 yang menjadi warga di kampung Duku.",
+        "pembahasan": "Perhatikan kalimat yang dicetak miring:\nTidak ada warga di kampung Duku yang menjadi anggota koperasi unit desa. Semua remaja RT 09 adalah anggota koperasi unit desa.\nKalimat yang dicetak miring di atas tidak boleh dimuat dalam kesimpulan. Sehingga opsi a, b, c, dan d salah."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nTidak ada tempat duduk di taman kota yang berwarna hijau. Semua kursi buatan pabrik M berwarna hijau.\nSimpulan yang tepat dari pernyataan di atas adalah .…",
+        "pilihan": [
+            "Sebagian kursi buatan pabrik M tidak dijadikan tempat duduk di taman kota.",
+            "Sebagian tempat duduk di taman kota adalah buatan pabrik M.",
+            "Tidak ada kursi buatan pabrik M yang dijadikan tempat duduk di taman kota.",
+            "Semua tempat duduk di taman kota buatan pabrik M.",
+            "Beberapa kursi buatan pabrik M dijadikan tempat duduk di taman kota."
+        ],
+        "jawaban_benar": "Tidak ada kursi buatan pabrik M yang dijadikan tempat duduk di taman kota.",
+        "pembahasan": "Jika dua buah premis/pernyataan masing-masing memuat kata \"Tidak ada\" dan \"Semua\", maka dalam kesimpulan harus memuat kata \"Tidak ada\". Sehingga opsi A, B, D, dan E adalah kesimpulan yang salah."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nCarilah gambar yang berbeda!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Perhatikan, Semua pada Gambar besar dan gambar kecil memiliki bentuk yang sama kecuali opsi C"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nCarilah gambar yang berbeda!",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Dapat dilihat bahwa pada gambars emua persegi panjang berada di bawah sisi terpanjang segitiga, akan tetapi pada opsi B persegi panjang tersebut berwarna hitam."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nCarilah gambar yang berbeda!",
+        "pilihan": [
+            "E"
+        ],
+        "jawaban_benar": "E",
+        "pembahasan": "Diantara kelima gambar, gambar E adalah gambar yang paling beda. Gambar B merupakan gambar A yang dicerminkan ke kanan. Gambar C merupakan gambar A yang diputar 90 derajat ke kiri. Gambar D merupakan gambar A yang diputar 180 derajat."
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Bangun yang atas mengalami perubahan warna dan tidak mengalami perubahan bentuk, bangun yang tengah tidak mengalami perubahan warna dan bentuk, bangun yang bawah tidak mengalami perubahan warna dan mengalami perubahan bentuk. Maka jawaban yang tepat adalah gambar D"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nCarilah gambar yang berbeda!",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Masing-masing gambar terdiri dari 3 kolom dimana tiap kolom terdapat 3 bintang dan 3 bulan. Diantara kelima gambar, gambar A adalah gambar yang paling beda. Pada gambar lainnya, antara bulan satu dan bulan yang lain dalam satu kolom, dipisahkan oleh 1 bintang. Sedangkan pada gambar A terdapat 2 bintang yang memisahkan bulan satu dan bulan yang lain, yaitu pada kolom 1."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Gambar tersebut memiliki pola sebagai berikut:\nTanda panah secara bergantian mengarah ke kuadran dua dan empat\nBintang secara bergantian berada di kuadran satu dan tiga\nPersegi bergerak berlawanan arah jarum jam\nLingkaran selalu berada di ujung panah vertikal\nMaka gambar selanjutnya adalah gambar D."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nTentukan gambar berikutnya!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Gambar tersebut memiliki pola sebagai berikut:\nkuadran yang diapit oleh dua garis berganti mulai dari kuadran 3, 2, 1. Hanya kuadran 4 yang belum diapit\nbangun yang terletak di tengah berurutan bertambah jumlah sisinya yaitu segitiga, segi empat, segilima.\nSelain itu juga mengalami perubahan warna.\nMaka gambar selanjutnya yang paling tepat adalah gambar C."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nTentukan gambar berikutnya!",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Bangun paling atas dibalik secara vertikal vertikal dan tidak mengalami perubahan warna. Gambar tengah menjadi dua secara vertikal dan mengalami perubahan warna dari putih menjadi hitam. Gambar 3 lingkaran bawah berubah menjadi segitiga dan tidak mengalami perubahan warna. Maka gambar yang tepat adalah gambar C."
+    }
+]

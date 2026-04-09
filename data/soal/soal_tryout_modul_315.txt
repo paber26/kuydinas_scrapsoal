@@ -1,0 +1,426 @@
+Soal 1:
+REFERENSI = _____
+A. Acuan terjadinya peristiwa
+B. Dasar hukum
+C. Sumber masalah
+D. Sumber hukum
+E. Sumber acuan
+
+==================================================
+
+Soal 2:
+KONVEKS >< _____
+A. Cekung
+B. Sederhana
+C. Cembung
+D. Kompleks
+E. Bundar
+
+==================================================
+
+Soal 3:
+IMPILIKASI = _____
+A. Pengaruh keadaan
+B. Pengaruh lingkungan
+C. Hubungan manusia
+D. Hubungan keterlibatan
+E. Pengaruh lingkungan
+
+==================================================
+
+Soal 4:
+KONVERGEN  >< _____
+A. Memusat
+B. Pusat
+C. Bercabang
+D. Arah
+E. Cekung
+
+==================================================
+
+Soal 5:
+NORWEGIA : LUXEMBURG
+A. Vietnam : Indonesia
+B. Iraq : Australia
+C. Australia : Inggris
+D. Chili : China
+E. Brazil : Spanyol
+
+==================================================
+
+Soal 6:
+BOLA LAMPU : THOMAS A. EDISON
+A. Listrik : Michael Moorer
+B. Telepon : Alexander George
+C. Mesin uap : James Watt
+D. Pesawat : Copernicus
+E. Radio : Pierre Curie
+
+==================================================
+
+Soal 7:
+SEKOLAH : SISWA : BELAJAR =
+A. Rumah : Ayah : Ibu
+B. Laboratorium : Ilmuwan : Meneliti
+C. Dokter : Pasien : Periksa
+D. Sekolah : Guru : Rapat
+E. Kantin : Mahasiswa : Mahasiswi
+
+==================================================
+
+Soal 8:
+BAB : SKRIPSI = . . .
+A. Bait : Puisi
+B. Lagu : Nada
+C. Laporan : Daftar Pustaka
+D. Disertasi : Tugas Akhir
+E. Tesis : Penutup
+
+==================================================
+
+Soal 9:
+Ketika sebuah virus bernama "melisa" tahun lalu muncul di jaringan internet, tidak banyak perhatian yang diberikan oleh badan pemerintah dan para pengusaha, bahkan pada banyak perusahaan, anggaran belanja untuk menyediakan kopi masih jauh lebih besar ketimbang anggaran belanja yang ditujukan untuk mengamankan system komputer perusahaan.
+Pada sebuah virus yang disebar melalui e-mail bernama "I Love you" menyebar kejutaan
+komputer di dunia pada bulan Mei lalu, sepekan kemudian  muncul  virus  yang bernama "New love", pemerintah dan para pelaku bisnis   mulai melihat spektrum baru ancaman yang bisa membahayakan operasi mereka.
+Merupakan sebuah kenyataan kalau segala kegiatan manusia sekarang ini sangat terkait dengan komputer dan jaringan internet.Munculnya virus-virus komputer ini telah mendorong pusat perhatian para penguasa dan birokrasi pemerintahan untuk mengamankan data dan operasi mereka dari bencana alamiah menjadi bencana yang disebabkan oleh manusia.
+Para ahli keamanan jaringan computer menyebutkan, sekarang ini masih sekitar 70 persen perusahan-perusahaan di dunia yang tidak siap untuk mengenali total spektrum ancaman yang dihadapi dan bagaimana mengatasinya. Sudah ada beberapa upaya dari pemerintah dan penguasa dari seluruh dunia untuk memulai memikirkan bagaimana mengamankan investasi mereka di era teknologi informasi ini.
+Kekhawatiran yang paling besar sekarang ini dikalangan para ahli keamanan adalah
+terjadinya serangan dadak elektronik, setara dengan serangan angkatan laut Jepang ke Pearl harbour pada perang dunia ke II, terhadap seluruh system komunikasi dunia, termasuk jaringan internet, telepon, satelit, alat panggil pager, dan lainnya, selain serangan virus-virus yang disebut "Love Bug" belum lama ini serangan denial of service yang terjadi pada bulan Febuari lalu merupakan awal dari  sebuah ofensif besarbesaran yang bisa mengancam seluruh computer yang ada di jaringan internet.
+Serangan virus komputer yang paling terakhir terjadi dapat digolongkan pada virus ...
+A. New Love
+B. Melisa
+C. Melisa dan New love
+D. I Love you dan new love
+E. I Love you
+
+==================================================
+
+Soal 10:
+Selisih uang Agung dan Gede adalah Rp 3.000.000 jika Agung memberikan 3/7 uangnya kepada gede maka uang mereka menjadi sama banyaknya. Jumlah uang agung dan Gedeadalah ?
+A. 6.670.000
+B. 4.700.000
+C. 4.000.000
+D. 8.000.000
+E. 4.300.000
+
+==================================================
+
+Soal 11:
+Ketika sebuah virus bernama ?melisa? tahun lalu muncul di jaringan internet, tidak banyak perhatian yang diberikan oleh badan pemerintah dan para pengusaha, bahkan pada banyak perusahaan, anggaran belanja untuk menyediakan kopi masih jauh lebih besar ketimbang anggaran belanja yang ditujukan untuk mengamankan system komputer perusahaan.
+Pada sebuah virus yang disebar melalui e-mail bernama "I Love you" menyebar kejutaan
+komputer di dunia pada bulan Mei lalu, sepekan kemudian  muncul  virus  yang bernama "New love", pemerintah dan para pelaku bisnis   mulai melihat spektrum baru ancaman yang bisa membahayakan operasi mereka.
+Merupakan sebuah kenyataan kalau segala kegiatan manusia sekarang ini sangat terkait dengan komputer dan jaringan internet.Munculnya virus-virus komputer ini telah mendorong pusat perhatian para penguasa dan birokrasi pemerintahan untuk mengamankan data dan operasi mereka dari bencana alamiah menjadi bencana yang disebabkan oleh manusia.
+Para ahli keamanan jaringan computer menyebutkan, sekarang ini masih sekitar 70 persen perusahan-perusahaan di dunia yang tidak siap untuk mengenali total spektrum ancaman yang dihadapi dan bagaimana mengatasinya. Sudah ada beberapa upaya dari pemerintah dan penguasa dari seluruh dunia untuk memulai memikirkan bagaimana mengamankan investasi mereka di era teknologi informasi ini.
+Kekhawatiran yang paling besar sekarang ini dikalangan para ahli keamanan adalah
+terjadinya serangan dadak elektronik, setara dengan serangan angkatan laut Jepang ke Pearl harbour pada perang dunia ke II, terhadap seluruh system komunikasi dunia, termasuk jaringan internet, telepon, satelit, alat panggil pager, dan lainnya, selain serangan virus-virus yang disebut "Love Bug" belum lama ini serangan denial of service yang terjadi pada bulan Febuari lalu merupakan awal dari  sebuah ofensif besarbesaran yang bisa mengancam seluruh computer yang ada di jaringan internet.
+Pemerintah dan para pelaku bisnis mulai melihat spektrum baru ancaman yang bisa membahayakan operasi mereka? kata spektrum dalam kutipan di atas bermakna ...
+A. Komponen-komponen
+B. Penguraian
+C. Rentetan warna kontinyu
+D. Benda-benda
+E. Keseluruhan gelombang elektromagnetik
+
+==================================================
+
+Soal 12:
+Bilangan n terbesar sehingga 2^2n membagi 22^22 adalah ?
+A. 8
+B. 10
+C. 9
+D. 11
+E. 7
+
+==================================================
+
+Soal 13:
+Sebuah angka bila ditambah 5 kemudian hasilnya dikalikan 3 dan kemudian hasilnya dibagi 6, maka hasilnya adalah 8 kali bilangan semula. Berapakah  bilangan  tersebut . . .
+A. 0,75
+B. 0,21
+C. 0,67
+D. 0,99
+E. 0,33
+
+==================================================
+
+Soal 14:
+Seorang pekerja dapat bekerja "a"  kali lebih cepat daripada pembantunya. Jika orang tersebut bekerja dalam waktu "j" jam, berapa jam kah waktu yang diperlukan oleh pembantunya yang berjumlah "w" orang untuk menyelesaikan  pekerjaan tersebut ?
+A. a.j/w
+B. a.w.j
+C. w/a.j
+D. a.w/j
+E. j.w/a
+
+==================================================
+
+Soal 15:
+Kedalam karung dimasukkan bola putih dan bola hitam. Jika dua bola putih diambil dari dalma karung, maka 1/7 dari bola yang berada di dalam karung adalah bola putih. Jika delapan bola hitam diambil di dalam karung, maka 1/5 dari bole yang berada di dalam karung adalah bola putih. Presentase bola putih di dalam karung mula-mula adalah ?
+A. 17,24%
+B. 23,18%
+C. 11,38%
+D. 13, 67%
+E. 19,18%
+
+==================================================
+
+Soal 16:
+Jika -999, -997, -995,... adalah barisan aritmetika, maka suku bernilai positif yang muncul pertama kali adalah suku ke :
+A. 503
+B. 500
+C. 504
+D. 502
+E. 501
+
+==================================================
+
+Soal 17:
+Anda memiliki 18 kelereng di kantongnya dengan rincian 7 berwarna kuning, 5 berwarna biru, dan 6 berwarna merah. Berapakah jumlah yang harus Anda ambil untuk memastikan  bahwa Anda  mendapatkan setidaknya 1 kelereng untuk setiap warna ?
+A. 7
+B. 14
+C. 12
+D. 13
+E. 3
+
+==================================================
+
+Soal 18:
+Jika jari-jari sebuah lingkaran diturunkan sebesar 50%, menjadi berapa persenkah luas lingkaran sekarang jika dibandingkan dengan luas lingkaran semula ?
+A. 25
+B. 35
+C. 70
+D. 20
+E. 17,5
+
+==================================================
+
+Soal 19:
+Sebuah permen dapat dibeli dengan harga Rp15.000 untuk satu bungkus yang berisi 1.000 buah permen, atau Rp10.000 untuk satu bungkus yang berisi 500 buah permen, atau Rp3.000 per buah permen. Berapakah jumlah tersedikit yang dapat dibeli dengan uang Rp730.000 dengan catatan uang tersebut harus habis ?
+A. 760 buah
+B. 540 buah
+C. 500 buah
+D. 240 buah
+E. 740 buah
+
+==================================================
+
+Soal 20:
+Luas kandang A adalah 150 m2 berisi 300 ekor ayam. Sedangkan luas kandang B adalah 100 m2  berisi 180  ekor ayam. Agar kepadatan kandang menjadi sama, maka harus dipindahkan . . .
+A. 8 ekor ayam dari A ke B
+B. 12 ekor ayam dari A ke B
+C. 8 ekor ayam dari B ke A
+D. 15 ekor ayam dari A ke B
+E. 12 ekor ayam dari B ke A
+
+==================================================
+
+Soal 21:
+Seorang pedagang membeli buah sebanyak 400 buah. Setibanya dirumah dia mendapati 20% buahnya busuk dan tidak dapat dijual. Kemudian dia menjual 100 buahnya dengan keuntungan 50%, 80  buahnya dengan harga awal, 1/4 dari  sisanya dijual dengan keuntungan 10%, lalu sisa yang belum terjual disumbangkan ke panti asuhan. Jika ia membeli buah dengan harga Rp3.000 per buah, maka berapa persenkah  keuntungan/kerugian  yang diperolehnya secara keseluruhan ?
+A. Untung 32,875%
+B. Impas
+C. Rugi 32,875%
+D. Rugi 31,5%
+E. Untung 31,5%
+
+==================================================
+
+Soal 22:
+Rata-rata dari 3 buah bilangan adalah 14. Apabila bilangan pertama ditambah 2, bilangan kedua ditambah 5, dan bilangan ketiga ditambah 8, penambahan rata-rata bilangan tersebut adalah . . .
+A. 5
+B. 10
+C. 19
+D. 1
+E. 14
+
+==================================================
+
+Soal 23:
+4 orang gadis dari daerah yang berbeda akan mengikuti pemilihan putri Indonesia 2012. Mereka adalah Ira, Jovana, Indria, dan Wina. Ira paling tinggi di antara Jovana, Indria, dan Wina; berkulit lebih gelap dari indria tetapi tidak lebih gelap dari jovana dan Wina; berambut paling Panjang dan paling tidak gemukJovana berkulit paling gelap; lebih tinggi dan berambut lebih Panjang dari indria dan wina; tetapi lebih kurus dari wina     xIndria paling gemuk; berkulit paling putih dan lebih tinggi dari wina
+Siapakah yang memiliki tubuh paling pendek ?
+A. Tidak ada kesimpulan yang benar
+B. Ira
+C. Indria
+D. Wina
+E. Jovana
+
+==================================================
+
+Soal 24:
+Ketika sebuah virus bernama "melisa" tahun lalu muncul di jaringan internet, tidak banyak perhatian yang diberikan oleh badan pemerintah dan para pengusaha, bahkan pada banyak perusahaan, anggaran belanja untuk menyediakan kopi masih jauh lebih besar ketimbang anggaran belanja yang ditujukan untuk mengamankan system komputer perusahaan.
+Pada sebuah virus yang disebar melalui e-mail bernama "I Love you" menyebar kejutaan
+komputer di dunia pada bulan Mei lalu, sepekan kemudian  muncul  virus  yang bernama  "New love", pemerintah dan para pelaku bisnis   mulai melihat spektrum baru ancaman yang bisa membahayakan operasi mereka.
+Merupakan sebuah kenyataan kalau segala kegiatan manusia sekarang ini sangat terkait dengan komputer dan jaringan internet.Munculnya virus-virus komputer ini telah mendorong pusat perhatian para penguasa dan birokrasi pemerintahan untuk mengamankan data dan operasi mereka dari bencana alamiah menjadi bencana yang disebabkan oleh manusia.
+Para ahli keamanan jaringan computer menyebutkan, sekarang ini masih sekitar 70 persen perusahan-perusahaan di dunia yang tidak siap untuk mengenali total spektrum ancaman yang dihadapi dan bagaimana mengatasinya. Sudah ada beberapa upaya dari pemerintah dan penguasa dari seluruh dunia untuk memulai memikirkan bagaimana mengamankan investasi mereka di era teknologi informasi ini.
+Kekhawatiran yang paling besar sekarang ini dikalangan para ahli keamanan adalah
+terjadinya serangan dadak elektronik, setara dengan serangan angkatan laut Jepang ke Pearl harbour pada perang dunia ke II, terhadap seluruh system komunikasi dunia, termasuk jaringan internet, telepon, satelit, alat panggil pager, dan lainnya, selain serangan virus-virus yang disebut "Love Bug" belum lama ini serangan denial of service yang terjadi pada bulan Febuari lalu merupakan awal dari  sebuah ofensif besarbesaran yang bisa mengancam seluruh computer yang ada di jaringan internet.
+Serangan virus yang mengancam computer pada jaringan internet yang dipaparkan telah berlalu pada waktu tertentu seperti yang terbaca dalam paragraf-paragraf di bawah ini, kecuali pada ...
+A. Paragraf 4
+B. Paragraf 1
+C. Paragraf 2
+D. Paragraf 5
+E. Paragraf 3
+
+==================================================
+
+Soal 25:
+4 orang gadis dari daerah yang berbeda akan mengikuti pemilihan putri Indonesia 2012. Mereka adalah Ira, Jovana, Indria, dan Wina. Ira paling tinggi di antara Jovana, Indria, dan Wina; berkulit lebih gelap dari indria tetapi tidak lebih gelap dari jovana dan Wina; berambut paling panjang dan paling tidak gemukJovana berkulit paling gelap; lebih tinggi dan berambut lebih Panjang dari indria dan wina; tetapi lebih kurus dari wina Indria paling gemuk; berkulit paling putih dan lebih tinggi dari wina.
+Manakah yang benar mengenai wina ?
+A. Tidak ada kesimpulan yang benar
+B. Bertubuh lebih kurus dari Indria
+C. Berkulit lebih gelap dari jovana
+D. Berambut lebih pendek dari Jovana
+E. Lebih tinggi dari indria
+
+==================================================
+
+Soal 26:
+4 orang gadis dari daerah yang berbeda akan mengikuti pemilihan putri Indonesia 2012. Mereka adalah Ira, Jovana, Indria, dan Wina. Ira paling tinggi di antara Jovana, Indria, dan Wina; berkulit lebih gelap dari indria tetapi tidak lebih gelap dari jovana dan Wina; berambut paling Panjang dan paling tidak gemukJovana berkulit paling gelap; lebih tinggi dan berambut lebih Panjang dari indria dan wina; tetapi lebih kurus dari wina Indria paling gemuk; berkulit paling putih dan lebih tinggi dari wina
+Manakah yang tidak benar mengenai indria ?
+A. Lebih tinggi dari wina
+B. Berambut lebih Panjang dari Jovana
+C. Bertubuh lebih gemuk dari wina
+D. Berkulit lebih putih dari Ira
+E. Tidak ada kesimpulan yang benar
+
+==================================================
+
+Soal 27:
+Anak perempuan yang masih kecil selalu diberi bonek oleh ibu mereka. Tini mempunyaii banyak boneka di rumahnya. Kakak dari adik Tini tidak mempunyai boneka. Jadi ?
+A. Semua boneka tini adalah pemberian ibunya
+B. Kakak dan adik tini juga mempunyai boneka
+C. Tini adalah anak yang paling disayang ibunya
+D. Kakak dan adik tini semuanya laki-laki
+E. Anak perempuan tidak harus mempunyai boneka
+
+==================================================
+
+Soal 28:
+Semua burung bernapas dengan paru-paru. Semua merpati adalah burung. Jadi ...
+A. Semua merpati tidak bernapas dengan paru-paru
+B. Tidak semua merpati bernapas degan paru-paru
+C. Sebagian merpati bernapas dengan paru-paru
+D. Semua merpati bernapas dengan paru-paru
+E. Sebagian merpati adalah burung
+
+==================================================
+
+Soal 29:
+Semua kendaraan berbahan bakar bensin. Tak sebuah motor pun berbahan bakar bensin. Jadi ?
+A. Tak sebuah motor pun adalah kendaraan berbahan bakar bensin
+B. Semua kendaraan adalah motor
+C. Kendaraan berbahan bakar bensin adalah motor
+D. Motor adalah kendaraan berbahan bakar bensin
+E. Semua kendaraan berbahan bakar bensin adalah motor
+
+==================================================
+
+Soal 30:
+Semua mamalia tidak bertelur dan semua yang bertelur adalah hewan. Jadi ?
+A. Hewan yang bertelur adalah mamalia
+B. Mamalia bisa saja bertelur
+C. Ada hewan yang tidak bertelur
+D. Kan paus adalah mamalia
+E. Mamalia bukan hewan
+
+==================================================
+
+Soal 31:
+z,  a,  h,  i,  j,  z,  a,  k,  l,  m,  z,  a, ..., ..., ...
+A. n  o  p
+B. p  o  y
+C. r  s  t
+D. n  o  q
+E. o  p  q
+
+==================================================
+
+Soal 32:
+E,H, A, J, M, B, ..., ...
+A. O S
+B. P S
+C. P T
+D. O Q
+E. O R
+
+==================================================
+
+Soal 33:
+m, m,  p,  p,  s,  s,  v, ...
+A. u
+B. x
+C. v
+D. w
+E. t
+
+==================================================
+
+Soal 34:
+a  c  f  j  o , ...
+A. t
+B. u
+C. z
+D. p
+E. v
+
+==================================================
+
+Soal 35:
+z ,v, r , ...
+A. n
+B. t
+C. l
+D. m
+E. o
+
+==================================================
+
+Soal 36:
+a, c,  e,  y,  f,  h,  j,  y,  k,  m, ...
+A. n
+B. l
+C. o
+D. q
+E. p
+
+==================================================
+
+Soal 37:
+1   4   15   2   5   14   3   6   13, ..., ..., ...
+A. 5  6  13
+B. 4  7  12
+C. 4  7  11
+D. 5  8  13
+E. 4  8  12
+
+==================================================
+
+Soal 38:
+44  34  15  43  33  15  42  32  15 , ..., ...
+A. 30  42
+B. 41  31
+C. 41  30
+D. 30  40
+E. 31  41
+
+==================================================
+
+Soal 39:
+Jawablah pertanyaan berikut !
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_315/soal_39_img1.png)
+A. A
+B. B
+C. D
+D. E
+E. C
+
+==================================================
+
+Soal 40:
+Jawablah pertanyaan berikut !
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_315/soal_40_img1.png)
+A. A
+B. C
+C. B
+D. D
+E. E
+
+==================================================
+

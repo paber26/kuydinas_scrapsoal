@@ -1,0 +1,539 @@
+Soal 1:
+Dua batang besi A dan B bersuhu 20 derajat Celcius dengan panjang berbeda masing masing 4 m dan 6 m. Saat dipanasi sampai suhu 50 derajat Celcius, ternyata batang besi A panjangnya menjadi 4,15 m. Jika besi B dipanasi sampai suhu 60 derajat Celcius , maka panjang akhirnyanya menjadi ....
+A. 6.3
+B. 6.45
+C. 6.1
+D. 6.2
+E. 6.25
+
+==================================================
+
+Soal 2:
+Sebuah generator menghasilkan GGL induksi sebesar E. jika generator tersebut kumparannya dirubah sehigga jumlah lilitannya menjadi dua kali lipat dari semula dan laju fluksnya menjadi tiga kali semula, besar perbandingan GGL sekarang dan GGL mula-mula adalah ....
+A. 3 : 2
+B. 1 : 6
+C. 6 : 1
+D. 2 : 3
+E. 1 : 3
+
+==================================================
+
+Soal 3:
+Sebuah benda dengan massa 2 kg diikat dengan seutas tali dan diputar vertikal dengan lintasannya berbentuk lingkaran dengan jari-jari 0,5 m. jika kecepatan sudutnya 6 rad/s. Besar tegangan tali di titik terendah adalah ….
+A. 38 N
+B. 61 N
+C. 51 N
+D. 56 N
+E. 64 N
+
+==================================================
+
+Soal 4:
+Benda bermassa 10 kg bergerak diatas permukaan yang datar dan licin tanpa geya gesek, jika benda di dorong dengan gaya100 N yang membentuk sudut 60 derajat terhadap arah horisontal. Besar usaha jika perpindahan benda sejauh 5 m adalah … .
+A. 250 J
+B. 100 J
+C. 500 J
+D. 200 J
+E. 150 J
+
+==================================================
+
+Soal 5:
+Sepotong kaca di udara memiliki berat 25 N. Jika dimasukkan ke dalam air beratnya menjadi 15 N. Bila massa jenis air adalah 10^3 kg/m^3 dan percepatan gravitasinya 10 m/s^2 maka massa jenis kaca adalah ....
+A. 3,5. 10^3 kg/m^3
+B. 2,5. 10^3 kg/m^3
+C. 1,5. 10^3 kg/m^3
+D. 5,5. 10^3 kg/m^3
+E. 4,5. 10^3 kg/m^3
+
+==================================================
+
+Soal 6:
+sebanyak 4 gram gas neon dengan massa molekul 6 g/mol bersuhu 38 derajat celcius jika tekanannya 1,8.10^ 5 pa maka energi dalam gas adalah .... (diketahui k=1,38.10^-23Na=6,02.10^-23 molekul/mol)
+A. 5,16 x 10^3 J
+B. 3,12 x 10^3 J
+C. 2,28 x 10^3 J
+D. 3,85 x 10^3 J
+E. 4,23 x 10^3 J
+
+==================================================
+
+Soal 7:
+Perhatikan penunjukan jarum amperemeter serta batas ukur maksimum yang digunakan seperti tampak pada gambar berikut ini. Nilai kuat arus yang sedang diukur sebesar … .
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_7_img1.png)
+A. 0,4 A
+B. 1,0 A
+C. 0,8 A
+D. 5,0 A
+E. 4,0 A
+
+==================================================
+
+Soal 8:
+Sepotong besi bermassa 4 kg dan massa jenisnya 8 gr/cm^3 dimasukkan ke dalam air yang massa jenisnya 1 gr/ cm^3. Di dalam air berat besi tersebut seolah-olah akan hilang sebesar ....
+A. 40 N
+B. 35 N
+C. 15 N
+D. 5 N
+E. 20 N
+
+==================================================
+
+Soal 9:
+Suhu 30 derajat Celcius sama dengan ....
+A. 40 derajat Reamur
+B. 30 derajat Reamur
+C. 25 derajat Reamur
+D. 24 derajat Reamur
+E. 35 derajat Reamur
+
+==================================================
+
+Soal 10:
+Untuk mendapatkan sebuah bayangan yang terletak pada jarak 15 cm di belakang lensa positif yang jarak fokus atau titik apinya 7,5 cm, benda tersebut harus diletakkan berada di depan lensa tersebut pada jarak….
+A. 2,5 cm
+B. 22,5 cm
+C. 30,0 cm
+D. 7,5 cm
+E. 15 cm
+
+==================================================
+
+Soal 11:
+30 gelombang terbentuk dalam waktu 3 detik, maka frekuensi gelombangnya adalah ... .
+A. 30 Hz
+B. 10 Hz
+C. 3 Hz
+D. 5 Hz
+E. 15 Hz
+
+==================================================
+
+Soal 12:
+Sebuah kumparan diletakkan pada medan magnetik homogen. Dalam waktu 30 detik terjadi perubahan fluks sehingga GGL menjadi
+. Jika dalam waktu 20 sekon terjadi perubahan fluks yang sama sehingga GGL yang dihasilkan adalah
+, maka perbandingan
+dan
+adalah ….
+A. 1:3
+B. 3:4
+C. 1:2
+D. 2:3
+E. 2:5
+
+==================================================
+
+Soal 13:
+Diantara faktor - faktor berikut:
+(1) jumlah lilitan kumparan
+(2) laju perubahan fluks magnet
+(3) arah medan magnet
+yang mempengaruhi GGL induksi pada kumparan adalah…
+A. 3 saja
+B. 2 saja
+C. 1 dan 3
+D. 1 dan 2
+E. 2 dan 3
+
+==================================================
+
+Soal 14:
+Sebuah benda jatuh bebas dari ketinggian h dan pada suatu saat energi kinetiknya tiga kali energi potensialnya. Pada saat itu tinggi benda adalah ....
+A. 1/2 h
+B. 2 h
+C. 1/3 h
+D. 3 h
+E. 1/4 h
+
+==================================================
+
+Soal 15:
+Dua pipa organa terbuka A dan B ditiup bersama-sama. Pipa A menghasilkan nada dasar yang sama tinggi dengan nada atas kedua pipa B. Maka perbandingan panjang pipa organa A dengan pipa organa B adalah ... .
+A. 1 : 2
+B. 3 : 1
+C. 1 : 3
+D. 2 : 5
+E. 2 : 1
+
+==================================================
+
+Soal 16:
+Pada keadaan normal (T = 0°C dan P = 1 atm) 5 gram gas argon (Ar = 40) mempunyai volume sebesar …. (1 atm = 10^5 N/m^2, R = 8.314 J/K mol)
+A. 28 m^3
+B. 1,4 x 10- 6 m^3
+C. 22,4 x 10-3 m^3
+D. 224 m^3
+E. 2,8 x 10-3 m^3
+
+==================================================
+
+Soal 17:
+Balok bermassa 10 kg berada di atas lantai licin seperti gambar. Balok ditarik dengan gaya F =25 N membentuk sudut 37° terhadap arah horizontal.
+Setelah berpindah ke kanan 2 m besar usaha oleh gaya. F sebesar....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_17_img1.png)
+A. 50 joule
+B. 200 joule
+C. 40 joule
+D. 100 joule
+E. 30 joule
+
+==================================================
+
+Soal 18:
+Sebuah benda m = 3 kg bekerja gaya mendatar yang berubah terhadap jarak yang ditempuhnya, seperti grafik di bawah.
+Jika arah gaya searah dengan perpindahannya. hitung usaha yang dilakukan hingga berpindah sejauh 7 m sebesar.....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_18_img1.png)
+A. 140 joule
+B. 110 joule
+C. 200 joule
+D. 135 joule
+E. 170 joule
+
+==================================================
+
+Soal 19:
+Dua buah gaya masing-masing 10 N dan 15 N membentuk sudut 60°. Besar resultan kedua gaya tersebut adalah …..
+A. 20,6 N
+B. 21,8 N
+C. 21,2 N
+D. 20,7 N
+E. 20,8 N
+
+==================================================
+
+Soal 20:
+Taraf intensitas bunyi sebuah mesin rata-rata 50 dB. Apabila seratus mesin dihidupkan bersama, maka taraf intensitasnya adalah ...
+A. 100 dB
+B. 75 dB
+C. 20 dB
+D. 80 dB
+E. 70 dB
+
+==================================================
+
+Soal 21:
+Suatu gas ideal pada tekanan atmosfir p dan suhu 27 derajat Celcius dimampatkan sampai volumenya setengah kali dari semula. Jika suhunya dinaikkan menjadi 54 derajat Celcius, berapakah tekanannya?
+A. 2,18 p
+B. 2 p
+C. 0,54 p
+D. 1 p
+E. 0,25 p
+
+==================================================
+
+Soal 22:
+Penampang penghantar dilewati 4 × 10^20 elektron dalam waktu 8 sekon. Kuat arus listrik pada penampang tersebut adalah ... .
+A. 16 A
+B. 2 A
+C. 8 A
+D. 5 A
+E. 4 A
+
+==================================================
+
+Soal 23:
+Seorang penerbang yang pesawat terbangnya mendekati menara bandara mendengar bunyi sirine menara dengan frekuensi 2.000 Hz. Jika sirine memancarkan bunyi dengan frekuensi 1.700 Hz, dan cepat rambat bunyi di udara 340 m/s, maka kecepatan pesawat udara adalah ... .
+A. 220 km/jam
+B. 196 km/jam
+C. 236 km/jam
+D. 216 km/jam
+E. 200 km/jam
+
+==================================================
+
+Soal 24:
+Seutas dawai panjangnya 1,80 meter. Jika tegangan dawai diatur sedemikian hingga kecepatan gelombang transversal yang dihasilkannya adalah 900 m/s, maka frekuensi nada atas pertama adalah ....
+A. 500 Hz
+B. 320 Hz
+C. 125 Hz
+D. 250 Hz
+E. 640 Hz
+
+==================================================
+
+Soal 25:
+Kuat arus yang mengalir melalui hambatan 6 ohm pada gambar dibawah ini adalah ....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_25_img1.png)
+A. 3 A
+B. 1,5 A
+C. 0,75 A
+D. 12 A
+E. 6 A
+
+==================================================
+
+Soal 26:
+Suatu jenis gas mempunyai volume 100 cm3 pada suhu 0 derajat Celcius dan tekanan 1 atm. Jika temperatur menjadi 50 derajat Celcius, sedangkan tekanan menjadi 2 atm, maka volume gas menjadi ...
+A. 118,3 cm^3
+B. 59,2 cm^3
+C. 38,4 cm^3
+D. 84,5 cm^3
+E. 45,5 cm^3
+
+==================================================
+
+Soal 27:
+Sebuah batu yang massanya 0,10 kg jatuh bebas dari ketinggian 2 m diatas tanah ke tumpukan pasirr. Jika benda itu masuk pasir 2 cm sebelum berhenti, gaya hambat rata-rata pasir yang dilakukan besarnya sekitar ....
+A. 100 N
+B. 30 N
+C. 50 N
+D. 90 N
+E. 60 N
+
+==================================================
+
+Soal 28:
+Batu dengan massa 500 gr dilemparkan lurus ke atas dengan kecepatan 20 m/s. besar Energi kinetik benda saat mencapai ketinggian 1/4 dari tinggi maksimum adalah....
+A. 25 J
+B. 40 J
+C. 50 J
+D. 75 J
+E. 100 J
+
+==================================================
+
+Soal 29:
+Sebuah transformator memiliki tegangan primer 220 volt. Jika transformator menghasilkan tegangan sekunder 8 V, efisiensi trafo 80%, dan kuat arus 2 A maka kuat arus primernya adalah ….
+A. 1/2  A
+B. 1/11 A
+C. 1/5  A
+D. 1/7  A
+E. 1/3  A
+
+==================================================
+
+Soal 30:
+Jika sebuah roda katrol berputar 60 putaran tiap dua menit, maka frekuensi dan kecepatan sudut roda adalah ….
+A. 0,5 Hz dan 3,14 rad/s
+B. 1 Hz dan 3,14 rad /s
+C. 0,5 Hz dan 6,28 rad/s
+D. 0,8 Hz dan 6,28 rad/ s
+E. 0,8 Hz dan 3,14 rad/ s
+
+==================================================
+
+Soal 31:
+Sebuah penghantar lurus panjang dialiri arus 2 A seperti tampak pada gambar disamping. Besar dan arah induksi magnet di titik P adalah ….
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_31_img1.png)
+A. 2 × 10^-5 T, keluar bidang kertas
+B. 4 × 10^-5 T, masuk bidang kertas
+C. 6 × 10^-5 T, keluar bidang kertas
+D. 1 × 10^-5 T, masuk bidang kertas
+E. 8 × 10^-5 T, masuk bidang kertas
+
+==================================================
+
+Soal 32:
+Benda A dan B terletak di atas lantai licin. Massa benda A tiga kali massa benda B. Jika pada kedua benda bekerja gaya mendatar yang sama, maka perbandingan percepatan antara benda A dan benda B adalah ….
+A. 1 : 4
+B. 1 : 3
+C. 1 : 6
+D. 1 : 1
+E. 2 : 3
+
+==================================================
+
+Soal 33:
+Massa benda A tiga kali massa B dan kelajuan benda A setengah kali B. nilai Perbandingan energi kinetik benda A dengan B adalah …
+A. 3 : 4
+B. 3 : 2
+C. 2 : 1
+D. 1 : 1
+E. 2 : 3
+
+==================================================
+
+Soal 34:
+saat suhunya dinaikkan sebesar 100° C baja yang panjangnya 1 m bertambah panjang 1 mm. berapakah Pertambahan panjang batang baja lain dengan panjang 60 cm jika suhunya bertambah 20° C adalah ....
+A. 0,72 mm
+B. 0,84 mm
+C. 0,12 mm
+D. 0,24 mm
+E. 0,60 mm
+
+==================================================
+
+Soal 35:
+Perbandingan jumlah lilitan kawat kumparan primer dan sekunder sebuah transformator adalah 1:4. Tagangan dan kuat arus masukannya masing-masing 10 V dan 2 A. Jika daya rata-rata yang berubah menjadi kalor pada transformator adalah 4 W dan tegangan keluarannya 40 V, maka kuat arus keluarannya bernilai ….
+A. 0,5 A
+B. 0,1 A
+C. 0,6 A
+D. 0,4 A
+E. 0,8 A
+
+==================================================
+
+Soal 36:
+Sebuah gabus dimasukkan dalam air ternyata 75 % volume gabus tercelup dalam air, maka massa jenis gabus adalah ….
+A. 0,25 gr/cm^3
+B. 1,00 gr/cm^3
+C. 1,75 gr/cm^3
+D. 0,50 gr/cm^3
+E. 0,75 gr/cm^3
+
+==================================================
+
+Soal 37:
+Sebuah balok bermassa 400 gram dijatuhkan dari ketinggian 2 m ke permukaan tanah. Jika pada permukaan tanah terdapat pegas dengan konstanta100 N/m maka pegas akan tertekan sebesar ... .
+A. 0,3 m
+B. 0,4 m
+C. 0,1 m
+D. 0,2 m
+E. 0,05 m
+
+==================================================
+
+Soal 38:
+Sebuah kipas angin berputar sebanyak1.200 tiap 30 sekon. Periode dan frekuensi putaran kipas angin tersebut adalah ...
+A. 0,0025 s dan 40 Hz
+B. 40 s dan 0,025 Hz
+C. 40 s dan 0,0025 Hz
+D. 0,025 s dan 40 Hz
+E. 40 s dan 0,25 Hz
+
+==================================================
+
+Soal 39:
+Intensitas gelombang bunyi pada jarak 5 m dari sumber bunyi adalah 2 x
+10
+-4
+watt/
+m
+2
+. Pada jarak 10 m dari sumber bunyi intensitasnya adalah ….
+A. 2 x 10^-4 watt/m²
+B. 4 x 10^-4 watt/m²
+C. 0,5 x 10^-4 watt/m²
+D. 1 x 10^-4 watt/m²
+E. 8 x 10^-4 watt/m²
+
+==================================================
+
+Soal 40:
+Suatu penghantar panjangnya 2 m dipasang pada beda potensial 6 V, ternyata arus yang mengalir 3 A. Jika luas penampang kawat 5,5 x 10^-2 mm², besar hambatan dan hambatan jenis kawat adalah ….
+A. 2 Ω dan 2,75 x 10^-7 Ωm
+B. 20 Ω dan 2,75 x 10^-7 Ωm
+C. 2 Ω dan 5,5 x 10^-8 Ωm
+D. 2 Ω dan 1,1 x 10^-7 Ωm
+E. 20 Ω dan 5,5 x 10^-7 Ωm
+
+==================================================
+
+Soal 41:
+sebuah mobil bergerak dengan kecepatan 50km/jam membentuk sudut 30° terhadap sumbu x positif. besar komponen vektor
+kecepatan tersebut pada sumbu
+x dan y berturut-turut adalah  .....
+A. 25 √3 km/jam dan 25 √3 km/jam
+B. 25 √3 km/jam dan 25 km/jam
+C. 25 km/jam dan 25 √3 km/jam
+D. 25 km/jam dan 25 √2 km/jam
+E. 25 √3 km/jam dan 25 √2 km/jam
+
+==================================================
+
+Soal 42:
+Seseorang menarik meja ke arah barat dengan gaya 60 N. Jika 1 cm mewakili gaya 15 N, gambar vektor gaya tersebut yang benar adalah . .
+A. (arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_42_opt_1_img1.png)
+B. (arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_42_opt_2_img1.png)
+C. (arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_42_opt_3_img1.png)
+D. (arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_42_opt_4_img1.png)
+E. (arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_42_opt_5_img1.png)
+
+==================================================
+
+Soal 43:
+Sebuah sumber gelombang bunyi dengan daya 50 W memancarkan gelombang ke medium sekelilingnya yang homogen. Intensitas radiasi gelombang tersebut pada jarak 10 m dari sumber adalah ...
+A. 2/π x  10² W/m²
+B. 4 x  10^1 W/m²
+C. 1,25/π x  10^-1 W/m²
+D. 4/π x  10^-2 W/m²
+E. 4,2/π x  10³ W/m²
+
+==================================================
+
+Soal 44:
+Perhatikan hal-hal berikut.
+(i) untuk mengukur arus
+(ii) untuk mengukur tegangan
+(iii) dipasang seri pada rangkaian
+(iv) dipasang paralel pada rangkaian
+Yang sesuai untuk penggunaan voltmeter adalah ... .
+A. (ii) dan (iv)
+B. (i), (ii), (iii), dan (iv)
+C. (i), (ii), dan (iii)
+D. (i) dan (iii)
+E. (i) dan (ii)
+
+==================================================
+
+Soal 45:
+Di antara pernyataan di bawah ini:
+(1)   banyaknya lilitan
+(2)   kuat arus yang melalui kumparan
+(3)   luas bidang kumparan
+(4)   hambatan kumparan
+Faktor-faktor yang memengaruhi besarnya GGL induksi generator adalah ….
+A. (2) dan (4) saja
+B. (1), (2), (3), dan (4)
+C. (1), (2), dan (4)
+D. (1) dan (3) saja
+E. (4) saja
+
+==================================================
+
+Soal 46:
+Perhatikan faktor-faktor berikut!
+(1)   luas penampang kawat
+(2)   permeabilitas
+(3)   hambatan dalam kawat
+(4)   arus yang mengaliri kawat
+yang memengaruhi besarnya induksi/medan magnet pada suatu kawat lurus yang dialiri listrik adalah ….
+A. (1) dan (3)
+B. (1) dan (2)
+C. (1) dan (4)
+D. (2) dan (4)
+E. (2) dan (3)
+
+==================================================
+
+Soal 47:
+Dua buah kawat lurus panjang diletakkan sejajar pda jarak 2 cm satu sama lain dialiri arus seperti gambar. Jika arus yang mengalir kedua kawat sama besar 2A, maka induksi magnetik pada titik P adalah ….
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_392/soal_47_img1.png)
+A. 0 T
+B. 8×10^-5 T keluar bidang gambar
+C. 4×10^-5 T masuk bidang gambar
+D. 4×10^-5 T masuk bidang gambar
+E. 8×10^-5 T masuk bidang gambar
+
+==================================================
+
+Soal 48:
+Gelombang bunyi adalah ... .
+A. gelombang yang dapat merambat dalam vakum
+B. gelombang elektromagnetik
+C. gelombang yang dapat dipolarisasikan
+D. gelombang longitudinal
+E. gelombang transversal
+
+==================================================
+
+Soal 49:
+Sebuah benda 1 kg dilemparkan ke atas dengan kecepatan awal 40 m/s. Besar energi kinetik benda pada saat mencapai ketinggian 20 m dari tanah sebesar …
+A. 200 J
+B. 800 J
+C. 100 J
+D. 600 J
+E. 400 J
+
+==================================================
+
+Soal 50:
+Sebuah cermin cembung ditempatkan di tikungan jalan. Ketika terdapat benda yang jaraknya 2 m dari cermin, bayangan yang terbentuk 1/16 kali tinggi benda. Jarak fokus cermin adalah ….
+A. 7/2
+B. 5/8
+C. 2/15
+D. 12/7
+E. 15/2
+
+==================================================
+

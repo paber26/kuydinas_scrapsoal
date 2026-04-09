@@ -1,0 +1,454 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nLANGIT : TIANG= ... : ...",
+        "pilihan": [
+            "Tangan : Tulang",
+            "Lidah : Tulang",
+            "Telinga : Keseimbangan",
+            "Al-Quran : Hadist",
+            "Firman: Sabda"
+        ],
+        "jawaban_benar": "Lidah : Tulang",
+        "pembahasan": "Langit tidak memiliki tiang. Kata yang analog dengan pernyataan tersebut adalah lidah tidak memiliki tulang"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nBUNGA : MAHKOTA = ... : ...",
+        "pilihan": [
+            "Kuku : Kutek",
+            "Lotion : Kulit",
+            "Wanita : Rambut",
+            "Bibir : Merah",
+            "Batik : Parang"
+        ],
+        "jawaban_benar": "Wanita : Rambut",
+        "pembahasan": "Bagian bunga yang membuat indah. adalah bagian mahkotanya. Kata yang analog dengan pernyataan tersebut adalah bagian tubuh wanita yang membuat indah adalah bagian rambut nya."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nTELEVISI : GAMBAR = RADIO : ...",
+        "pilihan": [
+            "Penyiar",
+            "Listrik",
+            "Merdu",
+            "Suara",
+            "Alat elektronik"
+        ],
+        "jawaban_benar": "Suara",
+        "pembahasan": "Televisi merupakan salah satu media elektronik dalam bentuk gambar, sedangkan radio merupakan media suara. Jadi, padanan hubungan kata (analogi). dari Televisi: Gambar adalah Radio: Suara."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nGIGI : KUNYAH = JARI : ...",
+        "pilihan": [
+            "Manis",
+            "Tangan",
+            "Kuku",
+            "Pegang",
+            "Lentik"
+        ],
+        "jawaban_benar": "Pegang",
+        "pembahasan": "Gigi berfungsi untuk mengunyah, sedangkan jari digunakan untuk memegang. Jadi, padanan hubungan kata (analogi) dari Gigi: Kunyah adalah Jari : Pegang."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nSapi : Susu = Baterai : …",
+        "pilihan": [
+            "Arang",
+            "Listrik",
+            "Panas",
+            "Senter",
+            "Aki"
+        ],
+        "jawaban_benar": "Listrik",
+        "pembahasan": "Sapi menghasilkan susu sebagaimana baterai menghasilkan listrik."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nBurung : Terbang : Udara",
+        "pilihan": [
+            "Makanan : Nasi : Meja",
+            "Rokok : Tembakau : Asap",
+            "Kuas : Cat : Tembok",
+            "Ibu : Memasak : Halaman",
+            "Ikan : Berenang : Air"
+        ],
+        "jawaban_benar": "Ikan : Berenang : Air",
+        "pembahasan": "Burung : Terbang : Udara\nIkan : Berenang : Air"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nSemua karyawan PT Ceta ikut unjuk rasa.\nSebagian karyawan berstatus honorer.\nJadi ...",
+        "pilihan": [
+            "Karyawan PT Ceta yang berstatus honorer juga ikut unjuk rasa.",
+            "Sebagian karyawan PT Ceta tidak ikut unjuk rasa",
+            "Karyawan PT Ceta yang ikut unjuk rasa pasti berstatus honorer.",
+            "Sebagian karyawan PT Ceta berstatus honorer.",
+            "Karyawan PT Ceta berunjuk rasa karena berstatus honorer."
+        ],
+        "jawaban_benar": "Karyawan PT Ceta yang berstatus honorer juga ikut unjuk rasa.",
+        "pembahasan": "Semua karyawan PT Ceta ikut unjuk rasa.\nSebagian karyawan PT Ceta berstatus honorer.\nKesimpulan: Karyawan PT Ceta yang berstatus honorer juga ikut unjuk\nrasa."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nGrup band Samsons sedang melakukan tur musik\nuntuk mempromosikan album terbarunya. Ada lima\nkota besar yang harus mereka kunjungi. Karena\nkegiatan mereka sangat banyak maka jadwal tur musik\nmereka diatur sedemikian rupa sehingga :\n1) Kota Denpasar harus dikunjungi setelah kota-kota\nSurabaya dan Semarang.\n2) Tur musik kota Bandung harus dilakukan persis\nsetelah tur musik di Surabaya dan sebelumnya di kota\nSemarang.\n3) Tur musik di Jakarta harus dilakukan sebelum tur\nmusik di Denpasar",
+        "pilihan": [
+            "Semarang, Surabaya, Bandung, Jakarta, Denpasar",
+            "Semarang, Surabaya, Denpasar, Jakarta, Bandung",
+            "Surabaya, Semarang, Jakarta, Bandung, Denpasar",
+            "Bandung, Surabaya, Semarang, Denpasar, Jakarta",
+            "Surabaya, Semarang, Denpasar, Jakarta, Bandung"
+        ],
+        "jawaban_benar": "Semarang, Surabaya, Bandung, Jakarta, Denpasar",
+        "pembahasan": "Pernyataan 2) menunjukkan bahwa kota yang pertama kali\ndikunjungi adalah Semarang, kemudian Surabaya dan setelah itu\nBandung.\nPernyataan 1) dan 3) menunjukkan bahwa kota Jakarta dan\nDenpasar adalah kota keempat dan kelima yang dikunjungi.\nJadi urutannya adalah Semarang, Surabaya, Bandung, Jakarta,\nDenpasar."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nToni memiliki sebuah rak buku kecil yang terbagi atas lima tingkat 1,\n 2, 3, 4, dan 5. Tingkat 1 adalah yang teratas dan tingkat 5 adalah yang\n terbawah. Toni menyimpan buku-buku pelajarannya ke dalam rak dengan \naturan sebagal berikut :\na. Buku pelajaran Geografi disimpan tepat\n di atas buku pelajaran Matematika, sedangkan buku pelajaran Bahasa \nIndonesia diletakkan tepat di bawah buku Matematika.\nb. Buku pelajaran Ekonomi diletakkan di atas buku pelajaran Fisika dan Kimia berada di atas buku pelajaran Geografi.\nc. Buku pelajaran Kimia dan Biologi diletakkan saling terpisah sejauh mungkin.\nBuku yang terletak ditingkat 1 adalah ...",
+        "pilihan": [
+            "Biologi",
+            "Fisika",
+            "Geografi",
+            "Kimia",
+            "Matematika"
+        ],
+        "jawaban_benar": "Kimia",
+        "pembahasan": "Buku yang ada di tingkatan ke-1 adalah buku Ekonomi dan Kimia."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nTiga per empat dari (2/3 + 1/4) adalah ...",
+        "pilihan": [
+            "11/16",
+            "1/30",
+            "1/12",
+            "1/8",
+            "5/16"
+        ],
+        "jawaban_benar": "11/16",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_10_pemb_img1.png]"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\n1/√3 x √2/√3 = ...",
+        "pilihan": [
+            "√2/√3",
+            "1/3 √2",
+            "1/2√2",
+            "1/2√3"
+        ],
+        "jawaban_benar": "1/3 √2",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_11_pemb_img1.png]"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nKoko bekerja di perusahaan X. Di perusahaan lama\ntempatnya bekerja. Koko menerima gaji Rp. 45.000.000\nper tahun. Jika di tempat kerjanya yang baru Koko mendapat gaji sebesar\nRp50.000.000,00 per tahun, berapa persenkah kenaikan gaji Koko?",
+        "pilihan": [
+            "11,1%",
+            "11,5%",
+            "11,15%",
+            "12%",
+            "12,1%"
+        ],
+        "jawaban_benar": "11,1%",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_12_pemb_img1.png]"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\n(175 × 12) : (21, 4 − 7/5) = ...",
+        "pilihan": [
+            "210",
+            "214",
+            "100",
+            "105",
+            "200"
+        ],
+        "jawaban_benar": "105",
+        "pembahasan": "175 × 12 = (175 × 4) × 3 = 700 × 3 = 2.100\n7/5 = 1, ....\nMaka 21, 4 − 7/5 = (kira-kira) 20\n2.100 : (kira-kira) 20=100 lebih sedikit"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\n(0, 31)² = ...",
+        "pilihan": [
+            "0,0691",
+            "0,0661",
+            "0,0991",
+            "0,0971",
+            "0,0961"
+        ],
+        "jawaban_benar": "0,0961",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_14_pemb_img1.png]"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nPak Ali membagikan 40 buah buku dan 30 buah pensil\nkepada sekelompok anak yatim. Setiap anak\nmendapatkan sama banyak untuk setiap jenisnya.\nBerapa orang anak yatim paling banyak yang dapat\nmenerima buku dan pensil?",
+        "pilihan": [
+            "5 orang",
+            "10 orang",
+            "15 orang",
+            "20 orang",
+            "25 orang"
+        ],
+        "jawaban_benar": "10 orang",
+        "pembahasan": "Pembagi dari 40 = 1, 2, 4, 5, 8, 10, 20\nPembagi dari 30 = 1, 2, 3, 5, 6, 10, 15\nFPB dari 30 dan 40 adalah 10\nJadi, paling banyak ada 10 anak yatim yang dapat menerima buku dan\npensil."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\n(0, 0629)² = ...",
+        "pilihan": [
+            "0,00380837",
+            "0,0408321",
+            "0,00388321",
+            "0,00408324",
+            "0,00408321"
+        ],
+        "jawaban_benar": "0,00408321",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_16_pemb_img1.png]"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_17_img1.png]",
+        "pilihan": [
+            "1"
+        ],
+        "jawaban_benar": "1",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_17_pemb_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_17_pemb_img2.png]"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nNilai P = 1 + x/3, Q = x/3, dan x = 1/4 maka...",
+        "pilihan": [
+            "Q < P",
+            "P < Q",
+            "Q = P",
+            "2Q > P",
+            "2P = (1/3)Q"
+        ],
+        "jawaban_benar": "Q < P",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_18_pemb_img1.png]"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nJika harga 3 buah pensil ditambah 1 buah penghapus sama dengan harga 1 buah buku,\nharga satu buah pensil dikurangi 1 buah penghapus sama dengan Rp 5.000,00, berapakah\nharga 1 buah buku dikurangi 4 buah penghapus?",
+        "pilihan": [
+            "Rp 5.000,00",
+            "Rp 10.000,00",
+            "Rp 15.000,00",
+            "Rp 20.000,00",
+            "Rp 25.000,00"
+        ],
+        "jawaban_benar": "Rp 15.000,00",
+        "pembahasan": "Ubah menjadi kalimat matematika,gunakan pemisalan.\nMisalkan  :\nPensil = a\nPenghapus = b\nBuku = c\nYang ditanyakan = x\n3a + b = c\na – b = 5000\nc – 4b = x\nGunakan cara substitusi :\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_19_pemb_img1.png]"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nDi kelas XII IPS 1 terdapat 40 siswa. Nilai rata-rata ujian\nBahasa mereka adalah 60. Jika dua siswa yang paling\nrendah nilainya tidak diikutsertakan maka rata-ratanya\nadalah 61,5. Nilai terendah di kelas tersebut adalah …",
+        "pilihan": [
+            "28, 5",
+            "30, 4",
+            "31, 5",
+            "32, 5",
+            "35, 5"
+        ],
+        "jawaban_benar": "31, 5",
+        "pembahasan": "Jumlah total nilai ujian 40 siswa adalah:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_20_pemb_img1.png]\nJumlah total =2400\nAnggaplah nilai kedua siswa yang terendah itu sama, misalkan nilai\ntersebut sama dengan . Ketika nilai terendah tidak diikutsertakan,\nmaka :\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_20_pemb_img2.png]"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika x adalah sisi bujursangkar yang luasnya = 100,\ndan y adalah sisi Panjang sebuah empat persegi\nPanjang yang luasnya = 100 dan sisi pendeknya = 5,\nberapakah xy?",
+        "pilihan": [
+            "100",
+            "200",
+            "250",
+            "300"
+        ],
+        "jawaban_benar": "200",
+        "pembahasan": "L = 100 = s²\ns = 10 = x\nL = 100 = p ⋅ 1 = 5 ⋅ p\np = 20 = y\nMaka : xy = 200"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nPada kubus ABCD.EFGH, rusuk yang sejajar dengan\nrusuk BC adalah …",
+        "pilihan": [
+            "EH"
+        ],
+        "jawaban_benar": "EH",
+        "pembahasan": "EH merupakan rusuk yang sekelompok dengan rusuk BC, yaitu rusuk orthogonal, sehingga\nEH// BC"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nTumpukan batu bata disusun sesuai dengan deret\naritmetika. Jika tumpukan pertama (paling bawah) ada\n80 batu bata dan tumpukan ke sepuluh ada 44 batu\nbata, maka banyaknya batu bata dalam 10 tumpukan\nadalah …",
+        "pilihan": [
+            "560",
+            "580",
+            "600",
+            "620",
+            "680"
+        ],
+        "jawaban_benar": "620",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_23_pemb_img1.png]\nS10 = 10/2 ⋅ (2 ⋅ (80) + 9⋅ = 5 ⋅ (160 + (−36) = 5 ⋅ (124) = 620)"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nSuku ke-5 sebuah deret aritmetika adalah 11 dan jumlah\nsuku ke-8 dengan suku ke-12 sama dengan 52. Jumlah\n8 suku pertama deret tersebut adalah …",
+        "pilihan": [
+            "76"
+        ],
+        "jawaban_benar": "76",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_24_pemb_img1.png]"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n4, 5, 7, 11, 19, 35, 67, …",
+        "pilihan": [
+            "131",
+            "151",
+            "181",
+            "221",
+            "241"
+        ],
+        "jawaban_benar": "131",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_25_pemb_img1.png]"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\n2 3 5 7 … …",
+        "pilihan": [
+            "9 11",
+            "9 12",
+            "11 13",
+            "13 17",
+            "8 9"
+        ],
+        "jawaban_benar": "11 13",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nA B D B B D C B D D B D … …",
+        "pilihan": [
+            "B M",
+            "E B",
+            "C D",
+            "D E",
+            "Z F"
+        ],
+        "jawaban_benar": "E B",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_27_pemb_img1.png]"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSeorang pedagang memiliki barang yang dijual dengan harga Rp 126.000,00. Jika dari harga\ntersebut pedagang mendapatkan keuntungan sebesar 5% maka harga pembelian barang\ntersebut adalah …",
+        "pilihan": [
+            "Rp 126.000,00",
+            "Rp 120.000,00",
+            "Rp 122.000,00",
+            "Rp 125.000,00",
+            "Rp 130.000,00"
+        ],
+        "jawaban_benar": "Rp 120.000,00",
+        "pembahasan": "Misalkan harga belinya adalah = x, keuntungan 5%, harga jual = Rp126.000, 00\nHarga beli = x\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_28_pemb_img1.png]"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nIbu membeli 1 karung beras di pasar seberat 40 kg\ndengan tara 2%. Berat bersih (neto beras yang dibeli ibu\nadalah …",
+        "pilihan": [
+            "40 kg",
+            "39,5 kg",
+            "39,2 kg",
+            "38,5 kg",
+            "38 kg"
+        ],
+        "jawaban_benar": "39,2 kg",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_29_pemb_img1.png]"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nUntuk dapat bepergian ke Makasar, seseorang dari\nCilacap harus ke Jakarta naik bus, kemudian dari\nJakarta ke Makasar naik pesawat. Jika dari Cilacap ke\nJakarta ada 6 bus, sedangkan dari Jakarta ke Makasar\nada 4 pesawat maka berapa cara perjalanan Cilacap –\nJakarta pergi pulang yang bisa dilakukan jika orang\ntersebut tidak menggunakan kendaraan yang sama?",
+        "pilihan": [
+            "160",
+            "200",
+            "240",
+            "360",
+            "400"
+        ],
+        "jawaban_benar": "360",
+        "pembahasan": "PERGI :\nCilacap – Jakarta = 6 cara\nJakarta – Makasar = 4 cara\nPULANG :\nMakasar – Jakarta = 4 – 1 = 3 cara\nJakarta – Cilacap = 6 – 1 = 5 cara\nBanyak cara perjalanan Cilacap – Jakarta pergi pulang dan tidak menggunakan kendaraan yang sama:\nPergi x pulang = 6 x 4 x 3 x 5 = 360 cara"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nJika Sumantri berjalan menempuh jarak 2/5 km dalam\nwaktu 6 menit, berapakah kecepatan rata-rata\nperjalanan Sumantri?",
+        "pilihan": [
+            "4 km/jam",
+            "4,2 km/jam",
+            "4,5 km/jam",
+            "4,8 km/jam",
+            "5 km/jam"
+        ],
+        "jawaban_benar": "4 km/jam",
+        "pembahasan": "s = 2/5 km\nt = 6 menit = 6/60 = 1/10 jam\nV = s/t = 2/5 : 1/10 = 2/5 × 10/1 = 4 km/jam"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_32_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_32_pemb_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_32_pemb_img2.png]"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_33_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_33_pemb_img1.png]\nKubus yang diperoleh dari jaring-jaring tersebut adalah pilihan\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_33_pemb_img2.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_33_pemb_img3.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_33_pemb_img4.png]"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nCarilah gambar yang berbeda!",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_34_pemb_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_34_pemb_img2.png]"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_35_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_35_pemb_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_351/gambar/soal_35_pemb_img2.png]"
+    }
+]

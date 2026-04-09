@@ -1,0 +1,385 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nDiketahui terdapat kumpulan\nbilangan 2, 16, 30. Pada barisan\ntersebut akan disisipkan 6\nbilangan sebelum dan sesudah\nsuku ke-2 sehingga\nmembentuk barisan aritmatika\nyang baru. Jumlah 10 suku\npertama dari barisan yang\nterbentuk adalah…",
+        "pilihan": [
+            "100",
+            "105",
+            "110",
+            "115",
+            "120"
+        ],
+        "jawaban_benar": "110",
+        "pembahasan": "a = 2\nb = 14\nk = sisipan\nb’= b/(k+1)\n= 14/(6+1) = 2\ns10 = n/2 .\n(2a + (n-1) b’)\n= 10/2 .\n(4 + 9. 2)\n= 5 (22)\n= 110"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nDiketahui\n2/3 x³\n– x²\n- 4x. Titik\nbelok dari persamaan tersebut\nyaitu…",
+        "pilihan": [
+            "(1,-1/2)",
+            "(13/6, -1/2)",
+            "(1/2, -13/6)",
+            "(1,1/2)",
+            "(-13/6, 1/2)"
+        ],
+        "jawaban_benar": "(-13/6, 1/2)",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_2_pemb_img1.png]"
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_3_img1.png]",
+        "pilihan": [
+            "1"
+        ],
+        "jawaban_benar": "1",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_3_pemb_img1.png]"
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nSelesaikanlah persamaan :\nab + c + d = 3; bc + a + d = 5\ncd + a + b = 2; da + b + c = 6\nTentukanlah nilai dari a, b, c\ndan d berturut - turut . . . .",
+        "pilihan": [
+            "3, 0, 0 dan 7",
+            "3, 0, 1, dan 5",
+            "2, 0, 0, dan 3",
+            "1, 9, 9, dan 7",
+            "2, 0, 0, dan 4"
+        ],
+        "jawaban_benar": "2, 0, 0, dan 3",
+        "pembahasan": "ab + c + d = 3 ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ (1)\nbc + a + d = 5 ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ (2)\ncd + a + b = 2 ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ (3)\nda + b + c = 6 ⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅ (4)\n(1)+ (2) = (3) + (4)\nab + c + d + bc + a + d = cd + a + b + da + b + c\nb(a + c) + 2d = d(a + c) + 2b\nb(a + c) - d(a + c) = 2b – 2d\n(b d)(a + c) (b d)\n(b d)(a + c ) = 0\nb = d atau a + c = 2\n• Jika b d\nPersamaan (2) bc + a + b = 5\nPersamaan (3) bc + a + b = 2\nKontradiksi maka tidak ada nilai a, b, c dan d yang memenuhi.\n• Jika a + c\n(1)+ (2) =\nab + bc + a + c + 2d = 8\nb(a + c) + a + c + 2d = 8\n2b + 2 + 2d = 8\nb + d + 1 = 4\nb + d = 3\nMaka (2) + (3) adalah :\nbc + cd + 2a + b + d = 7\nc(b + d) + 2a + b + d = 7\n3c + 2a + 3 = 7\n3c + 2a = 4\n3c + ( c) = 4\n2c = 0\nc = 0 dan a = 2\nPersamaan (2): b(0) + ( ) + d 5 sehingga d 3 dan b 3 (3) 0\n(a, b, c, d) yang memenuhi adalah (2, 0, 0, 3)"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_5_img1.png]",
+        "pilihan": [
+            "1,1988795335",
+            "1,0788795335",
+            "1,3458795335",
+            "1,0078795335",
+            "1,1929995335"
+        ],
+        "jawaban_benar": "1,1929995335",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_5_pemb_img1.png]"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nParabola y = x²\n+x-6 digeser ke\nkanan sejauh 3 satuan searah\ndengan x dan digeser kebawah\nsejauh 5 satuan. Jika parabola\nhasil pergeseran ini memotong\nsumbu x di x1 dan x2, maka\nx1+x2 …",
+        "pilihan": [
+            "5"
+        ],
+        "jawaban_benar": "5",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_6_pemb_img1.png]"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nDalam perayaan hari valentine\nterdapat penjual yang\nmenawarkan dagangannya\nberupa bunga mawar. Ada 2\njenis bunga mawar yaitu\nmawar merah dan mawar\nputih, bunga-bunga tersebut\nhabis terjual sebanyak 250\nbatang. Harga bunga mawar\nmerah Rp 15.000,- dan bunga\nmawar putih Rp 10.000,- . Jika\nhasil penjualannya sebanyak\nRp 3.100.000,- . Tentukan\nbanyak bunga mawar merah dan bunga mawar putih yang\nterjual…",
+        "pilihan": [
+            "120 & 130",
+            "130 & 120",
+            "125 & 125",
+            "110 & 140",
+            "140 & 110"
+        ],
+        "jawaban_benar": "120 & 130",
+        "pembahasan": "x + y = 250 …………… (1)\n15.000x + 10.000y = 3.100.000\n15x + 10y = 3.100 ………… ( )\nDari persamaan (1) dan (2) didapatkan\n10x + 10y = 2.500\n15x + 10y = 3.100\n____________________ -\n-5x = -600\nx = 120 ⇒ x + y = 250\n120 + y = 250\ny = 250-120\ny = 130"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_8_img1.png]",
+        "pilihan": [
+            "2015/2",
+            "2017/3",
+            "2015",
+            "1008",
+            "2013/2"
+        ],
+        "jawaban_benar": "2015/2",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_8_pemb_img1.png]"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nSeorang pedagang buah menjual\nanggur dan mangga. Anggur\ndibeli dengan harga Rp 4.000,-\n/kg, dan mangga dibeli dengan\nharga Rp 6.000,- /kg. Anggur\nakan dijual dengan keuntungan\nRp1.000,- /kg sedangkan\nmangga Rp 1.250,- /kg. Dengan\nmodal Rp 240.000,- dengan\nmaksimal hanya bisa\nmenampung sebanyak 45 kg,\nmaka keuntungan terbesar yang\ndiperoleh ialah . . . . .",
+        "pilihan": [
+            "Rp 52.500,-",
+            "Rp 56.250,-",
+            "Rp 53.750,-",
+            "Rp 51.250,-",
+            "Rp 50.000,-"
+        ],
+        "jawaban_benar": "Rp 52.500,-",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_9_pemb_img1.png]"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_10_img1.png]",
+        "pilihan": [
+            "(2x+10)/(x-1)",
+            "(2x-10)/(x-1)",
+            "(3x+5)/-4",
+            "(3x+5)/4",
+            "(6x+10)/7"
+        ],
+        "jawaban_benar": "(3x+5)/4",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_10_pemb_img1.png]"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nChacha membeli 1 buku dan 1\ntas seharga Rp 24.125,- . Icha\nmembeli 2 bolpoin 1 buku dan\n1 tas seharga Rp 27.575,- .\nAnisa membeli 2 bolpoin 3\nbuku dan 2 tas seharga Rp\n54.275,- . Sinyo ingin membeli\n1 gross bolpoin, 5 lusin buku\ndan 15 tas serta akan menjual\nbarang-barang tersebut lagi\ndengan total harga Rp\n750.000,- . Apakah Sinyo\nmengalami rugi atau laba, jika\niya berapa?",
+        "pilihan": [
+            "laba, Rp 21.250",
+            "rugi, Rp 21.250",
+            "laba, Rp 23.850",
+            "rugi, Rp 23.850",
+            "laba, Rp 24.350"
+        ],
+        "jawaban_benar": "laba, Rp 23.850",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_11_pemb_img1.png]"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nJika diketahui probabilitas 1 orang\nsiswa kelas satu tidak\nselesai dalam 3 tahun di\nSekolah Menengah Atas\nadalah 1/6 , berapakah\nprobabilitas bahwa 4 siswa\nkelas satu akan selesai semua\ndalam 3 tahun?",
+        "pilihan": [
+            "2/3",
+            "4/81",
+            "256/1296",
+            "16/81",
+            "625/1296"
+        ],
+        "jawaban_benar": "625/1296",
+        "pembahasan": "Probabilitas selesai dalam 3 tahun = 1-1/6 = 5/6\nProbabilitas ke-4 Siswa selesai adalah (5/6)⁴ = 625/1296"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nDi kampus STIS akan diadakan\nseminar nasional, namun tidak\nsemua mahasiswa dapat\nmengikuti seminar tersebut,\nhanya 8 orang perwakilan\nseminar yang dapat\nmengikutinya. Dosen akan\nmemilih perwakilan seminar\ndari 7 mahasiswa dan 5\nmahasiswi. Peluang\npembentukan perwakilan\nseminar nasional dengan\npaling banyak 4 mahasiswi\nyaitu…",
+        "pilihan": [
+            "56/99",
+            "64/99",
+            "73/99",
+            "82/99",
+            "92/99"
+        ],
+        "jawaban_benar": "92/99",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_13_pemb_img1.png]"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nEmpat anak lahir di Rumah\nSakit Budhi Asih, kemarin.\nAsumsikan setiap anak\nmemiliki kemungkinan yang\nsama untuk menjadi laki-laki\natau perempuan. Manakah\ndari hasil berikut ini\nkemungkinan besar terjadi . . .",
+        "pilihan": [
+            "Keempatnya laki – laki",
+            "Keempatnya Perempuan",
+            "2 bayi laki – laki dan 2 bayi   perempuan",
+            "3 anak yang berjenis   kelamin sama dan 1 lainnya   berbeda",
+            "semua hasil diatas bisa   kemungkinan terjadi"
+        ],
+        "jawaban_benar": "3 anak yang berjenis   kelamin sama dan 1 lainnya   berbeda",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_14_pemb_img1.png]"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nSuatu lomba maraton diikuti\noleh Lima Perguruan Tinggi\nKedinasan (PTK) : STAN,\nSTIP, STIS, STIN dan STSN.\nSetiap PTK mengirimkan lima\npelari. Pelari yang masuk\nfinish ke-1, 2, 3, 4, 5, 6, 7\nmemperoleh nilai berturut-\nturut 7, 6, 5, 4, 3, 2, 1. Nilai\nsetiap PTK adalah jumlah\nnilai kelima pelarinya. PTK\ndengan nilai terbesar adalah\njuara lomba. Di akhir lomba\nternyata PTK STIS menjadi\njuara dan tidak ada dua pelari\nyang masuk finish\nbersamaan. Ada berapa\nbanyakkah kemungkinan\nnilai PTK pemenang . . . . . .",
+        "pilihan": [
+            "19"
+        ],
+        "jawaban_benar": "19",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_15_pemb_img1.png]"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nDalam kotak I terdapat 4 bola\nmerah dan 3 bola putih,\nsedangkan dalam kotak II\nterdapat 7 bola merah dan 2\nbola hitam. Dari setiap kotak\ndiambil satu bola secara acak.\nPeluang terambilnya bola\nputih dari kotak I dan bola\nhitam dari kotak II adalah …",
+        "pilihan": [
+            "41/63",
+            "2/21",
+            "3/21",
+            "4/21",
+            "51/63"
+        ],
+        "jawaban_benar": "2/21",
+        "pembahasan": "Peluang terambilnya bola putih dari kotak I = 3/7\nPeluang terambilnya bola hitam dari kotak II = 2/9\nPeluang terambilnya bola putih dari kotak I dan bola hitam dari kotak\nII adalah 3/7 x 2/9 = 6/63 = 2/21"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_17_img1.png]",
+        "pilihan": [
+            "3"
+        ],
+        "jawaban_benar": "3",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_17_pemb_img1.png]"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_18_img1.png]",
+        "pilihan": [
+            "1/6",
+            "1/36"
+        ],
+        "jawaban_benar": "1/36",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_18_pemb_img1.png]"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_19_img1.png]",
+        "pilihan": [
+            "-1",
+            "1/2",
+            "-1/2"
+        ],
+        "jawaban_benar": "-1",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_19_pemb_img1.png]"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_20_img1.png]",
+        "pilihan": [
+            "-1"
+        ],
+        "jawaban_benar": "-1",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_20_pemb_img1.png]"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nTerdapat segitiga siku-siku di\nB dengan panjang AB = 9 dan\nBC = 12 maka ⃗⃗⃗⃗⃗AB .AC ⃗⃗⃗⃗⃗\nadalah…",
+        "pilihan": [
+            "135",
+            "108",
+            "144",
+            "81",
+            "180"
+        ],
+        "jawaban_benar": "81",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_21_pemb_img1.png]"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_22_img1.png]",
+        "pilihan": [
+            "a<0 c>0 D>0 b<0",
+            "a>0 c>0 D<0 b<0",
+            "a<0 c<0 D>0 b>0",
+            "a>0 c<0 D>0 b<0",
+            "a<0 c>0 D<0 b>0"
+        ],
+        "jawaban_benar": "a<0 c>0 D>0 b<0",
+        "pembahasan": "a<0 karena parabola terbuka ke bawah\n c>0 karena parabola memotong sumbu y di daerah +\n D>0 karena memotong sumbu x di 2 titik\n b<0 karena parabola berat ke kiri maka di putar ke kiri sehingga\ntanda menjadi (b<0)"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSuatu fungsi nilai kuadrat\nmempunyai nilai minimum 2\nuntuk dan untuk\nnilai fungsi itu 20. Fungsi\nkuadrat itu adalah . . . .",
+        "pilihan": [
+            "y = x²+20x+48",
+            "y = 2x²+20x+48",
+            "y = x²-20x+52",
+            "y = 2x²-20x+48",
+            "y = 2x²-20x+52"
+        ],
+        "jawaban_benar": "y = 2x²-20x+52",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_23_pemb_img1.png]"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_24_img1.png]",
+        "pilihan": [
+            "Tidak ada",
+            "2"
+        ],
+        "jawaban_benar": "2",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_24_pemb_img1.png]"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_25_img1.png]",
+        "pilihan": [
+            "0.9",
+            "1,4"
+        ],
+        "jawaban_benar": "1,4",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_25_pemb_img1.png]"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_26_img1.png]",
+        "pilihan": [
+            "-1/2 √3",
+            "-1/2",
+            "1/2",
+            "1/2 √2",
+            "1/2 √3"
+        ],
+        "jawaban_benar": "1/2 √3",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_27_img1.png]",
+        "pilihan": [
+            "2"
+        ],
+        "jawaban_benar": "2",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_27_pemb_img1.png]"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nAir dipompa dengan laju\nseragam 2 liter/menit (1 liter\n= 1000 cm³\n) ke dalam\nsebuah tangki berbentuk\nkerucut lingkaran tegak\nterpancung. Tinggi tangki 80\ncm, jari – jari bawah 20 cm\ndan jari – jari atas 40 cm .\nSeberapa cepat permukaan\nair naik pada saat kedalaman\nair 30 cm ? Catatan : Volume V\n, kerucut terpancung\nlingkaran tegak, dengan\ntinggi h, jari - jari bawah a\ndan jari – jari atas b adalah\nV = ⅓ πh (a²+ab+b²) ...\n(dalam cm / menit)",
+        "pilihan": [
+            "320π/121",
+            "240π/121",
+            "320/121π",
+            "240/121π",
+            "320/212π"
+        ],
+        "jawaban_benar": "320/121π",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_28_pemb_img1.png]"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nLingkaran yang menyinggung\ngaris 6x + 3y = 12 di titik (1,\n2 ) dan melalui titik (5, 3)\nmempunyai jari – jari . . .",
+        "pilihan": [
+            "19√7 / 18",
+            "15√3 / 18",
+            "17√5 / 18"
+        ],
+        "jawaban_benar": "17√5 / 18",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_29_pemb_img1.png]"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Tes Intelegensia Umum (TIU 1)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\n[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_30_img1.png]",
+        "pilihan": [
+            "1/8",
+            "1/16",
+            "1/32",
+            "1/64",
+            "1/128"
+        ],
+        "jawaban_benar": "1/32",
+        "pembahasan": "[GAMBAR: hasil_pembahasan_modul_63/gambar/soal_30_pemb_img1.png]"
+    }
+]

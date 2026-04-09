@@ -1,0 +1,492 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nSaya telah mempersiapkan diri dengan baik sebelum melakukan presentasi di kantor besok pagi.",
+        "pilihan": [
+            "Ditengah-tengah kesibukan pekerjaan, saya tetap mau membantu teman menyelesaikan pekerjaannya yang tertunda\n(Nilai 5)",
+            "Tapi Mungkin saja presentasi saya terganggu hal lain\n(Nilai 4)",
+            "Saya pasrah jika ada kendala\n(Nilai 3)",
+            "Tak mungkin presentasi saya tidak lancar\n(Nilai 2)",
+            "Meski begitu saya cemas kalau-kalau ternyata besok presentasi saya kurang lancar\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nDalam setiap pekerjaan pasti memiliki job description masing-masing, dan saya telah melakukan sesuai dengan job description tersebut",
+        "pilihan": [
+            "Ditengah-tengah kesibukan pekerjaan, saya tetap mau membantu teman menyelesaikan pekerjaannya yang tertunda\n(Nilai 5)",
+            "Tapi Mungkin saja presentasi saya terganggu hal lain\n(Nilai 4)",
+            "Saya pasrah jika ada kendala\n(Nilai 3)",
+            "Tak mungkin presentasi saya tidak lancar\n(Nilai 2)",
+            "Meski begitu saya cemas kalau-kalau ternyata besok presentasi saya kurang lancar\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nSaya diutus untuk menghadiri seminar menggantikan atasan saya. Pada saat yang bersamaan saya sedang mengerjakan laporan yang tidak terlalu mendesak",
+        "pilihan": [
+            "Saya akan selesaikan terlebih dahulu laporan tersebut, sebab bisa saja diminta oleh atasan sewaktu-waktu\n(Nilai 5)",
+            "Saya akan menghadiri seminar tersebut agar dapat menghindar dari tugas laporan\n(Nilai 4)",
+            "Laporan tersebut akan menjadi merepotkan kalau tertunda\n(Nilai 3)",
+            "Saya bisa menghadiri seminar dan mengerjakan laporannya nanti saja\n(Nilai 2)",
+            "Saya akan menghadiri seminar tersebut karena laporan belum harus segera diserahkan kepada atasan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nAndi adalah seorang karyawan yang rajin. Namun apa yang akan terjadi pada masa mendatang tak ada yang tahu",
+        "pilihan": [
+            "Karakter Andi sebagai karyawan rajin dapat membantu kenaikan karirnya kelak\n(Nilai 5)",
+            "Andi tetap saja akan terkena PHK jika ekonomi nasional lesu\n(Nilai 4)",
+            "Pemecatan banyak karyawan tidaklah terlalu berpengaruh terhadap citra perusahaan\n(Nilai 3)",
+            "Harusnya karyawan rajin tak boleh kena PHK\n(Nilai 2)",
+            "Mustahil karyawan serajin Andi kena PHK\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nSetelah mematangkan rencana,",
+        "pilihan": [
+            "Manusia berusaha sebaik-baiknya dan Tuhan yang menentukan\n(Nilai 5)",
+            "Saya minta pendapat orang lain terlebih dulu, sebab pendapat banyak orang lebih baik daripada pendapat satu orang\n(Nilai 4)",
+            "Berhasil tidaknya tak lepas dari pihak lain juga\n(Nilai 3)",
+            "Bagaimanapun caranya rencana harus berhasil\n(Nilai 2)",
+            "Saya masih khawatir apakah rencana tersebut bisa berhasil\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nJika suatu rencana kerja terlihat rumit, maka",
+        "pilihan": [
+            "Saya berani mencoba setelah mempertimbangkan risikonya\n(Nilai 5)",
+            "Saya minta pendapat isteri Yang penting saya coba dulu\n(Nilai 4)",
+            "Yang penting saya coba dulu\n(Nilai 3)",
+            "Saya khawatir jika mencobanya dan gagal\n(Nilai 2)",
+            "Saya tak mau repot-repot mencobanya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nSudah sejak lama saya berusaha untuk memperbaiki kelemahan diri, tetapi belum juga tampak hasilnya. Pada akhirnya saya :",
+        "pilihan": [
+            "Menerimanya dengan lapang dada\n(Nilai 5)",
+            "Menerimanya dengan sedikit kekecewaan\n(Nilai 4)",
+            "Dengan terpaksa menerimanya\n(Nilai 3)",
+            "Meratapi diri sendiri\n(Nilai 2)",
+            "Membenci diri sendiri\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nUntuk mencapai tujuan kelompok yang telah ditetapkan saya :",
+        "pilihan": [
+            "Menstimulasi orang lain untuk mau bekerja dengan baik\n(Nilai 5)",
+            "Mengajak orang lain bersama-sama untuk bekerja dengan baik\n(Nilai 4)",
+            "Mendorong orang lain bekerja dengan baik jika diperlukan\n(Nilai 3)",
+            "Mendorong orang lain untuk bekerja dengan baik jika situasi memungkinkan\n(Nilai 2)",
+            "Tidak mempermasalahkan apakah orang lain mau bekerja dengan baik atau tidak\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nKetika teman kantor sedang membicarakan satu teman yang bermasalah, saya akan ;",
+        "pilihan": [
+            "Mengajukan usulan alternatif tindakan yang tepat\n(Nilai 5)",
+            "Membicarakan dengan teman dekat kemungkinan terbaik\n(Nilai 4)",
+            "Mengajak teman-teman mempertimbangkan suatu tindakan tertentu\n(Nilai 3)",
+            "Meyakinkan teman-teman akan keperluannya dilakukan suatu tindakan\n(Nilai 2)",
+            "Menyetujui saja apa yang menjadi keputusan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nKetika sedang mengerjakan tugas bersama yang harus selesai pada hari itu, seorang teman akan meninggalkan terlebih dahulu, maka saya:",
+        "pilihan": [
+            "Memintanya untuk mempertimbangkan\n(Nilai 5)",
+            "Membujuknya untuk menyelesaikan tugas\n(Nilai 4)",
+            "Meminta pertimbangan teman yang lain\n(Nilai 3)",
+            "Memaksa untuk tetap tinggal\n(Nilai 2)",
+            "Mempersilakan pergi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nSaya mengerjakan tugas koreksi laporan kantor yang harus selesai besok pagi. Tiba-tiba sahabat datang dengan muka cemberut dan tampaknya ingin curhat (mencurahkan isi hati) kepada saya. Atas kejadian itu saya :",
+        "pilihan": [
+            "Terus mengoreksi laporan sambil sesekali mendengarkan ceritanya\n(Nilai 5)",
+            "Dengan menyesal tidak dapat mendengarkan keluhannya\n(Nilai 4)",
+            "Meneruskan koreksi laporan dan tidak memerdulikan keinginan teman saya\n(Nilai 3)",
+            "Menanggapi dan memberi berbagai alternatif penyelesaiannya\n(Nilai 2)",
+            "Mendengarkan ceritanya dengan penuh perhatian\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nKetika muncul suatu masalah dan terkait dengan hal-hal yang menjadi kewajiban saya, maka saya :",
+        "pilihan": [
+            "Akan bertanggung jawab\n(Nilai 5)",
+            "Melihat dulu apakah saya sebagai sumber masalah\n(Nilai 4)",
+            "Mencermati dulu apakah saya terlibat di dalamnya\n(Nilai 3)",
+            "Membiarkan masalah tetap berlangsung\n(Nilai 2)",
+            "Menunjuk orang lain sebagai penyebab\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nPimpinan kantor biasaya datangnya siang, memang sebagai pimpinan memiliki hak\nkhusus terbebas dari absen, mengenai hal ini saya ...",
+        "pilihan": [
+            "Memberinya masukan agar datang lebih pagi\n(Nilai 5)",
+            "Menegurnya\n(Nilai 4)",
+            "Normal\n(Nilai 3)",
+            "Memang sudah haknya sebagai pimpinan\n(Nilai 2)",
+            "Cuek\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nHasil rapat kepegawaian yang saya ikuti menghasilkan beberapa keputusan penting\nyang bersifat rahasia, beberapa teman saya bertanya tentang hasil rapat tersebut,\nsikap saya ...",
+        "pilihan": [
+            "Menghindar dari teman kerja\n(Nilai 5)",
+            "Tidak memberi tahu hasil rapat\n(Nilai 4)",
+            "Mengatakan hal lain yang tidak ada hubungannya dengan hasil rapat\n(Nilai 3)",
+            "Memberitahu yang kurang penting\n(Nilai 2)",
+            "Memberitahu bila ada yang penting\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nIbu saya menyuruh untuk membeli gula di toko, beliau bilang apabila ada kembalian\ntidak apa-apa bila dibelikan jajanan, sikap saya ...",
+        "pilihan": [
+            "Tidak membeli karena uangnya ditabung\n(Nilai 5)",
+            "Membeli apabila ada jajanan yang saya inginkan\n(Nilai 4)",
+            "Tidak membeli\n(Nilai 3)",
+            "Membeli apabila ada uang kembalian\n(Nilai 2)",
+            "Tidak membeli karena tidak ada uang kembalian\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nSaya biasanya makan siang bersama teman kantor ketika jam makan siang, sambil\nmengobrol tidak terasa sudah melebihi jam makan siang, sikap saya ...",
+        "pilihan": [
+            "Memberi pengertian dan mengajak agar segera kembali ke ruangan\n(Nilai 5)",
+            "Mengajak teman kerja agar segera kembali\n(Nilai 4)",
+            "Kembali ke ruangan langsung\n(Nilai 3)",
+            "Membatasi 5 menit lagi kemudian kembali ke ruangan\n(Nilai 2)",
+            "Tidak masalah mumpung tidak ada kerjaan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nAnda merupakan direktur pemasaran dari suatu produk, sikap yang anda ambil ketika\nbanyak pesaing yang juga memasarkan produk yang sama adalah ..",
+        "pilihan": [
+            "Saya gunakan strategi baru dengan mengedepankan nilai lebih dari produk yang  saya pasarkan\n(Nilai 5)",
+            "Tetap memasarkan produk tersebut dengan strategi yang baru\n(Nilai 4)",
+            "Saya tidak mau memasarkan barang itu lagi dan ingin memasarkan barang yang  baru\n(Nilai 3)",
+            "Meminta petunjuk direksi sebaiknya bagaimana\n(Nilai 2)",
+            "Saya tetap memasarkan sama seperti biasa dilakukan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSetiap perlombaan yang saya ikuti, saya selalu ...",
+        "pilihan": [
+            "Memberikan bterbaik yang biasa saya berikan\n(Nilai 5)",
+            "Berusaha sekuat tenaga agar menang\n(Nilai 4)",
+            "Meminta bantuan teman untuk berlatih\n(Nilai 3)",
+            "Biasa saja karena hanya iseng\n(Nilai 2)",
+            "Melakukan cara apapun agar dapat menang\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nPimpinan rapat meminta ide dari semua peserta rapat yang sebagian besar adalah\npejabat eselon, saya yang hanya sebagai pelaksana biasa sebaiknya ...",
+        "pilihan": [
+            "Memberikan ide apabila kita mempunyai ide yang kemungkinan dapat membantu  masalah yang ada\n(Nilai 5)",
+            "Memberikan ide ke pimpinan kita agar disuarakan pendapat kita\n(Nilai 4)",
+            "Menulis ide kita kemudian memberikan ke pimpinan rapat\n(Nilai 3)",
+            "Diam saja karena hanya pimpinan yang berhak menyuarakan pendapa\n(Nilai 2)",
+            "Saya mengundurkan diri dari rapat karena tidak percaya diri\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nSaya diberi kesempatan untuk pergi short course ke Belanda selama sebulan, tetapi\nnilai TOEFL saya tidak mencukupi, sikap saya ...",
+        "pilihan": [
+            "Sesegera mungkin menerima tambahan waktu ke pimpinan untuk memperbaiki  nilai TOEFL\n(Nilai 5)",
+            "Berusaha sekuat tenaga untuk meningkatkat nilai TOEFL\n(Nilai 4)",
+            "Ikut tes TOEFL sekali laagi siapa tahu nilainya berubah\n(Nilai 3)",
+            "Ikut tahun depan saja ketika nilai TOEFL saya naik\n(Nilai 2)",
+            "Tidak ikut karena saya memang kurang pandai berbahasa Inggris\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nSaya selalu suka dengan pertunjukkan ...",
+        "pilihan": [
+            "Seni tari\n(Nilai 5)",
+            "Kerajinan karya seni lokal\n(Nilai 4)",
+            "Seni musik\n(Nilai 3)",
+            "Seni rupa\n(Nilai 2)",
+            "Pemutaran film\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSaya sebagai kepala divisi pemasaran sebuah produk, dalam menghadapi persaingan\npasar yang semakin ketat, maka produk yang saya pasarkan ...",
+        "pilihan": [
+            "Semaksimal mungkin saya beri perbedaan dan inovasi produk\n(Nilai 5)",
+            "Saya beri sedikit perbedaan dengan produk lain\n(Nilai 4)",
+            "Saya rancang strategi pemasaran yang beda dengan produk sejenis\n(Nilai 3)",
+            "Tidak jauh berbeda dengan produk yang lain\n(Nilai 2)",
+            "Saya lebih baik memasarkan produk yang lain yang belum punya pesaing\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nSetiap pekerjaan berat yang saya terima, saya selalu coba kerjakan untuk melatih ..",
+        "pilihan": [
+            "Proses berpikir kreatif dan inovatif\n(Nilai 5)",
+            "Rasa tanggung jawab\n(Nilai 4)",
+            "Rasa loyal pada atasan\n(Nilai 3)",
+            "Sebagai bahan menuju kesuksesan kedepan\n(Nilai 2)",
+            "Berpikir cepat dan tepat\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nMemperingati hari pelanggan, tempat anda pekerja berencana memberikan reward\npada pelanggan. Konsep yang akan anda berikan sebagai tim kreatif adalah ...",
+        "pilihan": [
+            "Memberikan souvenir tanda terima kasih pada setiap pengunjung\n(Nilai 5)",
+            "Buy one get one free untuk produk tertentu\n(Nilai 4)",
+            "Potongan diskon 50% untuk produk tertentu\n(Nilai 3)",
+            "Berusaha keras mencari pelanggan baru\n(Nilai 2)",
+            "Memberikan voucher untuk pembelanjaan berikutnya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nKarena kesalahan anda, banyak pelanggan anda yang beralih ke kompetitor anda.\nMaka cara anda untuk menanggulangi hal tersebut dengan cara...",
+        "pilihan": [
+            "Mengevaluasi kesalahan tersebut kemudian mancari solusi terbaik\n(Nilai 5)",
+            "Berusaha mengetahui kemampuan kompetitor dari segi kelebihan maupun  kekurangan\n(Nilai 4)",
+            "Menarik simpati pelanggan dengan memberi potongan harga sebanyak-banyaknya\n(Nilai 3)",
+            "Berusaha keras mencari pelanggan baru\n(Nilai 2)",
+            "Menghubungi pelanggan lama anda dan memberinya hadiah\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nResolusi anda untuk tahun depan ingin meningkatkan tingkat kepuasan pelanggan.\nMaka langkah yang anda terapkan adalah ...",
+        "pilihan": [
+            "Meningkatkan mutu dengan memperbaiki fasilitas pelayanan dan mempersingkat  waktu pelayanan agar lebih efektif dan efisien\n(Nilai 5)",
+            "Meningkatkan kualitas sumber daya manusia\n(Nilai 4)",
+            "Meningkatkan kualitas produksi\n(Nilai 3)",
+            "Memperluas jaringan pangsa pasar\n(Nilai 2)",
+            "Meningkatkan jumlah produksi\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nSaat anda berada di bus, ada penumpang yang terlihat kebingungan. Maka reaksi\nanda ketika itu ialah ...",
+        "pilihan": [
+            "Menanyakan keadaanya\n(Nilai 5)",
+            "Sesekali meliriknya\n(Nilai 4)",
+            "Membiarkannya\n(Nilai 3)",
+            "Segera pindah bangku\n(Nilai 2)",
+            "Mencurigainya\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSahabat anda ingin meminjam uang dengan jumlah yang besar, sedangkan saat itu\nanda tidak memilikinya. Maka yang akan anda lakukan untuk sahabat anda adalah ...",
+        "pilihan": [
+            "Membantunya dengan menanyakan teman lain yang memiliki uang\n(Nilai 5)",
+            "Menggadaikan emas untuk membantunya\n(Nilai 4)",
+            "Membantunya dengan uang yang anda miliki\n(Nilai 3)",
+            "Menyarankan agar meminjam uang di bank\n(Nilai 2)",
+            "Mengatakan padanya tidak memiliki uang tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nKarena jalanan macet, anda memutuskan untuk naik ojek. Pada saat perjalanan, tiba-\ntiba ban ojek yang anda naiki kempes. Maka yang akan anda lakukan adalah ...",
+        "pilihan": [
+            "Tetap membayar ojek tersebut lalu segera mengganti transpotrasi lain\n(Nilai 5)",
+            "Membayar separoh dari ongkos yang disepakati\n(Nilai 4)",
+            "Menunggunya menambal ban dan tetap minta diantarkan ke tempat tujuan\n(Nilai 3)",
+            "Langsung naik transportasi lain\n(Nilai 2)",
+            "Memarahi tukang ojek\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nAnda baru saja dipindahkan ke unit kerja yang beban kerjanya sangat sulit. Maka\nanda akan ...",
+        "pilihan": [
+            "Mencoba memahami situasi pada pekerjaan baru dan mempelajari tugas baru  dengan penuh keyakinan bahwa mampu mengerjakannya\n(Nilai 5)",
+            "Bekerja semampunya\n(Nilai 4)",
+            "Mengajukan mutasi\n(Nilai 3)",
+            "Melobi atasan anda untuk tidak dipindahkan\n(Nilai 2)",
+            "Memprotes keras keputusan tersebut\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nAnda dinilai lambat bekerja oleh atasan anda. Maka reaksi yang akan anda lakukan\natas penilaian tersebut dengan ...",
+        "pilihan": [
+            "Menerima penilaian tersebut dan berusaha memperbaiki performa kerja\n(Nilai 5)",
+            "Berusaha lembur untuk mengejar ketertinggalan\n(Nilai 4)",
+            "Meminta bantuan temanuntuk memperbaiki performa\n(Nilai 3)",
+            "Meminta saran pada atasan bagaimana utnuk memperbaiki performa kerja\n(Nilai 2)",
+            "Menahan rasa malu karena mendapat teguran\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nHarga kebutuhan pangan melonjak naik, tetapi pendapatan yang anda terima tetap.\nMaka yang anda lakukan ...",
+        "pilihan": [
+            "Merencanakan ulang pembelanjaan anda agar tetap seimbang dengan pendapatan\n(Nilai 5)",
+            "Mencoba mncari tambahan penghasilan\n(Nilai 4)",
+            "Mengganti barang yang bisa dibeli dengan yang lebih murah\n(Nilai 3)",
+            "Mengurangi jumlah konsumsi\n(Nilai 2)",
+            "Tidak merubah apapun dengan anggapan harga akan kembali normal\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nSuatu waktu anda diminta atasan secara mendadak untuk melaporkan hasil\nperkembangan pekerjaan yang dibebankan kepada anda, maka anda akan ...",
+        "pilihan": [
+            "Semakin termotifasi\n(Nilai 5)",
+            "Melaporkan perkembangan seadanya\n(Nilai 4)",
+            "Biasa saja\n(Nilai 3)",
+            "Panik\n(Nilai 2)",
+            "Mencari alasan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nAnda secara tidak sengaja melakukan kesalahan dalam suatu pekerjaan, lalu junior\nanda membentak anda, maka sikap anda ...",
+        "pilihan": [
+            "Diam sejenak dan kemudian meminta maaf\n(Nilai 5)",
+            "Tabah\n(Nilai 4)",
+            "Biasa saja\n(Nilai 3)",
+            "Melapor pada atasan\n(Nilai 2)",
+            "Membentaknya kembali karena anda rasa tidak sopan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nKetika berada di lift, tiba-tiba liftnya mati, maka anda akan ...",
+        "pilihan": [
+            "Menenangkan diri, kemudian meminta pertolongan\n(Nilai 5)",
+            "Berdoa\n(Nilai 4)",
+            "Menenangkan orang lain di dalam lift\n(Nilai 3)",
+            "Panik\n(Nilai 2)",
+            "Ingin mati saja\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    }
+]

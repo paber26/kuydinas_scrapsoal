@@ -1,0 +1,516 @@
+Soal 1:
+Partikel-partikel gas ideal mempunyai sifat-sifat sebagai berikut, kecuali ...
+A. tersebar merata di seluruh bagian ruangan yang ditempati
+B. selalu bergerak
+C. tidak saling menarik
+D. tidak mengikuti Hukum Newton tentang gerak
+E. bertumbukan lenting sempurna
+
+==================================================
+
+Soal 2:
+Di mana sebuah benda harus diletakkan di depan sebuah lensa cembung dengan kekuatan + 2 dioptri agar supaya didapatkan bayanganmaya,  tegak dan diperbesar. Benda harus diletakkan pada jarak ….
+A. lebih daripada 50 cm tetapi kurang daripada 100 cm
+B. lebih daripada 50 cm tetapi kurang daripada 65 cm
+C. kurang daripada 50 cm
+D. tepat pada 100 cm
+E. tepat pada 50 cm
+
+==================================================
+
+Soal 3:
+Jika gas ideal dimampatkan secara isotermis sehingga volumenya menjadi setengahnya, maka ...
+A. tekanan dan suhu tetap
+B. tekanan menjadi dua kali dan suhu menjadi setengahnya
+C. tekanan tetap dan suhu menjadi dua kali
+D. tekanan menjadi dua kali lipat dan suhu tetap
+E. tekanan dan suhu menjadi setengahnya
+
+==================================================
+
+Soal 4:
+Arus listrik dari PLN yang sampai ke rumah-rumah mempunyai tegangan 220 V. Tegangan tersebut adalah …
+A. tegangan maksimum
+B. tegangan efektif
+C. tegangan minimum
+D. tegangan puncak ke puncak
+E. tegangan rata-rata
+
+==================================================
+
+Soal 5:
+Perhatikan gambar berikut!
+berdasarkan gambar diatas, arah gaya magnetik yang dialami kawat yang berada di antara dua magnet tersebutadalah ….
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_391/soal_5_img1.png)
+A. ke kanan
+B. ke arah B
+C. tegak lurus masuk bidang kertas
+D. ke kiri
+E. tegak lurus keluar bidang kertas
+
+==================================================
+
+Soal 6:
+Suatu nyala lilin digeser berada di depan suatu cermin sehingga terbentuk bayangan yang dapat ditangkap layar pada gambar.
+(1) Cermin tersebut adalah cermin cekung
+(2) Jarak benda ke cermin lebih kecil dari jari-jari kelengkungan cermin
+(3) Jarak bayangan lebih besar dari jari-jari kelengkungan cermin
+(4) Jarak fokus cermin negatif
+Yang benar adalah ....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_391/soal_6_img1.png)
+A. Semua
+B. (1), (2) dan (3)
+C. (4)
+D. (1) dan (3)
+E. (2) dan (4)
+
+==================================================
+
+Soal 7:
+Bila gelombang melalui celah sempit, maka terjadi … .
+A. interferensi
+B. refleksi
+C. polarisasi
+D. refraksi
+E. difraksi
+
+==================================================
+
+Soal 8:
+Kuat lemahnya nada/bunyi bergantung pada ...
+A. pola getar
+B. amplitudo
+C. panjang gelombang
+D. frekuensi
+E. Kecepatan
+
+==================================================
+
+Soal 9:
+Nada bunyi akan terdengar lemah jika …
+A. frekuensinya rendah
+B. frekuensinya tinggi
+C. periodenya tak beraturan
+D. amplitudonya besar
+E. amplitudonya kecil
+
+==================================================
+
+Soal 10:
+Sebuah benda yang melakukan gerak melingkar beraturan memiliki ….
+A. kecepatan tetap
+B. kelajuan tetap
+C. percepatan tetap
+D. kelajuan yang arahnya menjauhi pusat lingkaran
+E. kecepatan yang arahnya menjauhi pusat lingkaran
+
+==================================================
+
+Soal 11:
+Waktu yang diperlukan untuk menempuh satu putaran disebut ...
+A. kecepatan
+B. kelajuan anguler
+C. periode
+D. frekuensi
+E. percepatan sentripetal
+
+==================================================
+
+Soal 12:
+Sebuah benda yang mengalami gerak melingkar beraturan, kecepatannya tergantung pada …
+A. periode dan jari-jari lintasan
+B. percepatan gravitasi setempat
+C. massa dan frekuensi
+D. massa dan periode
+E. massa dan jari-jari lintasan
+
+==================================================
+
+Soal 13:
+Dalam pergerakan gelombang dari suatu tempat menuju tempat lain, gelombang memindahkan …
+A. panjang gelombang
+B. massa
+C. fase
+D. energi
+E. amplitudo
+
+==================================================
+
+Soal 14:
+Tinggi rendahnya nada bergantung pada … .
+A. pola getar
+B. frekuensi
+C. Amplitudo
+D. panjang gelombang
+E. kecepatan
+
+==================================================
+
+Soal 15:
+tabel berikut adalah data dua buah transformator!
+Jika efisiensi transformator 1 dan 2 sama besar, sebesar 40% . maka besar  P dan Q adalah ….
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_391/soal_15_img1.png)
+A. P = 16 lilitan dan Q = 2 A
+B. P = 16 lilitan dan Q = 0,5 lilitan
+C. P = 8 lilitan dan Q = 0,5 A
+D. P = 8 lilitan dan Q = 1 A
+E. P = 16 lilitan dan Q = 1 A
+
+==================================================
+
+Soal 16:
+Sebuah balok bermassa 4 kg bergerak dengan kecepatan awal 10 m/s di atas lantai yang kasar. Karena kekasaran lantai tersebut, kecepatan balok bisa turun menjadi 5 m/s setelah menempuh jarak tertentu. Perubahan energi kinetik balok sebesar ....
+A. naik 150 joule
+B. naik 50 joule
+C. turun 50 joule
+D. naik 250 joule
+E. turun 150 joule
+
+==================================================
+
+Soal 17:
+Pipa organa terbuka yang panjangnya25 cm menghasilkan frekuensi nada dasar sama dengan frekuensi yang dihasilkan oleh dawai yang panjangnya 150 cm. Jika cepat rambat bunyi di udara 340 ms-1 dan cepat rambat gelombang transversal pada dawai 510 ms-1 maka dawai menghasilkan .…
+A. nada atas kedua
+B. nada atas pertama
+C. nada atas ketiga
+D. nada atas keempat
+E. nada dasar
+
+==================================================
+
+Soal 18:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_391/soal_18_img1.png)
+A. A diperkecil 1/3 kali dan kecepatan sudut diperbesar 4 kali
+B. N diperbanyak 3 kali dan kecepatan sudutnya diperbesar 3 kali
+C. (.) diperbesar 2 kali dan A diperbesar 3 kali
+D. N dan luas kumparan diperkecil 1/6 kali
+E. N dan kecepatan sudutnya diperbesar 2 kali
+
+==================================================
+
+Soal 19:
+Sebuah bola lampu listrik bertuliskan 220 V/50 ohm. Pernyataan  berikut yang benar adalah ...
+A. untuk menyalakan diperlukan tegangan minimum 220 V
+B. tahanannya sebesar 484 ohm
+C. menghabiskan energi sebesar 50 J dalam waktu 1 detik bila dihu-bungkan dengan sumber tegangan 220 V
+D. untuk menyalakannya diperlukan aliran arus sebesar 5 A
+E. dayanya selalu 50 watt
+
+==================================================
+
+Soal 20:
+Gelombang stasioner terjadi bila ada dua gelombang menjalar dalam arah berlawanan dengan ketentuan … .
+A. mempuyai amplitudo yang sama
+B. mempunyai amplitudo maupun frekuensi yang sama
+C. mempunyai fase yang sama
+D. mempunyai amplitudo maupun frekuensi berbeda
+E. mempunyai frekuensi yang sama
+
+==================================================
+
+Soal 21:
+Sebuah benda terletak pada jarak 5 cm di depan sebuah cermin cembung yang berjari jari 20 cm. Sifat bayangan yang dibentuk oleh cermin adalah ….
+A. nyata, terbalik, diperbesar
+B. maya, terbalik, diperbesar
+C. maya, tegak , diperbesar
+D. maya, tegak, diperkecil
+E. nyata, tegak, diperkecil
+
+==================================================
+
+Soal 22:
+Gaya Archimedes yang bekerja pada benda saat dimasukkan ke dalam fluida ditentukan oleh ….
+A. volume benda dan massa jenis cairan
+B. massa benda dan keadaan benda di cairan
+C. massa benda dan massa jenis
+D. massa cairan dan kedalaman benda di cairan
+E. volume benda dan keadaan benda di cairan
+
+==================================================
+
+Soal 23:
+Berikut transformator ideal yang dihubungan dengan sebuah lampu
+Kondisi lampu akan menyala.....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_391/soal_23_img1.png)
+A. Redup bila jumlah lilitan sekunder diperkecil
+B. Redup bila jumlah lilitan primer diperbesar
+C. Lebih terang bila tegangan primer diturunakan
+D. Lebih terang bila tegangan primer dinaikkan
+E. Lebih redup bila tegangan primer dinaikkan
+
+==================================================
+
+Soal 24:
+Pada Hukum Boyle, P.V = k, P adalah tekanan dan V adalah volume. Konstanta k mempunyai dimensi yang sama dengan ... .
+A. usaha
+B. Suhu
+C. daya
+D. Konstanta pegas
+E. momentum
+
+==================================================
+
+Soal 25:
+Partikel-partikel gas ideal mempunyai sifat-sifat sebagai berikut, kecuali ... .
+A. tidak saling menarik
+B. tersebar merata di seluruh bagian ruangan yang ditempati
+C. bertumbukan lenting sempurna
+D. selalu bergerak
+E. tidak mengikuti Hukum Newton tentang gerak
+
+==================================================
+
+Soal 26:
+Besaran-besaran berikut yang dipengaruhi arahnya adalah ....
+A. usaha
+B. massa
+C. waktu
+D. Jarak
+E. Kecepatan
+
+==================================================
+
+Soal 27:
+Berikut adalah gambar trafo ideal yang dihubungkan dengan sebuah lampu, Lampu akan semakin terang, jika....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_391/soal_27_img1.png)
+A. jumlah lilitan sekunder diperbanyak
+B. jumlah lilitan primer dikurangi
+C. lilitan sekunder dikurangi
+D. tegangan sekunder diperbesar
+E. tegangan primer / input dikurangi
+
+==================================================
+
+Soal 28:
+Alat yang digunakan untuk mengukur suhu adalah ....
+A. indra tangan
+B. lidah
+C. hydrometer
+D. termometer
+E. barometer
+
+==================================================
+
+Soal 29:
+Gelombang bunyi adalah ...
+A. gelombang transversal
+B. gelombang yang dapat dipolarisasikan
+C. gelombang longitudinal
+D. gelombang yang dapat merambat dalam vakum
+E. gelombang elektromagnetik
+
+==================================================
+
+Soal 30:
+Kelompok besaran di bawah ini yang termasuk besaran vektor adalah ... .
+A. gaya, percepatan, waktu
+B. tegangan, intensitas cahaya, gaya
+C. kecepatan, momentum, kuat arus listrik
+D. kelajuan, kuat arus, gaya
+E. energi, usaha, banyak mol zat
+
+==================================================
+
+Soal 31:
+Pada pembiasan gelombang dari daerah dangkal ke daerah dalam, makin kecil sudut datang, maka … .
+A. sudut bias tetap
+B. sudut bias tergantung pada indeks bias
+C. makin besar sudut bias
+D. besar kecilnya indek bias dipengaruhi cepat rambat gelombang
+E. makin kecil pula sudut bias
+
+==================================================
+
+Soal 32:
+Pada perlombaan tarik tambang, kelompok A menarik ke arah timur dengan gaya 700 N. Kelompok B menarik ke barat dengan gaya 665 N. Kelompok yang memenangi perlombaan adalah kelompok ... .
+A. A dengan resultan gaya 35 N
+B. B dengan resultan gaya 25 N
+C. B dengan resultan gaya 45 N
+D. A dengan resultan gaya 25 N
+E. B dengan resultan gaya 35 N
+
+==================================================
+
+Soal 33:
+Sebuah ban mobil berisi udara digunakan sebagai pengapung di dalam air, volume ban 0,1 m^3 dan massanya 1 kg. jika massa jenis air 1 gr/cm^3 dan percepatan gravitasi g = 10 m/s^2, maka ban dapat menahan dan mengapungkan beban maksimum sebesar ….
+A. 1001 kg
+B. 99 kg
+C. 101 kg
+D. 100 kg
+E. 1000 kg
+
+==================================================
+
+Soal 34:
+Jika gas ideal dimampatkan secara isotermis sehingga volumenya menjadi setengahnya, maka ... .
+A. tekanan menjadi dua kali dan suhu menjadi setengahnya
+B. tekanan menjadi dua kali lipat dan suhu tetap
+C. tekanan dan suhu tetap
+D. tekanan tetap dan suhu menjadi dua kali
+E. tekanan dan suhu menjadi setengahnya
+
+==================================================
+
+Soal 35:
+Suatu gas ideal, dalam suatu ruang tertutup bersuhu 27 derajat Cecius. Untuk mengubah energi kinetik partikelnya menjadi 2 Ek, suhu gas harus dijadikan ... .
+A. 927 derajat Celcius
+B. 310 derajat Celcius
+C. 327 derajat Celciu
+D. 37 derajat Celcius
+E. 45 derajat Celcius
+
+==================================================
+
+Soal 36:
+Suatu mesin melakukan usaha sebesar 3600 J setiap selang waktu 1 jam. Mesin tersebut memiliki daya sebesar....
+A. 1 watt
+B. 900 kilowatt
+C. 10 watt
+D. 10 kilowatt
+E. 100 watt
+
+==================================================
+
+Soal 37:
+Selama 10 sekon kecepatan sebuah truk yang massanya 5 ton mengalami perubahan dari 5 m/s menjadi 15 m/s. Besarnya gaya yang menyebabkan perubahan kecepatan tersebut adalah ….
+A. 7.000 N
+B. 8.000 N
+C. 9.000 N
+D. 6.000 N
+E. 5.000 N
+
+==================================================
+
+Soal 38:
+balok dengan massa 1.800 gram (g =10 m/s2) ditarik secara vertikal selama 4 sekon. Jika balok berpindah setinggi 2 m, daya yang dihasilkan adalah ... .
+A. 3.600 W
+B. 9 W
+C. 900 W
+D. 225 W
+E. 36 W
+
+==================================================
+
+Soal 39:
+Sebuah benda 1 kg dilemparkan ke atas dengan kecepatan awal 40 m/s. Besar energi kinetik benda pada saat mencapai ketinggian 20 m dari tanah sebesar … .
+A. 100 J
+B. 800 J
+C. 600 J
+D. 200 J
+E. 400 J
+
+==================================================
+
+Soal 40:
+yang dilakukan oleh suatu gaya terhadap benda sama dengan nol apabila arah gaya dengan perpindahan benda membentuk sudut sebesar … .
+A. 45 derajat
+B. 0 derajat
+C. 80 derajat
+D. 60 derajat
+E. 90 derajat
+
+==================================================
+
+Soal 41:
+Diketahui rangkaian listrik seperti pada gambar berikut ini. Beda potensial antara titik A dan B adalah … .
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_391/soal_41_img1.png)
+A. 2 volt
+B. 0 volt
+C. 4 volt
+D. 8 volt
+E. 6 volt
+
+==================================================
+
+Soal 42:
+Jika 75 g air yang bersuhu 0 derajat Cecius dicampur dengan 50 g air yang bersuhu100 derajat Cecius, maka suhu akhir campuran kedua air tersebut adalah ....
+A. 75 derajat Cecius
+B. 65 derajat Cecius
+C. 25 derajat Cecius
+D. 40 derajat Cecius
+E. 60 derajat Cecius
+
+==================================================
+
+Soal 43:
+dengan massa 3 kg dilempar vertikal ke atas dengan kecepatan awal 20 m/s. Jika g = 10 m/s^2, maka energi potensial benda saat mencapai titik tertinggi adalah … .
+A. 300 J
+B. 600 J
+C. 700 J
+D. 500 J
+E. 400 J
+
+==================================================
+
+Soal 44:
+Sebuah cermin cembung ditempatkan di tikungan jalan. Ketika terdapat benda yang jaraknya 2 m dari cermin, bayangan yang terbentuk 1/16 kali tinggi benda. Jarak fokus cermin adalah ….
+A. 5/8
+B. 7/2
+C. 15/2
+D. 12/7
+E. 2/15
+
+==================================================
+
+Soal 45:
+Pada Hukum Boyle, P.V = k, P adalah tekanan dan V adalah volume. Konstanta k mempunyai dimensi yang sama dengan ... .
+A. Suhu
+B. usaha
+C. daya
+D. momentum
+E. konstanta pegas
+
+==================================================
+
+Soal 46:
+Koefisien gesek statis antara sebuah lemari dengan lantai kasar suatu bak truk sebesar 1. Besarnya percepatan maksimum yang boleh dimiliki truk agar lemari tetap diam terhadap bak truk adalah ….
+A. 10 ms
+B. 7 ms
+C. 1 ms
+D. 15 ms
+E. 5 ms
+
+==================================================
+
+Soal 47:
+Benda yang bermassa 700 gram dilempar ke atas hingga mencapai ketinggian 9 m. Perubahan energi potensial benda ketika berada pada ketinggian 5 m sampai 9m  adalah (g = 10 m/s^2)... .
+A. 28 J
+B. 42 J
+C. 35 J
+D. 63 J
+E. 54 J
+
+==================================================
+
+Soal 48:
+Silalahi yang bermassa 60 kg berda dalam sebuah lift yang sedang bergerak ke bawah dengan percepatan 3 ms^-2 . Besarnya gaya desakan kaki Silalahi pada lantai lift adalah ….
+A. 600 N
+B. 420 N
+C. 530 N
+D. 430 N
+E. 520 N
+
+==================================================
+
+Soal 49:
+Diketahui volume tabung B dua kali volume tabung A. Keduanya terisi gas ideal. Volume tabung penghubung dapat diabaikan. Gas A berada pada suhu 300 K. Bila jumlah molekul dalam A adalah N dan jumlah molekul B adalah 3N, maka suhu gas dalam tabung B adalah ... .
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_391/soal_49_img1.png)
+A. 200 K
+B. 600 K
+C. 150 K
+D. 300 K
+E. 450 K
+
+==================================================
+
+Soal 50:
+Sebuah balok bermassa 400 gram dijatuhkan dari ketinggian 2 m ke permukaan tanah. Jika pada permukaan tanah terdapat pegas dengan konstanta100 N/m maka pegas akan tertekan sebesar ... .
+A. 0,4 m
+B. 0,2 m
+C. 0,3 m
+D. 0,05 m
+E. 0,1 m
+
+==================================================
+

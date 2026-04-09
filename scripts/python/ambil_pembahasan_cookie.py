@@ -85,7 +85,7 @@ def process_html_with_images(html_content, prefix_name, folder_path):
     return soup.get_text(separator='\n', strip=True)
 
 
-for target_modul in range(339, 342):
+for target_modul in range(372,373):
     MODUL_ID = str(target_modul)
     target_url = f"https://smartcasn.com/result/{ATTEMPT_ID}/{MODUL_ID}"
     

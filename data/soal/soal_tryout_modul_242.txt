@@ -1,0 +1,413 @@
+Soal 1:
+UANG : BANK = PADI : ...
+A. Tempayan
+B. Kapas
+C. Lumbung
+D. Jambangan
+E. Sawah
+
+==================================================
+
+Soal 2:
+DELMAN : KUDA = HELIKOPTER : ...
+A. Ban
+B. Tiket
+C. Penumpang
+D. Landasan
+E. Baling - baling
+
+==================================================
+
+Soal 3:
+BASKET : RING = ... : ...
+A. Badminton : Kok
+B. Sepak bola : Lapangan
+C. Sepak bola : Gawang
+D. Tinju : Sarung tangan
+E. Renang : Kolam
+
+==================================================
+
+Soal 4:
+SENIN : RABU = ... : ...
+A. Padi : Beras
+B. Mawar : Melati
+C. April : Februari
+D. Detik : Menit
+E. Satu : Tiga
+
+==================================================
+
+Soal 5:
+K, M, N, O, Q, Q, ...., ....
+A. V, J
+B. U, Q
+C. S, V
+D. T, S
+E. R, T
+
+==================================================
+
+Soal 6:
+F, B , F, F, F, J, ....
+A. B
+B. K
+C. F
+D. M
+E. N
+
+==================================================
+
+Soal 7:
+Y, H, U, J, Q, L, ...
+A. P
+B. N
+C. O
+D. M
+E. Q
+
+==================================================
+
+Soal 8:
+D, F, E, G, F, H, ....
+A. G, I
+B. H, J
+C. J, L
+D. K, L
+E. L, M
+
+==================================================
+
+Soal 9:
+W, R, T, P, Q, N, ....
+A. Q, P
+B. M, O
+C. P, O
+D. N, L
+E. L, N
+
+==================================================
+
+Soal 10:
+A, B, C, F, E, D, G, H, ...
+A. I, L
+B. I, J
+C. K, N
+D. K, J
+E. I, N
+
+==================================================
+
+Soal 11:
+Sebuah mobil menempuh perjalanan 15 km dengan 1 liter bensin ketika
+mobil dipacu dengan kecepatan 50 km per jam. Jika mobil tersebut
+berkecepatan 60 km per jam, maka jarak yang dapat ditempuh hanya 80%-
+nya. Berapakah bensin yang diperlukan untuk menempuh jarak 120 km
+dengan kecepatan 60 km per jam?
+A. 7,6 liter
+B. 8 liter
+C. 9,6 liter
+D. 6,4 liter
+E. 10 liter
+
+==================================================
+
+Soal 12:
+Seperti ayam bertelur di atas padi.
+Makna peribahasa di atas adalah ...
+A. Kelimpahan harta kekayaan yang tak disangka - sangka
+B. Orang yang kaya sehingga segalanya diukur dengan harta benda
+C. Selalu menonjolkan kekayaan
+D. Bagai orang kaya yang tak pernah habis hartanya
+E. Orang yang senang hidupnya karena tinggal pada orang kaya yang pemurah
+
+==================================================
+
+Soal 13:
+Murid sebuah TK adalah sejumlah A anak. Dari jumlah tersebut, sejumlah
+B anak suka melukis, sejumlah C anak suka menari, dan sejumlah D anak
+suka melukis dan menari. Berapa porsi jumlah anak yang tidak menyukai
+melukis atau menari?
+A. ( A - C + B + D ) : A
+B. ( A - B - C ) : A
+C. ( D + C + B ) : A
+D. ( A - D - C - B ) : A
+E. ( A + D - C - B ) : A
+
+==================================================
+
+Soal 14:
+Wilson menempuh perjalanan 70 km dalam 2 1/2 jam. Agar bisa sampai di
+tujuan 1/2 jam lebih cepat, berapa seharusnya kecepatan Wilson?
+A. 28 km/jam
+B. 27 km/jam
+C. 29 km/jam
+D. 35 km/jam
+E. 12 km/jam
+
+==================================================
+
+Soal 15:
+Nilai rata - rata ulangan matematika dari 30 siswa adalah 45. Jika nilai dari
+Jose digabungkan dengan kelompok itu, maka nilai rata - rata ulangan
+matematika menjadi 46. Berapakah nilai Jose?
+A. 50
+B. 80
+C. 66
+D. 85
+E. 76
+
+==================================================
+
+Soal 16:
+Keluarga Pak Anwar akan berfoto bersama di sebuah studio foto. Pak
+Anwar mempunyai 2 orang anak. Mereka semua akan berfoto secara
+berdampingan. Peluang foto pak Anwar dan istri berdampingan adalah ...
+A. 1/5
+B. 1/3
+C. 1/2
+D. 1/4
+E. 1/3
+
+==================================================
+
+Soal 17:
+Harga laptop dinaikkan dua puluh lima persen dari harga sebelumnya.
+Persentase penurunan harga agar laptop kembali seperti harga semula
+adalah ...
+A. 20%
+B. 25%
+C. 50%
+D. 55%
+E. 49%
+
+==================================================
+
+Soal 18:
+Kenny, pemain bulutangkis Klub Jaya, dapat melakukan service forehand
+dengan baik.
+Setiap pemain yang bisa melakukan service forehand dengan baik dapat
+melakukan dropshot akurat.
+Kesimpulan yang benar adalah ...
+A. Beberapa pemain bulutangkis Klub Jaya dapat melakukan dropshot dengan baik.
+B. Beberapa pemain bulutangkis Klub Jaya tidak dapat melakukan service forehand dengan baik tetapi dapat melakukan dropshot yang akurat.
+C. Semua pemain bulutangkis Klub Jaya dapat melakukan service forehand dengan baik dan dropshot yang akurat.
+D. Semua pemain bulutangkis dapat melakukan service forehand dengan baik dan dropshot yang akurat.
+E. Beberapa pemain bulutangkis Klub Jaya dapat melakukan service forehand dengan baik dan dropshot yang akurat.
+
+==================================================
+
+Soal 19:
+Sebuah bus tampak dipenuhi penumpang hingga 10 orang penumpang
+terpaksa harus berdiri. Pada halte berikutnya 17 penumpang turun dan naik
+8 orang. 5 penumpang kemudian turun di pemberhentian berikutnya tanpa
+ada seorangpun yang naik. Di halte berikutnya 4 orang naik tanpa
+seorangpun penumpang di dalam bus yang turun.
+Berapa kursi kosong di dalam bus setelah bus meninggalkan halte tersebut?
+A. 1 kursi kosong
+B. 4 kursi kosong
+C. 3 kursi kosong
+D. Tidak ada kursi kosong
+E. 2 kursi kosong
+
+==================================================
+
+Soal 20:
+Della membeli gaun pesta seharga Rp 156.000. Ia mendapat diskon sebesar
+5%. Berapa rupiah yang harus dibayar Della?
+A. Rp146.700
+B. Rp148.400
+C. Rp148.200
+D. Rp150.000
+E. Rp148.600
+
+==================================================
+
+Soal 21:
+Semua tenda beratap dan tinggi.
+Andi berada di tempat yang tidak beratap dan tidak tinggi.
+Kesimpulan yang tepat adalah ...
+A. Andi berada di tenda bukan beratap dan bukan tinggi.
+B. Andi berada di tenda beratap.
+C. Andi tidak berada di tenda
+D. Andi berada di tenda tinggi.
+E. Andi berada di tenda tinggi.
+
+==================================================
+
+Soal 22:
+Sebuah survei yang dilakukan pada 50 orang di sebuah toko kaset
+menghasilkan:
+25 orang suka musik pop
+27 orang suka musik rock
+4 orang tidak suka musik pop atau rock
+Berapa orang yang hanya suka satu jenis musik?
+A. 6
+B. 46
+C. 52
+D. 40
+E. 12
+
+==================================================
+
+Soal 23:
+Berapa lama waktu yang diperlukan untuk mengisi penuh air ke dalam
+sebuah tangki berkapasitas 3.750 sentimeter kubik jika air tersebut
+dipompakan ke dalam tangki dengan kecepatan 300 sentimeter kubik per
+menit?
+A. 12 menit
+B. 12 menit 30 detik
+C. 11 menit 25 detik
+D. 11 menit
+E. 10 menit 30 detik
+
+==================================================
+
+Soal 24:
+Enam orang mahasiswa masing - masing memiliki sejumlah uang. Jika uang
+yang dimiliki oleh setiap dua orang dari mereka dijumlahkan, besarnya
+adalah (dalam ribuan) 215, 197, 264, 236, 208, 229, 252, 244, 218, 241, 226,
+249, 258, 256, 247. Jumlah uang keenam mahasiswa tersebut adalah ...
+A. 780
+B. 760
+C. 590
+D. 688
+E. 708
+
+==================================================
+
+Soal 25:
+A, B, dan C mengumpulkan uang untuk membuka usaha, berturut - turut
+Rp 140.000, Rp 180.000, dan Rp 220.000. Pembagian keuntungan sebanding
+dengan jumlah modal yang disetorkan. Jika usaha mereka mendapat untung
+sebanyak Rp 150.000 berapa keuntungan yang diterima B?
+A. Rp65.000
+B. Rp75.000
+C. Rp70.000
+D. Rp50.000
+E. Rp62.000
+
+==================================================
+
+Soal 26:
+Nan lurah jua dituruti air.
+Makna peribahasa di atas adalah ...
+A. Keadaan yang sangat sulit
+B. Kehidupan sebaiknya seperti air mengalir
+C. Orang angkuh selalu tidak peduli kata orang lain
+D. Orang kaya juga yang senantiasa bertambah kekayaanya, orang miskin tetap miskin
+E. Kondisi yang biasa - biasa saja
+
+==================================================
+
+Soal 27:
+Bacaan untuk soal 27-29
+Ada suatu apartemen yang terdiri dari beberapa lantai yang jaraknya sama.
+Apartemen tersebut diurutkan sesuai dengan syarat di bawah ini :
+- Lantai U terletak persis di atas lantai X
+- Lantai W terletak persis di atas lantai Y
+- Lantai Z terletak empat lantai di bawah X
+- Lantai W terletak dua lantai di atas lantai Z
+- S dan V terpisah dua lantai
+Urutan lantai dari bawah ke atas adalah....
+A. Tidak ada kesimpulan yang benar
+B. U W Y Z X
+C. U X Z W Y
+D. W Y Z U X
+E. Z Y W X U
+
+==================================================
+
+Soal 28:
+Posisi S maupun V tidak berimpit dengan U, W, X, Y maupun Z. Mana yang
+tidak mungkin benar?
+A. S terletak satu lantai di atas U
+B. V terletak di bawah S tetapi di atas Z
+C. V terletak satu lantai di bawah U
+D. S terletak empat lantai di bawah U
+E. Tidak ada kesimpulan yang benar
+
+==================================================
+
+Soal 29:
+Sekarang kita tambahkan lantai A dan B yang terpisah oleh jarak satu
+setengah lantai dari jarak lantai yang biasa. Pernyataan mana yang
+berimplikasi bahwa salah satu (A dan B) berimpit dengan salah satu lantai
+yang lain?
+A. B terletak di pertengahan antara Y dan lantai lain persis di atas Y
+B. B terletak di pertengahan antara U dan lantai lain persis di atas U
+C. A terletak di pertengahan antara Y dan lantai persis di atas Y
+D. A terletak di pertengahan antara U dan lantai lain persis di bawah U
+E. Tidak ada kesimpulan yang benar
+
+==================================================
+
+Soal 30:
+Bacaan untuk soal 30-31
+Enam bilangan ganjil yang berurutan dilambangkan dengan enam huruf A,
+B, C, D, F dan G tetapi urutan huruf ini belum tentu menunjukkan urutan
+bilangan yang dimaksud. Terletak di pertengahan antara G dan D, B
+ditambah empat sama dengan F dan D dikurang enam sama dengan N.
+Mana yang pasti benar?
+A. A diantara C dan D
+B. Rata-rata dari G dan A adalah anggota dari himpunan enam bilangan tersebut
+C. Tidak ada kesimpulan yang benar
+D. Rata-rata F dan D adalah bilangan genap
+E. N adalah rata-rata dari B dan D
+
+==================================================
+
+Soal 31:
+Mana yang mungkin terletak di pertengahan antara B dan A?
+A. Tidak ada kesimpulan yang benar
+B. F
+C. C
+D. G
+E. D
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_242/soal_32_img1.png)
+A. B
+B. A
+C. E
+D. C
+E. D
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_242/soal_33_img1.png)
+A. A
+B. D
+C. B
+D. E
+E. C
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_242/soal_34_img1.png)
+A. C
+B. D
+C. B
+D. A
+E. E
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_242/soal_35_img1.png)
+A. C
+B. A
+C. B
+D. D
+E. E
+
+==================================================
+

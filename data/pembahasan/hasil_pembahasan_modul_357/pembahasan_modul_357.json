@@ -1,0 +1,444 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nLima orang siswa diminta berbaris ke belakang, dimulai\ndari siswa tertinggi ke terendah. Robi dan Boni memiliki\ntinggi yang sama dan lebih tinggi dari Ali. Akmal lebih\ntinggi dari Robi. Doni lebih tinggi dari Ali tetapi ia bukan\nsiswa yang tertinggi. Urutan yang mungkin adalah ...",
+        "pilihan": [
+            "Akmal, Robi, Boni, Doni, Ali",
+            "Akmal, Robi, Boni, Ali, Doni",
+            "Doni, Akmal, Robi, Boni, Ali",
+            "Doni, Akmal, Ali, Robi, Boni",
+            "Ali, Robi, Boni, Doni, Akmal"
+        ],
+        "jawaban_benar": "Akmal, Robi, Boni, Doni, Ali",
+        "pembahasan": "Notasi A>B menunjukkan A lebih tinggi dari B. Pernyataan \"Robi dan\n Boni memiliki tinggi yang sama dan lebih tinggi dari Ali\" dapat \ndinyatakan\nRobi = Boni\nRobi > Ali\nBoni > Ali\nPernyataan \"Akmal lebih tinggi dari Robi\" dapat dinyatakan\nAkmal > Robi\nPernyataan \"Doni lebih tinggi dari Ali tetapi dia bukan siswa yang\ntertinggi\" dapat dinyatakan\nDoni > Ali\nDoni bukan yang tertinggi\nDari pernyataan-pernyataan di atas maka jelas bahwa Akmal adalah\nsiswa tertinggi. Kemungkinannya adalah sebagai berikut\nAkmal > Robi/Boni > Doni > Ali\nAkmal > Doni > Robi/Boni > Ali"
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nGEMPA : RICHTER= ... : ...",
+        "pilihan": [
+            "Banjir : Air",
+            "Obat : Dosis",
+            "Suhu : Fahrenheit",
+            "Jarak : Dinamo",
+            "Ombak : Knot"
+        ],
+        "jawaban_benar": "Suhu : Fahrenheit",
+        "pembahasan": "Gempa diukur dengan satuan richter, sedangkan suhu diukur dengan satuan Fahrenheit.\nJadi, padanan hubungan kata (analogi) dari Gempa: Richter adalah Suhu: Fahrenheit."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nRATA : MULUS= ... : ...",
+        "pilihan": [
+            "Segitiga : Sisi-sisi",
+            "Bengkok : Liku",
+            "Kapak : Pengasah",
+            "Jari-jari : Lingkaran",
+            "Perahu : Tenggelam"
+        ],
+        "jawaban_benar": "Bengkok : Liku",
+        "pembahasan": "Rata dapat berarti mulus, sedangkan bengkok dapat berarti liku Jadi, padanan hubungan kata (analogi) dari Rata : Mulus adalah Bengkok: Liku."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nGANDUM: REBUS: BAKMI = ... : ... : ...",
+        "pilihan": [
+            "Kain : Baju : Jahit",
+            "Bolu : Gandum : Kukus",
+            "Beras: Goreng: Nasi",
+            "Pisang : Goreng : Criping",
+            "Beras: Arem-arem : Rebus"
+        ],
+        "jawaban_benar": "Pisang : Goreng : Criping",
+        "pembahasan": "Gandum jika direbus akan menjadi bakmi. Pisang jika digoreng akan menjadi criping."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nPenyakit jantung koroner (PJK) adalah kondisi ketika\npembuluh darah jantung (arteri koroner) tersumbat\noleh timbunan lemak jenuh. Bila lemak jenuh makin\nmenumpuk, maka arteri akan makin menyempit, dan\nmembuat aliran darah ke jantung berkurang. American\nDiabetic Association telah menetapkan batas aman\nkonsumsi lemak jenuh adalah sebesar 7% dari total\nkalori harian. Dalam artikata, seseorang seharusnya\ntidak mengkonsumsi lebih dari 13 gram lemak jenuh\nperhari. Berikut ini makanan atau minuman dengan\nkandungan lemak jenuhnya.\n(1) Susu sebanyak 200 gram dimana tiap 100 gram\nmengandung 0,6 gram lemak jenuh.\n(2) Sosis sebanyak yang mengandung lemak hewani\ndimana setiap 85 gram mengandung 12,5 gram lemak\njenuh.\n(3) Daging sapi mengandung 6 g lemak jenuh setiap\n100 gramnya.\n(4) Kacang-kacangan, mengandung 0,2 gram lemak\njenuh setiap 100 gramnya.\n(5) Telur, mengandung 3,3 gram lemak jenuh setiap 100\ngramnya.\nBerdasarkan teks diatas, berikut ini termasuk menu\nharian yang tidak berpotensi menyebabkan jantung\nkoroner adalah ...",
+        "pilihan": [
+            "Susu 200 gram, daging sapi 100 gram, dan telur 300 gram",
+            "Kacang 200 gram, daging sapi 200 gram, dan telur 100 gram",
+            "Sosis 85 gram dan susu 50 gram",
+            "Telur 400 gram dan susu 200 gram",
+            "Daging sapi 100 gram dan telur 300 gram"
+        ],
+        "jawaban_benar": "Sosis 85 gram dan susu 50 gram",
+        "pembahasan": "Menu harian yang tidak berpotensi menyebabkan jantung koroner\nadalah menu dengan total lemah jenuh kurang atau sama dengan 13\ngram. Jawaban yang tepat adalah sosis 85 gram dan susu 50 gram\nyang hanya mengandung 12,8 gram lemak jenuh. Sedangkan yang lain,\nkandungan lemak jenuhnya melebihi 13 gram."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nMembajau : ... = Gangguan : ...",
+        "pilihan": [
+            "Mengendarai, Keadaan",
+            "Memukul, Provokasi",
+            "Berkelahi, Menyakiti",
+            "Menghina, Memusuhi",
+            "Menampar, Menyakiti"
+        ],
+        "jawaban_benar": "Memukul, Provokasi",
+        "pembahasan": "Membajau semakna dengan Memukul seperti Gangguan sama dengan\nProvokasi."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nJika x = 1/4kodi pakaian dan y = 1/36 gross pakaian.\nKesimpulan yang tepat adalah ...",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "x + y = 0",
+            "Hubungan x dan y tidak bisa ditentukan"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "Satu kodi sama dengan 20 baju maka 1/4 kodi sama dengan 5 baju. Satu\ngross sama dengan 12 lusin. Satu lusin sama dengan 12 buah. Satu gross\nbaju sama dengan 144 baju. Sehingga 1/4 gross baju sama dengan 4\nbuah baju. Maka nilai x = 5 dan y = 4. Kesimpulan x > y"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\n25, 30, 37, 27, 32, 39, ..., ..., ..., 34, 39, 46",
+        "pilihan": [
+            "32, 48, 50",
+            "35, 42, 47",
+            "37, 42, 49",
+            "30, 35, 42",
+            "34, 48, 52"
+        ],
+        "jawaban_benar": "30, 35, 42",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_8_pemb_img1.png]"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_9_img1.png]",
+        "pilihan": [
+            "28"
+        ],
+        "jawaban_benar": "28",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_9_pemb_img1.png]"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nSuatu barang didiskon 30%, kemudian didiskon kembali 20% . Diskon totalnya\nadalah ….",
+        "pilihan": [
+            "50%",
+            "48%",
+            "47%",
+            "46%",
+            "44%"
+        ],
+        "jawaban_benar": "44%",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_10_pemb_img1.png]"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_11_img1.png]",
+        "pilihan": [
+            "218 1/5",
+            "217 4/5",
+            "216 2/5",
+            "215 1/5",
+            "215 3/5"
+        ],
+        "jawaban_benar": "217 4/5",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_11_pemb_img1.png]"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nVolume bangun ruang berikut adalah ...",
+        "pilihan": [
+            "110 m³",
+            "120 m³",
+            "124 m³",
+            "128 m³",
+            "130 m³"
+        ],
+        "jawaban_benar": "120 m³",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_12_pemb_img1.png]"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\n112, 254, 110, 250, 107, 245, ..., ..., ...",
+        "pilihan": [
+            "103, 239, 99",
+            "103, 249, 98",
+            "103, 239, 98",
+            "102, 239, 99",
+            "102, 240, 90"
+        ],
+        "jawaban_benar": "103, 239, 98",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_13_pemb_img1.png]"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nJumlah 3 bilangan genap berurutan adalah 78. Jika\nbilangan genap- bilangan genap tersebut membentuk\nbarisan aritmatika dengan beda negatif maka jumlah\n20 suku pertamanya adalah ...",
+        "pilihan": [
+            "170",
+            "180",
+            "140",
+            "120",
+            "200"
+        ],
+        "jawaban_benar": "180",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_14_pemb_img1.png]"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nRata-rata dari data x, 4, 5, 7, y adalah 6. Rata-rata\ndari data x+1, 6, 7, 9, y+8 adalah ….",
+        "pilihan": [
+            "9"
+        ],
+        "jawaban_benar": "9",
+        "pembahasan": "Rata-rata dari data x, 4, 5, 7, y adalah 6. Dapat dinyatakan dengan\npersamaan berikut.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_15_pemb_img1.png]"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nPerhatikan bak penampungan :\nJika ke dalam bak  dituangkan air 400 liter, maka\ntetinggian air dari dasar bak adalah ...",
+        "pilihan": [
+            "8 dm",
+            "6 dm",
+            "5 dm",
+            "4 dm",
+            "3 dm"
+        ],
+        "jawaban_benar": "8 dm",
+        "pembahasan": "Bak penampungan dibagi 2 bagian. Perhatikan gambar berikut :\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_16_pemb_img1.png]\nVolume bagian 1 = 10 dm x 8 dm x 2 dm\n= 160 dm³\n= 160 liter\nVolume air tersisa untuk bagian 2 adalah pengurangan volume air yang masuk dikurangi volume bagian 1,\nVolume sisa = 400 liter – 160 liter\n= 240 liter\nAir pada bagian 2 be\nrbentuk balok dengan p = 5 dm, l = 8 dm dan t = x\ndm\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_16_pemb_img2.png]"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nPerbandingan uang Dani dan Iwan adalah 3:7. Jika\njumlah uang mereka Rp250.000,00 maka selisihnya\nadalah ...",
+        "pilihan": [
+            "Rp 130.000,00",
+            "Rp 125.000,00",
+            "Rp 100.000,00",
+            "Rp 50.000,00",
+            "Rp 25.000,00"
+        ],
+        "jawaban_benar": "Rp 100.000,00",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_17_pemb_img1.png]"
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nE, F, G, S, F, G, H, T, G, H, I, U, … , …",
+        "pilihan": [
+            "H, I, J",
+            "F, G, H",
+            "H, J, K",
+            "J, K, L",
+            "I, J, K"
+        ],
+        "jawaban_benar": "H, I, J",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_18_pemb_img1.png]"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nPada suatu pabrik empat pekerja dapat membungkus\n40 sepatu dalam 2 jam. Agar 200 sepatu dalam selesai\ndalam waktu 8 jam, maka banyak tambahan pekerja\nadalah …",
+        "pilihan": [
+            "5 orang",
+            "4 orang",
+            "3 orang",
+            "2 orang",
+            "1 orang"
+        ],
+        "jawaban_benar": "1 orang",
+        "pembahasan": "4 pekerja >> 40 sepatu >> 2 jam\n4 pekerja >> 200 sepatu >> 10 jam\nx pekerja >> 200 sepatu >> 8 jam\nBanyak pekerja dan waktu memiliki hubungan berbalik nilai\n4/x = 8/10\n8x = 40\nx = 5\nMaka harus ada 5 pekerja. Sebelumnya sudah ada 4 pekerja, sehingga\ntambahan pekerja cukup 1 orang."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_20_img1.png]",
+        "pilihan": [
+            "8"
+        ],
+        "jawaban_benar": "8",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_20_pemb_img1.png]"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nGapuk >< ...",
+        "pilihan": [
+            "Kurus",
+            "Kering",
+            "Gemuk",
+            "Tinggi",
+            "Pendek"
+        ],
+        "jawaban_benar": "Kurus",
+        "pembahasan": "Arti kata Gapuk di KBBI adalah gendut atau tambun. Antonim yang tepat\nadalah kurus."
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSiswa : ... = ... : Tiket",
+        "pilihan": [
+            "Sekolah, Stasiun",
+            "Pintar, Sampai",
+            "Buku, Penumpang",
+            "Belajar, Bayar",
+            "Seragam, Petugas"
+        ],
+        "jawaban_benar": "Buku, Penumpang",
+        "pembahasan": "Siswa membawa Buku pelajaran sebagaimana Penumpang membawa\nTiket."
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nKonvers dari pernyataan jika semua orang membuang\nsampah sembarangan maka kota akan dipenuhi\ndengan banyak penyakit.",
+        "pilihan": [
+            "Jika ada orang yang tidak membuang sampah sembarangan maka kota tidak akan dipenuhi dengan banyak penyakit",
+            "Jika kota tidak dipenuhi dengan banyak penyakit maka ada orang yang tidak membuang sampah sembarangan",
+            "Jika kota dipenuhi dengan banyak penyakit maka semua orang buang sampah sembarangan",
+            "Jika semua orang membuang sampah sembarangan maka kota tidak akan dipenuhi dengan banyak penyakit",
+            "Jika ada orang yang tidak membuang sampah sembarangan maka kota akan dipenuhi dengan banyak penyakit"
+        ],
+        "jawaban_benar": "Jika kota dipenuhi dengan banyak penyakit maka semua orang buang sampah sembarangan",
+        "pembahasan": "Konvers dari P → Q adalah Q → P. Konvers dari pernyataan jika\nsemua orang membuang sampah sembarangan maka kota akan\ndipenuhi dengan banyak penyakit adalah jika kota dipenuhi dengan\nbanyak penyakit maka semua orang buang sampah sembarangan."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n31,5 : 1, 5 × 7 1/3 − (−16) = ...",
+        "pilihan": [
+            "160",
+            "165",
+            "170",
+            "163",
+            "180"
+        ],
+        "jawaban_benar": "170",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_24_pemb_img1.png]"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_25_img1.png]",
+        "pilihan": [
+            "x < y",
+            "y < x",
+            "x = y",
+            "x + y = 0",
+            "Hubungan x dan y tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_25_pemb_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_25_pemb_img2.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_25_pemb_img3.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_25_pemb_img4.png]"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nPerhatikan gambar berikut !\nJika alas bola dan tabung berimpit,serta atap bola dan\ntabung berimpit maka perbandingan volume bola dan\ntabung adalah ….",
+        "pilihan": [
+            "1 : 2",
+            "2 : 3",
+            "1 : 3",
+            "3 : 2",
+            "3 : 4"
+        ],
+        "jawaban_benar": "2 : 3",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_26_pemb_img1.png]"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nDua puluh pekerja dapat menyelesaikan proyek dalam\n5 hari. jika pekerjaan harus selesai dalam 2 hari,\nbanyak pekerja yang harus ada adalah ….",
+        "pilihan": [
+            "50 orang",
+            "51 orang",
+            "52 orang",
+            "26 orang",
+            "30 orang"
+        ],
+        "jawaban_benar": "50 orang",
+        "pembahasan": "20 pekerja >>> 5 hari\nX pekerja >>> 2 hari\nJenis perbandingannya adalah perbandingan berbalik nilai.\n20/x = 2/5\n2x = 100\nx = 50\nMaka harus ada 50 pekerja"
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_28_img1.png]",
+        "pilihan": [
+            "3"
+        ],
+        "jawaban_benar": "3",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_28_pemb_img1.png]"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nJika  9x + 18y = 12 maka nilai dar 6x + 12y = ...",
+        "pilihan": [
+            "8"
+        ],
+        "jawaban_benar": "8",
+        "pembahasan": "9x + 18y = 12    : 3\n3x + 6y = 4        × 2\n6x + 12y = 8"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nNilai p yang memenuhi persamaan\n3 (p − 2) + 4 (p − 2) + 5 (p − 2) = 24 adalah\n...",
+        "pilihan": [
+            "4"
+        ],
+        "jawaban_benar": "4",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_30_pemb_img1.png]"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nDalam kompetisi matematika, berlaku aturan setiap\nsoal yang benar dikali 5, soal salah dikurangi 4 dan\nkosong dikurangi 1. Budi berhasil menjawab 8 soal dari\n10 soal yang dikompetisikan. Budi mendapatkan nilai 31. Maka banyak soal yang dijawab benar olehnya adalah\n...",
+        "pilihan": [
+            "8 Soal",
+            "7 Soal",
+            "6 Soal",
+            "5 Soal",
+            "4 Soal"
+        ],
+        "jawaban_benar": "7 Soal",
+        "pembahasan": "Budi berhasil menjawab 8 soal dari 10 soal, artinya dua soal kosong. Jika\nB menunjukkan banyak benar dan S menunjukkan banyak salah, maka\nnilai Budi dapat dinyatakan dengan persamaan berikut\n5B − 4S − K = 29\n5B − 4S − 2 = 29\n5B − 4S = 31 ...(1)\nBanyak soal benar dan salah adalah 8 soal. Bisa dinyatakan dengan\npersamaan berikut.\nB + S = 8 ...(2)\nEliminasikan persamaan (1) dan (2)\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_31_pemb_img1.png]\nSehingga banyak soal yang dijawab benar oleh Budi adalah 7 Soal"
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_32_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_32_pemb_img1.png]"
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nCarilah gambar yang berbeda!",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_33_pemb_img1.png]\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_33_pemb_img2.png]"
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_34_pemb_img1.png]"
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_35_img1.png]",
+        "pilihan": [],
+        "jawaban_benar": "",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/kuydinas_scrapsoal/data/pembahasan/hasil_pembahasan_modul_357/gambar/soal_35_pemb_img1.png]\nPembahasan\n- Terjadi Perputaran/Rotasi sebesar 45° antara gambar 1 dengan gambar seterusnya\n- Terjadi Perubahan Jumlah baru pada objek, bertambah 1 garis pada setiap gambar\n- Bertambah 1 blok warna orange pada setiap bertambahnya\n1 garis pada gambar"
+    }
+]

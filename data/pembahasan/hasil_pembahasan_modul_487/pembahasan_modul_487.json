@@ -1,0 +1,468 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nTELUK : ... = ... : TANAH",
+        "pilihan": [
+            "Darat; Pantai",
+            "Samudra; Pesisir",
+            "Laut; Semenanjung",
+            "Daratan; Wilayah",
+            "Pantai; Samudra"
+        ],
+        "jawaban_benar": "Laut; Semenanjung",
+        "pembahasan": "TELUK : LAUT = SEMENANJUNG : TANAH\nTeluk adalah bagian laut yang menjorok ke daratan.\nSemenanjung adalah daratan atau tanah yang menjorok ke laut."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\n... : ATAS = RINGAN : ...",
+        "pilihan": [
+            "Jauh; Mudah",
+            "Naik; Gampang",
+            "Bawah; Berat",
+            "Dalam; Wajar",
+            "Tinggi; Beban"
+        ],
+        "jawaban_benar": "Bawah; Berat",
+        "pembahasan": "BAWAH : ATAS = RINGAN : BERAT\nLawan kata dari bawah adalah atas.\nLawan kata dari ringan adalah berat."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nDRAMA : ... = ... : RONDE",
+        "pilihan": [
+            "Adegan; Latihan",
+            "Babak; Tinju",
+            "Lakon; Atlet",
+            "Episode; Sesi",
+            "Sandiwara; Olahraga"
+        ],
+        "jawaban_benar": "Babak; Tinju",
+        "pembahasan": "DRAMA : BABAK = TINJU : RONDE\nDrama terbagi atas beberapa babak.\nPertandingan tinju terbagi atas beberapa ronde."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nJawablah pertanyaan berikut!",
+        "pilihan": [
+            "5,5",
+            "10,5",
+            "15",
+            "25,5"
+        ],
+        "jawaban_benar": "15",
+        "pembahasan": "Pada materi operasi hitung kita mengenal prioritas pengerjaan seperti harus mendahulukan operasi hitung dalam kurung – pangkat – kali/bagi – tambah/kurang.\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_487/gambar/soal_4_pemb_img1.png]"
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\n95,5% - 35,5% + 1,25 + 3 ¼ = ...",
+        "pilihan": [
+            "1,5",
+            "3,5",
+            "4,75",
+            "4,035",
+            "5,1"
+        ],
+        "jawaban_benar": "5,1",
+        "pembahasan": "Langsung saja:\n= 60% + 1,25 + 3,25 (hilangkan koma/ kalikan 100)\n= 60 + 125 + 325\n= 510                           (bagi kembali dengan 100)\n= 5,1"
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nJika 8^y = 512 dan x^x = 3.125 manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "x > y",
+            "x = y",
+            "x < y",
+            "x = xy",
+            "Hubungan x dan y tidak dapat ditentukan"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "Pada pengerjaan soal tersebut tentu saja yang terpenting adalah menghafal hasil bilangan pangkat.\n8^y = 512 ‖ X^x = 3.125\ny = 3       ‖ x = 5\nBerarti, x > y"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nJika X = ¼ dari 55 dan Y = ¾ dari 74, manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "X > Y",
+            "X = Y",
+            "X < Y",
+            "hubungan X dan Y tidak dapat ditentukan",
+            "3X = 2Y"
+        ],
+        "jawaban_benar": "X < Y",
+        "pembahasan": "X = ¼ x 5^5      ‖ Y = ¾ x 74\nX = ¼ x 3.125 ‖ Y = ¾ x 2.401\nX = 781,25      ‖ Y = 1.800,75\nberarti. X < Y"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nSanusi hendak merenovasi rumah adiknya yang akan dikerjakan oleh 25 pekerja dengan perkiraan waktu selesai dalam 60 hari. Jika pekerjaan tersebut dilakukan oleh 30 pekerja, perkirakan dalam berapa hari pekerjaan tersebut akan selesai?",
+        "pilihan": [
+            "57,5 hari",
+            "49 hari",
+            "47 hari",
+            "50 hari",
+            "55 hari"
+        ],
+        "jawaban_benar": "50 hari",
+        "pembahasan": "25 pekerja → 60 hari\n30 pekerja → ... hari\nTentunya hasilnya akan lebih kecil dari 60 hari, karena jumlah pekerjanya semakin banyak. Gunakan rumus perbandingan berbalik nilai!\nh/60 = 25/30\nh = 25/30 x 60\nh = 50 hari"
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nSemula biaya pengiriman paket (bukan makanan) dan paket (makanan) masing-masing per kilo Rp 6.000,00. Setelah memasuki masa pandemi, biaya pengiriman paket (bukan makanan) dan paket (makanan) naik masing-masing 12% dan 8%. Sedangkan kenaikan biaya pengiriman paket (bukan makanan) dan paket (makanan) adalah ... %",
+        "pilihan": [
+            "66.67",
+            "10"
+        ],
+        "jawaban_benar": "10",
+        "pembahasan": "Yang ditanyakan adalah total kenaikan harga barang (dalam persen), maka langsung saja tulis persentase kenaikan masing-masing barang dan jumlahkan.\nJumlah kenaikan = (12%) (6.000) + (8%) (6.000) = 720 + 480 = 1.200\n% kenaikan = 1.200/12.000 = 10%"
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nPopo memiliki barang dagangan berupa 4 gross peralatan makan dan 3 kodi pakaian anak-anak. Berapakah jumlah seluruh barang dagangan Popo tersebut?",
+        "pilihan": [
+            "536 buah",
+            "560 buah",
+            "636 buah",
+            "720 buah",
+            "627 buah"
+        ],
+        "jawaban_benar": "636 buah",
+        "pembahasan": "Soal ini menguji pemahaman Anda khususnya tentang istilah-istilah yang khas dalam materi aritmetika sosial, seperti gross, kodi, lusin, dsb.\nIngat! 1 gross = 144, 1 kodi = 20, maka:\n4 gross + 3 kodi = (4 x 144) + (3 x 20)\n= 576 + 60 = 636 buah"
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nSeorang penjual tisu keliling telah berhasil menjual 36 buah tisu dari 5 lusin tisu yang tersedia. Persentase tisu yang tersedia adalah ...",
+        "pilihan": [
+            "42,5%",
+            "55%",
+            "60%",
+            "40%",
+            "50,1%"
+        ],
+        "jawaban_benar": "40%",
+        "pembahasan": "Soal ini menguji pemahaman Anda khususnya tentang istilah-istilah yang khas dalam materi aritmetika sosial, seperti gross, kodi, lusin, dsb. pada soal ini divariasikan dengan materi persentase.\n5 lusin = 60 buah = 36/60×100%=60%\nTissue yang tersedia = 100% - 60% = 40%"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nNilai rata-rata TWK dalam sebuah kelas di Bimbel CPNS adalah 80. Jika ditambah seorang peserta belajar baru yang mendapat nilai 95 maka rata-rata TWK dalam kelas itu menjadi 81. Banyak peserta dalam kelas semula adalah ...",
+        "pilihan": [
+            "11 orang",
+            "14 orang",
+            "15 orang",
+            "25 orang",
+            "13 orang"
+        ],
+        "jawaban_benar": "14 orang",
+        "pembahasan": "[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_487/gambar/soal_12_pemb_img1.png]"
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nNilai rata-rata SKD 30 peserta seminar CPNS adalah 364. Jika seorang peserta yang terlambat mengikuti seminar mendapat nilai 385 tidak dimasukkan dalam perhitungan rata-rata nilai SKD tersebut maka nilai rata-rata menjadi ...",
+        "pilihan": [
+            "362",
+            "363,2",
+            "366",
+            "365",
+            "367,5"
+        ],
+        "jawaban_benar": "363,2",
+        "pembahasan": "Nilai total kelompok = 30 × 364 = 10.920\nNilai rata-rata 29 peserta =(10920-385)/29 = 363,2"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nKecepatan rata-rata mobil Saman pada 4 jam pertama adalah 20 km/jam dan tiap jam berikutnya bertambah 10 km/jam. Pada kecepatan 80 km/jam, mobil Saman mogok. Kecepatan rata-rata mobil Saman dari awal ia berangkat hingga mogok terjadi adalah ...",
+        "pilihan": [
+            "32 km/jam",
+            "33 km/jam",
+            "36 km/jam",
+            "41 km/jam",
+            "45 km/jam"
+        ],
+        "jawaban_benar": "41 km/jam",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nSaman dari Joglo ke toko baju yang jaraknya 280 km dengan kecepatan rata-rata 40 km/jam. Apabila ia pergi pukul 07.00, pukul berapakah sampai di toko baju?",
+        "pilihan": [
+            "13.00",
+            "14.00",
+            "15.00",
+            "16.00",
+            "17.00"
+        ],
+        "jawaban_benar": "14.00",
+        "pembahasan": "Diketahui:\nJarak = 280 km; kecepatan = 40 km/jam\nSehingga, waktu tempuh = 280/40\n= 7 jam\nJadi, jika waktu berangkatnya pukul 07.00 maka sampai di tujuan pukul 14.00."
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nMembaca jurnal adalah aktivitas yang pasti dilakukan Lala di hari Senin.\nHari Senin ini Lala banyak pekerjaan.",
+        "pilihan": [
+            "Hari Senin Lala tidak membaca jurnal",
+            "Hari Senin Lala ragu membaca jurnal",
+            "Lala membaca jurnal pada hari selain Senin",
+            "Lala tidak membaca jurnal jika banyak pekerjaan",
+            "Hari Senin ini Lala membaca jurnal walaupun banyak pekerjaan"
+        ],
+        "jawaban_benar": "Hari Senin ini Lala membaca jurnal walaupun banyak pekerjaan",
+        "pembahasan": "Membaca jurnal adalah aktivitas yang pasti dilakukan Lala di hari Senin.\nHari Senin ini Lala banyak pekerjaan\nArtinya, walaupun Lala banyak pekerjaan pada hari Senin ini Lala tetap membaca jurnal (karena Lala pasti membaca jurnal di hari Senin)."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nSemua mafia memiliki senjata api.\nHanzo seorang mafia.",
+        "pilihan": [
+            "Hanzo memiliki senjata api.",
+            "Hanzo tidak memiliki senjata api.",
+            "Bukan Hanzo yang memiliki senjata api",
+            "Kecuali Hanzo, mafia memiliki senjata api.",
+            "Hanya Hanzo, mafia yang memiliki senjata api."
+        ],
+        "jawaban_benar": "Hanzo memiliki senjata api.",
+        "pembahasan": "Semua mafia memiliki senjata api.\nHanzo seorang mafia.\nKarena Hanzo mafia, dan semua mafia memiliki senjata api, maka Hanzo pasti memiliki senjata api."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nSuatu keluarga mempunyai empat orang cucu yang sudah lulus SD.\nRoy lulus sesudah Joe lulus.\nNoe lulus sebelum Jason dan bersamaan dengan Roy.\nSiapakah yang menjadi lulus SD paling awal?",
+        "pilihan": [
+            "Roy",
+            "Noe",
+            "Joe",
+            "Jason",
+            "Roy dan Noe"
+        ],
+        "jawaban_benar": "Joe",
+        "pembahasan": "Dari soal dapat dibentuk susunan sebagai berikut:\nJoe – (Roy = Noe) - Jason Jadi, yang lulus SD paling awal adalah Joe."
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nCakar Merah adalah yang terpandai bermain catur.\nSangkar Biru kalah pandai daripada Dewi Kipas, tapi Dewi Kipas sama pandainya dengan Gatotkaca, Gatotkaca lebih pandai dari Sangkar Biru.",
+        "pilihan": [
+            "Dewi Kipas lebih pintar daripada Cakar Merah",
+            "Gatotkaca lebih pandai daripada Sangkar Biru",
+            "Cakar Merah sama pandainya dengan Sangkar Biru",
+            "Dewi Kipas yang paling pandai bersama Sangkar Biru",
+            "Tidak ada pilihan jawaban yang benar"
+        ],
+        "jawaban_benar": "Gatotkaca lebih pandai daripada Sangkar Biru",
+        "pembahasan": "Dari informasi pada soal:\nCakar Merah paling pandai\nDewi Kipas > Sangkar Biru\nDewi Kipas = Gatotkaca\nGatotkaca > Sangkar Biru\nSehingga, urutan dari yang terpandai adalah:\nCakar Merah – Gatotkaca/ Dewi Kipas – Sangkar Biru.\nSehingga, pernyataan yang sesuai adalah: Gatotkaca lebih pandai daripada Sangkar Biru."
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nPara musisi di Kota Batu suka mengadakan pertunjukan pentas seni.\nPara musisi di Kota Batu yang suka mengadakan pertunjukan pentas seni suka mengadakan bakti sosial.\nSebagian musisi di Kota Batu yang suka mengadakan bakti sosial tidak suka mengikuti kompetisi olahraga antar kota.",
+        "pilihan": [
+            "Sebagian musisi di Kota Batu suka mengikuti kompetisi olahraga antar kota.",
+            "Semua musisi di Kota Batu tidak suka mengikuti kompetisi olahraga antar kota tetapi suka mengadakan pertunjukan pentas seni.",
+            "Semua musisi di Kota Batu suka mengadakan pertunjukan pentas seni tetapi tidak suka mengadakan bakti sosial.",
+            "Sebagian musisi di Kota Batu suka mengadakan bakti sosial dan tidak suka mengadakan pertunjukan pentas seni.",
+            "Semua musisi di Kota Batu suka mengikuti kompetisi olahraga antar kota tetapi tidak suka mengadakan pertunjukan pentas seni."
+        ],
+        "jawaban_benar": "Sebagian musisi di Kota Batu suka mengikuti kompetisi olahraga antar kota.",
+        "pembahasan": "Para musisi di Kota Batu suka mengadakan pertunjukan pentas seni.\nPara musisi di Kota Batu yang suka mengadakan pertunjukan pentas seni suka mengadakan bakti sosial.\nSehingga, semua musisi di Kota Batu suka mengadakan bakti sosial.\nKarena sebagian musisi di Kota Batu yang suka mengadakan bakti sosial tidak suka mengikuti kompetisi olahraga antar kota, maka ada sebagian musisi di Kota Batu yang suka mengikuti kompetisi olahraga antar kota."
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\n23, 29, 25, 27, 27, ....,.....",
+        "pilihan": [
+            "29 dan 29",
+            "29 dan 25",
+            "25 dan 29",
+            "28 dan 29",
+            "29 dan 28"
+        ],
+        "jawaban_benar": "25 dan 29",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\n9, 3, 13, 7, 17, ....,....., 15",
+        "pilihan": [
+            "21 dan 11",
+            "21 dan 5",
+            "19 dan 5",
+            "11 dan 21",
+            "5 dan 19"
+        ],
+        "jawaban_benar": "11 dan 21",
+        "pembahasan": "Bilangan yang dicari kita misalkan adalah X dan Y\nX = 7 + 4 = 11\nY = 17 + 4 = 21"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\n37, 38, 76, ....., 154, 155, .....",
+        "pilihan": [
+            "86 dan 253",
+            "94 dan 235",
+            "127 dan 308",
+            "77 dan 310",
+            "79 dan 298"
+        ],
+        "jawaban_benar": "77 dan 310",
+        "pembahasan": "Bilangan selanjutnya kita misalkan X dan Y\nX = 76 + 1 = 77\nY = 155 x 2 = 310"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nD, E, F, E, F, G, F, G, H, G, H, I, ..., ..., ...",
+        "pilihan": [
+            "I, J, K",
+            "J, K, L",
+            "H, I, J",
+            "J, I, K",
+            "K, L, M"
+        ],
+        "jawaban_benar": "H, I, J",
+        "pembahasan": "D, E, F, E, F, G, F, G, H, G, H, I, .... , ..., ...\nPolanya adalah\n(D, E, F) (E, F, G), (F, G, H), (G, H, I)\nMaka, huruf selanjutnya adalah H, I, J\nPola variasi soal pada deret huruf biasanya tidak sebanyak pola variasi deret bilangan. Penting menghafal model/pola deret huruf."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nL, O, R, ..., ...",
+        "pilihan": [
+            "T dan Z",
+            "R dan W",
+            "P dan Y",
+            "U dan X",
+            "S dan V"
+        ],
+        "jawaban_benar": "U dan X",
+        "pembahasan": "L, O, R ... ...\nPolanya adalah\nL (mn) O (pq) R (st) U (vw) X (yz)\nJadi, huruf selanjutnya U dan X"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\n21, 29, 38, 48, 59, 71, X, Y",
+        "pilihan": [
+            "76 dan 86",
+            "89 dan 95",
+            "78 dan 83",
+            "87 dan 93",
+            "84 dan 98"
+        ],
+        "jawaban_benar": "84 dan 98",
+        "pembahasan": "X = 71 + 13 = 84\nY = 84 + 14 = 98"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nBacaan untuk soal nomor 57 - 60\nMinggu ini, mahasiswi yang mendapat giliran mengajar di kelas Bimbel adalah Indah, Arum, dan Lala, serta dua mahasiswa, yaitu Petra dan Danus. Harus ada tiga orang mahasiswa/i yang mengajar di Bimbel dari hari Senin sampai hari Jumat. Setiap orang mendapatkan giliran mengajar dengan jumlah yang sama. Dengan ketentuan sebagai berikut:\n• Hari Jumat, Indah dan Danus ada jam kuliah sehingga tidak dapat mengajar kelas\n• Setiap Senin dan Rabu, Arum harus bekerja paruh waktu.\n• Setiap hari harus ada mahasiswa (laki-laki) yang mengajar di kelas.\n• Lala ada jadwal di masjid untuk mengajar mengaji Alquran pada hari Senin dan Kamis.\nMahasiswa/i yang mengajar di Bimbel pada hari Selasa adalah ...",
+        "pilihan": [
+            "Danus, Lala, dan Indah",
+            "Petra, Indah dan Danus",
+            "Lala, Indah, dan Petra",
+            "Lala, Arum, dan Danus",
+            "Indah, Danus, dan Petra"
+        ],
+        "jawaban_benar": "Lala, Arum, dan Danus",
+        "pembahasan": "Analisis bacaan Perhatikan tabel berikut:\n[GAMBAR: /Users/bernaldonapitupulu/Documents/Kuydinas2025/scrapsoal/data/pembahasan/hasil_pembahasan_modul_487/gambar/soal_27_pemb_img1.png]\nHarus ada Lala dan Arum, sedangkan yang laki-laki boleh Petra atau Danus, tetapi tidak keduanya."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nIndah dan Arum mendapat giliran bekerja sama mengajar di kelas Bimbel pada hari ...",
+        "pilihan": [
+            "Senin",
+            "Selasa",
+            "Rabu",
+            "Kamis",
+            "Jumat"
+        ],
+        "jawaban_benar": "Kamis",
+        "pembahasan": "Kamis"
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nIndah dan Danus mendapat giliran bekerja sama mengajar di kelas Bimbel pada hari ...",
+        "pilihan": [
+            "Selasa dan Kamis",
+            "Senin dan Selasa",
+            "Senin dan Kamis",
+            "Rabu dan Jumat",
+            "Rabu dan Kamis"
+        ],
+        "jawaban_benar": "Senin dan Kamis",
+        "pembahasan": "Yang pasti bersamaan adalah hari Senin.\nHari yang lain adalah Rabu atau Kamis."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nDanus dan Petra tidak pernah mendapat giliran mengajar di bimbel bersama-sama, kecuali pada hari ...",
+        "pilihan": [
+            "Senin",
+            "Selasa",
+            "Rabu",
+            "Kamis",
+            "Jumat"
+        ],
+        "jawaban_benar": "Senin",
+        "pembahasan": "Senin"
+    },
+    {
+        "nomor": 31,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 31\nTidak dijawab\nPerhatikan gambar berikut.",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Pola gambar: Simbol bertukar posisi sesuai aturan dan secara bergantian. Simbol yang telah mencapai titik awal diganti dengan simbol baru."
+    },
+    {
+        "nomor": 32,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 32\nTidak dijawab\nPerhatikan gambar berikut.",
+        "pilihan": [
+            "A"
+        ],
+        "jawaban_benar": "A",
+        "pembahasan": "Dalam penyelesaian soal tersebut, Anda harus perhatikan pergerakan pola dari gambar 1 dan 2 terlebih dahulu (jangan langsung pecah fokus dengan melihat secara acak ke gambar lain). Jika masih bingung, baru lanjutkan ke gambar ketiga berikutnya.\nSimbol bergerak sesuai aturan. Simbol ketiga dari baris kedua menjadi simbol pertama di baris kedua pada gambar selanjutnya. Sedangkan dua simbol lain yang sejajar dengan simbol tersebut diambil dari baris pertama (paling kiri) dan ketiga (paling kanan)."
+    },
+    {
+        "nomor": 33,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 33\nTidak dijawab\nPilihlah gambar yang merupakan bayangan cerminan dari gambar atau kombinasi berikut ini.",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Rumus dasar pencerminan: efek yang ditimbulkan dari hasil pencerminan adalah efek horizontal terbalik dari objek. Hal tersebut berlaku umum untuk semua soal pencerminan."
+    },
+    {
+        "nomor": 34,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 34\nTidak dijawab\nCarilah gambar yang bukan kelompoknya",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Dalam penyelesaian soal tersebut, Anda harus perhatikan/ mencari kesamaan pola dari pilihan jawaban. Pada soal, pola yang terbentuk adalah pola gambar di tengah harus paling kecil. Bukan lebih besar atau sama dengan yang lain."
+    },
+    {
+        "nomor": 35,
+        "sub_modul": "TIU",
+        "pertanyaan": "Pertanyaan 35\nTidak dijawab\nCarilah kelanjutan gambar berikut:",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Perhatikan gambar pada setiap deret. Gambar pertama dan kedua cenderung memiliki pola yang berlawanan. Pada gambar ketiga pola yang cenderung berlawanan dihapus. Deret ketiga tidak memiliki pola yang berlawanan sehingga tidak dapat dikurangi polanya."
+    }
+]

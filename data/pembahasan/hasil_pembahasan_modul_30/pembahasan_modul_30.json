@@ -1,0 +1,410 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nREKOGNISI =  ________",
+        "pilihan": [
+            "Pengembalian.",
+            "Pemberitahuan.",
+            "Pengakuan.",
+            "Tuntutan.",
+            "Pengampunan."
+        ],
+        "jawaban_benar": "Pengakuan.",
+        "pembahasan": "Rekognisi = (1) hal atau keadaan yang diakui; pengakuan; (2) pengenalan; (3) penghargaan."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nSABAN =  ________",
+        "pilihan": [
+            "Jarang.",
+            "Sekali.",
+            "Tiap-tiap.",
+            "Pernah.",
+            "Selalu."
+        ],
+        "jawaban_benar": "Tiap-tiap.",
+        "pembahasan": "Saban = berasal dari bahasa daerah (Betawi) yang artinya tiap-tiap."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nANGOT =  ________",
+        "pilihan": [
+            "Atau.",
+            "Kumat.",
+            "Andai.",
+            "Kacau.",
+            "Sering."
+        ],
+        "jawaban_benar": "Kumat.",
+        "pembahasan": "Angot = berasal dari bahasa jawa yang artinya sakit lagi ataau kumat lagi; sakit gila; datang lagi penyakitnya."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nULTIMA > <  ________",
+        "pilihan": [
+            "Final.",
+            "Kesan.",
+            "Biasa.",
+            "Awal.",
+            "Pesan."
+        ],
+        "jawaban_benar": "Awal.",
+        "pembahasan": "Ultima = (bagian) akhir; final. Jadi, lawannya adalah awal."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nNAAS > <  ________",
+        "pilihan": [
+            "Untung.",
+            "Celaka.",
+            "Rugu.",
+            "Baik.",
+            "Bangkrut."
+        ],
+        "jawaban_benar": "Untung.",
+        "pembahasan": "Naas = sial, nasib (menimpanya dalam suatu kecelakaan). Jadi, lawannya adalah untung."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nCHAOS > <  ________",
+        "pilihan": [
+            "Hancur.",
+            "Labil.",
+            "Normal.",
+            "Kacau.",
+            "Berantakan."
+        ],
+        "jawaban_benar": "Normal.",
+        "pembahasan": "Chaos = abnormal, jadi lawannya adalah normal."
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nDANA : PENGGELAPAN =  ________ : ________",
+        "pilihan": [
+            "Uang : Brangkas.",
+            "Karya Tulis : Penjiplakan.",
+            "Deposito : Perbankan.",
+            "Cek : Asuransi.",
+            "Kanvas : Lukisan."
+        ],
+        "jawaban_benar": "Karya Tulis : Penjiplakan.",
+        "pembahasan": "Dana digelapkan; karya tulis dijiplak."
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nKARDIOLOGI : JANTUNG =  ________ : ________",
+        "pilihan": [
+            "Phatologi : Peta.",
+            "Farmakologi : Obat-obatan.",
+            "Akuntansi : Perusahaan.",
+            "Biologi : Ilmu.",
+            "Matematika : Kalkulator."
+        ],
+        "jawaban_benar": "Farmakologi : Obat-obatan.",
+        "pembahasan": "Kardiologi mempelajari jantung, farmakologi mempelajari obat-obatan."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nNELAYAN : PERAHU =  ________ : ________",
+        "pilihan": [
+            "Koki : Oven.",
+            "Penulis : Pena.",
+            "Fotografer : Kamera.",
+            "Petani : Traktor.",
+            "Menjahit : Baju."
+        ],
+        "jawaban_benar": "Petani : Traktor.",
+        "pembahasan": "Nelayan menggunakan perahu, petani menggunakan traktor."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nHUMOR : KOMEDIAN =  ________ : ________",
+        "pilihan": [
+            "Memori : Amnesia.",
+            "Heroisme : Epik.",
+            "Klimaks : Drama.",
+            "Perceraian : Pernikahan.",
+            "Surat : Undangan."
+        ],
+        "jawaban_benar": "Heroisme : Epik.",
+        "pembahasan": "Humor dihasilkan komedian, heroisme dihasilkan epik."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\nDion membeli 20 kg beras jenis A seharga Rp 6.000,00/kg dan 30 kg beras jenis B dengan harga Rp. 4.000,00/kg. Kedua jenis beras tesebut kemudian dicampur. Agar Dion mendapat untung 4%, maka beras terebut dijual seharga ... /kg.",
+        "pilihan": [
+            "Rp 4.992.",
+            "Rp 5.720.",
+            "Rp 5.992.",
+            "Rp 6.720.",
+            "Rp 6.992."
+        ],
+        "jawaban_benar": "Rp 4.992.",
+        "pembahasan": "Harga impas\n= [(20 × 6000) + (30 × 4.000)] : [20 + 30]\n= [120.000 + 120.000] : 50\n= Rp 4.800/kg\nHarga jual dengan laba 4%\n= 4.800 × (104/100) = Rp 4.992,00"
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\nPada tahun 2010 sebuah pabrik gula memproduksi gula pasir sebanyak ¾ ton. Jika kebijakan produksi untuk tahun 2011 dan 2012 ditetapkan kenaikannya sebesar 125% dari produksi tahun 2010, berapa ton jumlah produksi gula pasir pabrik terebut dalam tiga tahun terakhir ini ?",
+        "pilihan": [
+            "A.\tTak dapat ditentukan.",
+            "196,48.",
+            "282,94.",
+            "479,42.",
+            "480,57."
+        ],
+        "jawaban_benar": "A.\tTak dapat ditentukan.",
+        "pembahasan": "Besarnya produksi dalam 3 tahun terakhir tidak dapat ditentukan karena produksi gula pada tahun 2012 tidak diketahui."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nUkuran sebuah kota pada suatu peta adalah panjang 12 cm dan lebar 9 cm. Apabila peta tersebut mempunyai skala 1 : 200, luas sebenarnya dari kota tersebut adalah ... m2.",
+        "pilihan": [
+            "108.",
+            "216.",
+            "420.",
+            "432.",
+            "430."
+        ],
+        "jawaban_benar": "432.",
+        "pembahasan": "Luas = (12 × 200) cm × (9 × 200) cm\n= 2400 cm × 1800 cm\n= 4320000 cm2\n= 432 cm2"
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nSebuah mesin dapat memotong sejenis kayu dalam 6 menit dan seorang tukang kayu dengan menggunakan gergaji tangan dapat melakukan pekerjaan tersebut dalam 18 menit. Setelah 4 menit, listrik padam dan kayu terebut harus dipotong dengan gergaji tangan. Berapa menit yang diperlukan tukang kayu untuk menyelesaikan pemotongan kayu tersebut ?",
+        "pilihan": [
+            "2 Menit.",
+            "6 Menit.",
+            "12 Menit.",
+            "14 Menit.",
+            "15 Menit"
+        ],
+        "jawaban_benar": "6 Menit.",
+        "pembahasan": "Kayu yang telah terpotong menggunakan mesin selama 4 menit = 4/6=2/3 bagian.\nKayu yang belum terpotong1 -  2/3=1/3 bagian.\nJadi, waktu yang dibutuhkan untuk memotong 1/3 bagian kayu dengan menggunakan gergaji tangan = 1/3 × 18 menit = 6 menit."
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nJika x adalah 27,8% dari 45 dan y adalah 45%b dari 27,8 maka ...",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "Hubungan x dan y tidak dapat ditentukan",
+            "x ≠ y"
+        ],
+        "jawaban_benar": "x = y",
+        "pembahasan": "x : y\n27,8/100  ×45∶  45/100×27,8\nx = y"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nJika p sembarang bilangan, {x = 3p2+5} dan {y = 2p2 + 4}, manakah pernyataan berikut yang benar?",
+        "pilihan": [
+            "x > y",
+            "x < y",
+            "x = y",
+            "hubungan x dan y tidak dapat ditentukan",
+            "x ≠ y"
+        ],
+        "jawaban_benar": "x > y",
+        "pembahasan": "x = 3p2 + 5\t\t        ║y = 2p2 + 4\n         = (2p2 + 4) + (p2 + 1)\t║\n         = y + (p2 +1)\t\t║ Jadi, x > y"
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nNilai mata kuliah Tono pada semester I yang lalu adalah: Agama = 80, Pengantar Akuntansi = 85, Bahasa Indonesia = 70, Matematika Ekonomi = 90, Bahasa Inggris = 70, Pancasila = 80, dan Pengantar Perpajakan = 70. Dari data tersebut, berapakah median dari nilai yang diperoleh Tono pada semester I yang lalu?",
+        "pilihan": [
+            "70.",
+            "78.",
+            "80.",
+            "90.",
+            "85."
+        ],
+        "jawaban_benar": "80.",
+        "pembahasan": "70, 70, 70, 80, 80, 85, 90\nMedian = 80 (nilai tengah)."
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nDi dalam suatu kelas terdapat 30 siswa dan nilai rata-rata tes matematika adalah p. Pak guru matematika mereka menaikkan nilai setiap siswa sebesar 10. Tentukan rata-rata nilai baru siswa tersebut !",
+        "pilihan": [
+            "p + 300.",
+            "10p.",
+            "p + 10.",
+            "p + 30.",
+            "30p."
+        ],
+        "jawaban_benar": "10p.",
+        "pembahasan": "(a+b+c+⋯)/30=p\n(10a+10b+10c+⋯)/30=10(a+b+c)/30=10p"
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nAditya dapat mengepak buku sebanyak 112 buah sehari, sedangkan pembantunya hanya dapat mengepak dengan kecepatan ¼ kecepatan Aditya. Berapa lamakah waktu yang diperlukan mereka berdua untuk mengepak 560 buku, jika masing-masing bekerja sendiri- sendiri pada hari-hari yang berbeda ?",
+        "pilihan": [
+            "½ hari.",
+            "2 hari.",
+            "4 hari.",
+            "8 hari.",
+            "6 hari."
+        ],
+        "jawaban_benar": "4 hari.",
+        "pembahasan": "560∶ [12+112/4]\n560∶140=4 hari"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nSebuah mobil dapat menempuh 20 mil per galon bensin jika berjalan dengan kecepatan 50 mil/jam. Dengan kecepatan 60 mil/jam, jarak yang dapat ditempuh berkurang 12%. Berapakah jarak yang dapat ditempuh oleh mobil tersebut dengan 11 galon bensin dan berkecepatan 60 mil/jam?",
+        "pilihan": [
+            "195,1 mil.",
+            "200 mil.",
+            "204,3 mil.",
+            "193,6 mil.",
+            "196 mil."
+        ],
+        "jawaban_benar": "193,6 mil.",
+        "pembahasan": "Dengan kecepatan 50 mil/jam dapat menempuh 20 mil/galon bensin.\nDengan kecepatan 60 mil/jam, jarak yang dapat ditempuh berkurang 12%, menjadi:\n= 20 mil – 12% ᵡ 20 mil\n= 20 mil – 2,4 mil\n= 17,6 mil\nJadi, terdapat 11 galon bensin, maka jarak yang ditempuh = 11 ᵡ 17,6 mil = 193,6 mil"
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nDari 100 siswa, 39 gemar olahraga. Diantara penggemar olahraga, ada 11 orang siswa juga gemar bermain musik. Jika ada 32 siswa tidak gemar olahraga maupun musik, maka banyaknya penggemar musik dari 100 siswa itu adalah ...",
+        "pilihan": [
+            "29.",
+            "39.",
+            "40.",
+            "71.",
+            "45."
+        ],
+        "jawaban_benar": "40.",
+        "pembahasan": "n(S) = 100\nn(O) = 39\nn(O ∩ m) = 11\nn(O ∪  m) = 32\nn(m)?\nn(S) - n(O ∪  m) = (O) + n(m) - n(O ∩ m)\n100 – 32 = 39 + n(m) – 11\n100 – 32 = 28 + n(m)\n68 = 28 + n(m)\nn(m) = 68 – 28 = 40"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nDari 60 orang anak, diketahui bahwa 37 orang diantaranya menyukai sayuran, 19 orang menyukai ikan, dan x orang tidak menyukai keduanya. Berapa orang anak yang menyukai sayuran dan ikan ?",
+        "pilihan": [
+            "x + 4",
+            "x - 4",
+            "x - 56",
+            "x + 56",
+            "x + 65"
+        ],
+        "jawaban_benar": "x - 4",
+        "pembahasan": "n(S) = 60\nn(A) = 37\nn(B) = 19\t\nn(A ∪  B) = n(A) + n(B) – n(A ∩ B)\n60 – x = 37 + 19 - n(A ∩ B)\nn(A ∩ B) = x + 56 – 60 = x – 4"
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\n8, 24, 22, 56, 18,  ____",
+        "pilihan": [
+            "122.",
+            "124.",
+            "126.",
+            "128.",
+            "130."
+        ],
+        "jawaban_benar": "124.",
+        "pembahasan": "8    24    22    56    28   124\n \n      +16    -2      +34     -38     +106\n \n-18        +36    -72     +144\n\nPola : deret bersusun 3 dengan susunan nomor satu dengan mengalikan (-2)."
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\nD, E, E, F, F, G, …",
+        "pilihan": [
+            "H dan I .",
+            "G dan G.",
+            "G dan H.",
+            "G dan I.",
+            "H dan H."
+        ],
+        "jawaban_benar": "G dan H.",
+        "pembahasan": "D   E   E     F   F     G    G     H    H\n4    5    5     6    6     7     7      8     8\n      Sama     sama    sama       sama\n \n    +1 \t\t+1\t    +1\nPola 2 tingkat dapat diselesaikan seperti gambar di atas."
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nSemua menu makanan restoran B diolah dari bahan organik. Semua menu dengan bahan organik diolah dengan cara tidak digoreng.",
+        "pilihan": [
+            "Sebagian menu makanan diolah tanpa menggunakan minyak (tidak digoreng).",
+            "Semua menu yang diolah dengan cara digoreng bukan menu restran B.",
+            "Semua menu restoran B diolah tanpa digoreng dengan minyak.",
+            "Sebagian menu restoran B dengan bahan organic diolah dengan cara digoreng.",
+            "Semua menu diolah dengan cara digoreng menggunakan bahan organic."
+        ],
+        "jawaban_benar": "Semua menu restoran B diolah tanpa digoreng dengan minyak.",
+        "pembahasan": "Dengan hukum silogisme, maka kesimpulannya adalah : sebagian menu restoran B dengan bahan organic diolah dengan cara tidak digoreng. Artinya sebagian lagi digoreng."
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nJika Tono lulus kurang dari satu atau sama dengan 4 tahun, maka ia akan diterima berkerja sebagai karyawan di perusahaan A.\nJika Tono sudah bekerja di perusahaan A, maka ayahnya akan membelikan Tono sebuah sepeda motor.\nTono tidak mendapat sepeda motor dari ayahnya.",
+        "pilihan": [
+            "Tono menyelesaikan studinya kurang dari 4 tahun.",
+            "Tono menyelesaikan studinya lebih dari 4 tahun",
+            "Tono bekerja di perusahaan A.",
+            "Tono menyelesaikan studinya tepat 4 tahun.",
+            "Tono bekerja dengan sepeda motor."
+        ],
+        "jawaban_benar": "Tono menyelesaikan studinya lebih dari 4 tahun",
+        "pembahasan": "Kuliah kurang dari 4 tahun → karyawan A\nKaryawan A → dibelikan motor.\nTernyata Tono tidak dibelikan motor. Berarti Tono bukan karyawan A dan kuliah lebih dari 4."
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nEnam orang siswa yaitu Amir, Kiki, Shafira, Ali, Wahyu, Dan Rara ingin mengikuti latihan olahraga. Jadwal olahraga yang tersedia: basket dan karate hari Selasa, badminton dan renang hari Kamis, baseball dan tenis meja hari Jumat.\n\n\tSetiap anak hanya bisa mengikuti paling banyak satu jenis olehraga dalam satu hari.\n\tAmir dan Shafira diwajibkan orang tua mereka untuk mengikuti olahraga renang.\n\tRara dan Kiki telah bersepakat untuk memilih olahraga badminton.\n\tHanya Rara dan Wahyu yang tidak mengikuti olah raga basket.\n\tRara tidak memilih tenis meja.\n\nOlahraga apa yang bisa dilakukan oleh Rara dan Shafira secara bersamaan?",
+        "pilihan": [
+            "Basket.",
+            "Badminton.",
+            "Renang.",
+            "Baseball.",
+            "Karate."
+        ],
+        "jawaban_benar": "Baseball.",
+        "pembahasan": "Maka jawabannya adalah Baseball."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nGambar selanjutnya adalah …",
+        "pilihan": [
+            "B"
+        ],
+        "jawaban_benar": "B",
+        "pembahasan": "Kotak yang di blok adalah pasangan yang menghubungkan secara vertikal, horizontal, diagonal, dan semi diagonal. Jadi, bila dihubungkan seluruh pasangan akan menghasilkan sisi kotak yang diblok."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nGambar selanjutnya adalah …",
+        "pilihan": [
+            "D"
+        ],
+        "jawaban_benar": "D",
+        "pembahasan": "Pada gambar terdapat 3 buah segilima yang hilang satu sisinya. Perputaran masing-masing segilima adalah 72o. Segilima terluar berputar searah jarum jam. Segilima tengah dan paling dalam berputar berlawanan dengan arah jarum jam."
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nGambar selanjutnya adalah …",
+        "pilihan": [
+            "C"
+        ],
+        "jawaban_benar": "C",
+        "pembahasan": "Masing-masing gambar bergeser searah jarum jam sebanyak 2 segitiga."
+    }
+]

@@ -1,0 +1,1000 @@
+Soal 1:
+Istilah untuk Program komputer yang bukan Free Software dan tidak Open Source, sehingga tidak dapat dipelajari, diubah atau diperbaiki, dan disebarluaskan tanpa izin kepada pemilik hak ciptanya disebut dengan istilah ...
+A. Root
+B. Open source
+C. Proprietary
+D. Reboot
+E. Shareware
+
+==================================================
+
+Soal 2:
+Perangkat keras yang berfungsi membaca maupun menulis data dari kepingan CD/DVD adalah …
+A. SSD
+B. Powersupply
+C. Optical Drive
+D. VGA Card
+E. RAM
+
+==================================================
+
+Soal 3:
+Gabungan dari beberapa kata berupa perintah-perintah terdiri atas banyak baris dan dimengerti oleh komputer merupakan definisi dari...
+A. Sistem Operasi
+B. Software utility
+C. Spreadsheet
+D. Word Processing
+E. Bahasa pemrograman
+
+==================================================
+
+Soal 4:
+Posisi jarak layar monitor ke mata sebaiknya adalah …
+A. 50-100 cm
+B. 30-50 cm
+C. 10-20 cm
+D. 50-100 m
+E. 40-80 cm
+
+==================================================
+
+Soal 5:
+Sebagai piranti antarmuka ke CPU dan memori melalui bus system dan sebagaimana piranti antarmuka dengan peralatan peripheral lainnya menggunakan link data tertentu. Penjelasan tersebut merupakan fungsi utama dari…
+A. Motherboard
+B. Anti virus
+C. Modul I/O
+D. Keyboard
+E. Monitor
+
+==================================================
+
+Soal 6:
+Proses mengubah gambar biasa menjadi gambar digital disebut…
+A. Proyeksi
+B. Browsing
+C. Searching
+D. Scanning
+E. Preview
+
+==================================================
+
+Soal 7:
+Pada saat anda mengaktifkan MySQL pada Xampp, kita hanya perlu mengklik Start pada action MySQL dan Apache. Selanjutnya adalah memilih pilihan shell yang ada dibagian kanan XAMPP. Sebelum menggunakannya kita perlu mengetikkan "mysql-u root-p" pada halaman MySQL, tujuannya adalah...
+A. untuk menginputkan data dan sintaks SQL
+B. untuk memulai membuat basis data
+C. perintah awal dalam MySQL
+D. mengetahui user yang menggunakan Xampp
+E. untuk mengaktifkan MySQL
+
+==================================================
+
+Soal 8:
+Tag yang berfungsi untuk membuat garis horizontal yang memaksa teks berikutnya ditampilkan pada baris selanjutnya adalah...
+A
+B
+C
+D
+E
+
+==================================================
+
+Soal 9:
+Konsep object oriented programming pada bahasa pemrograman adalah...
+A. enkapsulasi, inheritance, interpreter
+B. enkapsulasi, asssembler, polimorfisme
+C. enkapsulasi, inheritance, modular
+D. enkapsulasi, inheritance, polimorfisme
+E. enkapsulasi, powerfull, polimorfisme
+
+==================================================
+
+Soal 10:
+Proses instalasi software dikatakan berhasil apabila…
+A. Instalasi sesuai dengan buku manual
+B. Prosedur instalasi diikuti dari awal hingga akhir
+C. Dengan muncul tampilan atau menu awal software yang bersangkutan
+D. Pertama ditandai dengan menu display
+E. Semua software yang tercakup didalamnya sudah dapat berjalan dengan baik
+
+==================================================
+
+Soal 11:
+Domain go.id berfungsi untuk mengelompokkan website untuk…
+A. Organisasi Kemasyarakatan
+B. Sekolah
+C. Perguruan Tinggi
+D. Pemerintahan Indonesia
+E. Militer
+
+==================================================
+
+Soal 12:
+Operator OR akan menghasilkan false jika...
+A. Bernilai konstanta
+B. Salah satu bernilai salah
+C. Keduanya bernilai salah
+D. Salah satu bernilai benar
+E. Keduanya bernilai benar
+
+==================================================
+
+Soal 13:
+Sebuah protokol yang berguna untuk mengirim data pada jaringan publik adalah…
+A. ATM
+B. X.25
+C. Frame Relay
+D. Point to point
+E. ISDN
+
+==================================================
+
+Soal 14:
+Perangkat komputer yang dijadikan media atau tempat memasang prosesor, memori, dan perangkat keras lain adalah…
+A. Power Supply
+B. Processor
+C. Casing
+D. Harrdisk
+E. Motherboard
+
+==================================================
+
+Soal 15:
+Kebijakan keamanan yang ditentukan untuk melakukan perlindungan terhadap sistem keamanan…
+A. Kriptografi
+B. Enkripsi
+C. Security Policy
+D. Firewall
+E. IDS
+
+==================================================
+
+Soal 16:
+Nama penemu kata algoritma yang berasal dari negara Uzbekistan adalah...
+A. Einsten
+B. Aristoteles
+C. Al Gibran
+D. Galileo
+E. Al Khawarizmi
+
+==================================================
+
+Soal 17:
+Zigbee dan infra red merupakan contoh penerapan teknologi nirkabel dari...
+A. Nirkabel jaringan
+B. Nirkabel Router
+C. WLAN
+D. WPAN
+E. WWAN
+
+==================================================
+
+Soal 18:
+Fungsi semicolon ";" pada suatu pemrograman adalah...
+A. Perintah untuk mengulang suatu pernyataan
+B. Menegaskan suatu pernyataan
+C. Mengawali sebuah pernyataan
+D. Menandai sebuah pernyataan
+E. Mengakhiri sebuah pernyataan
+
+==================================================
+
+Soal 19:
+Pembagian ruang dalam sebuah hardisk diistilahkan dengan...
+A. Sistem Operasi
+B. Divisi
+C. File System
+D. Partisi
+E. Kernel
+
+==================================================
+
+Soal 20:
+Cara yang paling benar untuk membersihkan monitor adalah…
+A. Mengelap monitor denga kain yang sudah diberi alkohol
+B. Menggunakan kuas dan kemoceng
+C. Membersihkan casing monitor dengan air keras
+D. Menggelap monitor dengan kain yang sudah diberi cairan pembersih
+E. Menyeprotkan cairan pembersih ke monitor lalu di lap
+
+==================================================
+
+Soal 21:
+Rangkaian tata kerja yang berkaitan satu sama lain sehingga menunjukan adanya suatu urutan tahap demi tahap serta jalan yang harus ditempuh dalam rangka melaksanakan suatu bidang pekerjaan merupakan pengertian dari…
+A. Prosedur Kerja
+B. Kesehatan
+C. Perlindungan Diri
+D. Keamanan
+E. Keselamatan
+
+==================================================
+
+Soal 22:
+Amerika memiliki banyak regulasi Cyber Law, diantaranya adalah sebagai berikut ....
+A. Fair Credit Reporting Act
+B. Computer Fraud and Abuse Act
+C. IPR Act
+D. Privacy Protection Act
+E. Right to Financial Privacy Act
+
+==================================================
+
+Soal 23:
+Untuk menguji jalanya program dan mencari kesalahan yang terdapat dalam program dapat mengggunakan...
+A. Library
+B. Linker
+C. Debugger
+D. Editor
+E. Compiler
+
+==================================================
+
+Soal 24:
+Software yang berfungsi sebagai jembatan komunikasi antara komputer dengan device tertentu sehingga kerja sistem dapat maksimal adalah..
+A. Linux
+B. Driver
+C. Game
+D. Office
+E. Windows
+
+==================================================
+
+Soal 25:
+Bentuk belah ketupat bermanfaat dalam pemilihan proses berdasarkan kondisi yang ada pada flowchart yang diberi nama...
+A. Input-output
+B. Process
+C. Display
+D. Terminator
+E. Decision
+
+==================================================
+
+Soal 26:
+Jenis data yang dapat digunakan oleh komputer untuk memenuhi kebutuhan dalam membuat program komputer disebut....
+A. Linier
+B. Universal
+C. Output
+D. Serial
+E. Tipe Data
+
+==================================================
+
+Soal 27:
+Metode atau cara membaca program dengan cara membaca kode program satu per satu baris dan dieksekusi satu demi satu disebut...
+A. Executable
+B. Compiler
+C. Compilator
+D. Program Language
+E. Interpreter
+
+==================================================
+
+Soal 28:
+Tag yang berfungsi untuk membuat teks tebal adalah...
+A
+B
+C
+D
+E
+
+==================================================
+
+Soal 29:
+Serangan pada keamanan jaringan dengan membanjiri lalu lintas jaringan adalah …
+A. Traffic Flooding
+B. Deface
+C. SQL Injection
+D. Request Flooding
+E. DoS (Denial of Service)
+
+==================================================
+
+Soal 30:
+Perhatikan petikan baris kode berikut: Program Luas_Persegi Panjang Deklarasi Luas :integer Panjang : integer Lebar : integer Deskripsi read(panjang,lebar) Luas= panjang *lebar write(Luas) end Baris kode diatas menggunakan cara penulisan secara….
+A. Pseudocode
+B. Alur
+C. Algoritma
+D. Flowchart
+E. Diagram
+
+==================================================
+
+Soal 31:
+Hubungan antara 2 komputer atau lebih yang terhubung dengan media transmisi kabel atau tanpa kabel (wireless) disebut...
+A. Routing
+B. Wifi
+C. Topologi
+D. Protokol
+E. Jaringan
+
+==================================================
+
+Soal 32:
+Slot SATA pada motherboard digunakan untuk menghubungkan …
+A. Processor
+B. Floppy disk
+C. Harddisk
+D. RAM
+E. USB
+
+==================================================
+
+Soal 33:
+Skema desain pembangunan sebuah jaringan komputer dikenal dengan istilah...
+A. Skalabilitas
+B. Topologi
+C. Tipe
+D. Media Transmisi
+E. Geografi
+
+==================================================
+
+Soal 34:
+Jaringan milik pribadi di dalam sebuah gedung atau kampus yang berukuran sampai beberapa kilometer disebut dengan istilah .....
+A. Internet
+B. Wide Area Network (WAN)
+C. Metropolitan Area Network (MAN)
+D. Local Area Network (LAN)
+E. Wifi
+
+==================================================
+
+Soal 35:
+Kemampuan sistem operasi untuk menjalankan berbagai perintah dalam waktu bersamaan disebut...
+A. Multiuser
+B. Pipelining
+C. Multitasking
+D. Management
+E. Threading
+
+==================================================
+
+Soal 36:
+Yang dimaksud dengan false pada kondisi suatu sintaks program adalah...
+A. Kondisi tidak terpenuhi
+B. Tidak dapat mengeksekusi
+C. Status sedang mengeksekusi
+D. Kondisi terpenuhi
+E. Mengulang perintah
+
+==================================================
+
+Soal 37:
+Teks perintah untuk memeriksa IP address yang kita miliki di Windows adalah...
+A. Config
+B. Ipconfig
+C. Read Config
+D. Ifconfig
+E. Setconfig
+
+==================================================
+
+Soal 38:
+Bagian dari komponen komputer yang berfungsi sebagai media keluaran atau menampilkan hasil yang diproses disebut ...
+A. Projector
+B. Storage
+C. Processor
+D. Hardware
+E. Input hardware
+
+==================================================
+
+Soal 39:
+Software database merupakan perangkat lunak (aplikasi) khusus untuk membuat basis data. Aplikasi tersebut beragam jenisnya sesuai dengan sistem manajemen databasenya. Salah satu contoh aplikasi tersebut adalah…
+A. Microsoft Power Point
+B. Microsoft Word
+C. Corel Draw
+D. Microsoft Excel
+E. Oracle
+
+==================================================
+
+Soal 40:
+Urutan langkah-langkah logis untuk menyelesaikan masalah yang disusun secara sistematis merupakan deskripsi dari...
+A. Variabel
+B. Flowchart
+C. Algoritma
+D. Tipe data
+E. Konstanta
+
+==================================================
+
+Soal 41:
+Flowchart memiliki nama lain, yaitu...
+A. Bagan Alir
+B. Tree
+C. Alur
+D. Algoritma
+E. Diagram
+
+==================================================
+
+Soal 42:
+Yang dimaksud dengan true pada kondisi suatu sintaks program adalah...
+A. Kondisi terpenuhi
+B. Kondisi tidak terpenuhi
+C. Mengulang perintah
+D. Tidak dapat mengeksekusi
+E. Status sedang mengeksekusi
+
+==================================================
+
+Soal 43:
+Sistem yang bertugas mengatur semua perangkat lunak dan keras dalam sebuah komputer sehingga dapat digunakan oleh user disebut sebagai...
+A. Sistem Manajemen
+B. Sistem Operasi
+C. Sistem Komputer
+D. Sistem Operasional
+E. Sistem Pengaturan
+
+==================================================
+
+Soal 44:
+Terdapat sebuah algoritma untuk mengirim email yang dimulai dari mempersiapkan data yang akan dikirim sampai dengan tahap akhir yaitu email terkirim pada penerima. Berdasarkan algoritma diatas, yang termasuk komponen input adalah...
+A. Alamat email penerima
+B. Laporan penerimaan email bahwa email terkirim
+C. Proses pengiriman email
+D. Alamat email pengirim
+E. File yang akan dikirim
+
+==================================================
+
+Soal 45:
+Pimpinan unit yang bertanggung jawab atas keseluruhan proses berlangsungnya pekerjaan komputer, yang merupakan pejabat eselon tertinggi di bidang IT adalah…
+A. Data Processing Manager
+B. System Analyst
+C. Machine Operator
+D. Programmer
+E. Data Entry Operator
+
+==================================================
+
+Soal 46:
+Fungsi thermal paste yang dioleskan di heatsink dan processor adalah …
+A. Membantu mendinginkan CPU
+B. Menyalurkan panas yang dihasilkan CPU
+C. Meningkatkan kinerja CPU
+D. Menyalurkan kinerja CPU
+E. Pelengkap CPU di motherboard
+
+==================================================
+
+Soal 47:
+Pada sintaks program berikut, angka= 80, memiliki tujuan... int angka; angka =80; if (angka > 75);
+A. Mengisikan nilai 80 pada variabel ditambahkan 75
+B. Mengisikan nilai 80 pada variabel angka
+C. Mengisikan nilai 80 pada variabel aritmatik
+D. Mengisikan nilai 80 pada variabel sama dengan
+E. Mengisikan nilai 80 pada tipe data angka
+
+==================================================
+
+Soal 48:
+Adobe photoshop, Adobe PageMaker, Ventura, CorelDraw dan GIMP yakni kelompok perangkat lunak yang dirancang khusus untuk ...
+A. Word processing
+B. Spreadsheet
+C. Database
+D. Multimedia
+E. Dekstop publishing
+
+==================================================
+
+Soal 49:
+Di bawah ini yang bukan merupakan unsur penyebab terjadinya kecelakaan adalah....
+A. Keadaan tempat kerja
+B. Unsur Lingkungan
+C. Unsur keberuntungan
+D. Unsur mesin
+E. Unsur manusia
+
+==================================================
+
+Soal 50:
+Yang perlu dilakukan bila terjadi perulangan terus menerus tanpa henti pada program adalah...
+A. Menjalankan program
+B. Stop debugging
+C. Menjalankan kondisi
+D. Mengeksekusi statement
+E. Melakukan lompatan
+
+==================================================
+
+Soal 51:
+Nilai yang dimasukkan ke dalam baris program yang bernilai tetap disebut dengan...
+A. Array
+B. Variabel
+C. Konstanta
+D. Algoritma
+E. Tipe data
+
+==================================================
+
+Soal 52:
+Yang bukan termasuk teknik security pada WLAN adalah...
+A. Autorisasi
+B. SSID
+C. Kriptografi
+D. Enskripsi data
+E. Autentikasi data
+
+==================================================
+
+Soal 53:
+Posisi duduk yang benar dalam menggunakan komputer adalah sebagai berikut …
+A. Duduk pada kursi lebih tinggi dari meja
+B. Duduk dengan Posisi tangan lebih tinggi dari bahu
+C. Duduk dengan Posisi punggung tegap
+D. Duduk di belakang kumputer
+E. Duduk dengan Posisi punggung bungkuk
+
+==================================================
+
+Soal 54:
+Kegunaan dari Low Ink Warning Setting adalah…
+A. Mencegah kerusakan ink catridge
+B. Agar tinta tidak cepat kering
+C. Agar tinta tidak cepat habis
+D. Mencegah kerusakan printer
+E. Kita dapat mengetahui kalau tinta sudah mau habis
+
+==================================================
+
+Soal 55:
+Alat untuk menggambar grafik, diagram dan grafik garis lainnya yang menggunakan pena atau muatan elektrostatik dan toner disebut ....
+A. Plotter
+B. Router
+C. Query
+D. Peripheral
+E. Port
+
+==================================================
+
+Soal 56:
+Pejabat Fungsional yang berkedudukan sebagai pelaksana teknis fungsional penyelenggaraan kegiatan sistem informasi berbasis komputer di lingkungan instansi pemerintah disebut…
+A. Pejabat Fungsional
+B. Badan Pusat Statistik
+C. Pranata Komputer
+D. Pratama Komputer
+E. Jabatan Karir
+
+==================================================
+
+Soal 57:
+Data pada MySQL disajikan dalam bentuk tabel. Setiap nama tabel dan kolom dibuat unik dan setiap kolom diatur dengan tipe data tertentu. Tipe data yang khusus digunakan untuk menangani data berupa angka atau bilangan bulat adalah tipe data…
+A. char
+B. time
+C. integer
+D. varchar
+E. date
+
+==================================================
+
+Soal 58:
+Berikut ini adalah keuntungan jaringan LAN (Local Area Network) kecuali ...
+A. Pemakaian printer dapat dilakukan oleh semua client (printer sharing)
+B. File-file data dapat disimpan pada seluruh program komputer secara otomatis
+C. Komunikasi dapat melalui email dan chat
+D. Pertukaran file dapat dilakukan dengan mudah
+E. Proses backup data lebih mudah dan cepat
+
+==================================================
+
+Soal 59:
+Yang termasuk format file vektor adalah…
+A. .cdr
+B. .gif
+C. .bmp
+D. .pcf
+E. .tiff
+
+==================================================
+
+Soal 60:
+Kesatuan yang terdiri dari komputer, database, sumber daya manusia, system jaringan dan prosedur yang dioperasikan secara terpadu untuk menghasilkan informasi merupakan pengertian dari…
+A. Sistem Informasi
+B. Sistem Basis Data
+C. Sistem Manajemen
+D. Pengeloaan Informasi
+E. Sistem Informasi berbasis komputer
+
+==================================================
+
+Soal 61:
+Suatu jenis kabel yang terbuat dari kaca atau plastik yang sangat halus, dan dapat mentransmisikan sinyal cahaya dari suatu lokasi ke lokasi lainnya dengan kecepatan tinggi merupakan pengertian dari…
+A. Kabel Ethernal
+B. Kabel Coaxial
+C. Kabel UTP
+D. Kabel NYM
+E. Kabel Fiber Optik
+
+==================================================
+
+Soal 62:
+Berapa jumlah pin yang dimiliki memori SDRAM (Synchronous Dynamic Random Access Memory) ….
+A. 166
+B. 179
+C. 167
+D. 170
+E. 168
+
+==================================================
+
+Soal 63:
+Keamanan basis data merupakan suatu cara untuk melindungi basis data dari ancaman. Keamanan basis data mencakup...
+A. banyaknya user yang mengakses basis data
+B. skala basis data
+C. jumlah tabel yang tersimpan pada basis data
+D. pernagkat keras, perangkat lunak, dan data
+E. jenis basis data
+
+==================================================
+
+Soal 64:
+Seorang pengembang komputer pertama di dunia jaringan komunikasi, ALOHAnet, menggunakan biaya rendah seperti ham-radio adalah...
+A. Albert Wilson
+B. Norman Abramson
+C. Alberto Gonzalves
+D. Norman Wilson
+E. Norman Kamarun
+
+==================================================
+
+Soal 65:
+Sebutkan tipe data yang digunakan untuk menyimpan nilai berupa karakter /huruf disebut tipe data...
+A. Date Time
+B. String/ Char
+C. Array
+D. Numerik
+E. Boolean
+
+==================================================
+
+Soal 66:
+Tabel yang digunakan oleh tabel lain sebagai referensi tidak akan dapat dihapus sampai tabel anak (child) dapat dihapus. Berikut ini perintah menghapus tabel yang benar adalah…
+A. drop field barang
+B. drop table barang
+C. drop barang
+D. drop database barang
+E. drop table
+
+==================================================
+
+Soal 67:
+Back up and restore merupakan hal penting dalam perawatan jaringan karena...
+A. Untuk membuat lokasi keamanan
+B. Menyebabkan kesalahan perubahan data
+C. Untuk mendokumentasikan data dan informasi penting
+D. Untuk membuat lokasi penyimpanan berubah
+E. Agar kapasitas media penyimpanan semakin berkurang
+
+==================================================
+
+Soal 68:
+Penulisan variabel dalam beberapa bahasa pemrograman bersifat case-sensitive yang artinya...
+A. Tanda spasi diubah dengan tanda strip (minus)
+B. Tanda spasi diperhitungkan
+C. Huruf besar dan kecil diperhitungkan
+D. Tanda spasi diubah dengan underscore
+E. Tanda spasi dihapus diganti dengan tanda titik
+
+==================================================
+
+Soal 69:
+Bilangan biner adalah bilangan yang berbasis…
+A. Bilangan yang berbasis 2 yaitu 0 dan 1
+B. Bilangan yang berbasis 8 yaitu 0 -7
+C. Bilangan yang berbasis 16 yaitu 0 -16
+D. Bilangan yang berbasis 10 yaitu 0 - 9
+E. Bilangan yang berbasis 2 yaitu 1 dan 2
+
+==================================================
+
+Soal 70:
+Untuk mengubah urut-urutan booting sebelum melakukan instalasi sistem operasi, kita harus melakukan setting pada...
+A. TCP/IP
+B. Kernel
+C. BIOS
+D. IP Address
+E. Windows
+
+==================================================
+
+Soal 71:
+Untuk melihat isi folder apakah terdapat file atau tidak dalam sistem operasi linux digunakan perintah…
+A. File
+B. Folder
+C. dir
+D. ls
+E. conf
+
+==================================================
+
+Soal 72:
+Contoh penyakit yang dapat muncul karena tempat kerja yang tidak memenuhi persyaratan ergonomis adalah…
+A. Demam
+B. Sinus
+C. Cacar
+D. Asma
+E. Ganglion
+
+==================================================
+
+Soal 73:
+Pada umumnya BIOS diaktifkan pada saat booting dengan menekan tombol…
+A. F7
+B. Delete
+C. F8
+D. F12
+E. Ctrl+A
+
+==================================================
+
+Soal 74:
+Jabatan fungsional Pranata Komputer termasuk kedalam rumpun…
+A. Ilmu Alam
+B. Informatika
+C. Kekomputeran
+D. Teknologi
+E. Ilmu Sosial
+
+==================================================
+
+Soal 75:
+Kegiatan untuk melakukan penyadapan komunikasi jaringan komputer dengan memanfaatkan mode premicous pada ethernet adalah…
+A. MITM Attack
+B. Brute Force
+C. DOS
+D. Snifing
+E. Spoofing
+
+==================================================
+
+Soal 76:
+Bila suatu network berada dalam satu lokasi (contoh dalam satu gedung) maka disebut sebagai...
+A. LAN
+B. WAN
+C. Stand Alone
+D. Internet
+E. Network
+
+==================================================
+
+Soal 77:
+Komputer yang berlaku sebagai pusat data disebut…
+A. Server
+B. Client
+C. Client-Server
+D. Peer to peer
+E. Domain
+
+==================================================
+
+Soal 78:
+Perhatikan penulisan variabel berikut ini! _angka Ganjil2 Kompilator tidak akan dapat menggunakan variabel diatas. Penulisan variabel diatas salah, dikarenakan…
+A. Menggunakan dua kata
+B. Menggunakan angka
+C. Menggunakan huruf kapital
+D. Menggunakan garis bawah pada awal variabel
+E. Menggunakan spasi
+
+==================================================
+
+Soal 79:
+Fitur Intellisense merupakan fitur untuk melengkapi kode kita secara otomatis. Fitur ini memiliki nama lain...
+A. Editor Build
+B. Debugger
+C. Framework
+D. Code Completion
+E. Error Highlighting
+
+==================================================
+
+Soal 80:
+Alat yang merupakan sarana untuk memasukkan data atau aba-aba ke dalam komputer disebut….
+A. processor
+B. output device
+C. CD ROM
+D. input device
+E. RAM
+
+==================================================
+
+Soal 81:
+Sebuah alat yang mengirimkan paket data melalui sebuah jaringan atau internet menuju tujuannya melalui sebuah proses yang dikenal sebagai routing adalah pengertian dari...
+A. Nirkabel jaringan
+B. Access Point
+C. Nirkabel Ad-Hoc
+D. Hotspot
+E. Nirkabel router
+
+==================================================
+
+Soal 82:
+Data yang dihasilkan oleh transmitter berupa data digital dan ditransmisikan dalam bentuk sinyal digital menuju ke receiver adalah pengertian dari …
+A. Digital data digital transmission
+B. Digital data analog transmission
+C. Digital transmission digital data
+D. Analog data analog transmission
+E. Analog data digital transmission
+
+==================================================
+
+Soal 83:
+Dalam pembuatan struktur penyimpanan pada RDBMS dilakukan menggunakan MySQL dengan menggunakan phpMyAdmin sebagai alat untuk mengelola. Untuk membuka halaman phpMyAdmin dilakukan dengan cara mengetikkan sintaks tertentu pada browser. Sintaks tersebut berupa...
+A. localhost/phpmyadmin/mysql
+B. localhost/mysql-phpmyadmin
+C. localhost/phpmyadmin
+D. localhost/phpmyadmin-mysql
+E. localhost/mysql/phpmyadmin
+
+==================================================
+
+Soal 84:
+Perintah untuk keluar dari modesuper user adalah…
+A. exit
+B. close
+C. shutdown
+D. quit
+E. bye
+
+==================================================
+
+Soal 85:
+Bagian dalam dokumen yang script-nya akan ditampilkan dalam web browser selalu diawali oleh tag...
+A
+B. </div></label>
+C
+D
+E
+
+==================================================
+
+Soal 86:
+Komponen Komputer yang berfungsi untuk melaksanakan suatu proses data yang berbentuk angka dan kebijaksanaan mirip matematika dan statistika ...
+A. CPU
+B. Register
+C. CU
+D. ROM
+E. ALU
+
+==================================================
+
+Soal 87:
+Perangkat input yang digunakan sebagai pengganti mouse dengan sentuhan jari tangan pada laptop adalah…
+A. Touch Phone
+B. Touch Corn
+C. E- Touch
+D. Touch Pad
+E. Touch Screen
+
+==================================================
+
+Soal 88:
+Metode yang dilakukan untuk menipu atau mengelabui sasaran dengan maksud untuk mencuri akun sasaran adalah…
+A. Carding
+B. Hacking
+C. Phising
+D. Defacing
+E. Spamming
+
+==================================================
+
+Soal 89:
+Dalam praktik membuat basis data dalam MySQL setelah berhasil menuliskan perintah membuat basis data maka langkah selanjutnya adalah mengaktifkan basis data dengan perintah…
+A. use nama_database;
+B. delete database;
+C. show database;
+D. drop database nama_database;
+E. create database nama_database;
+
+==================================================
+
+Soal 90:
+Berikut ini adalah format file gambar, kecuali…
+A. .jpg
+B. .bmp
+C. .gif
+D. .tif
+E. .doc
+
+==================================================
+
+Soal 91:
+Apa yang dimaksud dengan korosi pada peripheral…
+A. Konsleting pada peripheral
+B. Komponen berkarat
+C. Elemen terbakar
+D. Peripheral Kotor
+E. Elemen aus/mengelupas
+
+==================================================
+
+Soal 92:
+Bagian dalam dokumen HTML yang menyatakan judul sebuah halaman web ditandai oleh tag....
+A
+B. </div></label>
+C
+D
+E
+
+==================================================
+
+Soal 93:
+Dibawah ini merupakan jenis-jenis keyboard, kecuali …
+A. Keyboard alphabet
+B. Keyboard DVORAK
+C. Keyboard numeric
+D. Keyboard emoticon
+E. Keyboard QWERTY
+
+==================================================
+
+Soal 94:
+Salah satu perangkat keras pada computer yang dapat menduplikat atau menyalin suatu image dan text kedalam bentuk digital adalah…
+A. Printer
+B. Scanning
+C. Monitor
+D. Scanner
+E. Scan
+
+==================================================
+
+Soal 95:
+Berikut ini merupakan undang-undang yang memuat tentang Keselamatan Kerja…
+A. UU No.1 Tahun 1970
+B. UU No.1 Tahun 1971
+C. UU No.1 Tahun 1972
+D. UU No.1 Tahun 1977
+E. UU No.3 Tahun 1977
+
+==================================================
+
+Soal 96:
+Alat yang digunakan untuk melindungi telinga dari kebisingan yang berlebihan adalah…
+A. Body Protector
+B. Ear plug
+C. Dust Masker
+D. Respirator
+E. Safety Shoes
+
+==================================================
+
+Soal 97:
+Perangkat tambahan yang digunakan untuk memasukkan dan mendapatkan informasi ke/ dari komputer disebut…
+A. Peripheral Komputer
+B. Hardware
+C. Brainware
+D. Software
+E. Jaringan Komputer
+
+==================================================
+
+Soal 98:
+Sebaiknya kita melepas atau memasang komponen pada saat komputer dalam keadaan…
+A. Mati
+B. Proses Shutdown
+C. Proses Booting
+D. Sleep
+E. Menyala
+
+==================================================
+
+Soal 99:
+Aktivitas pengiriman berita atau iklan melewati surat elektronik (e-mail) yang tidak dikehendaki adalah metode…
+A. Spamming
+B. Defacing
+C. Carding
+D. Phising
+E. Hacking
+
+==================================================
+
+Soal 100:
+Contoh penulisan variabel yang paling tepat adalah...
+A. String23 Balqis;
+B. Double namaCustomer= "Balqis";
+C. String namaCustomer= "Balqis";
+D. Console.Write ();
+E. DateTime namaCustomer= "Balqis";
+
+==================================================
+

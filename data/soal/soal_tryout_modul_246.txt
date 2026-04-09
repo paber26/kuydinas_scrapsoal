@@ -1,0 +1,400 @@
+Soal 1:
+PERAWAT : PASIEN = PEDAGANG : ...
+A. Pembeli
+B. Langganan
+C. Usaha
+D. Konsumen
+E. Barang
+
+==================================================
+
+Soal 2:
+ROTAN : KURSI = KAYU : ...
+A. Atap
+B. Dinding
+C. Plastik
+D. Pohon
+E. Pintu
+
+==================================================
+
+Soal 3:
+BADUI : BANTEN = ... : ...
+A. Trunyan : Bali
+B. Cilacap : Sunda
+C. Samin : Pacitan
+D. Papua : Dayak
+E. Sasak : Lombok
+
+==================================================
+
+Soal 4:
+JANTUNG : POMPA = OTAK : ...
+A. Sentra
+B. Syarat
+C. Kecerdasan
+D. Memikir
+E. Kepala
+
+==================================================
+
+Soal 5:
+PINTU : ENGSEL = TULANG : ...
+A. Belulang
+B. Kerangka
+C. Simpai
+D. Daging
+E. Sendi
+
+==================================================
+
+Soal 6:
+BOROBUDUR : INDONESIA = EIFFEL : ...
+A. India
+B. Inggris
+C. Italia
+D. Mesir
+E. Prancis
+
+==================================================
+
+Soal 7:
+47, 46, 45, 31, 30, 29, 14, ...
+A. 16
+B. 13
+C. 21
+D. 19
+E. 24
+
+==================================================
+
+Soal 8:
+9, 9, 15, 16, 21, 25, 27 , ...
+A. 33
+B. 32
+C. 36
+D. 35
+E. 34
+
+==================================================
+
+Soal 9:
+5, 6, 7, 5, 6, 7, 8, 5, 6, 7, 8, 9, ..., ....
+A. 5, 6
+B. 10, 9
+C. 12, 9
+D. 7, 6
+E. 9, 10
+
+==================================================
+
+Soal 10:
+11, 99, 77, 12, 100, 78, 13, ... , ...
+A. 77, 101
+B. 79, 101
+C. 100, 78
+D. 78, 100
+E. 101, 79
+
+==================================================
+
+Soal 11:
+Jika Koko tidak menghentikan kebiasaan merokok, maka penyakit
+jantungnya akan bertambah parah.
+Jika sakit jantungnya bertambah parah, maka Koko tidak bisa ikut
+bertanding membela kesebelasan kebanggaan kota A.
+Koko bertanding membela kesebelasan kota A.
+Kesimpulan yang benar adalah ...
+A. Koko sudah kebal terhadap nikotin.
+B. Koko telah mengurangi dosis merokoknya.
+C. Koko tidak merokok lagi.
+D. Koko dipaksa bermain oleh pelatihnya.
+E. Sakit jantung Koko tidak parah.
+
+==================================================
+
+Soal 12:
+P, Q, R, dan S adalah titik - titik yang secara beruntut berada pada satu
+garis. Jika panjang QR adalah 19% panjang RS, dan PR : PS = 2 : 5, maka
+persentase QR terhadap PR adalah ...
+A. 0,285
+B. 0,544
+C. 0,114
+D. 0,3167
+E. 0,475
+
+==================================================
+
+Soal 13:
+Jumlah yang harus dibayar untuk satu tiket dewasa dan dua tiket anak -
+anak adalah Rp 165.000. jika harga sebuah tiket dewasa adalah Rp 30.000
+lebih mahal daripada sebuah tiket anak - anak, berapakah harga sebuah
+tiket anak - anak?
+A. Rp55.000
+B. Rp50.000
+C. Rp60.000
+D. Rp45.000
+E. Rp25.000
+
+==================================================
+
+Soal 14:
+Hasil panen singkong Pak Sofwan adalah 7,5 ton. Sebanyak 350 kg dijual k
+pasar dan 2,5 kuintal dibuat tape. Berapa kg kah sisa singkong pak Sofwan?
+A. 6.950 kg
+B. 6.200 kg
+C. 6.900 kg
+D. 6.100 kg
+E. 6.500 kg
+
+==================================================
+
+Soal 15:
+Semua santri pandai berbahasa Arab.
+Santri yang pandai berbahasa Arab pandai pula berpidato.
+Sebagian santri yang pandai berpidato tidak suka matematika.
+A. Sebagian santri suka matematika tetapi tidak suka berbahasa Arab
+B. Sebagian santri suka matematika tetapi tidak pandai berbahasa Arab
+C. Sebagian santri suka matematika dan pandai berbahasa Arab
+D. Sebagian santri tidak suka matematika dan tidak pandai berbahasa Arab
+E. Sebagian santri suka matematika dan tidak pandai berbahasa Arab
+
+==================================================
+
+Soal 16:
+Pak Bambang berkendara motor dari tempat tinggalnya hingga tiba di
+rumah mertuanya di kota lain. Ia berangkat pukul 08.30 pagi dan tiba pada
+pukul 14.45 siang menjelang sore. Selama perjalanan ia melajukan sepeda
+motornya dengan kecepatan rata - rata 55 km/jam. Dalam perjalanannya
+pula ia harus berhenti 2 kali, yaitu untuk menambal ban sepeda motornya
+yang bocor selama 30 menit dan kemudian makan siang selama 45 menit.
+Berapakah jarak antara rumah Pak Bambang dan rumah mertuanya?
+A. 316,25 km
+B. 302,5 km
+C. 290 km
+D. 343,75 km
+E. 275 km
+
+==================================================
+
+Soal 17:
+Jika {x = berat total p kotak yang masing - masing beratnya q kg} dan {y =
+berat total q kotak yang masing - masing beratnya p kg} manakah
+pernyataan berikut yang benar?
+A. hubungan x dan y tak dapat ditentukan
+B. x > y
+C. x = y
+D. x < y
+E. x > y2
+
+==================================================
+
+Soal 18:
+Jika q adalah sembarang bilangan, x = 3q²+ 5, dan y = 2q² – 8, manakah pernyataan berikut yang benar?
+A. x tidak sama dengan y
+B. x > y
+C. x < y
+D. x = y
+E. hubungan x dan y tak dapat ditentukan
+
+==================================================
+
+Soal 19:
+Durna berjalan selama 2 jam dan menempuh jarak 8,7 km. Pada paruh jam
+pertama ditempuh 3 km, paruh jam ke - 2 ditempuh 1 km, paruh jam ke - 3
+ditempuh 4,5 km. Berapakah km ditempuh pada paruh jam ke - 4?
+A. 50 m
+B. 150 m
+C. 25 m
+D. 100 m
+E. 200 m
+
+==================================================
+
+Soal 20:
+Dianjak layu, dibubut mati.
+Makna peribahasa di atas adalah ...
+A. Selalu berbuat baik kepada orang lain
+B. Keputusan yang belum bulat, masih bisa diubah lagi
+C. Orang yang selalu menjaga nama baik
+D. Saling membutuhkan sampai kapan pun
+E. Pendirian yang sudah tetap, tidak akan diubah - ubah lagi
+
+==================================================
+
+Soal 21:
+Sudah gaharu, cendana pula.
+Makna peribahasa di atas adalah ...
+A. Berlaku sopan dan baik
+B. Selalu bertingkah ceroboh
+C. Berlaku seperti orang pandir atau orang bodoh
+D. Berlaku seperti orang yang pintar
+E. Sangat mahal sehingga tidak sanggup dibeli orang lain
+
+==================================================
+
+Soal 22:
+Jika (x = n.1.1), (y = n + 1 + 1) dan n adalah bilangan positif, manakah
+pernyataan berikut yang benar?
+A. x tidak sama dengan y
+B. x < y
+C. x > y
+D. hubungan x dan y tak dapat ditentukan
+E. x = y
+
+==================================================
+
+Soal 23:
+Semua pohon bercabang dan berakar.
+Tanaman A berakar, tetapi tidak bercabang.
+Kesimpulan yang tepat adalah ...
+A. Tanaman A adalah bukan pohon.
+B. Tanaman A adalah pohon yang tidak bercabang.
+C. Tanaman A adalah bukan pohon bercabang.
+D. Tanaman A adalah pohon yang berakar.
+E. Tanaman A adalah pohon yang berakar dan tidak bercabang.
+
+==================================================
+
+Soal 24:
+Diam - diam ubi berisi, diam - diam penggali berkarat.
+A. Diamnya orang pandai itu berpikir, diamnya orang yang bodoh sia - sia
+B. Diamnya orang pandai itu emas, diamnya orang bodoh itu lumpur
+C. Memamerkan perbuatan baik yang jarang dilakukan
+D. Orang yang selalu menjadi panutan bagi orang lain
+E. Melakukan perbuatan baik tanpa harus diketahui oleh orang lain
+
+==================================================
+
+Soal 25:
+Semua pekerja harus mengenakan topi pengaman. Sementara pekerja
+mengenakan sarung tangan.
+A. Semua pekerja tidak mengenakan sarung tangan.
+B. Sementara pekerja tidak mengenakan topi pengaman dan tidak mengenakan sarung tangan.
+C. Sementara pekerja tidak mengenakan topi pengaman.
+D. Sementara pekerja tidak mengenakan topi pengaman dan mengenakan sarung tangan.
+E. Sementara pekerja mengenakan topi pengaman dan sarung tangan.
+
+==================================================
+
+Soal 26:
+Berat rata - rata sekelompok siswa adalah 54 kg. Berat rata - rata siswi putri
+dari kelompok tersebut adalah 48 kg, sedangkan berat rata - rata siswa
+putranya 62 kg. Berapa perbandingan jumlah siswa putra dan putri pada
+kelompok tersebut?
+A. 3:2
+B. 2:3
+C. 4:2
+D. 4:3
+E. 3:4
+
+==================================================
+
+Soal 27:
+Bacaan untuk soal 27-30
+Di suatu universitas, setiap mahasiswanya diwajibkan untuk mengambil 6
+mata kuliah sebagai syarat kelulusan di mata kuliah strata 1 keenam mata
+kuliah tersebut adalah Akuntansi, Manajemen, Perpajakan, kebijakan
+Fiskal, Teknologi Informasi dan Etika Profesi. Masing-masing mata kuliah
+harus ditempuh dengan beberapa persyaratan sebagai berikut :
+> Mata kuliah Kebijakan Fiskal harus ditempuh tepat setelah mahasiswa
+menempuh mata kuliah perpajakan
+> Etika Profesi boleh ditempuh sebelum Manjemen namun tidak boleh
+sebelum Akuntansi
+> Mata kuliah Teknologi Informasi harus diambil pada urutan kedua dari
+seluruh mata kuliah.
+Jika Manajemen ditempuh pada urutan kelima maka Kebijakan Fiskal
+ditempuh pada urutan....
+A. Tidak ada kesimpulan yang benar
+B. Kedua
+C. Pertama
+D. Keempat
+E. Ketiga
+
+==================================================
+
+Soal 28:
+Urutan yang benar adalah...
+A. Akuntansi, etika profesi, manajemen, perpajakan, kebijakan fiscal, teknologi informasi
+B. Manajemen , teknologi informasi, akuntansi, etika profesi, perpajakan, kebijakan fiscal
+C. Tidak ada kesimpulan yang benar
+D. Etika profesi, teknologi informasi, perpajakan, kebijakan fiscal, manajemen, akuntansi
+E. Manjemen, teknologi informasi, akuntansi, perpajakan, etika profesi, kebijakan fiscal
+
+==================================================
+
+Soal 29:
+Jika perpajakan ditempuh pada urutan keempat maka....
+A. Tidak ada kesimpulan yang benar
+B. Akuntasi ditempuh pertama
+C. Manajemen ditempuh di urutan ketiga
+D. Etika profesi ditempuh terakhir
+E. Kebijakan fiscal ditempuh pada urutan ketiga
+
+==================================================
+
+Soal 30:
+Jika Manajemen ditempuh sebelum Akuntansi maka....
+A. Tidak ada kesimpulan yang benar
+B. Perpajakan ditempuh pada urutan pertama
+C. Etika profesi harus pada urutan keenam
+D. Yang pertama ditempuh adalah Manajemen
+E. Yang terakhir adalah kebijakan fiscal
+
+==================================================
+
+Soal 31:
+Semua pemilik kendaraan harus mempunyai surat ijin. Sementara sepeda
+termasuk kendaraan. Kesimpulan:
+A. Pemilik sepeda tidak harus punya surat ijin
+B. Tidak ada kesimpulan
+C. Pemilik sepeda boleh mempunyai surat ijin
+D. Pemilik sepeda tidak perlu surat ijin
+E. Pemilik sepeda harus mempunyai surat ijin
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_246/soal_32_img1.png)
+A. A
+B. C
+C. E
+D. B
+E. D
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_246/soal_33_img1.png)
+A. A
+B. E
+C. B
+D. D
+E. C
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_246/soal_34_img1.png)
+A. E
+B. D
+C. B
+D. C
+E. A
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_246/soal_35_img1.png)
+A. E
+B. B
+C. C
+D. D
+E. A
+
+==================================================
+

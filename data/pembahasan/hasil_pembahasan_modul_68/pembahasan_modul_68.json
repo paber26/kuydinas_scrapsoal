@@ -1,0 +1,16 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "TKP",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nBerapa umurmu bayi baru lahir ?",
+        "pilihan": [
+            "0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun0 tahun 0 tahun\n(Nilai 5)",
+            "1 deetik\n(Nilai 4)",
+            "1000 milidetik\n(Nilai 3)",
+            "0 bulan\n(Nilai 2)",
+            "0 lapan\n(Nilai 1)"
+        ],
+        "jawaban_benar": "",
+        "pembahasan": ""
+    }
+]

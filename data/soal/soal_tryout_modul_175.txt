@@ -1,0 +1,421 @@
+Soal 1:
+SUPERVISI = ....
+A. Superior
+B. Penjagaan
+C. Pengawalan
+D. Hebat
+E. Pengawasan
+
+==================================================
+
+Soal 2:
+PLURAL >< ....
+A. Banyak
+B. Tunggal
+C. Heterogen
+D. Beragam
+E. Majemuk
+
+==================================================
+
+Soal 3:
+GANDUM : REBUS : BAKMI = ... : ... : ...
+A. Kain : Baju : Jahit
+B. Bolu : Gandum : Kukus
+C. Pisang : Goreng : Criping
+D. Beras : Goreng : Nasi
+E. Beras : Arem-arem : Rebus
+
+==================================================
+
+Soal 4:
+Tentukan angka selanjutnya 12, 13, 17, 18, 27, 28, 47, 48, ... , ...
+A. 84, 87
+B. 86, 87
+C. 85, 86
+D. 83, 94
+E. 87, 88
+
+==================================================
+
+Soal 5:
+Tentukan huruf selanjutnya J, O, V, Q, ....
+A. F
+B. G
+C. E
+D. J
+E. H
+
+==================================================
+
+Soal 6:
+Tentukan huruf selanjutnya C, D, E, D, F, H, E, H, K, ... , ... , ...
+A. F, J, N
+B. E, B, J
+C. H, E, M
+D. F, C, K
+E. G, D, L
+
+==================================================
+
+Soal 7:
+Nilai dari 2³- 5 : 10 x 100 = ....
+A. 7,995
+B. -42
+C. 30
+D. 750
+E. 0,003
+
+==================================================
+
+Soal 8:
+Diketahui tiga bilangan 3, q, r dengan 3 + 2q - r = 0 dan 2 + q + r = 0.
+Berapakah qr?
+A. -3q - 2q²
+B. -3q + 2q²
+C. 3q+ 2q²
+D. 3q - 2q²
+E. 3+ 2q²
+
+==================================================
+
+Soal 9:
+Jika x = 17, maka x² - 15x - 34 = ....
+A. 3
+B. -1
+C. 0
+D. 1
+E. 2
+
+==================================================
+
+Soal 10:
+Bu Ida ingin memasang iklan sebanyak tiga baris untuk menjual produknya.
+Untuk hari pertama dia harus membayar Rp2.500,00/ baris, untuk 5 hari
+berikutnya dia harus membayar Rp 15.000,00/baris, dan untuk hari-hari
+berikutnya dia harus membayar Rp10.000,00/baris. Jika Bu Ida membayar
+Rp352.500,00, maka berapa hari iklan terpasang?
+A. 15
+B. 16
+C. 20
+D. 30
+E. 10
+
+==================================================
+
+Soal 11:
+Sebuah sepeda melaju dengan kecepatan v km/menit dan akan menempuh
+jarak s km. Waktu yang diperlukan untuk sampai ke tempat tujuan adalah
+... menit.
+A. sv
+B. s + v
+C. S/V
+D. s - v
+E. s^v
+
+==================================================
+
+Soal 12:
+Dalam sebuah ujian terdapat 50 soal. Rony menjawab dengan benar
+sebanyak 37 soal, 5 soal salah, dan sisanya tidak dikerjakan. Jika nilai benar
+mendapat skor 2 poin, salah -1 poin, dan tidak dikerjakan skornya 0. Maka,
+skor yang diperoleh Rony dalam ujian adalah ....
+A. 69
+B. 50
+C. 54
+D. 79
+E. 42
+
+==================================================
+
+Soal 13:
+Dalam acara perlombaan peringatan HUT RI terdapat 35 orang, 15 orang di
+antaranya mengikuti lomba makan kerupuk, 12 orang di antaranya
+mengikuti lomba bola maraton, dan 7 orang mengikuti keduanya. Banyak
+orang yang tidak mengikuti perlombaan adalah ....
+A. 5 orang
+B. 15 orang
+C. 1 orang
+D. 17 orang
+E. 12 orang
+
+==================================================
+
+Soal 14:
+Seluruh peserta lomba menggambar membawa pensil warna.
+Indah peserta lomba menggambar, maka ....
+A. Indah membawa bukan pensil warna.
+B. Bukan Indah yang membawa pensil warna.
+C. Indah tidak membawa pensil warna.
+D. Indah membawa pensil warna.
+E. Indah membawa bukan hanya pensil warna.
+
+==================================================
+
+Soal 15:
+Pernyataan "Jika hari Senin masuk sekolah, maka akan diadakan upacara
+bendera" setara dengan ....
+A. Hari Senin masuk sekolah atau tidak akan diadakan upacara bendera.
+B. Jika tidak akan diadakan upacara bendera, maka hari Senin tidak masuk sekolah.
+C. Hari Senin tidak masuk sekolah dan tidak diadakan upacara bendera.
+D. Hari Senin tidak masuk sekolah atau tidak akan diadakan upacara bendera.
+E. Hari Senin masuk sekolah dan akan diadakan upacara bendera.
+
+==================================================
+
+Soal 16:
+Semua daun berwarna merah. Sebagian apel berwarna merah. Jadi, ....
+A. Sebagian apel berwarna hijau.
+B. Tidak dapat ditarik kesimpulan.
+C. Sebagian daun tidak berwarna merah.
+D. Daun seharusnya berwarna hijau.
+E. Beberapa apel adalah daun.
+
+==================================================
+
+Soal 17:
+Teks berikut untuk menjawab soal nomor 17-19.
+Diketahui 6 orang anak, yakni Iwan, Amir, Yudi, Bandi, Joko, dan
+Ridwan mempunyai tinggi yang berbeda. Iwan lebih tinggi dibandingkan
+Amir. Amir lebih tinggi dibandingkan Yudi dan Bandi. Joko lebih tinggi
+dibandingkan Amir dan Ridwan.
+Jika Bandi lebih tinggi dari Ridwan maka ....
+A. Yudi lebih tinggi daripada Joko
+B. Yudi lebih tinggi daripada Ridwan
+C. Joko lebih tinggi daripada lwan
+D. Amir lebih tinggi daripada Ridwan
+E. Bandi lebih tinggi daripada Joko
+
+==================================================
+
+Soal 18:
+Jika Iwan tidak lebih tinggi daripada Joko maka yang tertinggi adalah ....
+A. Yudi
+B. Joko
+C. Bandi
+D. Amir
+E. Ridwan
+
+==================================================
+
+Soal 19:
+Jika Iwan lebih tinggi daripada Joko maka ....
+A. Amir lebih tinggi daripada Ridwan
+B. Yudi lebih tinggi daripada lwan
+C. Ridwan lebih tinggi daripada lwan
+D. Yudi lebih tinggi daripada Bandi
+E. Iwan adalah yang tertinggi di antara mereka
+
+==================================================
+
+Soal 20:
+Dalam suatu kelas dilakukan pengukuran berat badan kepada 6 orang siswa
+secara bergantian. Ari lebih berat dari Budi dan tidak lebih berat dari Eni,
+Eni dan Desi tidak lebih berat dari Febri, dan Cio memiliki berat badan
+paling ringan.
+Jika Desi memiliki berat badan lebih dari Eni, maka urutan berat badan
+dari yang teringan ke berat adalah ...
+A. Cio, Budi, Ari, Eni, Desi, Febri
+B. Cio, Desi, Budi, Ari, Eni, Febri
+C. Cio, Budi, Desi, Ari, Eni, Febri
+D. Cio, Ari, Budi, Desi, Eni, Febri
+E. Cio, Budi, Ari, Desi, Eni, Febri
+
+==================================================
+
+Soal 21:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_21_img1.png)
+A. E
+B. A
+C. B
+D. D
+E. C
+
+==================================================
+
+Soal 22:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_22_img1.png)
+A. A
+B. E
+C. C
+D. D
+E. B
+
+==================================================
+
+Soal 23:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_23_img1.png)
+A. D
+B. A
+C. C
+D. E
+E. B
+
+==================================================
+
+Soal 24:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_24_img1.png)
+A. C
+B. A
+C. B
+D. D
+E. E
+
+==================================================
+
+Soal 25:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_25_img1.png)
+A. D
+B. B
+C. E
+D. A
+E. C
+
+==================================================
+
+Soal 26:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_26_img1.png)
+A. D
+B. A
+C. C
+D. E
+E. B
+
+==================================================
+
+Soal 27:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_27_img1.png)
+A. C
+B. E
+C. B
+D. D
+E. A
+
+==================================================
+
+Soal 28:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_28_img1.png)
+A. E
+B. A
+C. B
+D. D
+E. C
+
+==================================================
+
+Soal 29:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_29_img1.png)
+A. D
+B. B
+C. A
+D. C
+E. E
+
+==================================================
+
+Soal 30:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_175/soal_30_img1.png)
+A. D
+B. E
+C. B
+D. A
+E. C
+
+==================================================
+
+Soal 31:
+Bacaan untuk soal nomor 31-33
+Wahana antariksa Kepler kembali membuat kejutan. NASA
+mengumumkan pada Senin (5/12/2011) bahwa salah satu dari 2.326 kandidat
+planet temuan Kepler telah dikonfirmasi sebagai planet layak huni. "Ini
+penemuan yang fenomenal. Ini membuktikan bahwa Homo sapiens semakin
+dekat dengan pencapaian kita di semesta untuk menemukan planet yang
+mengingatkan kita akan rumah. "Kita hampir di sana," kata Geoff Marcy,
+peneliti dari University of California, Berkeley, seperti dikutip AP, Selasa
+(6/12/2011).
+Planet yang dikonfirmasi layak huni tersebut bernama Kepler 22b.
+Planet itu mengorbit bintang serupa Matahari bernama Kepler 22 dan
+berjarak 600 tahun cahaya dari Bumi. Kepler 22b memiliki beberapa
+kesamaan dengan Bumi. Bumi mengelilingi Matahari selama 365 hari,
+sedangkan Kepler 22b mengelilingi bintang induknya dalam waktu 290 hari,
+hanya sedikit berbeda. Temperatur Bumi dan Kepler 22b pun tak berbeda
+jauh. Disebutkan bahwa jika efek rumah kaca bekerja di Kepler 22b, maka
+temperatur di planet itu sekitar 22 derajat celsius.
+Perbedaan dijumpai pada ukurannya. Kepler 22b berukuran 2,4 kali
+lebih besar daripada Bumi. Sementara massanya, belum diketahui sehingga
+sulit dipastikan apakah Kepler 22b merupakan planet batuan atau gas
+raksasa. Jika merupakan planet gas, maka tentu sulit bagi manusia untuk
+hidup di sana. Meski dikonfirmasi layak huni, masih sulit bagi manusia
+untuk pergi ke Kepler 22b. Satu tahun cahaya setara dengan 9,65 triliun
+kilometer. Butuh waktu 22 juta tahun untuk ke sana dengan teknologi yang
+ada sekarang. Teknologi lah yang nanti akan menjawab apakah pergi ke
+Kepler 22b akan menjadi mimpi atau kenyataan.
+Selain penemuan Kepler 22b, NASA juga mengumumkan bahwa kini
+Kepler telah memiliki 2.326 kandidat planet layak huni. Jumlah ini
+bertambah 1.094 dari pengumuman pada bulan Februari 2011 lalu yang
+menyatakan bahwa ada 1.235 kandidat planet layak huni. Dari jumlah 2.326
+kandidat planet, 207 di antaranya memiliki ukuran setara Bumi. Sementara
+680 lainnya lebih besar dari Bumi. Jumlah planet yang ada di Zona Layak
+Huni sendiri ada 48 buah. Masih dibutuhkan penelitian untuk
+mengkonfirmasi apakah planet-planet tersebut layak huni.
+Kesimpulan dari wacana di atas mengenai kesamaan Bumi dan Kepler
+adalah ....
+A. Bumi dan Kepler adalah planet yang memiliki besar ukuran yang sama.
+B. Bumi dan Kepler merupakan planet yang pusat tata suryanya adalah bintang berekor.
+C. Bumi dan Kepler 22b adalah planet yang pusat tata suryanya adalah bintang serupa matahari.
+D. Bumi dan Kepler adalah planet yang dihuni oleh Homo sapiens.
+E. Bumi dan Kepler adalah planet yang benar-benar layak untuk dihuni oleh manusia.
+
+==================================================
+
+Soal 32:
+Alasan yang tepat mengapa manusia tidak bisa menempati Kepler 22b
+apabila massanya diketahui dan merupakan planet gas raksasa adalah ....
+A. karena dalam planet gas raksasa, terdapat isi seperti helium dan hidrogen sehingga tidak dapat ditempati
+B. karena dalam planet gas raksasa, terdapat temperatur suhu sehingga tidak dapat ditempati
+C. karena dalam planet gas raksasa, air yang bersih sulit ditemukan
+D. karena dalam planet gas raksasa, terdapat bebatuan raksasa sehingga permukaan untuk ditempati tidak merata
+E. karena dalam planet gas raksasa, tidak terdapat bebatuan sehingga tidak dapat ditempati karena tidak terdapat permukaan
+
+==================================================
+
+Soal 33:
+Perbedaan planet bebatuan dan planet gas raksasa adalah ....
+A. Planet bebatuan adalah planet yang keras seperti batu, sedangkan gas raksasa adalah planet cair seperti gas.
+B. Planet bebatuan adalah planet yang terdiri dari bebatuan dan benda padat, sedangkan gas raksasa adalah planet yang terdiri atas gas cair.
+C. Planet bebatuan memiliki permukaan terjal, sedangkan gas raksasa memiliki permukaan landai.
+D. Planet bebatuan tidak memiliki permukaan, sedangkan planet gas raksasa memiliki permukaan yang rata.
+E. Planet bebatuan adalah planet yang terdiri atas bebatuan, sedangkan gas raksasa adalah planet yang berisi helium dan hidrogen.
+
+==================================================
+
+Soal 34:
+Penulisan nama dan gelar yang benar adalah ....
+A. Dr. Laila Sari Devi
+B. Hj Rusti Sariringsih.
+C. Moh Indrawan Setyo Hadi, M. Pd.
+D. Sutinah Pertiwi, S. H.
+E. Rusli Hadiningrat, S. S
+
+==================================================
+
+Soal 35:
+Penulisan huruf miring yang benar terdapat dalam tanda kurung adalah ....
+A. Halaman parkir di (Dufan) sangat luas.
+B. Paman rajin minum (Nigella Sativa) untuk sakit reumatik yang dideritanya.
+C. Indonesia pernah mendapat julukan (macan Asia).
+D. (Liberalisme) berbahaya bagi bangsa ini.
+E. Sepatu ini (diimpor) dari Paris.
+
+==================================================
+

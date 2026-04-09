@@ -1,0 +1,384 @@
+Soal 1:
+Aliran : .... = .... : bersih
+A. Sungai – lingkungan
+B. Air – udara
+C. Mampat – kotoran
+D. Saluran – bening
+E. Darah – segar
+
+==================================================
+
+Soal 2:
+Marah : .... = .... : menangis
+A. Teriak – senang
+B. Mengeluh – takut
+C. Kecewa – sakit
+D. Cemberut – murka
+E. Mencaci – sedih
+
+==================================================
+
+Soal 3:
+Buas : .... = .... : kobra
+A. Hewan – bertelur
+B. Serigala – hitam
+C. Harimau – mematikan
+D. Singa – ular
+E. Beruang – melata
+
+==================================================
+
+Soal 4:
+Jalan raya : .... = .... : guling
+A. Keamanan lalu lintas – seprei
+B. Polisi lalu lintas – selimut
+C. Lampu lalu lintas – kasur
+D. Rambu lalu lintas – bantal
+E. Kecelakaan lalu lintas – tidur
+
+==================================================
+
+Soal 5:
+Menghargai : .... = .... : Kebencian
+A. Menjaga – menghina
+B. Menghormati – marah
+C. Sesama – kekesalan
+D. Hak milik – musuh
+E. Toleransi – menghujat
+
+==================================================
+
+Soal 6:
+Penuh : .... = .... : berhenti
+A. Menggenang – mengerem
+B. Kosong – diam
+C. Isi – gerakan
+D. Banjir – pindah
+E. Meluap – melambat
+
+==================================================
+
+Soal 7:
+Semua sarung bermotif kotak-kotak. Sebagian kebaya adalah sarung.
+A. Semua yang bermotif kotak-kotak adalah kebaya
+B. Semua sarung adalah kebaya
+C. Sebagian yang bermotif kotak-kotak adalah sarung
+D. Semua kebaya bermotif kotak-kotak
+E. Sebagian kebaya bermotif kotak-kotak
+
+==================================================
+
+Soal 8:
+Semua musik memiliki tempo cepat. Beberapa yang memiliki tempo cepat
+adalah pop.
+A. Sebagian pop bukan merupakan musik
+B. Sebagian musik memiliki tempo yang cepat
+C. Semua yang bertempo cepat adalah pop
+D. Semua musik merupakan pop
+E. Semua musik pop bertempo cepat
+
+==================================================
+
+Soal 9:
+Semua tebing berwarna hitam. Sebagian jurang adalah tebing.
+A. Semua jurang berwarna hitam
+B. Semua jurang adalah tebing
+C. Semua yang hitam adalah tebing
+D. Sebagian jurang berwarna hitam
+E. Semua yang hitam adalah jurang
+
+==================================================
+
+Soal 10:
+Semua tanaman adalah kayu. Beberapa jenis kayu adalah keras.
+A. Semua tanaman adalah keras
+B. Semua kayu adalah tanaman
+C. Semua kayu yang keras adalah tanaman
+D. Sebagian kayu yang keras bukan tanaman
+E. Sebagian tanaman bukan kayu
+
+==================================================
+
+Soal 11:
+Bacaan untuk soal 11-16
+Toni memiliki sebuah rak buku kecil yang terbagi atas lima tingkat, tingkat
+1, 2, 3, 4 dan 5. Tingkat 1 adalah yang teratas dan tingkat 5 adalah yang
+terbawah. Toni menyimpan buku-buku pelajarannya kedalam rak dengan
+aturan sebagai berikut :
+(a) Buku pelajaran Geografi disimpan tepat diatas buku pelajaran
+Matematika, sedangkan buku pelajaran Bahasa Indonesia diletakkan tepat
+dibawah buku Matematika.
+(b) Buku pelajaran Ekonomi diletakkan diatas buku pelajaran Fisika,
+sedangkan buku pelajaran Fisika dan Kimia berada diatas buku pelajaran
+Geografi.
+(c) Buku pelajaran Kimia dan Biologi diletakkan saling terpisah sejauh
+mungkin.
+Buku yang disimpan tidak berdampingan dengan buku yang lain adalah
+buku ....
+A. Matematika, Bahasa Indonesia, Ekonomi
+B. Fisika, Matematika, Geografi
+C. Ekonomi, Kimia, Fisika
+D. Kimia, Fisika, Biologi
+E. Bahasa Indonesia, Biologi, Geografi
+
+==================================================
+
+Soal 12:
+Adik Toni mengambil buku Geografi dan menyimpannya kembali di
+samping buku Bahasa Indonesia. Tingkatan yang kosong adalah tingkat ke
+....
+A. 3
+B. 5
+C. 1
+D. 2
+E. 4
+
+==================================================
+
+Soal 13:
+Buku yang terletak di tingkat 1 adalah buku ....
+A. Matematika
+B. Fisika
+C. Biologi
+D. Geografi
+E. Kimia
+
+==================================================
+
+Soal 14:
+Buku yang letaknya setingkat dengan buku Bahasa Indonesia adalah buku
+....
+A. Matematika
+B. Geografi
+C. Ekonomi
+D. Fisika
+E. Biologi
+
+==================================================
+
+Soal 15:
+Buku yang disimpan di tingkat ke-3 adalah buku ....
+A. Ekonomi
+B. Fisika
+C. Matematika
+D. Geografi
+E. Biologi
+
+==================================================
+
+Soal 16:
+Urutan lima buku dari tingkat tertinggi ke tingkat terendah adalah ....
+A. Ekonomi, Fisika, Matematika, Geografi, Biologi
+B. Matematika, Geografi, Bahasa Indonesia, Biologi, Fisika
+C. Fisika, Matematika, Geografi, Bahasa Indonesia, Kimia
+D. Bahasa Indonesia, Biologi, Geografi, Kimia
+E. Kimia, Fisika, Geografi, Matematika, Biologi
+
+==================================================
+
+Soal 17:
+Bentuk pecahan dari bilangan di bawah adalah ...
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_17_img1.png)
+A. 3/4
+B. 20/8
+C. 5/8
+D. 21/8
+E. 11/4
+
+==================================================
+
+Soal 18:
+Nilai dari (2013 – 2015 + 2018 – 2019) + (2015 – 2010 + 2019 – 2018) adalah ....
+A. 5
+B. 3
+C. 2
+D. 8
+E. 6
+
+==================================================
+
+Soal 19:
+Manakah nilai berikut yang terkecil?
+A. 20 % dari 4
+B. 9 % dari 7
+C. 30 % dari 2
+D. 7 % dari 7
+E. 8 % dari 6
+
+==================================================
+
+Soal 20:
+Nilai dari 0,5 + (0,9 × 0,3) + 0,7 adalah ....
+A. 0,112
+B. 0,945
+C. 0,147
+D. 1,120
+E. 1,470
+
+==================================================
+
+Soal 21:
+Dua puluh delapan adalah p% dari 70, maka p sama dengan ....
+A. 35
+B. 15
+C. 30
+D. 20
+E. 40
+
+==================================================
+
+Soal 22:
+Jika suatu pekerjaan memfotokopi dikerjakan dengan mesin I,II atau III
+saja, maka pekerjaan tersebut akan selesai dalam waktu berturut-turut 16
+menit, 32 menit, atau 32 menit. Jika ketiga mesin digunakan bersama-sama
+selama 6 menit, maka pekerjaan tersebut selesai ....
+A. 0,4 bagian
+B. 0,6 bagian
+C. 0,75 bagian
+D. 0,3 bagian
+E. 0,15 bagian
+
+==================================================
+
+Soal 23:
+..., 25, 54, 20, 58, 15, 62, ... , 66
+A. 38 dan 8
+B. 44 dan 14
+C. 50 dan 10
+D. 45 dan 16
+E. 49 dan 18
+
+==================================================
+
+Soal 24:
+12, 26, 54, ... , 7, 15, 31, ...
+A. 96 dan 50
+B. 94 dan 57
+C. 86 dan 53
+D. 110 dan 63
+E. 98 dan 42
+
+==================================================
+
+Soal 25:
+..., 4, 9, 19, 39, 79, 159, 319, 639
+A. 1
+B. 2,45
+C. 1,5
+D. 2
+E. 1,55
+
+==================================================
+
+Soal 26:
+164, 157, 160, 80, 73, 76, 38, ...
+A. 31
+B. 45
+C. 41
+D. 35
+E. 40
+
+==================================================
+
+Soal 27:
+Diketahui panjang AB=25cm, BC=13cm, EF=10cm dan FG=21cm. Selisih
+daerah yang berwarna gelap dari persegi panjang ABCD dan AEFG adalah
+....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_27_img1.png)
+A. 130 cm²
+B. 142 cm²
+C. 102 cm²
+D. 124 cm²
+E. 115 cm²
+
+==================================================
+
+Soal 28:
+Panjang FD=9cm, AB=2CF, CD=2AB, maka panjang CD sama dengan ....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_28_img1.png)
+A. 11 cm
+B. 10 cm
+C. 8 cm
+D. 9 cm
+E. 12 cm
+
+==================================================
+
+Soal 29:
+Perbandingan keliling bidang berwarna gelap dengan keliling bidang ABCD
+adalah...
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_29_img1.png)
+A. 5 : 6
+B. 2 : 3
+C. 10 : 12
+D. 11 : 12
+E. 1 : 2
+
+==================================================
+
+Soal 30:
+Jika luas persegi besar 64 cm², maka keliling lingkarannya adalah ....
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_30_img1.png)
+A. 4π  cm
+B. 32π cm
+C. 16π cm
+D. 64π cm
+E. 8π cm
+
+==================================================
+
+Soal 31:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_31_img1.png)
+A. A
+B. C
+C. E
+D. B
+E. D
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_32_img1.png)
+A. D
+B. C
+C. E
+D. B
+E. A
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_33_img1.png)
+A. A
+B. B
+C. E
+D. C
+E. D
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_34_img1.png)
+A. C
+B. D
+C. B
+D. E
+E. A
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_236/soal_35_img1.png)
+A. E
+B. C
+C. D
+D. B
+E. A
+
+==================================================
+

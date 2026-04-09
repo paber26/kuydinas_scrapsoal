@@ -1,0 +1,400 @@
+Soal 1:
+GANDUH = ...
+A. Penggadaian
+B. Perdagangan
+C. Barter
+D. Tukar tambah
+E. Penukaran Barang
+
+==================================================
+
+Soal 2:
+PASIK x ...
+A. Baik
+B. Salah
+C. Jahat
+D. Buruk
+E. Benar
+
+==================================================
+
+Soal 3:
+KUNYIT : KUNING = KESUMBA : ...
+A. Jingga
+B. Hitam
+C. Biru
+D. Hijau
+E. Merah
+
+==================================================
+
+Soal 4:
+..... : GIGI = IGA : .....
+A. Liur : Darah
+B. Geraham : Tulang
+C. Gusi : Tulang
+D. Putih : Merah
+E. Mulut : Dada
+
+==================================================
+
+Soal 5:
+Bacalah paragraf berikut!
+Keliru apabila muncul pandangan bahwa Indonesia kini anti asing. Pesan
+kepada perbankan nasional agar berupaya keras supaya bank asing tidak
+sampai mendominasi perbankan di Indonesia, semata demi daya dorong
+sektor riil perekonomian nasional. Sektor riil penting berkaitan penciptaan
+lapangan kerja dan pasokan produk domestik. Kehadiran pihak asing
+terutama investor asing tidak bisa dinisbikan. Investor asing termasuk yang
+datang dengan modal segar ke sektor perbankan, manufaktur, infrastruktur,
+jelas diperlukan apabila kemampuan itu tidak dimiliki di dalam negeri.
+Ide pokok dari paragraf di atas adalah...
+A. Indonesia butuh banyak investor dalam negeri
+B. Dana asing menggerakkan sektor riil
+C. Indonesia sangat bergantung pihak asing
+D. Perbankan nasional membutuhkan dana segar dari pihak asing
+E. Indonesia tidak anti asing
+
+==================================================
+
+Soal 6:
+(0,4% x 0,5%) / (0,1% x 0,2% x 0,3%)
+A. 3333,3
+B. 3333,333
+C. 3,333333
+D. 333,3333
+E. 33,33333
+
+==================================================
+
+Soal 7:
+Jika 1/a - 1/b = 7 dan 1/a + 1/b = 3, maka nilai 1/a2 - 1/b2 = .....
+A. 10
+B. 40
+C. 4
+D. 21
+E. 7
+
+==================================================
+
+Soal 8:
+Diketahui x= (2^5 x 2^4 x 2^3)^1/2 dan y=3^?8^2, maka ...
+A. x = y3
+B. x = y3-3
+C. x = 3/y
+D. x = y/3
+E. x = 3y
+
+==================================================
+
+Soal 9:
+Dalam suatu instansi, 50 pegawai honorer dapat mengerjakan sebuah
+pekerjaan selama 4 jam, dan 30 pegawai tetap dapat menyelesaikan
+pekerjaan tersebut dalam jangka waktu 4 1/2 jam. Berapa bagiankah
+pekerjaan yang dapat diselesaikan oleh 10 orang pegawai magang, dan 15
+orang pegawai tetap selama 1 jam?
+A. 26/143 bagian
+B. 29/180 bagian
+C. 1/5 bagian
+D. 1/9 bagian
+E. 39/121 bagian
+
+==================================================
+
+Soal 10:
+Sebuah tandon air berbentuk tabung dengan ukuran tinggi 200 cm dan
+diameter alas 100 cm. Berapa literkah jumlah air yang dapat ditampung
+dalam tandon tersebut?
+A. 2210 L
+B. 1670 L
+C. 2000 L
+D. 1570 L
+E. 1770 L
+
+==================================================
+
+Soal 11:
+Nauvan Candra melakukan perjalanan dari kota X ke kota Y untuk
+menghadiri sebuah acara pernikahan temannya. Apabila Nauvan Candra
+memacu mobilnya dengan kecepatan 80 Km/Jam, maka ia akan terlambat 1
+jam; tetapi jika ia memacu mobilnya menggunakan laju 120 Km/Jam ia
+akan datang lebih awal 1 jam. Berapakah jarak antara kota X dan Y?
+A. 240 Km – 360 Km
+B. 480 Km
+C. Kurang dari 240 Km
+D. Tidak dapat ditentukan
+E. 360 Km – 480 Km
+
+==================================================
+
+Soal 12:
+Perhatikan gambar di bawah ini. Persegi tersebut mempunyai panjang sisi:
+28 Cm. Tentukan perbandingan luas antara lingkaran dengan persegi!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_229/soal_12_img1.png)
+A. π : 3
+B. 4 : π
+C. π : 4
+D. π : 2
+E. 3 : π
+
+==================================================
+
+Soal 13:
+Seorang pesulap memasukkan sebuah kubus dengan panjang sisi: S ke
+dalam sebuah bola sepak dengan kondisi semua titik sudut kubus tersebut
+menyentuh permukaan dalam bola. Berapakah volume bola tersebut?
+A. ½ 2?3 ? S^3
+B. 3/4?3 ? S^3
+C. 3/2?3 ? S^3
+D. 4/3?3 ? S^3
+E. 2/3?3 ? S^3
+
+==================================================
+
+Soal 14:
+Sebuah limas segiempat beraturan dengan alas berbentuk persegi,
+mempunyai volume 486 cm³. Tinggi limas sama dengan dua kali panjang
+rusuk alas. Tentukan panjang rusuk tegak limas tersebut!
+A. 37/2?2
+B. 27/2?2
+C. 17?2
+D. 27?2
+E. 17/2?2
+
+==================================================
+
+Soal 15:
+6, 13, 27, 55, 111, ... , …
+A. 222, 333
+B. 224, 447
+C. 223, 334
+D. 223, 447
+E. 222, 444
+
+==================================================
+
+Soal 16:
+5, 7, 50, 49, 500,343, …
+A. 2.401
+B. 843
+C. 1.000
+D. 3.500
+E. 5.000
+
+==================================================
+
+Soal 17:
+A, B, C, E, H, …, ...
+A. K, N
+B. N, T
+C. M, U
+D. N, U
+E. M, T
+
+==================================================
+
+Soal 18:
+V, D, T, G, R, J, …, ...
+A. P, N
+B. Q, M
+C. O, M
+D. P, M
+E. Q, N
+
+==================================================
+
+Soal 19:
+Untuk soal nomor 19 – 22, gunakan informasi di bawah ini:
+Yusta berlari lebih cepat daripada Afid. Halima berlari lebih cepat daripada
+Lina. Widi berlari lebih lambat daripada Afid. Tidak ada seorangpun yang
+berlari dengan kecepatan sama.
+Jika Halima berlari lebih cepat daripada Yusta, maka ......
+A. Afid berlari lebih cepat daripada Yusta
+B. Widi berlari lebih cepat daripada Lina
+C. Lina berlari lebih cepat daripada Afid
+D. Yusta berlari paling cepat
+E. Halima berlari lebih cepat daripada Afid
+
+==================================================
+
+Soal 20:
+Jika Lina berlari tidak lebih lambat dari Afid, maka ......
+A. Lina berlari lebih cepat daripada Widi
+B. Yusta berlari lebih cepat daripada Lina
+C. Lina berlari lebih cepat daripada Yusta
+D. Widi berlari tidak lebih lambat daripada Lina
+E. Afid akan tertinggal jauh di belakang
+
+==================================================
+
+Soal 21:
+Jika Halima berlari lebih lambat daripada Yusta, maka anak yang berlari
+paling cepat adalah ......
+A. Yusta
+B. Afid
+C. Lina
+D. Widi
+E. Tidak dapat ditentukan
+
+==================================================
+
+Soal 22:
+Jika Widi berlari lebih cepat daripada Halima, maka ......
+A. Lina berlari paling lambat
+B. Hanya Jawaban C saja yang benar
+C. Lina berlari lebih cepat daripada Yusta
+D. Jawaban A dan C benar
+E. Yusta berlari paling cepat
+
+==================================================
+
+Soal 23:
+Semua siswa pandai bernyanyi. Sebagian siswa pandai bermain gitar.
+Sebagian anak yang bermain gitar juga memainkan harmonika. Maka ...
+A. Siswa yang pandai bermain gitar tentu pandai bernyanyi
+B. Siswa yang pandai meniup harmonika belum tentu pandai bernyanyi
+C. Semua siswa pandai bernyanyi, bermain gitar, dan meniup harmonika
+D. Semua jawaban salah
+E. Siswa yang pandai bernyanyi tentu dapat bermain harmonika
+
+==================================================
+
+Soal 24:
+Semua Balita minum susu. Sebagian balita sudah makan nasi. Maka, ...
+A. Semua balita minum susu dan sudah makan nasi
+B. Balita yang sudah makan nasi harus minum susu
+C. Balita yang minum susu biasanya sudah makan nasi
+D. Sebagian balita minum susu dan sudah makan nasi
+E. Sebagian balita belum minum susu dan sudah makan nasi
+
+==================================================
+
+Soal 25:
+Setiap pagi Ayah makan bubur. Setiap makan bubur, Ayah minum kopi.
+Maka, ...
+A. Ayah tidak pernah minum teh
+B. Ayah hanya makan bubur dan minum teh
+C. Ayah sangat suka makan bubur
+D. Ayah minum kopi setiap pagi
+E. Ayah selalu makan bubur dan minum kopi
+
+==================================================
+
+Soal 26:
+Dari 60 siswa diketahui bahwa 37 orang diantaranya menyukai buah, 19
+orang menyukai sayuran, dan X orang tidak menyukai keduanya. Berapa
+banyak siswa yang menyukai keduanya?
+A. X + 6
+B. X - 4
+C. X + 4
+D. X - 10
+E. X - 6
+
+==================================================
+
+Soal 27:
+Di dalam suatu pertemuan, terdapat 47 peserta rapat. Berapa banyak jabat
+tangan yang terjadi dalam pertemuan tersebut jika setiap orang saling
+bersalaman?
+A. 1.081
+B. 1.249
+C. 981
+D. 728
+E. 1.128
+
+==================================================
+
+Soal 28:
+Keluarga Bapak Kertawidjaya akan melakukan foto bersama di studio foto.
+Bapak Kertawidjaya mempunyai 2 orang anak. Mereka semua akan berfoto
+secara berdampingan. Peluang foto Bapak Kertawidjaya dan istri selalu
+berdampingan adalah ......
+A. 2/1
+B. ½
+C. 1/3
+D. ¼
+E. 2/3
+
+==================================================
+
+Soal 29:
+Enam pekerja kantoran masing-masing memiliki sejumlah uang tertentu.
+Jika uang yang dimiliki oleh setiap dua orang dari mereka dijumlahkan,
+besarnya adalah (dalam ribuan) 230, 246, 194, 186, 300, 240, 190, 340, 178,
+400, 200, 212, 234, 250, 280. Jumlah uang keenam pekerja kantoran tersebut
+adalah …
+A. 673
+B. 700
+C. 736
+D. 770
+E. 600
+
+==================================================
+
+Soal 30:
+Pada saat awal diamati, 8 virus jenis tertentu setiap 24 jam membelah diri
+menjadi 2. Jika setiap 96 jam, seperempat dari seluruh virus dibunuh,
+berapakah jumlah virus pada hari keenam?
+A. 128
+B. 212
+C. 192
+D. 72
+E. 96
+
+==================================================
+
+Soal 31:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_229/soal_31_img1.png)
+A. D
+B. E
+C. A
+D. C
+E. B
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_229/soal_32_img1.png)
+A. B
+B. E
+C. D
+D. A
+E. C
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_229/soal_33_img1.png)
+A. B
+B. D
+C. E
+D. C
+E. A
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_229/soal_34_img1.png)
+A. A
+B. D
+C. C
+D. E
+E. B
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_229/soal_35_img1.png)
+A. D
+B. A
+C. B
+D. C
+E. E
+
+==================================================
+

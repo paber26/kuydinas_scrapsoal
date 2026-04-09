@@ -1,0 +1,356 @@
+Soal 1:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_141/soal_1_img1.png)
+A. a < b
+B. a = b
+C. 2x > 2y
+D. a dan b tidak dapat ditentukan
+E. a > b
+
+==================================================
+
+Soal 2:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_141/soal_2_img1.png)
+A. 2x > 2y
+B. x < y
+C. x = y
+D. x dan y tidak bisa ditentukan
+E. x > y
+
+==================================================
+
+Soal 3:
+Jika a = 4, b = 3, x = 3(4a-b), dan y = 4(3b-a) maka ...
+A. x dan y tidak bisa ditentukan
+B. 2x > 2y
+C. x > y
+D. x < y
+E. x = y
+
+==================================================
+
+Soal 4:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_141/soal_4_img1.png)
+A. A
+B. E
+C. B
+D. D
+E. C
+
+==================================================
+
+Soal 5:
+Jika x = 6,5643 x 0,0005 + 100,352 x 0,0004 dan y = 1,2 maka ...
+A. x dan y tidak bisa ditentukan
+B. x > y
+C. x = y
+D. x < y
+E. 2x > 2y
+
+==================================================
+
+Soal 6:
+Diketahui jarak antara kota A dan B adalah 60 km. Jika x = lama waktu tempuh dengan kecepatan 60 km/jam dan y  = lama waktu tempuh dengan kecepatan 15m/s maka ...
+A. x < y
+B. x > y
+C. 2x > 2y
+D. x dan y tidak bisa ditentukan
+E. x = y
+
+==================================================
+
+Soal 7:
+Jika x = berat total 5 kotak dengan masing-masing kotak memiliki berat 10 pon dan y = berat 50 kotak dengan masing-masing kotak beratnya 5 ons maka ...
+A. x < y
+B. x = y
+C. x > y
+D. x dan y tidak bisa ditentukan
+E. 2x > 2y
+
+==================================================
+
+Soal 8:
+Jika x = harga 50 kg semen dan y = harga 10 kg beras maka ...
+A. 2x > 2y
+B. x > y
+C. x < y
+D. x dan y tidak bisa ditentukan
+E. x = y
+
+==================================================
+
+Soal 9:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_141/soal_9_img1.png)
+A. x = y
+B. x dan y tidak bisa ditentukan
+C. x < y
+D. x > y
+E. 2x > 2y
+
+==================================================
+
+Soal 10:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_141/soal_10_img1.png)
+A. 2x > 2y
+B. x > y
+C. x = y
+D. x < y
+E. x dan y tidak bisa ditentukan
+
+==================================================
+
+Soal 11:
+Jika x = jumlah bilangan genap antara 1 sampai 30 dan y = jumlah bilangan ganjil antara 1 sampai 30, maka ...
+A. 2x > 2y
+B. x < y
+C. x dan y tidak bisa ditentukan
+D. x > y
+E. x = y
+
+==================================================
+
+Soal 12:
+Jika x = 16,67% dan y = 2/12 maka ...
+A. 2x > 2y
+B. x dan y tidak bisa ditentukan
+C. x < y
+D. x > y
+E. x = y
+
+==================================================
+
+Soal 13:
+Jika x = harga cetak/print 5 buku 160 halaman dengan harga Rp100/lembar dan y = harga cetak/print 20 buku 60 halaman dengan harga RP80/lembar maka ...
+A. x < y
+B. x > y
+C. x dan y tidak bisa ditentukan
+D. x = y
+E. 2x > 2y
+
+==================================================
+
+Soal 14:
+Jika x menyatakan bilangan 55,4% dari 0,99 dan y menyatakan bilangan 9,9% dari 5,54 maka ...
+A. x < y
+B. x > y
+C. 2x > 2y
+D. x = y
+E. x dan y tidak bisa ditentukan
+
+==================================================
+
+Soal 15:
+Jika x = 1/13 + 1/14 dan y = 1/15 = 1/16 maka ...
+A. x < y
+B. 2x  lebih kecil atau sama dengan  2y
+C. x = y
+D. x > y
+E. x dan y tidak bisa ditentukan
+
+==================================================
+
+Soal 16:
+Kereta api dari Jakarta ke Semarang ada 4, sedangkan dari Semarang ke Madiun ada 3. Jika Ruly ingin pergi ke Madiun dari Jakarta melewai Semarang dengan kereta api, ada berapa cara yang dapat ia lakukan?
+A. 12
+B. 7
+C. 8
+D. 22
+E. 6
+
+==================================================
+
+Soal 17:
+Untuk dapat bepergian ke Makassar, seseorang dari Cilacap harus ke Jakarta naik bus, kemudian dari Jakarta ke Makassar naik pesawat. Jika dari CIlacap ke Jakarta ada 6 bus, sedangkan dari Jakarta ke Makassar ada 4 pesawat maka berapa perjalanan Cilacap-Jakarta pergi pulang dan tidak boleh menggunakan kendaraan yang sama?
+A. 200
+B. 360
+C. 240
+D. 160
+E. 400
+
+==================================================
+
+Soal 18:
+Banyaknya bilangan ratusan lebih dari 200 yang dapat dibentuk dari angka 0 sampai 5 dengan catatan tidak boleh ada angka yang muncul 2 kali (contoh 221) adalah ...
+A. 120 bilangan
+B. 100 bilangan
+C. 140 bilangan
+D. 80 bilangan
+E. 160 bilangan
+
+==================================================
+
+Soal 19:
+Dalam suatu pesta banyak tamu yang hadir adalah 30 orang. Jika para tamu saling bersalaman maka banyaknya salaman yang terjadi adalah ...
+A. 196
+B. 420
+C. 435
+D. 270
+E. 360
+
+==================================================
+
+Soal 20:
+Dalam pelemparan sebuah dadu, peluang muncul mata dadu genap adalah ...
+A. 1/3
+B. 1/6
+C. 1/2
+D. 1/4
+E. 2/3
+
+==================================================
+
+Soal 21:
+Seorang pedagang menjual motor dengan harga Rp.15.400.000. Jika pedagang memperoleh untung 10% berapakah harga beli motor tersebut?
+A. Rp13.860.000
+B. Rp13.000.000
+C. Rp14.000.000
+D. Rp16.940.000
+E. Rp12.000.000
+
+==================================================
+
+Soal 22:
+Roni memiliki penghasilan sebesar 2 juta rupiah per bulan. Penghasilan tidak kena pajak adalah 1 juta. Jika pajak penghasilan adalah 12% maka penghasilan bersih roni adalah ...
+A. 1.880.000
+B. 1.840.000
+C. 1.920.000
+D. 1.800.000
+E. 1.760.000
+
+==================================================
+
+Soal 23:
+Alfin meminjam uang di bank sebesar Rp1.000.000 dengan bunga 16% per tahun. Jika Alfin mengansur selama 6 bulan, besar angsuran adalah ...
+A. 170.000
+B. 200.000
+C. 220.000
+D. 180.000
+E. 175.000
+
+==================================================
+
+Soal 24:
+Sella dan Broto mendaftar sebagai peserta asuransi dengan besar premi sama. Jika untuk membayar premi gaji Sella sebesar 3 juta dipotong 4% dan gaji Broto dipotong 6% maka gaji Broto adalah ...
+A. Rp1.800.000
+B. Rp2.500.000
+C. Rp2.000.000
+D. Rp2.700.000
+E. Rp2.400.000
+
+==================================================
+
+Soal 25:
+Seorang petani membeli beberapa ekor sapi dengan harga Rp45.000.000 kemudian menjualnya dengan harga Rp52.000.000. Petani tersebut mendapatkan untung Rp700.000 per ekor. Berapa ekor sapikah yang dibeli dan dijualnya?
+A. 7
+B. 8
+C. 9
+D. 11
+E. 10
+
+==================================================
+
+Soal 26:
+Seseorang bersepeda motor dengan kecepatan tetap menempuh jarak 20 km dalam waktu 30 menit. Berapa jam waktu yang ia perlukan untuk menempuh jarak 140 km?
+A. 2
+B. 2,5
+C. 3
+D. 3,5
+E. 4
+
+==================================================
+
+Soal 27:
+Satu tim yang terdiri atas 16 orang dapat menyelesaikan sebuah pekerjaan dalam 9 hari. Bila 4 orang dari tim tersebut tidak dapat bekerja kaarena sakit, berapa persen penambahan hari untuk menyelesaikan pekerjaan tersebut?
+A. 33,33%
+B. 12,5%
+C. 40%
+D. 60%
+E. 25%
+
+==================================================
+
+Soal 28:
+Seorang pedagang buah berbelanja buah-buahan di pasar Induk. harga rata-rata buah mangga, nangka, apel, jeruk, melon, semangka, duku, rambutan, kelengkeng, salaak dan nanas adalah Rp525.000 per kuintal. Ia menambahkan durian sehingga rata-ratanya menjadi Rp526.000 per kuintal. Berapakah harga durian itu?
+A. Rp537.000
+B. Rp513.000
+C. Rp533.000
+D. Rp532.000
+E. Rp531.000
+
+==================================================
+
+Soal 29:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_141/soal_29_img1.png)
+A. 6
+B. 4
+C. 7
+D. 8
+E. 5
+
+==================================================
+
+Soal 30:
+Dalam suatu kelas perbandingan antara siswa perempuan dan laki-laki adalah 4 : 3. Jika selisih jumlah siswa perempuan dan laki=laki adalah 6 maka banyaknya siswa dalam kelas tersebut adalah ...
+A. 42
+B. 36
+C. 48
+D. 40
+E. 45
+
+==================================================
+
+Soal 31:
+Rata-rata dari 2125, 2135, 2145, 2155, 2165, 2175, 2185 dan 2195 adalah ...
+A. 2155,50
+B. 2160,50
+C. 2160
+D. 2165
+E. 2155
+
+==================================================
+
+Soal 32:
+Tarif parkir mobil  untuk 2 jam pertama adalah Rp3.000 dan tarif selanjutnya adalah Rp4.000 per jam. Jika parkir selama 5 jam maka yang harus dibayar adalah ...
+A. Rp9.000
+B. Rp12.000
+C. Rp8.000
+D. Rp6.000
+E. RP15.000
+
+==================================================
+
+Soal 33:
+Jika rata-rata dari 4, 5, x, dan y adalah 5 maka rata-rata dari 7, 8, 9, x dan y adalah ...
+A. 5
+B. 5,6
+C. 4,6
+D. 7
+E. 6
+
+==================================================
+
+Soal 34:
+Jika suatu kolam diisi air melalui keran A, B atau C saja, kolam tersebut akan penuh dalam waktu berturut-turut 2 jam, 90 menit, atau 1 jam. Jika ketiga keran digunakan bersama-sama selama 20 menit maka kolam tersebut terisi ...
+A. 0,6 bagian
+B. 0,48 bagian
+C. 0,56 bagian
+D. 0,72 bagian
+E. 0,96 bagian
+
+==================================================
+
+Soal 35:
+Pak Ali mengolah 8,75 kuintal stroberi menjadi selesai. Hasil selainya setelah ditimbang diperoleh 750 kg. banyaknya stroberi yang menyusut adalah ...
+A. 14%
+B. 20%
+C. 25%
+D. 12,5%
+E. 27,5%
+
+==================================================
+

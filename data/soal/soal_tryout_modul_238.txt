@@ -1,0 +1,400 @@
+Soal 1:
+FIKTIF = .....
+A. Realita
+B. Friksi
+C. Argumentatif
+D. Imajinatif
+E. Prosa
+
+==================================================
+
+Soal 2:
+NEGOSIASI = .....
+A. Perundingan
+B. Perencanaan
+C. Kesepakatan
+D. Perbincangan
+E. Penawaran
+
+==================================================
+
+Soal 3:
+KAPABEL >< ...
+A. Pandai
+B. Ceroboh
+C. Rajin
+D. Bodoh
+E. Mahir
+
+==================================================
+
+Soal 4:
+GENTAR >< ...
+A. Ragu
+B. Takut
+C. Maju
+D. Berani
+E. Tantang
+
+==================================================
+
+Soal 5:
+KARDIOLOGI : JANTUNG = ... : ...
+A. Teknologi : Teknisi
+B. Phatologi : Peta
+C. Farmakologi : Obat-obatan
+D. Akuntansi : Manajemen
+E. Biologi : Ilmu
+
+==================================================
+
+Soal 6:
+ACEH : SERAMBI MEKAH = ... : ...
+A. Madonna : Seksi
+B. Obama : Presiden
+C. Jakarta : DKI
+D. Mike Tyson : Si leher beton
+E. Bandung : Padjajaran
+
+==================================================
+
+Soal 7:
+Hasil kali 3 bilangan bulat berurutan adalah 210, maka jumlah dari dua
+bilangan terkecil adalah?
+A. 13
+B. 14
+C. 15
+D. 11
+E. 12
+
+==================================================
+
+Soal 8:
+31,3² - 31,2² = ...
+A. 6
+B. 37,44
+C. 30,64
+D. 30,54
+E. 6,25
+
+==================================================
+
+Soal 9:
+Pak Waris memiliki sebidang tanah dimana 2/5 bagian tanah dibangun
+menjadi gudang, 1/4 bagian dijadikan kolam ikan, dan sisanya dijadikan
+pekarangan bunga. Jika luas pekarangan bunga adalah 112 m2, berapa m2
+luas keseluruhan tanah Pak Waris?
+A. 336
+B. 450
+C. 320
+D. 480
+E. 280
+
+==================================================
+
+Soal 10:
+Manakah bilangan pecahan di bawah ini yang lebih besar dari 1/3 ?
+A. 16/45
+B. 23/100
+C. 71/214
+D. 51/154
+E. 20/61
+
+==================================================
+
+Soal 11:
+Jika perbandingan 2x – y terhadap x + y adalah 3/4 , maka perbandingan x
+terhadap y adalah…
+A. 3 : 4
+B. 5 : 7
+C. 7 : 5
+D. 4 : 5
+E. 5 : 4
+
+==================================================
+
+Soal 12:
+Apabila suatu pekerjaan diselesaikan oleh 16 orang dalam 4 hari, berapa
+orang tambahan yang dibutuhkan untuk menyelesaikan pekerjaan tersebut
+hanya dengan 1 hari?
+A. 28
+B. 64
+C. 50
+D. 48
+E. 30
+
+==================================================
+
+Soal 13:
+Seseorang membuat bak penampungan air sementara dengan ukuran
+panjang 130 cm, lebar 90 cm, dan kedalaman 70 cm. apabila tebal bak beton
+tersebut adalah 5 cm, berapa literkah volume bak penampungan tersebut
+bila airnya penuh?
+A. 672 liter
+B. 624 liter
+C. 576 liter
+D. 442 liter
+E. 819 liter
+
+==================================================
+
+Soal 14:
+Arkeolog mengatakan bahwa 2 peti koin emas yang ditemukannya berumur
+9 abad 11 dasawarsa; dan 3,25 windu 2 lustrum. Berapa tahunkah
+sebenarnya umur koin-koin tersebut?
+A. 1046
+B. 1366
+C. 956
+D. 1166
+E. 1276
+
+==================================================
+
+Soal 15:
+Sebuah drum berbentuk silinder yang berdiameter 50 cm diisi minyak tanah.
+Ketika terisi penuh, volume nya adalah 19.625 cm³. Setelah minyak tanah
+diambil sebagian, volumenya menjadi 7.850 cm³. Berapa ketinggian minyak
+tanah yang berkurang? (
+π
+=3,14)
+A. 12 cm
+B. 6 cm
+C. 10 cm
+D. 5 cm
+E. 7 cm
+
+==================================================
+
+Soal 16:
+Luas permukaan setengah bola pejal yang memiliki diameter 60 cm adalah?
+(
+π
+= 3,14)
+A. 4.120 cm²
+B. 3.800 cm²
+C. 3.978 cm²
+D. 3.980 cm²
+E. 3.798 cm²
+
+==================================================
+
+Soal 17:
+Berapakah panjang EF?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_238/soal_17_img1.png)
+A. 11 cm
+B. 13 cm
+C. 10 cm
+D. 14 cm
+E. 12 cm
+
+==================================================
+
+Soal 18:
+Ada berapa pasang segitiga yang sebangun dalam segitiga besar ini jika AB
+= BC = AC ?
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_238/soal_18_img1.png)
+A. 8 pasang
+B. 5 pasang
+C. 3 pasang
+D. 4 pasang
+E. 6 pasang
+
+==================================================
+
+Soal 19:
+4096, 1024, 256, 64, 16, 4, …
+A. ½
+B. ¾
+C. ¼
+D. 2
+E. 1
+
+==================================================
+
+Soal 20:
+Jumlah 7 suku pertama deret 4,14, 24, 34 … adalah …
+A. 238
+B. 228
+C. 258
+D. 248
+E. 268
+
+==================================================
+
+Soal 21:
+Jumlah angka ganjil antara 28 sampai 40 adalah …
+A. 212
+B. 203
+C. 202
+D. 204
+E. 205
+
+==================================================
+
+Soal 22:
+Bacaan untuk soal 22-24
+Sally, Sherly, Laura, Tomi, dan Sandy masing-masing mengambil permen
+dari sebuah mangkok. Pertama, empat anak mengambil permen rasa susu.
+Kemudian Sherly dan Tomi tidak mengambil permen rasa coklat seperti
+yang dilakukan anak lainnya. Sherly hanya mengambil satu permen, yaitu
+permen rasa anggur. Setelah itu, selain Sherly hanya Sally dan Sandy yang
+tidak mengambil permen rasa kopi.
+Siapakah yang mengambil satu buah permen rasa kopi dan satu buah
+permen rasa susu?
+A. Sandy
+B. Sherly
+C. Tomi
+D. Laura
+E. Sally
+
+==================================================
+
+Soal 23:
+Siapa yang mengambil tiga permen?
+A. Sherly
+B. Laura
+C. Sally
+D. Tomi
+E. Sandy
+
+==================================================
+
+Soal 24:
+Siapa dua orang yang mengambil permen dengan jumlah dan rasa yang
+sama?
+A. Laura dan Tomi
+B. Sally dan Laura
+C. Sandi dan Laura
+D. Sandy dan Sally
+E. Tomi dan Sandy
+
+==================================================
+
+Soal 25:
+Suatu fungsi f yang dirumuskan dengan f(x) = ax + b diketahui bahwa f(1) =
+5 dan f(–3) = 11. Nilai a dan b berturut-turut adalah...
+A. 1 dan -4
+B. 4 dan -1
+C. -4 dan 1
+D. 4 dan 1
+E. 1 dan 4
+
+==================================================
+
+Soal 26:
+Penderita flu maupun batuk yang berobat ke klinik A sebanyak 66 orang, 25
+orang menderita flu, dan 15 orang flu juga batuk. Banyak penderita yang
+hanya menderita batuk adalah . . .
+A. 25
+B. 56
+C. 35
+D. 15
+E. 66
+
+==================================================
+
+Soal 27:
+Dalam sebuah kotak berisi kertas yang bertuliskan huruf-huruf dari A
+sampai Z. Setiap kali pengambilan, kertas yang terpilih dimasukkan kembali
+ke kotaknya. Dari 130 pengambilan, berapa frekuensi harapan terambilnya
+huruf vokal?
+A. 20
+B. 25
+C. 15
+D. 23
+E. 18
+
+==================================================
+
+Soal 28:
+Peluang munculnya 2 buah dadu yang memiliki jumlah 5 apabila dilempar
+sebanyak 450 kali adalah…
+A. 66,67 kali
+B. 33,33 kali
+C. 90 kali
+D. 83,33 kali
+E. 50 kali
+
+==================================================
+
+Soal 29:
+Ingkaran dari pernyataan “ Jika Tawang mendapat nilai 10 maka ia diberi
+hadiah berupa rekreasi menyelam ” adalah ...
+A. Jika Tawang tidak menyelam maka ia mendapat nilai 9.
+B. Jika Tawang rekreasi, maka ia mendapat nilai 10.
+C. Tawang mendapat nilai lebih dari 9 dan ia sedang menyelam.
+D. Jika Tawang mendapat nilai 9, maka ia tidak dapat rekreasi.
+E. Tawang mendapat nilai 10 tetapi ia tidak rekreasi.
+
+==================================================
+
+Soal 30:
+Diketahui pernyataan :
+Premis 1 : “Jika harga bahan bakar naik, maka ongkos angkutan naik”.
+Premis 2 : “Jika harga kebutuhan pokok tidak naik, maka ongkos angkutan
+tidak naik”.
+Bila kedua pernyataan itu bernilai benar, maka kesimpulan yang dapat
+diambil adalah ...
+A. Jika harga bahan bakar naik maka harga kebutuhan pokok naik
+B. Jika ongkos angkutan tidak naik maka harga kebutuhan pokok naik
+C. Jika ongkos naik, harga bahan bakar naik
+D. Jika ongkos angkutan naik maka harga kebutuhan pokok naik
+E. Jika harga bahan bakar tidak naik maka harga kebutuhan pokok tidak naik
+
+==================================================
+
+Soal 31:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_238/soal_31_img1.png)
+A. A
+B. B
+C. D
+D. E
+E. C
+
+==================================================
+
+Soal 32:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_238/soal_32_img1.png)
+A. B
+B. C
+C. A
+D. D
+E. E
+
+==================================================
+
+Soal 33:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_238/soal_33_img1.png)
+A. E
+B. D
+C. B
+D. A
+E. C
+
+==================================================
+
+Soal 34:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_238/soal_34_img1.png)
+A. C
+B. E
+C. D
+D. A
+E. B
+
+==================================================
+
+Soal 35:
+Jawablah pertanyaan berikut!
+(arahkan gambar ke folder penyimpanan gambar: gambar_modul_238/soal_35_img1.png)
+A. C
+B. B
+C. D
+D. A
+E. E
+
+==================================================
+

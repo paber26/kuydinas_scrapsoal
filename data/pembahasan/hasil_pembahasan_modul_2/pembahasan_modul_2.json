@@ -1,0 +1,417 @@
+[
+    {
+        "nomor": 1,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 1\nTidak dijawab\nCERUK = _______",
+        "pilihan": [
+            "Pusat",
+            "Simpang",
+            "Tanda",
+            "Lekuk",
+            "Poros"
+        ],
+        "jawaban_benar": "Lekuk",
+        "pembahasan": "Ceruk = liang (lubang, lekuk) yang masuk ke dinding (tembok, tanah, dsb); gua (di gunung); ruang berpetak-petak (dalam lemari); sudut (pojok, pelosok), di dapur (kamar, rumah, dsb); rongga (di sela-sela timbunan barang, dsb)."
+    },
+    {
+        "nomor": 2,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 2\nTidak dijawab\nKLARIFIKASI = _______",
+        "pilihan": [
+            "Pengaturan",
+            "Penentuan",
+            "Penegasan",
+            "Penjelasan",
+            "Pemeriksaan"
+        ],
+        "jawaban_benar": "Penjelasan",
+        "pembahasan": "Klarifikasi = berasal dari kata asing yang memiliki arti menjelaskan;\nmenjernihkan; membeningkan terhadap sesuatu yang belum tentu kebenarannya."
+    },
+    {
+        "nomor": 3,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 3\nTidak dijawab\nDEPENDENSI = _______",
+        "pilihan": [
+            "Subsidi",
+            "Swadaya",
+            "Mandiri",
+            "Tergantung",
+            "Sendiri"
+        ],
+        "jawaban_benar": "Tergantung",
+        "pembahasan": "Dependensi = berasal dari kata asing ketergantungan; keadaan tergantung pada orang lain ; belum dapat hidup mandiri; keadaan dijajah; keadaan tidak merdeka; di bawah kekuasaan atau pengaruh negara lain."
+    },
+    {
+        "nomor": 4,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 4\nTidak dijawab\nKASAR > < _______",
+        "pilihan": [
+            "Halus",
+            "Rata",
+            "Lembut",
+            "Gradasi",
+            "Lemah"
+        ],
+        "jawaban_benar": "Halus",
+        "pembahasan": "Kasar = (1) tidak rata (permukaan), tidak halus; (2) kesap, kesat; (3) tidak baik buatannya, gabas; (4) tidak lemah lembut (tentang tingkah laku); (5) dapat diraba (dilihat dari). Jadi, lawannya adalah halus."
+    },
+    {
+        "nomor": 5,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 5\nTidak dijawab\nREAKSI > < _______",
+        "pilihan": [
+            "Penarikan",
+            "Penggabungan",
+            "Daya Tarik",
+            "Daya Tolak",
+            "Penolakan"
+        ],
+        "jawaban_benar": "Daya Tolak",
+        "pembahasan": "Reaksi = (1) daya tarik; (2) tenaga tarik;, jadi lawannya adalah daya tolak."
+    },
+    {
+        "nomor": 6,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 6\nTidak dijawab\nGETAR > < _______",
+        "pilihan": [
+            "Ragu",
+            "Takut",
+            "Berani",
+            "Tantang",
+            "Was-was"
+        ],
+        "jawaban_benar": "Berani",
+        "pembahasan": "Gentar = ragu-ragu atau takut, jadi lawannya adalah berani"
+    },
+    {
+        "nomor": 7,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 7\nTidak dijawab\nBAIT : PUISI = _______ : _______",
+        "pilihan": [
+            "Bendera : Lagu Kebangsaan",
+            "Loteng : Bangunan",
+            "Sajak : Prosa",
+            "Hiasan Dinding : Lukisan",
+            "Sapu Tangan : Air Mata"
+        ],
+        "jawaban_benar": "Loteng : Bangunan",
+        "pembahasan": "Bait bagian dari puisi, loteng bagian dari bangunan"
+    },
+    {
+        "nomor": 8,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 8\nTidak dijawab\nMENCURI : MENYESAL = _______ : _______",
+        "pilihan": [
+            "Mencontek : Menghukum",
+            "Menanam : Menyiang",
+            "Memandikan : Menyelimuti",
+            "Menyakiti : Menangis",
+            "Mencuci : Menjahit"
+        ],
+        "jawaban_benar": "Menanam : Menyiang",
+        "pembahasan": "Setelah mencuri kita menyesal, setelah menanam kita menyiang."
+    },
+    {
+        "nomor": 9,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 9\nTidak dijawab\nINTENSITAS : FREKUENSI = _______ : _______",
+        "pilihan": [
+            "Jauh : Jarak",
+            "Hadiah : Pengabdian",
+            ". Hak : Kewajiban",
+            "Penghargaan : Penghormatan",
+            "Panas : Suhu"
+        ],
+        "jawaban_benar": "Penghargaan : Penghormatan",
+        "pembahasan": "Intensitas dan frekuensi hampir sama, demikian juga dengan penghargaan dan penghormatan."
+    },
+    {
+        "nomor": 10,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 10\nTidak dijawab\nBAWANG : SIUNG = _______ : _______",
+        "pilihan": [
+            "Buku : Lembar",
+            "Pakaian : Kodi",
+            "Telur : Butir",
+            "Kain : Meter",
+            "Berat : Gram"
+        ],
+        "jawaban_benar": "Telur : Butir",
+        "pembahasan": "Bawang dihitung dengan siung, demikian juga telur dihitung dengan butir."
+    },
+    {
+        "nomor": 11,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 11\nTidak dijawab\n3 5 9 15 15 25 21 --- ---",
+        "pilihan": [
+            "35 dan 23",
+            "35 dan 27",
+            "45 dan 23",
+            "45 dan 27",
+            "35 dan 45"
+        ],
+        "jawaban_benar": "35 dan 23",
+        "pembahasan": "3 5 9 15 15 25 21 35 27\nAngka yang urutan genap ditambah 10 dan yang ganjil ditambah 6,\nmaka 10 + 25 = 35 dan 21 + 6 = 27."
+    },
+    {
+        "nomor": 12,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 12\nTidak dijawab\n. 243 81 27 9 3 1 --- ---",
+        "pilihan": [
+            "1/2",
+            "1/3",
+            "1/4",
+            "1/6",
+            "3/4"
+        ],
+        "jawaban_benar": "1/6",
+        "pembahasan": "243 81 27 9 3 1 1/3\nTiap suku dibagi 3 untuk mendapatkan angka berikutnya, sehingga jawabannya adalah 1 : 3 = 1/3."
+    },
+    {
+        "nomor": 13,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 13\nTidak dijawab\nD, E, E, F, F, G, … …",
+        "pilihan": [
+            "H dan I",
+            "G dan G",
+            "G dan H",
+            "G dan I",
+            "H dan H"
+        ],
+        "jawaban_benar": "H dan H",
+        "pembahasan": "D E E F F G G H H\n4 5 5 6 6 7 7 8 8\nPola 2 tingkat dapat diselesaikan seperti diatas."
+    },
+    {
+        "nomor": 14,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 14\nTidak dijawab\nAda 3 jenis tiket yang tersedia untuk sebuah pertunjukan musik: VIP Rp. 25.000;\nkelas I Rp. 12.000; dan kelas II Rp. 9.000. Dalam pertunjukan tersebut , sejumlah\nP tiket kelas I, B tiket kelas II, dan R tiket kelas VIP berhasil terjual. Dari pilihan\ndibawah ini, manakah yang menunjukkan presentase hasil penjualan tiket kelas I?",
+        "pilihan": [
+            "100 x [P/(P + B + R)]",
+            "100 x [12P/(12P + 9B +25R)]",
+            "12P/(12P + 9B + 25R)",
+            "100 x [(9B + 25R)/(12P + 9B + 25R)]",
+            "100 x 12P[(12P + 9B + 25R)]"
+        ],
+        "jawaban_benar": "12P/(12P + 9B + 25R)",
+        "pembahasan": "Penjualan tiket kelas I\n= 12.000P/(12.000 + 9.000B + 25.000R)\n= 12P/(12P + 9B + 25R)"
+    },
+    {
+        "nomor": 15,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 15\nTidak dijawab\nSelusin telur dan 5 kg sawo pada saat ini harganya sama. Jika harga satu lusin\ntelur naik 20% dan harga sawo naik 2%, berapakah tambahan uang yang\ndiperlukan untuk membeli satu lusin telur dan 5 kg sawo?",
+        "pilihan": [
+            "10%",
+            "11%",
+            "12%"
+        ],
+        "jawaban_benar": "11%",
+        "pembahasan": "Misal:\nHarga 1 lusin telur = harga 5 kg sawo = 100%\nJadi harga campuran antara telur dan sawo = 100% + 100% = 200%\nSetelah dinaikkan, harga campuran menjadi:\n= (100% + 20%) + (100% + 2%)\n= 120% + 102%\n= 222%\nJadi, untuk membeli 1 lusin telur dan 5 kg sawo setelah dinaikkan, diperlukan uang tambahan sebesar \n= (harga campura setelah dinaikkan - harga campuran)/2\n= (222% - 202%)/2 = 11%"
+    },
+    {
+        "nomor": 16,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 16\nTidak dijawab\nPerbandingan (rasio) antara pegawai laki-laki dan perempuan dalam sebuah\nkantor adalah 8:7. Diantara berikut ini, manakah yang tidak mungkin merupakan\njumlah pegawai di kantor tersebut?",
+        "pilihan": [
+            "15 orang",
+            "75 orang",
+            "85 orang",
+            "90 orang",
+            "105 orang"
+        ],
+        "jawaban_benar": "85 orang",
+        "pembahasan": "Jumlah pegawai yang mungkin adalah yang bisa dibagi dengan jumlah\nperbandingan (8 + 7 = 15)."
+    },
+    {
+        "nomor": 17,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 17\nTidak dijawab\nDion membeli 20 kg beras jenis A seharga Rp 6.000,00/kg dan 30 kg beras jenis B dengan harga Rp 4.000,00/kg. Kedua jenis beras tersebut kemudian dicampur. Agar Dion mendapat untung 4%, maka beras tersebut dijual seharga…/kg.",
+        "pilihan": [
+            "Rp 4.992,00",
+            "Rp 5.720,00",
+            "Rp 5.992,00",
+            "Rp 6.720,00",
+            "Rp 6.992,00"
+        ],
+        "jawaban_benar": "Rp 4.992,00",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 18,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 18\nTidak dijawab\nJika X adalah luas persegi yang sisinya 48 cm dan Y adalah luas lingkaran yang\nmempunyai diameter 56 cm, maka …",
+        "pilihan": [
+            "X > Y",
+            "X < Y",
+            "X = Y",
+            "Hubungan X dan Y tidak dapat ditentukan",
+            "X tidak sama dengan Y"
+        ],
+        "jawaban_benar": "X < Y",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 19,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 19\nTidak dijawab\nSalah satu sudut pada segitiga siku-siku adalah 45. Hubungan antara panjang alas dan tinggi segitiga tersebut adalah …",
+        "pilihan": [
+            "Alas < tinggi",
+            "Alas > tinggi",
+            "Alas = tinggi",
+            "Hubungan antara alas dan tinggi tidak dapat ditentukan",
+            "Alas tidak sama dengan tinggi"
+        ],
+        "jawaban_benar": "Alas = tinggi",
+        "pembahasan": "Segitiga mempunyai sudut 90o , 45o , 45o\nMaka, alas = tinggi"
+    },
+    {
+        "nomor": 20,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 20\nTidak dijawab\nJika rata-rata x, y dan 30 adalah 10, maka rata-rata x dan y adalah …",
+        "pilihan": [
+            "0",
+            "7 1/2"
+        ],
+        "jawaban_benar": "0",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 21,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 21\nTidak dijawab\nJika x = rata-rata dari 5n, 3n dan 7, y = rata-rata dari 2n, 6n dan 9, maka …",
+        "pilihan": [
+            "x = y",
+            "x > y",
+            "x < y",
+            "Hubungan x dan y tidak dapat ditentukan",
+            "x = xy"
+        ],
+        "jawaban_benar": "x < y",
+        "pembahasan": "Misalkan jika koefisien n diganti 1, maka x = 5, y = 5,67, sehingga x < y"
+    },
+    {
+        "nomor": 22,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 22\nTidak dijawab\nSebuah pabrik memiliki tiga buah mesin X, Y dan Z yang digunakan untuk\nmembuat lampu neon. Jika ketiganya bekerja, dihasilkan 249 lampu per hari. Jika\nX dan Y bekerja, tetapi Z tidak, dihasilkan 159 lampu per hari, Jika Y dan Z\nbekerja, tetapi X tidak, dihasilkan 147 lampu per hari. Produksi harian mesin Z\nadalah …",
+        "pilihan": [
+            "90 lampu",
+            "84 lampu",
+            "73 lampu",
+            "62 lampu",
+            "60 lampu"
+        ],
+        "jawaban_benar": "90 lampu",
+        "pembahasan": ""
+    },
+    {
+        "nomor": 23,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 23\nTidak dijawab\nJarak Yogyakarta - Klaten di peta adalah 6 cm. Skala yang dipergunakan di peta\nitu adalah 1 : 700.000. Niko bersepeda dari Yogyakarta ke Klaten dengan\nkecepatan 36 km/jam. Bila Niko berangkat pada pukul 06.00, pukul berapa Niko\ntiba di Klaten?",
+        "pilihan": [
+            "07.00",
+            "07.10",
+            "07.30",
+            "08.00",
+            "08.10"
+        ],
+        "jawaban_benar": "07.10",
+        "pembahasan": "Jarak Yogyakarta - Klaten (s)\n= 6 x 700.000\n= 4.200.000\n= 42 km\nKecepatan Niko (v) = 36 km/jam\nWaktu tempuh Niko (t) = s: v\n= 42 : 36 = 1 1/6 jam atau 1 jam 10 menit\nTiba = pukul 07.10"
+    },
+    {
+        "nomor": 24,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 24\nTidak dijawab\n4. Suatu kelas terdiri atas 48 anak. Dari seluruh anak yang mengikuti kegiatan\nekstrakulikuler, tercatat 20 anak mengikuti ekstra kesenian, 25 anak ekstra\nolahraga, 5 anak mengikuti ekstra kesenian dan pramuka, 6 anak mengikuti ekstra\nolahraga dan pramuka, sedangkan 4 anak ekstra kesenian, olahraga dan pramuka.\nJumlah anak yang mengikuti kegiatan ekstrakulikuler adalah …",
+        "pilihan": [
+            "48 anak",
+            "45 anak",
+            "40 anak",
+            "43 anak",
+            "42 anak"
+        ],
+        "jawaban_benar": "40 anak",
+        "pembahasan": "Diketahui:\nn (s) = 48 n(k n o) = 10\nn (k) = 20 n(k n p) = 5\nn (o) = 25 n(o n p) = 6\nn (p) = 12 n(k n o n p) = 4\nx = jumlah anak ikut ekstrakulikuler?\nSolusi:\nx = n(k) + n(o) + n(p) - n(k n o) - n(k n p) - n(o n p) + n(k n o n p)\n= 20 + 25 + 12 - 10 - 5 - 6 +4\n= 40"
+    },
+    {
+        "nomor": 25,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 25\nTidak dijawab\nDari 60 anak, diketahui bahwa 37 orang diantaranya menyukai sayuran, 19 orang\nmenyukai ikan, dan x orang tidak menyukai keduanya. Berapa orang anak yang\nmenyukai sayuran dan ikan?",
+        "pilihan": [
+            "x + 4",
+            "x - 4",
+            "x -56",
+            "x + 56",
+            "x + 65"
+        ],
+        "jawaban_benar": "x - 4",
+        "pembahasan": "n(S) = 60\nn(A) = 37\nn(B) = 19\nn(A U B) = x\nn(S) - n(A U B) = n(A) + n(B) - n(A n B)\n60 - x = 37 + 19 - n(A n B)\nn(A n B) = x +56 - 60 = x - 4"
+    },
+    {
+        "nomor": 26,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 26\nTidak dijawab\nSetiap siswa peserta kesenian adalah peserta bela diri atau renang.\nTidak ada peserta bela diri ata renang yang bukan peserta melukis.\nInda bukan peserta melukis.",
+        "pilihan": [
+            "Inda adalah bukan peserta bela diri maupun kesenian.",
+            "Inda adalah peserta melukis dan bukan peserta kesenian.",
+            "Inda adalah bukan peserta kesenian, tetapi peserta renang.",
+            "Inda adalah peserta renang dan bukan peserta melukis",
+            "Inda adalah bukan peserta kesenian tetapi peserta bela diri."
+        ],
+        "jawaban_benar": "Inda adalah bukan peserta bela diri maupun kesenian.",
+        "pembahasan": "Kesenian → Bela diri/ Renang\nBela diri/ Renang → melukis.\nKarena Inda bukan peserta melukis, maka Inda bukan peserta Beladiri, renang\nmaupun kesenian"
+    },
+    {
+        "nomor": 27,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 27\nTidak dijawab\nAnggota yang memiliki anak lebih dari tiga orang menerima piagam dan hadiah.\nDedo menerima piagam organisasi, tetapi tidak menerima hadiah.",
+        "pilihan": [
+            "Dedo adalah anggota organisasi yang anaknya kurang dari tiga orang",
+            "Dedo adalah anggota organisasi yang anaknya lebih dari tiga orang",
+            "Dedo adalah anggota organisasi yang berhak menerima hadiah",
+            "Dedo adalah bukan anggota organisasi yang berhak menerima hadiah",
+            "Dedo adalah bukan anggota yang anaknya lebih dari tiga orang"
+        ],
+        "jawaban_benar": "Dedo adalah anggota organisasi yang anaknya kurang dari tiga orang",
+        "pembahasan": "Seseorang disebut anggota yang memiliki anak lebih dari tiga orang ada 2, yaitu\nmenerima piagam dan hadiah. Jika hanya menerima salah satu saja, maka dia\nbukanlah anggota yang memiliki anak lebih dari tiga orang.\nCatatan:\nPredikat dari premis ini adalah jumlah anaknya, bukan anggota. Jadi, Dedo tetap\nmerupakan anggota, tetapi jumlah ankanya kurang dari tiga orang."
+    },
+    {
+        "nomor": 28,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 28\nTidak dijawab\nSemua supir bus sering mengemudikan kendaraannya dengan kecepatan tinggi.\nSebagian sopir bus yang sering mengemudikan kendaraannya dengan kecepatan\ntinggi, tidak pernah mengantuk saat mengemudi",
+        "pilihan": [
+            "Semua yang tidak pernah mengemudikan mobilnya dengan kecepatan tinggi bukan sopir bus",
+            "Semua yang tidak pernah mengantuk saat mengemudikan kendaraannya bukan sopir bus",
+            "Semua sopir bus tidak pernah mengantuk dan mengemudikan kendaraannya",
+            "Sebagian sopir bus pernah mengantuk saat mengemudikan kendaraannya",
+            "Sebagian sopir bus mengantuk saat mengemudikan kendaraanya dengan kecepatan tinggi."
+        ],
+        "jawaban_benar": "Sebagian sopir bus pernah mengantuk saat mengemudikan kendaraannya",
+        "pembahasan": "Sebagian sopir bus tidak pernah mengantuk saat mengemudi, artinya sebagian\nsopir bus yang lain pernah mengantuk saat mengemudikan kendaraannya."
+    },
+    {
+        "nomor": 29,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 29\nTidak dijawab\nDi Yayasan galuh, jumlah pasien usia remaja justru mendominasi, mulai dari\nremaja putus sekolah, remaja yang masih sekolah, remaja yang tidak diurus\nkeluarga, hingga remaja yang memiliki obsesi tinggi, tetapi tidak kesampaian.\nKalimat inti dari kalimat luas tersebut adalah …",
+        "pilihan": [
+            "Jumlah pasien usia remaja mendominasi",
+            "Pasien usia remaja memiliki obsesi tinggi",
+            "Obsesi remaja tidak kesampaian",
+            "Yayasan Galuh didominasikan oleh berbagai masalah remaja",
+            "Mulai remaja putus sekolah sampai remaja obsesi tinggi ada di Yayasan Galuh."
+        ],
+        "jawaban_benar": "Jumlah pasien usia remaja mendominasi",
+        "pembahasan": "Kalimat inti = S + P + O\nDi Yayasan Galuh / jumlah pasien remaja\n         K                                         S\n/ justru mendominasi / mulai …\n        P                              K"
+    },
+    {
+        "nomor": 30,
+        "sub_modul": "Sesuai Halaman (TWK/TIU/TKP)",
+        "pertanyaan": "Pertanyaan 30\nTidak dijawab\nOtak manusia ibarat pisau. Otak manusia yang cerdas tidak akan berprestasi tinggi\nbila tidak belajar dan berlatih. Otak manusia yang IQ-nya sedang-sedang saja\nakan mendapat prestasi gemilang bila belajar terus-menerus. Demikian pula\ndengan pisau, sebilah pisau yang tajam akan menjadi tumpul bila tidak diasah.\nSebaliknya, sebilah pisau yang tumpul akan tajam bila diasah terus-menerus.\nDengan demikian, bila kita ingin berprestasi, hendaklah seperti pisau yang diasah\nterus.\nHal yang dianalogikan dalam paragraf di atas adalah …",
+        "pilihan": [
+            "Prestasi dan pisau",
+            "Otak manusia dengan pisau",
+            "Berlatih dengan diasah",
+            "Manusia dengan pisau",
+            "Kepandaian dengan ketajaman"
+        ],
+        "jawaban_benar": "Otak manusia dengan pisau",
+        "pembahasan": "Analogi yaitu membandingkan dua sifat paragraf tersebut, antara otak manusia\ndan pisau."
+    }
+]
