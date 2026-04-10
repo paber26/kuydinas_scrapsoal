@@ -61,9 +61,9 @@ async function run() {
   console.log("Logged in successfully!");
 
   const modulesToProcess = [
-    { id: 381, category: "TWK" },
-    { id: 382, category: "TIU" },
-    { id: 383, category: "TKP" },
+    { id: 390, category: "TWK" },
+    { id: 391, category: "TIU" },
+    { id: 392, category: "TKP" },
   ];
 
   for (const mod of modulesToProcess) {

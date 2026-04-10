@@ -28,7 +28,8 @@ https://smartcasn.com/result/1173898 skd 34 27 (366 twk, 367 tiu dan 368 tkp) 28
 https://smartcasn.com/result/1173906 skd 35 28 (359 twk, 360 tiu dan 361 tkp) https://smartcasn.com/test/module/288
 https://smartcasn.com/result/1173913 skd 36 29 (375 twk, 376 tiu dan 377 tkp) https://smartcasn.com/test/module/289
 https://smartcasn.com/result/1173735 SKD 37 30 (378 twk, 379 tiu dan 380 tkp) https://smartcasn.com/test/module/290 (mulai dari sini seharusnya sudah berurutan nomor soal setiap paketnya)
-https://smartcasn.com/result/1173938 SKD 37 31 (381 twk, 382 tiu dan 383 tkp) https://smartcasn.com/test/module/291
-
-https://smartcasn.com/result/1173747 skd 34 28 (372 twk, 373 tiu dan 374 tkp) 28
+https://smartcasn.com/result/1173938 SKD 38 31 (381 twk, 382 tiu dan 383 tkp) https://smartcasn.com/test/module/291
+https://smartcasn.com/result/1174077 SKD 38 32 (393 twk, 394 tiu dan 395 tkp) https://smartcasn.com/test/module/292
+https://smartcasn.com/result/1174084 SKD 39 33 (405 twk, 406 tiu dan 407 tkp) https://smartcasn.com/test/module/293
+https://smartcasn.com/result/1174143 SKD 40 34 (390 twk, 391 tiu dan 392 tkp) https://smartcasn.com/test/module/294
 ls

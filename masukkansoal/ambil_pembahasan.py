@@ -85,7 +85,7 @@ def process_html_with_images(html_content, prefix_name, folder_path):
     return soup.get_text(separator='\n', strip=True)
 
 
-for target_modul in range(375,378):
+for target_modul in range(400,450):
     MODUL_ID = str(target_modul)
     target_url = f"https://smartcasn.com/result/{ATTEMPT_ID}/{MODUL_ID}"
     
@@ -101,7 +101,7 @@ for target_modul in range(375,378):
     
     # Struktur Folder Utama
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    base_data_dir = os.path.abspath(os.path.join(script_dir, "../../data/pembahasan"))
+    base_data_dir = os.path.join(script_dir, "data/pembahasan")
     folder_utama = os.path.join(base_data_dir, f"hasil_pembahasan_modul_{MODUL_ID}")
     if not os.path.exists(folder_utama):
         os.makedirs(folder_utama)
