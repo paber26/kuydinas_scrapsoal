@@ -3,6 +3,6 @@ __pycache__/
 node_modules/
 .DS_Store
 *.log
-# data/
+data/
 # Including JSON data is optional, I'll ignore it as it's large and derived from scraper.
 # If you want it, I can remove this.
