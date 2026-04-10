@@ -31,3 +31,4 @@ https://smartcasn.com/result/1173735 SKD 37 30 (378 twk, 379 tiu dan 380 tkp) ht
 https://smartcasn.com/result/1173938 SKD 37 31 (381 twk, 382 tiu dan 383 tkp) https://smartcasn.com/test/module/291
 
 https://smartcasn.com/result/1173747 skd 34 28 (372 twk, 373 tiu dan 374 tkp) 28
+ls
