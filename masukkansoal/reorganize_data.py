@@ -41,10 +41,9 @@ def reorganize(base_path, pattern):
             print(f"Could not find module number in: {item}")
 
 if __name__ == "__main__":
-    base_dir = r"D:\KuyDinas2026\masukkansoal\data"
+    # Get absolute path based on script location
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.join(script_dir, "data", "pembahasan")
     
-    # Reorganize 'soal'
-    reorganize(os.path.join(base_dir, "soal"), r"soal_tryout_modul_(\d+)")
-    
-    # Reorganize 'pembahasan'
-    reorganize(os.path.join(base_dir, "pembahasan"), r"modul_(\d+)")
+    # Reorganize pembahasan files
+    reorganize(base_dir, r"modul_(\d+)")
